@@ -1,16 +1,17 @@
 name: Alertas noticias Colombia
 
-# Cuándo corre
+# GitHub no cumple los horarios frecuentes, así que en vez de pedirle que arranque
+# el trabajo cada pocos minutos, lo disparamos pocas veces al día y hacemos que cada
+# ejecución se quede VIVA ~3h50 revisando por su cuenta cada 10 minutos. Así la
+# vigilancia es casi continua aunque GitHub retrase los disparos.
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 15 minutos (hora UTC; el intervalo es igual en cualquier zona)
-  workflow_dispatch:          # permite dispararlo a mano desde la pestaña "Actions" para probar
+    - cron: "0 */4 * * *"    # 6 disparos al día (cada uno cubre ~4 horas)
+  workflow_dispatch:          # permite dispararlo a mano desde "Actions" para probar
 
-# Permiso para que el workflow pueda guardar el archivo de estado en el repo
 permissions:
   contents: write
 
-# Evita que dos ejecuciones se pisen si una se demora
 concurrency:
   group: alertas
   cancel-in-progress: false
@@ -18,6 +19,7 @@ concurrency:
 jobs:
   alertas:
     runs-on: ubuntu-latest
+    timeout-minutes: 350       # tope de seguridad (el bucle dura menos)
     steps:
       - name: Descargar el repositorio
         uses: actions/checkout@v4
@@ -30,17 +32,20 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Ejecutar el script de alertas
+      - name: Revisar noticias cada 10 min durante ~3h50
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_TOKEN:     ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python alertas_colombia.py
-
-      - name: Guardar el estado (para no repetir alertas)
         run: |
           git config user.name  "alertas-bot"
           git config user.email "alertas-bot@users.noreply.github.com"
-          git add alertas_estado.json
-          git commit -m "Actualiza estado de alertas" || echo "Sin cambios que guardar"
-          git push || echo "Nada que subir"
+          fin=$((SECONDS + 13800))   # ~3 horas 50 minutos de vigilancia por ejecución
+          while [ $SECONDS -lt $fin ]; do
+            python alertas_colombia.py || true
+            # guarda el estado tras cada ronda para no repetir alertas
+            git add alertas_estado.json 2>/dev/null || true
+            git commit -m "Actualiza estado de alertas" 2>/dev/null || true
+            git push 2>/dev/null || true
+            sleep 600   # espera 10 minutos y vuelve a revisar
+          done
