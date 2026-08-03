@@ -59,8 +59,8 @@ FEEDS = {
     "Infobae Colombia": "https://www.infobae.com/colombia/feeds/rss/",
 }
 
-WINDOW_MINUTES = 60      # solo se consideran titulares de la última hora
-THRESHOLD      = 4       # cuántos MEDIOS distintos deben tocar un tema para alertar
+WINDOW_MINUTES = 90      # solo se consideran titulares de la última hora
+THRESHOLD      = 3       # cuántos MEDIOS distintos deben tocar un tema para alertar
                          # (baja a 3 para más sensibilidad; sube a 5 para menos ruido)
 STATE_FILE     = "alertas_estado.json"   # para no repetir alertas ya enviadas
 CLAUDE_MODEL   = "claude-haiku-4-5-20251001"   # el modelo barato; agrupa de sobra
