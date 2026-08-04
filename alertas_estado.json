@@ -204,6 +204,16 @@
       "clave": "bloques_seguridad_urbana_delespriella",
       "resumen": "Presidente electo De la Espriella lanza Bloques de Seguridad Urbana para coordinar alcaldes, Policía y Gobierno contra el crimen",
       "ts": 1785875284.135408
+    },
+    {
+      "clave": "fiscalia_dilian_toro_papapitufo",
+      "resumen": "Fiscalía inadmite denuncia contra gobernadora del Valle Dilian Francisca Toro por supuestos nexos con alias Papá Pitufo",
+      "ts": 1785877131.1217892
+    },
+    {
+      "clave": "banco_bogota_itau_fallas",
+      "resumen": "Banco de Bogotá reporta fallas tras completar migración de clientes de Itaú",
+      "ts": 1785877131.7203953
     }
   ]
 }
