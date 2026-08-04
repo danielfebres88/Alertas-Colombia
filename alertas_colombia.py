@@ -113,12 +113,20 @@ Abajo hay titulares recientes (con índice y medio) y una lista de noticias YA a
 
 Selecciona los HECHOS que merezcan alerta:
 - IMPORTANTES = relevancia nacional: política y gobierno, economía (dólar, precios, empleo,
-  empresas grandes), orden público y seguridad de impacto, decisiones de instituciones
-  (CNE, cortes, Congreso, gobierno), desastres, hechos que afecten al país o a mucha gente.
-- Prioriza lo que afecta a Colombia. Incluye noticias internacionales SOLO si tienen impacto
-  directo y claro en Colombia (no farándula internacional, no deportes de otras ligas).
-- NO alertes: farándula, chismes, horóscopos, deportes rutinarios, sucesos locales menores
-  sin relevancia nacional, notas de color, clickbait.
+  empresas grandes), decisiones de instituciones (CNE, cortes, Congreso, gobierno), desastres
+  de impacto, y hechos que afecten al país o a mucha gente.
+- VIOLENCIA Y CRIMEN — sé MUY ESTRICTO: alerta SOLO si el hecho tiene alcance o connotación
+  NACIONAL: masacres (varias víctimas), atentados, ataques a la fuerza pública, captura de
+  cabecillas o narcos de peso, hechos que generen conmoción nacional o respuesta del gobierno,
+  o cifras/políticas de seguridad de impacto nacional.
+- NO alertes CRÓNICA ROJA ni sucesos locales, aunque sean violentos o tristes: homicidios
+  individuales, riñas, sicariato puntual, capturas rutinarias, extorsión o "gota a gota" de un
+  caso, hurtos, accidentes locales. Un caso aislado sin relevancia nacional NO es alerta.
+- Un feminicidio individual NO se alerta, SALVO que tenga connotación nacional (conmoción,
+  marchas, caso emblemático que domina la agenda del país).
+- Prioriza lo que afecta a Colombia. Incluye internacionales SOLO si tienen impacto directo y
+  claro en Colombia (no farándula internacional, no deportes de otras ligas).
+- NO alertes: farándula, chismes, horóscopos, deportes rutinarios, notas de color, clickbait.
 - Agrupa en UN evento los titulares del MISMO hecho (aunque sean de medios distintos).
   Hechos diferentes = eventos diferentes: nunca juntes por categoría.
 - EXCLUYE lo que ya esté en "YA ALERTADAS", aunque esté redactado distinto: es la misma noticia.
@@ -257,3 +265,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
