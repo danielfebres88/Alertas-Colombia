@@ -214,6 +214,11 @@
       "clave": "banco_bogota_itau_fallas",
       "resumen": "Banco de Bogotá reporta fallas tras completar migración de clientes de Itaú",
       "ts": 1785877131.7203953
+    },
+    {
+      "clave": "metro_medellin_recursos",
+      "resumen": "Metro de Medellín consigue nuevos recursos en el mercado financiero para modernizar sus trenes",
+      "ts": 1785877745.6972234
     }
   ]
 }
