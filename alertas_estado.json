@@ -199,6 +199,11 @@
       "clave": "barrera_director_policia",
       "resumen": "General (r) Jesús Alejandro Barrera será el nuevo director de la Policía Nacional, anuncia el presidente electo De la Espriella",
       "ts": 1785874050.0651984
+    },
+    {
+      "clave": "bloques_seguridad_urbana_delespriella",
+      "resumen": "Presidente electo De la Espriella lanza Bloques de Seguridad Urbana para coordinar alcaldes, Policía y Gobierno contra el crimen",
+      "ts": 1785875284.135408
     }
   ]
 }
