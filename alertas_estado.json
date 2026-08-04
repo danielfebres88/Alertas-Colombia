@@ -1,10 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Contraloría advierte desfinanciación en el Presupuesto General de la Nación y riesgos para las regalías",
-      "ts": 1785817251.2398512
-    },
-    {
       "resumen": "Juez ordena captura inmediata de José David Celis, expareja presunto feminicida de Laura Valentina Lozano",
       "ts": 1785819087.8871322
     },
@@ -112,6 +108,26 @@
       "clave": "petro_fraude_electoral",
       "resumen": "Expresidente Petro insiste en denuncias de fraude electoral, menciona 7 millones de votos adicionales",
       "ts": 1785860284.0337312
+    },
+    {
+      "clave": "exportaciones_junio_caida_cafe_flores",
+      "resumen": "Exportaciones crecieron 7% en junio, pero cayeron ventas de café y flores",
+      "ts": 1785860901.4984202
+    },
+    {
+      "clave": "subsidios_diesel_electricidad_junio",
+      "resumen": "Gobierno subsidió $8.500 por galón de diésel y $1.000 de corriente a junio",
+      "ts": 1785860902.0962493
+    },
+    {
+      "clave": "fenalco_pequeños_comerciantes",
+      "resumen": "Fenalco y nuevo gobierno priorizan fortalecimiento de pequeños comerciantes",
+      "ts": 1785860902.7051842
+    },
+    {
+      "clave": "rtvc_posesion_presidencial",
+      "resumen": "RTVC no hará la producción de la posesión presidencial",
+      "ts": 1785860903.3664424
     }
   ]
 }
