@@ -1,10 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Dólar vuelve a los $3.200 tras recuperarse de pérdidas de dos semanas en un día",
-      "ts": 1785820923.7576308
-    },
-    {
       "resumen": "Dólar vuelve a los $3.200 tras borrar pérdidas de dos semanas en un día",
       "ts": 1785822146.5890918
     },
@@ -126,6 +122,11 @@
       "clave": "registraduria_corrupcion_monteria",
       "resumen": "Auxiliar de la Registraduría en Montería imputado por exigir $100 millones a candidata al Congreso",
       "ts": 1785862746.6407444
+    },
+    {
+      "clave": "ecopetrol_repunte",
+      "resumen": "Ecopetrol rompe racha de malos resultados con repunte en sus indicadores financieros",
+      "ts": 1785864586.1175404
     }
   ]
 }
