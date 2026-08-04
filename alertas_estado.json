@@ -128,6 +128,11 @@
       "clave": "rtvc_posesion_presidencial",
       "resumen": "RTVC no hará la producción de la posesión presidencial",
       "ts": 1785860903.3664424
+    },
+    {
+      "clave": "teniente_asesinado_cauca_eln",
+      "resumen": "Teniente del Ejército asesinado en operativo del Cauca que desmanteló laboratorio del Eln",
+      "ts": 1785861517.3285072
     }
   ]
 }
