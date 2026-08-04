@@ -1,14 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Dólar vuelve a los $3.200 tras borrar pérdidas de dos semanas en un día",
-      "ts": 1785822146.5890918
-    },
-    {
-      "resumen": "Gobierno y organizaciones unen esfuerzos para apoyar a Arauca y Casanare",
-      "ts": 1785822147.0865455
-    },
-    {
       "resumen": "Fiscalía revela detalles sobre nacimiento de bebé de María Camila Potosí durante investigación del feminicidio en Cali",
       "ts": 1785844913.4377453
     },
@@ -127,6 +119,36 @@
       "clave": "ecopetrol_repunte",
       "resumen": "Ecopetrol rompe racha de malos resultados con repunte en sus indicadores financieros",
       "ts": 1785864586.1175404
+    },
+    {
+      "clave": "mio_cali_flota_propia",
+      "resumen": "Cali aprueba millonario crédito para flota propia del MIO, reabriendo debate sobre modelo de concesión del transporte",
+      "ts": 1785865819.24862
+    },
+    {
+      "clave": "prohibicion_paseos_olla_fogatas",
+      "resumen": "Departamento colombiano prohibe temporalmente paseos de olla y fogatas con sanciones por riesgo de incendios",
+      "ts": 1785865819.8488247
+    },
+    {
+      "clave": "analdex_prioridades",
+      "resumen": "Analdex prioriza diversificación de oferta y apertura de mercados para exportadores",
+      "ts": 1785865820.4481032
+    },
+    {
+      "clave": "cumbre_seguridad_barranquilla",
+      "resumen": "Cumbre de seguridad del nuevo gobierno en Barranquilla recibe peticiones urgentes de las regiones",
+      "ts": 1785865821.1066244
+    },
+    {
+      "clave": "captura_vacuna_rionegro",
+      "resumen": "Capturado en Rionegro por cobrar vacuna y amenazar a menor de edad",
+      "ts": 1785865821.7123802
+    },
+    {
+      "clave": "paro_colegios_bogota",
+      "resumen": "Colegios de Bogotá sin clases el jueves 6 de agosto de 2026",
+      "ts": 1785865822.3690634
     }
   ]
 }
