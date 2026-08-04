@@ -179,6 +179,16 @@
       "clave": "jep_imputacion_27_exfarc",
       "resumen": "JEP imputa a 27 exFarc por crímenes no amnistiables y violencia de género",
       "ts": 1785870977.321425
+    },
+    {
+      "clave": "fiscalia_investigacion_gobernadores_regalias",
+      "resumen": "Fiscalía ordena investigar a 5 gobernadores por saqueo billonario a las regalías",
+      "ts": 1785872821.2314985
+    },
+    {
+      "clave": "policia_universidad_publica",
+      "resumen": "Policía Nacional creará universidad pública propia en Colombia",
+      "ts": 1785872821.83502
     }
   ]
 }
