@@ -1,10 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Juez ordena captura inmediata de José David Celis, expareja presunto feminicida de Laura Valentina Lozano",
-      "ts": 1785819087.8871322
-    },
-    {
       "resumen": "Ecopetrol reporta utilidades de $6,06 billones, las mejores en casi cuatro años",
       "ts": 1785820310.5463917
     },
@@ -133,6 +129,11 @@
       "clave": "teniente_asesinado_cauca_eln",
       "resumen": "Teniente del Ejército asesinado en operativo del Cauca que desmanteló laboratorio del Eln",
       "ts": 1785861517.3285072
+    },
+    {
+      "clave": "registraduria_corrupcion_monteria",
+      "resumen": "Auxiliar de la Registraduría en Montería imputado por exigir $100 millones a candidata al Congreso",
+      "ts": 1785862746.6407444
     }
   ]
 }
