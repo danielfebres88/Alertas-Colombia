@@ -1,10 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Petro denuncia fraude electoral digital durante elecciones en favor de De la Espriella",
-      "ts": 1785804400.2509875
-    },
-    {
       "resumen": "Investigan presunto maltrato infantil tras rescate de dos niños dormidos en ventana en Risaralda",
       "ts": 1785811748.3714783
     },
@@ -59,6 +55,10 @@
     {
       "resumen": "Banco de la República recibió ofertas por US$877,5 millones en primera subasta de compra de dólares",
       "ts": 1785846741.525217
+    },
+    {
+      "resumen": "Tribunal suspende intervención del Ministerio de Educación en Universidad del Atlántico y ordena restituir a Leyton Barrios como rector",
+      "ts": 1785847961.740352
     }
   ]
 }
