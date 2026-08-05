@@ -1,21 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "trm_impacto_exportaciones",
-      "resumen": "Caída del dólar reduce exportaciones: por cada $100 de revaluación del peso, las exportaciones colombianas caen US$400 millones",
-      "ts": 1785906833.4952757
-    },
-    {
-      "clave": "fenomeno_nino_diesel_demanda",
-      "resumen": "El Niño disparará la demanda de diésel en 30% durante el segundo semestre de 2026 en Colombia",
-      "ts": 1785906833.9596894
-    },
-    {
-      "clave": "predial_bogota_aumento",
-      "resumen": "Predial en Bogotá subirá con sobretasa de $29.000 para estratos 4, 5 y 6",
-      "ts": 1785906834.4269714
-    },
-    {
       "clave": "salud_crisis_transicion_gobierno",
       "resumen": "Sistema de salud en crisis: Petro entrega al gobierno De la Espriella un sector en cuidados intensivos",
       "ts": 1785911138.390861
@@ -189,6 +174,12 @@
       "resumen": "Equipo de De La Espriella revela hallazgos de corrupción en Gobierno Petro por más de $370.000 millones",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcUdvcm5PWVRrSWlSMDlJUXhyZ2p4OU9RVHcwUFFCM0RvYlE4bUd6Zlg1elJyTnlaRTJQS25XcXplYlZfZ0xuNC1MNTc3UTRmQktVMXB5M0tfZnI5aE8zS1NwNTNyU2NJQUc0ckh4SHdxelV0Y29YdmhCUU5lZm80dlJqRDlWVzByYlJ5Q3JMYWVPYkQyVlFieElvOGtTMWJKRHpIUWY3ckV5REhUVUpNYXZPdl9HWXUxOEJMbTZPMkRyamxGS3dhS0dPS2U4M3ZBLU9acXloekwySEJNVHNoOXJVNlZ6ZG51bUpKUmdRSVNIdDQ3NElhR3lPcmdTUdIBgwJBVV95cUxNSzFZZjc2bGZVZmxRdGlYTzh3ZmhFVGZmV0dxVjh2SXItNkFtdVlwaktSZzJ2WnBuZUdWY09tT05KcXcwR0xYeXJDX3pUc19EQkpDWm1wdGtZSFdhZjJST1pLdXpwR1A3WklvaUp4dkoxQllBM0Zqc0t2ZmVWbFFHWU1NZnU2UVphMGlBZUxzUEdORmZYaFpvTTlBTjA1OHZJN2hJZXBoS2FpUlZiT3RUS0oySHhtZnJrRmNpQVVGdjhSQ29Vb2V3aVRlX0VkQUd1UDI3Tl9EZzJDdEkwTHJvSkttVURKMS10RHp2QWhnYzV0ZEhOZG9hcUFWa09fOVN1eFBZ?oc=5",
       "ts": 1785948964.453275
+    },
+    {
+      "clave": "suboficial_ejercito_municion_explosivos",
+      "resumen": "Suboficial del Ejército vendía munición y explosivos a grupos armados",
+      "url": "https://www.minuto30.com/cae-suboficial-ejercito-venta-municion/1715229/",
+      "ts": 1785950194.5331051
     }
   ]
 }
