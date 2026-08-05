@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "mio_cali_flota_propia",
-      "resumen": "Cali aprueba millonario crédito para flota propia del MIO, reabriendo debate sobre modelo de concesión del transporte",
-      "ts": 1785865819.24862
-    },
-    {
-      "clave": "prohibicion_paseos_olla_fogatas",
-      "resumen": "Departamento colombiano prohibe temporalmente paseos de olla y fogatas con sanciones por riesgo de incendios",
-      "ts": 1785865819.8488247
-    },
-    {
-      "clave": "analdex_prioridades",
-      "resumen": "Analdex prioriza diversificación de oferta y apertura de mercados para exportadores",
-      "ts": 1785865820.4481032
-    },
-    {
-      "clave": "cumbre_seguridad_barranquilla",
-      "resumen": "Cumbre de seguridad del nuevo gobierno en Barranquilla recibe peticiones urgentes de las regiones",
-      "ts": 1785865821.1066244
-    },
-    {
-      "clave": "captura_vacuna_rionegro",
-      "resumen": "Capturado en Rionegro por cobrar vacuna y amenazar a menor de edad",
-      "ts": 1785865821.7123802
-    },
-    {
-      "clave": "paro_colegios_bogota",
-      "resumen": "Colegios de Bogotá sin clases el jueves 6 de agosto de 2026",
-      "ts": 1785865822.3690634
-    },
-    {
       "clave": "asesinatos_bucaramanga_julito",
       "resumen": "Tres familiares asesinados en Bucaramanga en presuntas retaliaciones del sicario alias 'Julito'",
       "ts": 1785866437.1283896
