@@ -104,6 +104,16 @@
       "clave": "explosivos_drones_segovia",
       "resumen": "Ofrecen recompensa por responsables de lanzar explosivos con drones a mina en Segovia, Antioquia",
       "ts": 1785938740.9811542
+    },
+    {
+      "clave": "petro_alerta_explosivos_cali",
+      "resumen": "Ministro de Defensa afirma que riesgos de explosivos en Cali están mitigados tras alerta del presidente Petro",
+      "ts": 1785939355.427172
+    },
+    {
+      "clave": "politica_culturas_campesinas",
+      "resumen": "Política Pública de Culturas Campesinas adoptada por Colombia por primera vez",
+      "ts": 1785939356.0546741
     }
   ]
 }
