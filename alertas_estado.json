@@ -94,6 +94,11 @@
       "clave": "predial_bogota_aumento",
       "resumen": "Predial en Bogotá subirá con sobretasa de $29.000 para estratos 4, 5 y 6",
       "ts": 1785906834.4269714
+    },
+    {
+      "clave": "salud_crisis_transicion_gobierno",
+      "resumen": "Sistema de salud en crisis: Petro entrega al gobierno De la Espriella un sector en cuidados intensivos",
+      "ts": 1785911138.390861
     }
   ]
 }
