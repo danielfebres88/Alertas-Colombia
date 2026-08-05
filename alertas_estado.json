@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ecopetrol_repunte",
-      "resumen": "Ecopetrol rompe racha de malos resultados con repunte en sus indicadores financieros",
-      "ts": 1785864586.1175404
-    },
-    {
       "clave": "mio_cali_flota_propia",
       "resumen": "Cali aprueba millonario crédito para flota propia del MIO, reabriendo debate sobre modelo de concesión del transporte",
       "ts": 1785865819.24862
