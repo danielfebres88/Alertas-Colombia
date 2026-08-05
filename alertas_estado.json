@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incautacion_cocaina_cartagena",
-      "resumen": "Policía incauta cerca de media tonelada de cocaína en el Puerto de Cartagena",
-      "ts": 1785904967.2373886
-    },
-    {
       "clave": "trm_impacto_exportaciones",
       "resumen": "Caída del dólar reduce exportaciones: por cada $100 de revaluación del peso, las exportaciones colombianas caen US$400 millones",
       "ts": 1785906833.4952757
@@ -164,6 +159,24 @@
       "resumen": "Juzgado administrativo admitió acción de cumplimiento contra Popayán",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVTBwYWotSUhaeG5sRHJ1TzdDbGVGVm9WM3VNdEJtQzhFNkhWcGszd2ZiVWQ2RDVyQWpOeVJiQ3JGNXExWXNBckxjcG1PdkJRSjRLMUpDbDJQOTUwWC1hUE54WXJFaXU1OWVnRTBJY3NCRmJaaUFZd0thNnlkbUlHNVNNekxicXdxUWRRckJBZW1ybGR3Ym9mYnYzRExqMDRfQmExdjk2clpMdkpwR1IwbERNNEdGTlRXdUJDdlFsakppcjZV0gHKAUFVX3lxTFBIOUo0U2UtYnVuY21YTlR2bG5Qb3JXMnk3Zl90ZzRBMDFqazhfR21JU00yQ1ZtTHp0WThPa25KUWJDWFdiWlBsQ3JJSjRZQVRRM042WFk1M3RBSm1lZ0FfOHJqZTJlSjU3bGRPV3g2NnRhSzRLRGJ3djFwdVJRZ3hKem5PTC1IWEhacmp3cHlXSS0ySEZvaC03c0JVTV83OGttT045TEFQM19yUmEzNmZ5SnFoc19MRFVxSFhPR0lqR3hReFVhNDNNc0E?oc=5",
       "ts": 1785947116.8576097
+    },
+    {
+      "clave": "banco_republica_compra_reservas_254m",
+      "resumen": "Banco de la República compró US$254,3 millones como parte del programa de acumulación de reservas",
+      "url": "https://www.larepublica.co/economia/emisor-compro-us-254-3-millones-como-parte-del-programa-de-acumulacion-de-reservas-4451861",
+      "ts": 1785948346.7316186
+    },
+    {
+      "clave": "fiscalia_gobernadores_corrupcion",
+      "resumen": "Fiscalía investiga a siete gobernadores por presunta red de corrupción",
+      "url": "https://www.kienyke.com/colombia/fiscalia-investiga-siete-gobernadores-por-presunta-red-corrupcion",
+      "ts": 1785948347.1703093
+    },
+    {
+      "clave": "colombia_franja_china_salida",
+      "resumen": "Colombia saldrá de la Iniciativa de la Franja que firmó con China",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUnJXMWVhaUdaclNZcWZUdE9aVGp1RFdmY0RiQWl3VGVTTG5rS3VIc1VtNEhpczFraHIxdUt1NEp2ZGVYcWlJZHg3dUx3ZnFYT2g2ZEFzTkxWZUVkVENiU0FNWjhFd19KRzk0cVU3M0dXbHV6RkxVX0pkN0lQX3Z6aDNKMklPRHhtTXJCeUhTazNrNU5VWjhZak1pZ0FMSXBzdkxQRV9QTHdkbGtQdjdJ?oc=5",
+      "ts": 1785948347.6152453
     }
   ]
 }
