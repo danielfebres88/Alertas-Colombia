@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "salud_crisis_transicion_gobierno",
-      "resumen": "Sistema de salud en crisis: Petro entrega al gobierno De la Espriella un sector en cuidados intensivos",
-      "ts": 1785911138.390861
-    },
-    {
       "clave": "contraloria_hallazgo_ani",
       "resumen": "Contraloría determinó hallazgo fiscal a la ANI por $824.960 millones",
       "ts": 1785931977.370043
@@ -234,6 +229,12 @@
       "resumen": "Diego Mesa presidirá Consejo del Fondo para el Medio Ambiente Mundial",
       "url": "https://www.larepublica.co/empresas/diego-mesa-presidira-el-consejo-del-fondo-para-el-medio-ambiente-mundial-4451917",
       "ts": 1785953891.8534567
+    },
+    {
+      "clave": "ley_trasplante_organos_2026",
+      "resumen": "Sancionada la nueva Ley de Trasplante de Órganos con cambios clave para el sistema de salud en Colombia",
+      "url": "https://www.minuto30.com/sancionada-nueva-ley-trasplante-de-organos/1715241/",
+      "ts": 1785954507.777163
     }
   ]
 }
