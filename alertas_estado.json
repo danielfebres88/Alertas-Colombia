@@ -114,6 +114,24 @@
       "clave": "politica_culturas_campesinas",
       "resumen": "Política Pública de Culturas Campesinas adoptada por Colombia por primera vez",
       "ts": 1785939356.0546741
+    },
+    {
+      "clave": "glp_importaciones_crecimiento_2025",
+      "resumen": "Importaciones de gas licuado de petróleo crecieron 112% en 2025 frente a 2024",
+      "url": "https://www.larepublica.co/economia/importaciones-de-gas-licuado-de-petroleo-crecieron-112-en-2025-frente-a-2024-4451776",
+      "ts": 1785942178.076032
+    },
+    {
+      "clave": "incautacion_cocaina_huila_600kg",
+      "resumen": "Incautan 600 kilos de cocaína escondidos en cargamento de pescado en vías del Huila",
+      "url": "https://www.minuto30.com/incautan-600-kilos-cocaina-huila/1715209/",
+      "ts": 1785942178.5176983
+    },
+    {
+      "clave": "carrasquilla_viceministra_gobierno",
+      "resumen": "Claudia Carrasquilla renunció al Concejo de Medellín para ser viceministra de Abelardo de la Espriella",
+      "url": "https://www.minuto30.com/claudia-carrasquilla-renuncio-al-concejo-de-medellin-seria-nueva-viceministra-de-abelardo-de-la-espriella/1715212/",
+      "ts": 1785942178.9713974
     }
   ]
 }
