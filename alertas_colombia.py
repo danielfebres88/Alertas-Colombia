@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Sistema de alertas de noticias — Colombia  (v3)
+Sistema de alertas de noticias — Colombia  (v4)
 ================================================
-Novedades v3:
-- Feeds arreglados: los medios sin RSS nativo confiable entran vía Google News (site:dominio).
-- Diagnóstico de salud por feed en el log (cuántos títulos trae cada uno / cuáles vienen vacíos).
-- Anti-duplicados reforzado con una "clave de tema" estable (p. ej. el dólar deja de repetirse).
-- Alerta especial cuando se menciona a CAF (color/encabezado distinto).
+Novedades v4:
+- CAF ahora es DISPARADOR GARANTIZADO: cualquier noticia que mencione a CAF genera alerta
+  SIEMPRE, saltándose el filtro de importancia (antes se perdía si el filtro la descartaba).
+- Ventana ampliada a 90 min para no perder notas que Google News indexa con retraso.
+- Detección de CAF también en el resumen del artículo, no solo en el titular.
 """
 
 import os
@@ -24,7 +24,6 @@ from anthropic import Anthropic
 # ─────────────────────────── CONFIGURACIÓN ───────────────────────────
 
 def gnews(dominio):
-    """Genera un RSS de cualquier medio vía Google News, ya filtrado a Colombia."""
     return f"https://news.google.com/rss/search?q=site:{dominio}&hl=es-419&gl=CO&ceid=CO:es-419"
 
 FEEDS = {
@@ -33,7 +32,7 @@ FEEDS = {
     "La República":     "https://www.larepublica.co/rss",
     "Minuto30":         "https://www.minuto30.com/feed/",
     "Kienyke":          "https://www.kienyke.com/feed/",
-    # — Vía Google News (su RSS nativo estaba caído; así SÍ entran) —
+    # — Vía Google News —
     "El Espectador":    gnews("elespectador.com"),
     "Semana":           gnews("semana.com"),
     "Caracol Radio":    gnews("caracol.com.co"),
@@ -43,26 +42,27 @@ FEEDS = {
     "La FM":            gnews("lafm.com.co"),
     "Infobae Colombia": gnews("infobae.com/colombia"),
     "Pulzo":            gnews("pulzo.com"),
-    # — Nuevos medios —
     "La Silla Vacía":   gnews("lasillavacia.com"),
     "Noticias Caracol": gnews("noticiascaracol.com"),
     "El Colombiano":    gnews("elcolombiano.com"),
+    "Valora Analitik":  gnews("valoraanalitik.com"),   # fuerte en CAF y banca multilateral
 }
 
-WINDOW_MINUTES  = 45      # titulares de los últimos 45 min
-MEMORIA_HORAS   = 12      # cuánto recuerda lo ya alertado
+WINDOW_MINUTES  = 90      # ampliada para no perder notas que Google News indexa con retraso
+MAX_POR_MEDIO   = 8       # tope de títulos por medio por ronda (evita que uno solo inunde)
+MEMORIA_HORAS   = 12
 STATE_FILE      = "alertas_estado.json"
-CLAUDE_MODEL    = "claude-haiku-4-5-20251001"   # barato; si el criterio falla, subir a "claude-sonnet-4-6"
+CLAUDE_MODEL    = "claude-haiku-4-5-20251001"
 
 # Detección de menciones a CAF (Banco de Desarrollo de América Latina y el Caribe)
 CAF_PATRONES = [
-    re.compile(r'\bCAF\b'),                                   # sigla exacta en mayúsculas (no "café")
+    re.compile(r'\bCAF\b'),
     re.compile(r'corporaci[oó]n andina de fomento', re.I),
     re.compile(r'banco de desarrollo de am[eé]rica latina', re.I),
 ]
 
 def menciona_caf(textos):
-    return any(p.search(t) for t in textos for p in CAF_PATRONES)
+    return any(p.search(t) for t in textos if t for p in CAF_PATRONES)
 
 # ─────────────────────────── PASO 1: LEER RSS ───────────────────────────
 
@@ -86,13 +86,15 @@ def leer_titulares():
             if fecha and fecha < limite:
                 continue
             items.append({
-                "medio":  medio,
-                "titulo": html.unescape(getattr(e, "title", "").strip()),
-                "url":    getattr(e, "link", ""),
+                "medio":   medio,
+                "titulo":  html.unescape(getattr(e, "title", "").strip()),
+                "resumen": html.unescape(getattr(e, "summary", "")[:300].strip()),
+                "url":     getattr(e, "link", ""),
             })
+            if len(items) - antes >= MAX_POR_MEDIO:   # tope por medio: que ninguno inunde
+                break
         conteo[medio] = len(items) - antes
 
-    # Diagnóstico de salud de los feeds (para ver de un vistazo cuáles fallan)
     con_items = [f"{m}({n})" for m, n in conteo.items() if n > 0]
     vacios    = [m for m, n in conteo.items() if n == 0]
     print("  Feeds con títulos:", ", ".join(con_items) if con_items else "NINGUNO")
@@ -127,16 +129,12 @@ Selecciona los HECHOS que merezcan alerta:
 - Prioriza lo que afecta a Colombia. Incluye internacionales SOLO si tienen impacto directo y
   claro en Colombia (no farándula internacional, no deportes de otras ligas).
 - NO alertes: farándula, chismes, horóscopos, deportes rutinarios, notas de color, clickbait.
-- Agrupa en UN evento los titulares del MISMO hecho (aunque sean de medios distintos).
-  Hechos diferentes = eventos diferentes: nunca juntes por categoría.
-- EXCLUYE lo que ya esté en "YA ALERTADAS", aunque esté redactado distinto: es la misma noticia.
 
 Para cada evento entrega:
 - "titular": el hecho concreto en UNA frase con datos reales (quién, qué, dónde). Nunca vago.
-- "clave": un identificador CORTO y ESTABLE del tema (minúsculas, con guion bajo), que sea
-  IGUAL cada vez que aparezca el mismo hecho aunque cambie la redacción. Ej: la cotización de
-  apertura del dólar de hoy siempre es "dolar_apertura"; utilidades de Ecopetrol del 2T,
-  "ecopetrol_utilidades_2t". Si el hecho ya está en YA ALERTADAS, REUTILIZA su misma clave.
+- "clave": identificador CORTO y ESTABLE del tema (minúsculas, con guion bajo), IGUAL cada vez
+  que aparezca el mismo hecho aunque cambie la redacción. Si ya está en YA ALERTADAS, reutiliza
+  su misma clave.
 - "importancia": "alta" | "media" | "baja".
 
 YA ALERTADAS (no repetir; reutiliza su clave si es el mismo hecho):
@@ -154,13 +152,20 @@ Titulares:
         messages=[{"role": "user", "content": prompt}],
     )
     texto = resp.content[0].text.strip().replace("```json", "").replace("```", "").strip()
+    # Claude a veces agrega explicaciones tras el JSON; extraemos solo el objeto JSON.
     try:
         return json.loads(texto)["eventos"]
-    except Exception as e:
-        print(f"[WARN] No se pudo parsear la respuesta de Claude: {e}\n{texto[:400]}")
+    except Exception:
+        m = re.search(r'\{.*"eventos".*?\]\s*\}', texto, re.DOTALL)
+        if m:
+            try:
+                return json.loads(m.group(0))["eventos"]
+            except Exception:
+                pass
+        print(f"[WARN] No se pudo parsear la respuesta de Claude:\n{texto[:300]}")
         return []
 
-# ─────────────────── PASO 3: MEMORIA (evitar repetidos) ───────────────────
+# ─────────────────── PASO 3: MEMORIA ───────────────────
 
 def cargar_estado():
     if os.path.exists(STATE_FILE):
@@ -208,32 +213,52 @@ def main():
 
     estado = cargar_estado()
     previos = estado.get("eventos", [])
-    claves_previas   = {norm(e.get("clave")) for e in previos if e.get("clave")}
-    huellas_previas  = {huella(e.get("resumen")) for e in previos if e.get("resumen")}
-    ya_alertadas = "\n".join(f"- [{e.get('clave','')}] {e.get('resumen','')}" for e in previos)
-
-    eventos = analizar_con_claude(items, ya_alertadas)
+    claves_previas  = {norm(e.get("clave")) for e in previos if e.get("clave")}
+    huellas_previas = {huella(e.get("resumen")) for e in previos if e.get("resumen")}
+    urls_previas    = {huella(e.get("url")) for e in previos if e.get("url")}
     nuevas = 0
+
+    # ─── PASO CAF: cualquier mención a CAF alerta SIEMPRE (se salta el filtro) ───
+    for it in items:
+        if not menciona_caf([it["titulo"], it.get("resumen", "")]):
+            continue
+        hu_url = huella(it["url"] or it["titulo"])
+        hu_tit = huella(it["titulo"])
+        if hu_url in urls_previas or hu_tit in huellas_previas:
+            continue
+        t = html.escape(it["titulo"][:110])
+        msg = ("🟣🟣 <b>ALERTA · MENCIÓN A CAF</b> 🟣🟣\n\n"
+               f"{html.escape(it['titulo'])}\n\n"
+               f"<b>Fuente:</b>\n• <b>{it['medio']}</b>: <a href=\"{it['url']}\">{t}</a>")
+        enviar_telegram(msg)
+        estado["eventos"].append({"clave": "caf_" + hu_url, "resumen": it["titulo"],
+                                  "url": it["url"], "ts": time.time()})
+        urls_previas.add(hu_url); huellas_previas.add(hu_tit)
+        nuevas += 1
+
+    # ─── FLUJO NORMAL: noticias importantes por relevancia ───
+    ya_alertadas = "\n".join(f"- [{e.get('clave','')}] {e.get('resumen','')}" for e in previos)
+    eventos = analizar_con_claude(items, ya_alertadas)
 
     for ev in eventos:
         indices = [i for i in ev.get("indices", []) if 0 <= i < len(items)]
         if not indices:
             continue
+        # Si el evento incluye una nota de CAF, ya se alertó arriba: saltar
+        if any(menciona_caf([items[i]["titulo"], items[i].get("resumen", "")]) for i in indices):
+            continue
+
         titular = ev.get("titular", "").strip()
         clave   = ev.get("clave", "").strip()
         if not titular:
             continue
-
-        # Anti-duplicados: por clave de tema Y por titular (doble red de seguridad)
         if (clave and norm(clave) in claves_previas) or huella(titular) in huellas_previas:
             continue
 
-        # Fuentes: una por medio, con su titular real
-        vistos, fuentes, medios, textos = set(), [], set(), [titular]
+        vistos, fuentes, medios = set(), [], set()
         for i in indices:
             m = items[i]["medio"]
             medios.add(m)
-            textos.append(items[i]["titulo"])
             if m in vistos:
                 continue
             vistos.add(m)
@@ -242,22 +267,16 @@ def main():
             if len(fuentes) >= 5:
                 break
 
-        # ¿Menciona a CAF? -> encabezado especial
-        if menciona_caf(textos):
-            cabecera = "🟣🟣 <b>ALERTA · MENCIÓN A CAF</b> 🟣🟣"
-        else:
-            emoji = {"alta": "🔴", "media": "🟠", "baja": "🟡"}.get(ev.get("importancia"), "🔵")
-            cabecera = f"{emoji} <b>ALERTA</b>"
-            if len(medios) > 1:
-                cabecera += f" — {len(medios)} medios"
-
+        emoji = {"alta": "🔴", "media": "🟠", "baja": "🟡"}.get(ev.get("importancia"), "🔵")
+        cabecera = f"{emoji} <b>ALERTA</b>"
+        if len(medios) > 1:
+            cabecera += f" — {len(medios)} medios"
         msg = (f"{cabecera}\n\n{html.escape(titular)}\n\n"
                f"<b>Fuentes:</b>\n" + "\n".join(fuentes))
         enviar_telegram(msg)
-
-        estado["eventos"].append({"clave": clave, "resumen": titular, "ts": time.time()})
-        claves_previas.add(norm(clave))
-        huellas_previas.add(huella(titular))
+        estado["eventos"].append({"clave": clave, "resumen": titular,
+                                  "url": items[indices[0]]["url"], "ts": time.time()})
+        claves_previas.add(norm(clave)); huellas_previas.add(huella(titular))
         nuevas += 1
 
     guardar_estado(estado)
