@@ -1,66 +1,6 @@
 {
   "eventos": [
     {
-      "resumen": "Fiscalía revela detalles sobre nacimiento de bebé de María Camila Potosí durante investigación del feminicidio en Cali",
-      "ts": 1785844913.4377453
-    },
-    {
-      "resumen": "Banco de la República recibió ofertas por US$877,5 millones en primera subasta de compra de dólares",
-      "ts": 1785846741.525217
-    },
-    {
-      "resumen": "Tribunal suspende intervención del Ministerio de Educación en Universidad del Atlántico y ordena restituir a Leyton Barrios como rector",
-      "ts": 1785847961.740352
-    },
-    {
-      "resumen": "Secretario de Defensa de Estados Unidos clausurará ejercicios militares para defender canal de Panamá",
-      "ts": 1785848573.300465
-    },
-    {
-      "resumen": "Uefa amenaza con tomar acciones legales contra la FIFA por comercialización fallida",
-      "ts": 1785848573.7244046
-    },
-    {
-      "resumen": "Dólar abre en $3.230,44 con reducción de $7,56 tras revertir tendencia alcista",
-      "ts": 1785849186.8619318
-    },
-    {
-      "resumen": "Temblor registrado en Colombia la mañana del martes 4 de agosto",
-      "ts": 1785850411.2123668
-    },
-    {
-      "resumen": "Dólar abre en $3.222,88 con reducción de $7,56 tras revertir tendencia alcista",
-      "ts": 1785850411.6527033
-    },
-    {
-      "resumen": "Bus escolar se volcó en pendiente en Apartadó dejando 20 niños heridos",
-      "ts": 1785851022.112917
-    },
-    {
-      "resumen": "Superservicios pide revisar contratación en Bolsa de Energía por riesgos financieros",
-      "ts": 1785851022.5450132
-    },
-    {
-      "resumen": "Bus escolar se volcó en pendiente en Apartadó dejando 20 niños heridos por fallo de frenos",
-      "ts": 1785851634.0373158
-    },
-    {
-      "resumen": "Gobierno electo de De la Espriella instala primera cumbre de seguridad con alcaldes de ciudades capitales en Barranquilla",
-      "ts": 1785852245.8808103
-    },
-    {
-      "resumen": "Cerro Matoso reducirá 50% su operación por restricciones de Canacol Energy",
-      "ts": 1785852246.3241088
-    },
-    {
-      "resumen": "Capturan a hombre señalado de asesinar a su expareja en Bosa, Bogotá",
-      "ts": 1785852856.9572916
-    },
-    {
-      "resumen": "Gobierno electo instala primera cumbre de seguridad con alcaldes de ciudades capitales en Barranquilla",
-      "ts": 1785852857.3835845
-    },
-    {
       "clave": "sic_cargos_enel_aes_celsia",
       "resumen": "SIC formuló pliego de cargos contra Enel, AES y Celsia por limitar la libre competencia en el sector eléctrico",
       "ts": 1785860281.5173285
