@@ -49,6 +49,11 @@
       "clave": "epm_ingresos_1s_2026",
       "resumen": "Grupo EPM registró ingresos por $19,5 billones en el primer semestre de 2026",
       "ts": 1785933816.2777429
+    },
+    {
+      "clave": "sic_cargos_compradores_arroz",
+      "resumen": "SIC formuló cargos a siete compradores de arroz por presuntos pagos por debajo del precio de referencia",
+      "ts": 1785935044.6700277
     }
   ]
 }
