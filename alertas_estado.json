@@ -44,6 +44,11 @@
       "clave": "colombia_ventas_energia_ecuador",
       "resumen": "Colombia reanudó ventas energéticas a Ecuador con plan de 8,67 GWh/día",
       "ts": 1785933202.6619442
+    },
+    {
+      "clave": "epm_ingresos_1s_2026",
+      "resumen": "Grupo EPM registró ingresos por $19,5 billones en el primer semestre de 2026",
+      "ts": 1785933816.2777429
     }
   ]
 }
