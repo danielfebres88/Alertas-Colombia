@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "fiscalia_imputacion_calarca",
-      "resumen": "Fiscalía imputó 10 delitos a 'Calarcá' y lo declaró persona ausente",
-      "ts": 1785900611.3988528
-    },
-    {
       "clave": "incautacion_cocaina_cartagena",
       "resumen": "Policía incauta cerca de media tonelada de cocaína en el Puerto de Cartagena",
       "ts": 1785904967.2373886
