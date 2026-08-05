@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "teniente_asesinado_cauca_eln",
-      "resumen": "Teniente del Ejército asesinado en operativo del Cauca que desmanteló laboratorio del Eln",
-      "ts": 1785861517.3285072
-    },
-    {
       "clave": "registraduria_corrupcion_monteria",
       "resumen": "Auxiliar de la Registraduría en Montería imputado por exigir $100 millones a candidata al Congreso",
       "ts": 1785862746.6407444
@@ -144,6 +139,11 @@
       "clave": "fiscalia_imputacion_calarca",
       "resumen": "Fiscalía imputó 10 delitos a 'Calarcá' y lo declaró persona ausente",
       "ts": 1785900611.3988528
+    },
+    {
+      "clave": "incautacion_cocaina_cartagena",
+      "resumen": "Policía incauta cerca de media tonelada de cocaína en el Puerto de Cartagena",
+      "ts": 1785904967.2373886
     }
   ]
 }
