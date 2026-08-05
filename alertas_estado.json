@@ -216,6 +216,24 @@
       "resumen": "Cerca de 60.000 migrantes perdieron cobertura en salud en Antioquia por falta de papeles",
       "url": "https://www.eltiempo.com/colombia/medellin/alarma-en-antioquia-cerca-de-60-000-migrantes-perdieron-su-cobertura-en-salud-por-falta-de-papeles-3576406",
       "ts": 1785952048.7599163
+    },
+    {
+      "clave": "noguera_transporte_hoja_ruta",
+      "resumen": "Ministerio de Transporte anuncia hoja de ruta de gestión con Noguera al frente",
+      "url": "https://www.larepublica.co/economia/noguera-traza-la-hoja-de-ruta-para-su-gestion-en-el-ministerio-de-transporte-4451957",
+      "ts": 1785953890.948119
+    },
+    {
+      "clave": "ani_avenida_longitudinal_occidente",
+      "resumen": "ANI inicia construcción de Avenida Longitudinal de Occidente ALO SUR",
+      "url": "https://www.larepublica.co/economia/ani-suscribio-acta-de-inicio-para-construir-avenida-longitudinal-de-occidente-alo-sur-4451919",
+      "ts": 1785953891.416286
+    },
+    {
+      "clave": "mesa_fondo_medio_ambiente",
+      "resumen": "Diego Mesa presidirá Consejo del Fondo para el Medio Ambiente Mundial",
+      "url": "https://www.larepublica.co/empresas/diego-mesa-presidira-el-consejo-del-fondo-para-el-medio-ambiente-mundial-4451917",
+      "ts": 1785953891.8534567
     }
   ]
 }
