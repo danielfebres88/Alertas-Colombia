@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "registraduria_corrupcion_monteria",
-      "resumen": "Auxiliar de la Registraduría en Montería imputado por exigir $100 millones a candidata al Congreso",
-      "ts": 1785862746.6407444
-    },
-    {
       "clave": "ecopetrol_repunte",
       "resumen": "Ecopetrol rompe racha de malos resultados con repunte en sus indicadores financieros",
       "ts": 1785864586.1175404
