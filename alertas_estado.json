@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "superservicios_tarifas_electricidad",
-      "resumen": "Superintendencia de Servicios expresa preocupación por aumento de tarifas de electricidad en contexto de El Niño",
-      "ts": 1785899387.0781186
-    },
-    {
       "clave": "fiscalia_imputacion_calarca",
       "resumen": "Fiscalía imputó 10 delitos a 'Calarcá' y lo declaró persona ausente",
       "ts": 1785900611.3988528
