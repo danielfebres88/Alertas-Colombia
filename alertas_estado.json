@@ -1,31 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sic_cargos_enel_aes_celsia",
-      "resumen": "SIC formuló pliego de cargos contra Enel, AES y Celsia por limitar la libre competencia en el sector eléctrico",
-      "ts": 1785860281.5173285
-    },
-    {
-      "clave": "asesinato_aguachica_cesar",
-      "resumen": "Joven de 20 años asesinada a disparos tras negarse a bailar con un hombre en bar de Aguachica, Cesar",
-      "ts": 1785860282.1432147
-    },
-    {
-      "clave": "vendaval_juan_acosta_atlantico",
-      "resumen": "Vendaval en Juan de Acosta, Atlántico, afecta a cerca de 480 personas; inicia entrega de ayudas",
-      "ts": 1785860282.7666292
-    },
-    {
-      "clave": "isa_inversion_28_1_billones",
-      "resumen": "ISA invertirá más de $28,1 billones en sus mercados de la región latinoamericana",
-      "ts": 1785860283.4184234
-    },
-    {
-      "clave": "petro_fraude_electoral",
-      "resumen": "Expresidente Petro insiste en denuncias de fraude electoral, menciona 7 millones de votos adicionales",
-      "ts": 1785860284.0337312
-    },
-    {
       "clave": "exportaciones_junio_caida_cafe_flores",
       "resumen": "Exportaciones crecieron 7% en junio, pero cayeron ventas de café y flores",
       "ts": 1785860901.4984202
