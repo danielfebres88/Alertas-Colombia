@@ -34,6 +34,11 @@
       "clave": "salud_crisis_transicion_gobierno",
       "resumen": "Sistema de salud en crisis: Petro entrega al gobierno De la Espriella un sector en cuidados intensivos",
       "ts": 1785911138.390861
+    },
+    {
+      "clave": "contraloria_hallazgo_ani",
+      "resumen": "Contraloría determinó hallazgo fiscal a la ANI por $824.960 millones",
+      "ts": 1785931977.370043
     }
   ]
 }
