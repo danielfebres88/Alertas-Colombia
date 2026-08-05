@@ -84,6 +84,11 @@
       "clave": "andesco_tarifario_aseo",
       "resumen": "Andesco critica reconocimiento tarifario a actividades de nuevo marco de aseo",
       "ts": 1785937507.277435
+    },
+    {
+      "clave": "porte_armas_suspendido_bogota_cundinamarca",
+      "resumen": "Suspensión del porte de armas en Bogotá y Cundinamarca por la posesión presidencial",
+      "ts": 1785938125.4590046
     }
   ]
 }
