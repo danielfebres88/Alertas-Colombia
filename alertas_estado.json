@@ -54,6 +54,21 @@
       "clave": "sic_cargos_compradores_arroz",
       "resumen": "SIC formuló cargos a siete compradores de arroz por presuntos pagos por debajo del precio de referencia",
       "ts": 1785935044.6700277
+    },
+    {
+      "clave": "dolar_apertura_baja_3200",
+      "resumen": "Dólar abrió a la baja y rompió el piso de los $3.200 pese a subastas del Banco de la República",
+      "ts": 1785936273.915671
+    },
+    {
+      "clave": "sisben_rui_reforma_subsidios",
+      "resumen": "Gobierno anuncia nuevo Sisbén o RUI para revisar ingresos de hogares y asignar subsidios",
+      "ts": 1785936274.5388894
+    },
+    {
+      "clave": "conpes_aeropuertos_jose_maria_cordoba",
+      "resumen": "Conpes prioriza inversiones en aeropuertos pero excluye al José María Córdova de Medellín",
+      "ts": 1785936275.1750221
     }
   ]
 }
