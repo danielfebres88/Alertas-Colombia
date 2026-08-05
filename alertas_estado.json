@@ -139,6 +139,21 @@
       "clave": "incautacion_cocaina_cartagena",
       "resumen": "Policía incauta cerca de media tonelada de cocaína en el Puerto de Cartagena",
       "ts": 1785904967.2373886
+    },
+    {
+      "clave": "trm_impacto_exportaciones",
+      "resumen": "Caída del dólar reduce exportaciones: por cada $100 de revaluación del peso, las exportaciones colombianas caen US$400 millones",
+      "ts": 1785906833.4952757
+    },
+    {
+      "clave": "fenomeno_nino_diesel_demanda",
+      "resumen": "El Niño disparará la demanda de diésel en 30% durante el segundo semestre de 2026 en Colombia",
+      "ts": 1785906833.9596894
+    },
+    {
+      "clave": "predial_bogota_aumento",
+      "resumen": "Predial en Bogotá subirá con sobretasa de $29.000 para estratos 4, 5 y 6",
+      "ts": 1785906834.4269714
     }
   ]
 }
