@@ -1,31 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "asesinatos_bucaramanga_julito",
-      "resumen": "Tres familiares asesinados en Bucaramanga en presuntas retaliaciones del sicario alias 'Julito'",
-      "ts": 1785866437.1283896
-    },
-    {
-      "clave": "littio_transferencias_digitales",
-      "resumen": "Littio lanza servicio para enviar dólares y euros digitales entre usuarios por WhatsApp",
-      "ts": 1785866437.7350006
-    },
-    {
-      "clave": "mapfre_tuio_capital",
-      "resumen": "Mapfre entra al capital de la insurtech Tuio con participación de 38,9%",
-      "ts": 1785866438.3378525
-    },
-    {
-      "clave": "caida_muro_bucaramanga_estadio",
-      "resumen": "Caída de muro cerca al estadio de fútbol en Bucaramanga deja heridos antes del clásico del oriente",
-      "ts": 1785866439.1004972
-    },
-    {
-      "clave": "fallecimiento_diego_manuel_luzon",
-      "resumen": "Murió Diego-Manuel Luzón Peña, catedrático y referente internacional del Derecho Penal",
-      "ts": 1785866439.7642827
-    },
-    {
       "clave": "jep_imputacion_27_exfarc",
       "resumen": "JEP imputa a 27 exFarc por crímenes no amnistiables y violencia de género",
       "ts": 1785870977.321425
