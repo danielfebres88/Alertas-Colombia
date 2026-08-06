@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "maria_camila_potosi_feminicidio_nuevo_delito",
-      "resumen": "Fiscalía imputará nuevo delito a señalados por feminicidio de María Camila Potosí y su bebé en Cali",
-      "url": "https://www.eltiempo.com/colombia/cali/giro-en-el-macabro-crimen-de-maria-camila-potosi-y-su-bebe-fiscalia-imputara-a-los-senalados-del-feminicidio-un-nuevo-delito-esto-se-sabe-3576453",
-      "ts": 1785972999.9835842
-    },
-    {
-      "clave": "liberacion_bacanes_rumba_kids_cauca",
-      "resumen": "Liberan al director de Los Bacanes del Sur y músico de Rumba Kids secuestrados en Cauca",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVNLblhVS0YycElVcnh5dGNweU83c3IwbnpKdXRkUHk5d2ZJOHBMbnUxVTk4R0ZsaUdrZ0ZHUmVOLWVDTFd3WUdZSmRJc0tOWElWUk1vSzlYcjA1TXdNUW81ZFBVMHlDWjZnUGI1N3NNV055X19TU1ViVW14UGJMdXBaTWRZLUp0YVNQeUtpa2k2UjNsamdMNHJzX1JBUklGa0lEcnBYUVNaOTN2a1BNSDIwTHVtMVg0X2gxbWZJVFVYVkwtWW1TMTJybzF6dzhLallB0gHgAUFVX3lxTE1pS2RjdTg0MkhtRzBDQTYtV0pRR2RUbDlvSng5QjJjYVZVc2pxYmZVZl9MMVJ4X29Ic2szWUN0c1RuVUxGZndWd1lIbEdWdDJpNVVmU2w1N2F3azFSZGxBRk9MV0tLTHEtMDRNaDNKYWlYSjBvdWd1VXJERldVNVBFRC1RdjhyYWllQ3gyWE5YbnhPOF9jZy1pS3oydlo3QzJ3Wl85bnNCU0RSOXJTWHVaM2EwUjlod0dqa0FpUjN5VWViTTdhOUMwSnRLUWV0MEdLU2JnSkZXZWNvY25Zem10?oc=5",
-      "ts": 1785973000.4681892
-    },
-    {
       "clave": "petro_retira_negociadores_paz_disidentes_calarco",
       "resumen": "Petro retira estatus de negociadores de paz a 7 disidentes de Calarcá",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGxjNm9iYmtjQzJ1SlVrYXRaMFhSaE9ONzhORHBLSGNUQkh5SkVEX1JwTWcydTNOWW9GU2ZYQVExQ20zRkE4QmlkYkZGcTZYY0NHbmoxTDlGWUszcHhVVThxUDZ5RmQ1V0lvQktzWlhzMzMxTDMxMENTNXhjbzVyNFB6R3ppQV8wTVdZZ1dWZ2FKSXVCTnN5bjAxcmZZSk1nak1kaXl1YXplYUk?oc=5",
@@ -71,6 +59,12 @@
       "resumen": "Sismo de magnitud registrado en Colombia durante la mañana del jueves 6 de agosto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-manana-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576566",
       "ts": 1786014360.2284753
+    },
+    {
+      "clave": "caf_cdf2bd03198d",
+      "resumen": "Presidente ejecutivo de CAF recibió Doctor Honoris Causa en Barranquilla - caracol.com.co",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSm5CNVJlQnpKOF9PZlJDU0thcW5LZ1Rmb04zWnRYX1lxVWhPQ2pVOFZ3ZTVkMUtiWm1uSFluZEZEMVpUekpMM2ZKdXFtMzVwUEl2U091ZGVGOUtiU1kzbmRydTUtUC03aXpQSHJSbmMyZVEtUUFsRzJlSzhLSWdtUkJuR25SOGEyVlRSSmg3NTExTk5fNnNsdXJmdmE0V05sd04zVUk5UDNkNGPSAb8BQVVfeXFMTl9CZnJTZWEzcEtZUXFLbm90bVJHWkJQbHNaRUxrTTBLcmRUY2R2TFVFY0NnM0txMGxQMXNTMGc4b3d1V01YQktDLWVNaWZ5czlORGJWek9vbFhBVW5nUGRBNVhmTVhYekxWMjhnRzdsbUJwZVRQMjdadUQ4ZmxYN1o3dl9LdVNJOXNwQU13ZXJraVBWMEFTUEVLWndxRlZrRVVqdEg1RndydGRRazBzUjJvRGFud0Nmd0Q2eWwtOTg?oc=5",
+      "ts": 1786016204.5413122
     }
   ]
 }
