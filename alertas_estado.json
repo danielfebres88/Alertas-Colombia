@@ -1,16 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "petro_alerta_explosivos_cali",
-      "resumen": "Ministro de Defensa afirma que riesgos de explosivos en Cali están mitigados tras alerta del presidente Petro",
-      "ts": 1785939355.427172
-    },
-    {
-      "clave": "politica_culturas_campesinas",
-      "resumen": "Política Pública de Culturas Campesinas adoptada por Colombia por primera vez",
-      "ts": 1785939356.0546741
-    },
-    {
       "clave": "glp_importaciones_crecimiento_2025",
       "resumen": "Importaciones de gas licuado de petróleo crecieron 112% en 2025 frente a 2024",
       "url": "https://www.larepublica.co/economia/importaciones-de-gas-licuado-de-petroleo-crecieron-112-en-2025-frente-a-2024-4451776",
@@ -249,6 +239,12 @@
       "resumen": "Mineros alcanzó más de $2 billones en ingresos durante el primer semestre de 2026",
       "url": "https://www.larepublica.co/empresas/mineros-alcanzo-mas-de-2-billones-en-ingresos-durante-el-primer-semestre-del-ano-4452292",
       "ts": 1785979153.9638436
+    },
+    {
+      "clave": "minhaci_ávila_renuncia",
+      "resumen": "Ministro de Hacienda y Crédito Público Germán Ávila anunció su renuncia al cargo",
+      "url": "https://www.larepublica.co/economia/el-ministro-de-hacienda-y-credito-public-german-avila-anuncio-su-renuncia-al-cargo-4452347",
+      "ts": 1785982847.6419458
     }
   ]
 }
