@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "bus_explosivos_cali_420kg",
-      "resumen": "Interceptan bus con 420 kilos de explosivos presuntamente destinados a atentado durante posesión presidencial de Abelardo De La Espriella en Cali",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/interceptan-bus-con-420-kilos-de-explosivos-que-presuntamente-iba-a-ser-usado-para-un-atentado-durante-la-posesion-presidencial-de-de-la-espriella-3576350",
-      "ts": 1785955738.3056104
-    },
-    {
       "clave": "ecopetrol_brava_energia_25pct",
       "resumen": "Ecopetrol culminó subasta para compra del 25% de las acciones de Brava Energía",
       "url": "https://www.larepublica.co/economia/ecopetrol-culmino-la-subasta-para-la-compra-de-25-de-las-acciones-de-brava-energia-4452110",
