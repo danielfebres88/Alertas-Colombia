@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "caf_9a489a1f7cfb",
-      "resumen": "Colombia recibirá primeros US$700 millones de los US$9.000 millones prometidos por la CAF - Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXpZbHhJNHBiaDFRM0JnRlN5Zk1MNmoyX1g0V1FfWU1xcjRCS08zT045TEg2RDBsa05HWVZuT1MwY0RNNGc3YkE0TGI0Q3VaTHl6LXc1Ui1wUllpNlpENXVEZ2hZd3lJOEE2blBfQTNHM2kxeWt4eDNnSEktM25yY1hBNDl0eml5MTRfWWdVdjdqSUFLbXFZUlRvR1FiN3VBNTZGdlkwZW9JSERzVFNmNUczT2dpOVNYNkZlVjZkdVhTdHVHWHlPVVVpMmRPc2NE0gHeAUFVX3lxTE9Kejd2N09XSElOZkV5cVQ1QnBSOWc1d3dLSnIwT0JvbURsek9ucGt3dHFLR1ZsV2tHcmFhUWRpOFlyMjJrTGN1SGhyRUJibWs1UmIxbUpHVUFQb0VTUUZaUTMteF9WaTZYNWllaFFsTEZqRUNtY2xBLVYxakRxTGJGZEpBUHdKVzltZ2pRS2tWdXF2eDJHenRNaEtYVnE5RlJDLTZFWkhVQ044SWVIdzQwNjViVGxJbUVQNWpRVldORGd2SlNoZWlaRDJwX2wxYmpTTlA2TVpkcjBDaGJrdw?oc=5",
-      "ts": 1785976685.8571637
-    },
-    {
-      "clave": "minhaci_recorte_20b",
-      "resumen": "MinHacienda designado propone recorte de gasto de $20 billones en ajuste fiscal",
-      "url": "https://www.larepublica.co/economia/minhacienda-designado-senalo-que-el-recorte-del-gasto-deberia-ser-de-20-billones-4452257",
-      "ts": 1785976688.718356
-    },
-    {
-      "clave": "banco_republica_tasa_peso",
-      "resumen": "Banco emisor considera que alzas en tasa podrían incentivar apreciación del peso",
-      "url": "https://www.larepublica.co/economia/emisor-adivirtio-que-nuevas-alzas-de-tasas-podrian-generar-una-mayor-apreciacion-del-peso-4452233",
-      "ts": 1785976689.2082534
-    },
-    {
       "clave": "cenco_malls_utilidades_q2_2026",
       "resumen": "Cenco Malls aumentó más de 25% sus utilidades netas en el segundo trimestre de 2026",
       "url": "https://www.larepublica.co/empresas/cenco-malls-aumento-mas-de-25-sus-utilidades-netas-durante-el-segundo-trimestre-del-ano-4452151",
