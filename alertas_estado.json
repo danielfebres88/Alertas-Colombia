@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "contraloria_hallazgo_ani",
-      "resumen": "Contraloría determinó hallazgo fiscal a la ANI por $824.960 millones",
-      "ts": 1785931977.370043
-    },
-    {
       "clave": "colombia_ventas_energia_ecuador",
       "resumen": "Colombia reanudó ventas energéticas a Ecuador con plan de 8,67 GWh/día",
       "ts": 1785933202.6619442
