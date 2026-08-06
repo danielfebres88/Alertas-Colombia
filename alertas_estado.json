@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sic_cargos_compradores_arroz",
-      "resumen": "SIC formuló cargos a siete compradores de arroz por presuntos pagos por debajo del precio de referencia",
-      "ts": 1785935044.6700277
-    },
-    {
       "clave": "dolar_apertura_baja_3200",
       "resumen": "Dólar abrió a la baja y rompió el piso de los $3.200 pese a subastas del Banco de la República",
       "ts": 1785936273.915671
