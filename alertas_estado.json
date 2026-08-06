@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ecopetrol_brava_energia_25pct",
-      "resumen": "Ecopetrol culminó subasta para compra del 25% de las acciones de Brava Energía",
-      "url": "https://www.larepublica.co/economia/ecopetrol-culmino-la-subasta-para-la-compra-de-25-de-las-acciones-de-brava-energia-4452110",
-      "ts": 1785970538.5478044
-    },
-    {
-      "clave": "cuello_madrinan_viceministros_energia_minas",
-      "resumen": "Armando Cuello y Luis Madriñán serán viceministros de Energía y Minas en gobierno De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTY3TjRZSmROaGc4NmJqQWFhRGNHeGNEb005VXNIWGlyWmhBT0JJX1NjcnNwQjRfTFRNRG9SWHFZQUVCQl9WMWMwOHVZU3lkRkgtcDBVVktjdDhHcVV2bG1EU1BCZTY2ZHpQWl9sRHJ4SXk3MkVPZDZ3VWlnQXdFRi1hdDNONEFFUGtOeDI2ZjhkSHFITVI3U3FGLWNvR0ph?oc=5",
-      "ts": 1785970539.0280426
-    },
-    {
-      "clave": "procuraduria_uniatlántico_rectoría",
-      "resumen": "Procuraduría pide entrega inmediata de la Rectoría de Uniatlántico; Castillo insiste en esperar claridad judicial",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/procuraduria-pide-la-entrega-inmediata-de-la-rectoria-de-uniatlantico-castillo-insiste-en-esperar-claridad-del-fallo-judicial-3576471",
-      "ts": 1785971154.9886212
-    },
-    {
-      "clave": "sancion_funcionarios_desaparecidos",
-      "resumen": "Buscan sancionar funcionarios que retrasen búsqueda de personas desaparecidos",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmtqRGNpQlhTcU1GUG4xdURuSkZOZ2c0WjQxRHJlSlZKMVBNMTA2MnhXVm9KSHY3NVU3XzQxSDJaSE1lUWlQQTlIXzR3NGtjU1VSYzE4aGE0RVdtSl95NFpJZUczX1FmOFd3TUd6aGQ0VGVfQ0FEWFZfcGRadmVCbnRkYTRVbDdIUy1YcE53eFRjRzJ1cVpLem11dGR0a3FQMnpmZTg3aWZBSUVSeENsaFczU1LSAcIBQVVfeXFMT0p1aW4xUmR3cnVDOTRlSGJHeDVZemhwWlhRYld5WG5CMVliWDhtRnFLZ3E5TTlGaURENDlYSS1NOVA2dHhNYmxvRkJITWdRUWQzeXpNUHlQSEFuUUpqcjBVd0FhN0VFNE10bkpYXzVydmFXMWt2Z05SWXVrZWY3eHJaZGdtOWItTzdLMlg3N1VxMzItUTFXUC1qb1YxZjVSeHRFY25VcFpkdXQtYkFoekN2UlRpS2xDaEtUTlZ4TEp5WXc?oc=5",
-      "ts": 1785971155.4776556
-    },
-    {
       "clave": "maria_camila_potosi_feminicidio_nuevo_delito",
       "resumen": "Fiscalía imputará nuevo delito a señalados por feminicidio de María Camila Potosí y su bebé en Cali",
       "url": "https://www.eltiempo.com/colombia/cali/giro-en-el-macabro-crimen-de-maria-camila-potosi-y-su-bebe-fiscalia-imputara-a-los-senalados-del-feminicidio-un-nuevo-delito-esto-se-sabe-3576453",
@@ -89,6 +65,12 @@
       "resumen": "Dos sismos se registraron durante la noche del 5 de agosto en Colombia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-dos-sismos-se-registraron-durante-la-noche-de-este-miercoles-5-de-agosto-conozca-epicentro-profundidad-y-magnitud-3576559",
       "ts": 1786001913.0949645
+    },
+    {
+      "clave": "sismos_6_agosto_2026",
+      "resumen": "Sismo de magnitud registrado en Colombia durante la mañana del jueves 6 de agosto",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-manana-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576566",
+      "ts": 1786014360.2284753
     }
   ]
 }
