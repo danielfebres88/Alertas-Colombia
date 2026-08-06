@@ -1,21 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_magnitud_3_1_agosto",
-      "resumen": "Temblor de magnitud 3,1 reportado en Colombia la mañana del 5 de agosto",
-      "ts": 1785938739.7226055
-    },
-    {
-      "clave": "angie_rodriguez_toxicologico",
-      "resumen": "Fiscalía ordena examen toxicológico a Angie Rodríguez tras denuncia de amenazas",
-      "ts": 1785938740.354829
-    },
-    {
-      "clave": "explosivos_drones_segovia",
-      "resumen": "Ofrecen recompensa por responsables de lanzar explosivos con drones a mina en Segovia, Antioquia",
-      "ts": 1785938740.9811542
-    },
-    {
       "clave": "petro_alerta_explosivos_cali",
       "resumen": "Ministro de Defensa afirma que riesgos de explosivos en Cali están mitigados tras alerta del presidente Petro",
       "ts": 1785939355.427172
