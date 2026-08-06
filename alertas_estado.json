@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "epm_ingresos_1s_2026",
-      "resumen": "Grupo EPM registró ingresos por $19,5 billones en el primer semestre de 2026",
-      "ts": 1785933816.2777429
-    },
-    {
       "clave": "sic_cargos_compradores_arroz",
       "resumen": "SIC formuló cargos a siete compradores de arroz por presuntos pagos por debajo del precio de referencia",
       "ts": 1785935044.6700277
@@ -291,6 +286,18 @@
       "resumen": "Banco emisor considera que alzas en tasa podrían incentivar apreciación del peso",
       "url": "https://www.larepublica.co/economia/emisor-adivirtio-que-nuevas-alzas-de-tasas-podrian-generar-una-mayor-apreciacion-del-peso-4452233",
       "ts": 1785976689.2082534
+    },
+    {
+      "clave": "cenco_malls_utilidades_q2_2026",
+      "resumen": "Cenco Malls aumentó más de 25% sus utilidades netas en el segundo trimestre de 2026",
+      "url": "https://www.larepublica.co/empresas/cenco-malls-aumento-mas-de-25-sus-utilidades-netas-durante-el-segundo-trimestre-del-ano-4452151",
+      "ts": 1785977306.6197178
+    },
+    {
+      "clave": "supersolidaria_deficit_recaudo_2025",
+      "resumen": "Supersolidaria reporta al Congreso que logró revertir déficit y alcanzó récord de recaudo en 2025",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaTJUZFpUQWYxbnJIdnJMQW5pSWc3dF9EMjFjNGhNYkpSODY1SW1WenpvRkJXUEJ6LXRXUDVLeVc5cDBuRkpTUHdhRDByak81RDJ3ZHlCRHJjRERycDQtYlJvWUl2TFJMelBWeXl4X2ZNWG5pdHlQczl6WEg2QjNvYnZVVHZoR3YyZURuTFE0MHMzcjJoTnAwMldZY29NeS1KV1VIX0JGRWIxRjFOd0NUMm00YlV2M3hFUjIwb01pRdIBvwFBVV95cUxPbDByWF9QN2VXUlNPdkpmZUxnSHVTVHF6OUptYU5STjRkQWxsTWFISF9HUzhqWHVVTWd3VjNzb2VrUW5Xa3ZQdElXVUFtZUduVF90OG80RFkxNkNPWTFpTHlCdm11cDJaall3TnM4NjJCdWMyYXRyX1E5WUU2Q05lRGRyVEhMRUlMeDlxa3AxcmNjNzN5bVFITVRQZHN5dUx2ZlpMLWpZN3BBMlVCNVpGeFpXMXZCU2Jqc2JwRlhNbw?oc=5",
+      "ts": 1785977307.1143198
     }
   ]
 }
