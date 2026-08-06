@@ -35,6 +35,12 @@
       "resumen": "Analdex alerta sobre demoras de hasta cuatro días en registros de importación en Colombia",
       "url": "https://www.larepublica.co/economia/analdex-alerto-por-demoras-de-hasta-cuatro-dias-en-registros-de-importacion-4452464",
       "ts": 1786021141.7506883
+    },
+    {
+      "clave": "dolar_cierre_gobierno_petro",
+      "resumen": "Dólar abrió levemente al alza en el último día hábil del gobierno de Petro",
+      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-6-de-agosto-4452449",
+      "ts": 1786021755.8680208
     }
   ]
 }
