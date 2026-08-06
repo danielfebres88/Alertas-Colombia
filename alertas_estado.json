@@ -1,21 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "purace_emergencia_volcan",
-      "resumen": "Volcán Puracé en emergencia: calamidad pública por actividad volcánica y efectos del fenómeno de El Niño",
-      "ts": 1785937506.027672
-    },
-    {
-      "clave": "gran_tierra_venta_maurel_prom",
-      "resumen": "Gran Tierra Energy venderá sus negocios en Colombia y Ecuador a Maurel & Prom",
-      "ts": 1785937506.6422114
-    },
-    {
-      "clave": "andesco_tarifario_aseo",
-      "resumen": "Andesco critica reconocimiento tarifario a actividades de nuevo marco de aseo",
-      "ts": 1785937507.277435
-    },
-    {
       "clave": "porte_armas_suspendido_bogota_cundinamarca",
       "resumen": "Suspensión del porte de armas en Bogotá y Cundinamarca por la posesión presidencial",
       "ts": 1785938125.4590046
