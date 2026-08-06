@@ -1,11 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "porte_armas_suspendido_bogota_cundinamarca",
-      "resumen": "Suspensión del porte de armas en Bogotá y Cundinamarca por la posesión presidencial",
-      "ts": 1785938125.4590046
-    },
-    {
       "clave": "sismo_magnitud_3_1_agosto",
       "resumen": "Temblor de magnitud 3,1 reportado en Colombia la mañana del 5 de agosto",
       "ts": 1785938739.7226055
