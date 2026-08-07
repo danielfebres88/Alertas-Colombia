@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "nino_extremo_inflacion_crecimiento",
-      "resumen": "El Niño extremo elevaría riesgos para la inflación y el crecimiento económico en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONThQSmFidnprSzk0V2VNT1J4TWpETWZrOE8yalQwMXk4NmhIUTFqMHg2b1BOZ29BdTNmMXkwMTlGZUZrSGxibEpQdXVSSjAzazAzaEVsWkxMdGZiendYaE43TFdWSDVzU25pUzBLUzFOVXNsU2t0SzdZdVBBZ0lSWjRCTmRQQXFTWnA0Y0x1S0J5VnJ3Y3lwREpzLTZFM0h1ckZCNzNKQmpwd3BQbDd0YnJRaXVZeXVCWHhYdGY0bVhZYkRfNDdhejJOWWI3a0ZGUVlESGFNQzhyTHVod0gtcU1qVkxRQWvSAewBQVVfeXFMT05tNWd4SnctclZjMzJsc2EzWHFJdk1vXy1GZzVESndqWlJiYVRCcTQzUUZNaFd1VWFxX084NG9vSDFDbnVkT3F3ZW1PbDN0alQxRUxIM2dWN1JsRkZSMU9tVi1KWGJvQ0gwM09FdVZoN0pFSUxZSDcyeTRzUWJhLUlvU3ZCMFZFS0JyVV8tTkM0YVZVWkVtS3ZQU2dJZzktaVNJOGRKWjBYOFJURVJqSzItMG1CcElSZVJqQldFSHcyMllXZlNabzlzM0dmbmltMFpCcHdjdnNnNHM3cFhfWGYyZUhzUVZ2dlpTakg?oc=5",
-      "ts": 1786063895.2397912
-    },
-    {
-      "clave": "escazu_gobierno_hoja_ruta",
-      "resumen": "Gobierno presentó hoja de ruta y Comisión para ejecutar Acuerdo de Escazú",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnZiaWlZQ3g4VEJUNnZ0d2kxVGFGeGJxeXNRNFNveTlrbXl5TTAzTVp1d0VlY0FxSTJabXg3dFh1SHYtOE9wQ2FOdV9wRTM3emptQTAxQVJwWnBVYTFWVmtkaEJjaW5KWUZTMW5qWFRMUzc0emxRdUhaMG9uTHVaNFpWRE50Uk51dmdRN2hJeUp3VzF1bnJEaW0zc2I5RXIzTW5oX18zWHdvSEZRUmpuYjZRNXY?oc=5",
-      "ts": 1786063895.6831455
-    },
-    {
-      "clave": "amenazas_penagos_defensor",
-      "resumen": "Amenazas contra registrador Penagos despiertan repudio y Defensoría emite alerta",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ04zOFdORGZqYWlSUkdGbGpFSnU5UG5FY3prVUp0Um5aOWZPWWI2M0h0UExaWjRUS3ZtQXJBSkVwY1pZWlphdVpUYTY1X1piWk5kTFZicEpyNTFnZWtrNlRBcFR2c1NOOHQ3NmViNHNwQ2pLVmFWNVh0dnlOVktEbFlhVXp3eTI1ZmVlT2xhSS1VUEJSOVV2SEhQejk2NWFQSzRyVktDMXNGcHFSTDA00gG0AUFVX3lxTE5ZZkE1aFhfbFJ2QzB2bUw1Y3NnMFk4cUpSdGJMZG5sRjdaSjU3T0ZtLVJyMTAzRGFYVnhaVC1VX19vbTlNak9ReHU1SHBReWszTGZpNXpfYmxGQ3NqWHMzeXpSZHprdnFHSGtlMXlrNFlHNzMxRGQwSDh1VEwyQUdpRFFTT2xtN1QtYnM1WmlfZDBFWXVXclJQeFBNLUEzSV84dE96ckllSlNjel9ZNUN0eS1UbA?oc=5",
-      "ts": 1786063896.126675
-    },
-    {
       "clave": "nutresa_ebitda_2t2026",
       "resumen": "Grupo Nutresa alcanza un ebitda de $2 billones, creciendo un 32% en el primer semestre de 2026",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWmRKUWlHaExKNHVoU05VQkZwRnF1YTVxUlphMV95eTVfZDkwbkQ5YkJpZHdwY2FUakxuWEVLT1J6aktOcnFzSHo4LUhCcUVGYXUxMUJvcFdIRVAza1FmNUNwUnBJallDemlZWl9xbUxfeFZtaWtoMnpwOXRsLVNJSGVuS05kWmdtTHNPQ1RMMktQdTFoenZ3bXd0X2VOb3hTbks3STdhbElJLXp6Tk9SdVlDRDdrQS03MkpSMGREcnVDbGkyNVRKYkJ1MzZFOTI1c05faEVOdUVVZVdFTklz0gHkAUFVX3lxTE5OM1ZrN1dfYmVHNFRoYTJMRjIyUmFZNVlxdDZFT0pPQlI4Z3NGT1dVRHBoM0RZaGtzSEE1SFo0bGtkOTlNSF8tU2ROdDlhOWVzb29EaTZYMkhmWE9xdDlTUkhwWDFVSFZ6aXhpQlFrVHNNbFBPMWlIbV9pWWVFLVJCNVlLdU9SUUNBcFQ0Tll1dGtrTkVvclUzS01rWFFuWl8tcFJOM09YX2prLU0xZGlhYnk3bmk1NkRZSXlobk9oUk56d1RPZERJWHhqOGx0YVprQTZuQ0w0SzlGNVE0XzhqNlRRRw?oc=5",
