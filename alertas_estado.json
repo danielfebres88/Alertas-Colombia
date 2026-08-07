@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "combates_miranda_florida",
-      "resumen": "Ejército y disidencias sostienen combates que obligan a restringir tránsito entre Miranda y Florida",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVM3UlZCdUp6UXFURldGMVlFdTNEV2FrWHBtWFdMVi15Nl9RbVhBT1ZUdnR3cG9fMEpFdGE5WHNFT2VydmtMX3JqMGtUeTRqd2tSd01tdEZwMW9RbVhwVi1iZExILVZUc1RDZzZVYzM3dUFYRnFUVXM5VWZJVUo3cWRSQWljeTNGUGRYakJ0Uzl0UHA0YzNJakVaWFhValNidkNjU3hiVnB2WkxaUmN5OWh4TmxMak9fM2xuU2FnMExVS1VmcldkWDlXSFlKWExKTjlLMUhn0gHjAUFVX3lxTE1rV0tFcV93QWo4YVhGQ0F3SWROc1BmQ1lCT1dHTzlsQzkxekpiR2pOVTFMOFpzSXN2TmhGTkxLTzg2a1ZOVlJKSm9ZZjEyYWFqd2ZyU0g1aUc5cEF5OHJNT3hfM3E5M2tQTVpLaTBjbkNCdXZyT2lQcXN5d2hNTmJHY0hYYjJ5Zmw4cngxcDNhME1sbGY5TUlsUUJkbC1TNHdMTE1BenBtZTYwTS1hMHZxQVNNTFcwQ3FEd2l2N1FmTkwzMHQ3YTc2ajA2SGw4aEpaaHpidjRyRnNCVUYtb0RzeEpz?oc=5",
-      "ts": 1786025454.2006133
-    },
-    {
       "clave": "tunel_toyo_equipos",
       "resumen": "Túnel del Toyo: llega primer contenedor con equipos electromecánicos para poner en marcha la megaobra",
       "url": "https://www.eltiempo.com/colombia/medellin/fin-de-la-polemica-por-los-equipos-electromecanicos-del-tunel-del-toyo-arriba-el-primer-contenedor-con-equipos-para-poner-en-marcha-la-megaobra-3576594",
@@ -65,6 +59,12 @@
       "resumen": "Mercado Libre alcanzó ingresos trimestrales superiores a US$10.000 millones por primera vez en su historia",
       "url": "https://www.larepublica.co/empresas/mercado-libre-alcanzo-mas-de-us-10-000-millones-en-ingresos-trimestrales-por-primera-vez-en-la-historia-4452249",
       "ts": 1786067584.0797415
+    },
+    {
+      "clave": "explosion_mina_marmato",
+      "resumen": "Explosión en mina de Marmato, Caldas reporta emergencia",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjU5YjFiem4zRDFVSUc4a3BYUmdrMmZtM0NwWE5fLWdQeHJfc25FSEZUVU9VUGFUNjdON1Y3cTRCTGJBQS1CZ0RScFlSYUlwVDlnc2ZnQUdTSnRhUHV4N3U5SVlVVFRPcHcweUZpVmo1MWRfU1JKdTNTMnMxMDl2WEsySnZ6ZFB4NjZ5em9ZOTNvWTJXMEMwYlh0VW9VWW9PR1BSQi1CZFFWRG9LUGlsN3ItaWJFNXRpQV9xQ1hDRWhmRWhzTk9nTlVqWFJ2cGdPTTZZ0gHgAUFVX3lxTFB1X1FqcTFuN1JFYXhQME96dW5FYndXc3ZzUHJ2WmJoWVR3RUhXQ241bHdKamt0LWVtZHVUMHhtc0dfM01QWUV2VjZWN0JScm5kcTFwWnBNTHRqTkJNZVJyYUMtU0ttSHpHcXdpTXlvQjdfcEpJeFZDTVlya3RMb2VGZHNFTWtOZnNxazc0bkpnWXJOeHJIRm1HczZ4OGJWOVI3N0FTbVRaOUVXVzN5RlpkcnctX1pILWJ4THJzLTgzVzhnVG5DV2ZPXzI4M2RDd3lzN0s3Yjc1QnFXN1hUbHM3?oc=5",
+      "ts": 1786068812.4630914
     }
   ]
 }
