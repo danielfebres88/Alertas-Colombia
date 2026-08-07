@@ -1,66 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "nutresa_ebitda_2t2026",
-      "resumen": "Grupo Nutresa alcanza un ebitda de $2 billones, creciendo un 32% en el primer semestre de 2026",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWmRKUWlHaExKNHVoU05VQkZwRnF1YTVxUlphMV95eTVfZDkwbkQ5YkJpZHdwY2FUakxuWEVLT1J6aktOcnFzSHo4LUhCcUVGYXUxMUJvcFdIRVAza1FmNUNwUnBJallDemlZWl9xbUxfeFZtaWtoMnpwOXRsLVNJSGVuS05kWmdtTHNPQ1RMMktQdTFoenZ3bXd0X2VOb3hTbks3STdhbElJLXp6Tk9SdVlDRDdrQS03MkpSMGREcnVDbGkyNVRKYkJ1MzZFOTI1c05faEVOdUVVZVdFTklz0gHkAUFVX3lxTE5OM1ZrN1dfYmVHNFRoYTJMRjIyUmFZNVlxdDZFT0pPQlI4Z3NGT1dVRHBoM0RZaGtzSEE1SFo0bGtkOTlNSF8tU2ROdDlhOWVzb29EaTZYMkhmWE9xdDlTUkhwWDFVSFZ6aXhpQlFrVHNNbFBPMWlIbV9pWWVFLVJCNVlLdU9SUUNBcFQ0Tll1dGtrTkVvclUzS01rWFFuWl8tcFJOM09YX2prLU0xZGlhYnk3bmk1NkRZSXlobk9oUk56d1RPZERJWHhqOGx0YVprQTZuQ0w0SzlGNVE0XzhqNlRRRw?oc=5",
-      "ts": 1786065740.6753678
-    },
-    {
-      "clave": "pereira_reconocimiento_deportivo",
-      "resumen": "Deportivo Pereira pierde el reconocimiento deportivo por decisión del Ministerio del Deporte",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHNTNzVSTU0tdjhPamV6UGhBeDdCNUtfMVFDZUgwbm5wd3N3bGJJamFFQk1vTk85MF80aDRtdWZYUmJINUkxZUp6S0pScGZ2WnpReHloVk1GOUJiTVlwRmtDRFdYTnYyWTk3NGF1OHRtOXo0WmxQUUMtVGFsaGFaNFNFUl83VE5BTVk5MWRaRTl6c295RHdLWHBWYkc0aFRyeUk4MzVSM2hHVVIxRzRXMzYxZHlyRTdNZUpuaE9CRG5vQzc4REHSAdoBQVVfeXFMTnB6U0hqZU9MV2cxRzdxTE1pQlQwcVpNMmNfY18xY3BiaXp4MGMyMzUxUkNwWkwtSlVQcjJVczhkdkpLZThNd1pOd1gzZjNDWm9USlBOV3QyelFkV1pna2h2ckZPVjcwbjRUS0M5UDhqSkFlWERvUlVzYzlnRERHeVA1MWsyci0xQkpac3o5VHJ2WDhXTG1BVWJ0aHpMOThHZW1hQ2tvLWdLUWs2a1oxVWVzVzYxUDhRcG92SVRwYl9JNHJUTGpweWM4ZTRNS0tRTEFTNC1HUkFXN0E?oc=5",
-      "ts": 1786065741.1172202
-    },
-    {
-      "clave": "extradicion_nexos_siria",
-      "resumen": "Extraditados dos colombianos por presuntos nexos con red ligada al régimen de Bashar al-Assad",
-      "url": "https://www.minuto30.com/extraditan-a-dos-colombianos-por-presuntos-nexos-con-red-ligada-al-regimen-de-bashar-al-assad/1715410/",
-      "ts": 1786066354.763102
-    },
-    {
-      "clave": "mercadolibre_10mil_millones",
-      "resumen": "Mercado Libre alcanzó ingresos trimestrales superiores a US$10.000 millones por primera vez en su historia",
-      "url": "https://www.larepublica.co/empresas/mercado-libre-alcanzo-mas-de-us-10-000-millones-en-ingresos-trimestrales-por-primera-vez-en-la-historia-4452249",
-      "ts": 1786067584.0797415
-    },
-    {
-      "clave": "explosion_mina_marmato",
-      "resumen": "Explosión en mina de Marmato, Caldas reporta emergencia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUjU5YjFiem4zRDFVSUc4a3BYUmdrMmZtM0NwWE5fLWdQeHJfc25FSEZUVU9VUGFUNjdON1Y3cTRCTGJBQS1CZ0RScFlSYUlwVDlnc2ZnQUdTSnRhUHV4N3U5SVlVVFRPcHcweUZpVmo1MWRfU1JKdTNTMnMxMDl2WEsySnZ6ZFB4NjZ5em9ZOTNvWTJXMEMwYlh0VW9VWW9PR1BSQi1CZFFWRG9LUGlsN3ItaWJFNXRpQV9xQ1hDRWhmRWhzTk9nTlVqWFJ2cGdPTTZZ0gHgAUFVX3lxTFB1X1FqcTFuN1JFYXhQME96dW5FYndXc3ZzUHJ2WmJoWVR3RUhXQ241bHdKamt0LWVtZHVUMHhtc0dfM01QWUV2VjZWN0JScm5kcTFwWnBNTHRqTkJNZVJyYUMtU0ttSHpHcXdpTXlvQjdfcEpJeFZDTVlya3RMb2VGZHNFTWtOZnNxazc0bkpnWXJOeHJIRm1HczZ4OGJWOVI3N0FTbVRaOUVXVzN5RlpkcnctX1pILWJ4THJzLTgzVzhnVG5DV2ZPXzI4M2RDd3lzN0s3Yjc1QnFXN1hUbHM3?oc=5",
-      "ts": 1786068812.4630914
-    },
-    {
-      "clave": "posesion_de_la_espriella_cali",
-      "resumen": "Posesión de Abelardo De La Espriella como nuevo presidente de Colombia en Cali es reconocida como evento constitucional por comandancia de FF. MM.",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZFVPM295bVBqVDVrcEczQWlldWVYRDd6VDZVdXM2X1N6U1RhNUZqaDJlSlpySlVlSklvMW1RZG1zX2I0eDhJS1E3WTl6TThYUWFCTUotT2txQkpGMUFXUlU0czNIVkJhOHRGNEN1UXZkUW9oaVdPM3IzN2N3UWdOOTViMFMxX292ZE9BbGduaDUzU1E3WDhHNzAwR0hqOUJYRmtlUVBobHowQVlqNFZqLUtOR0hXLTJMQ2VCazdxN1Z3ZF94V3UtbnFrNGdLSmJCQk01bTVNQlgwcHpOQUNsUi01U3R2MVNNRFphWjI1YldDWTZRcjEzVUtYY3dYZ3Z2UXVGZ214VWJuaHctdVZqejVLblDSAZoCQVVfeXFMTXlRM1lfWmNadWVoRktkenc4TWRfMlNpTmxhaGdITnk1NG00SEhpOTBkOEdnYkptQjlHMmxiTENORVc5MzNpZWk4clJzSWU2RzJxMW9YZDNQRUNOSFB0ekNjSUpUN1doekkza0FkV3IwNE1SSFJZOVNadGZ0Mkl3WGcxVlI0TmQ4STFja1lXTkswQVowNmdHdTNwWnR5dXkxdTM0R3J3c2t4ZDNVMGlFU25NRzJCc1RFdmQ2QU9OOGI5azRtY0QxQVpFT1AxQk1nN00tMjZ0SEtpeUxEY25VWVhhMmVHSlVNaGNaWkphUjRPUmhSal93bk9IZm40eVdOb0xsUWxTaDlFMnJrVVdod21JYXFCVVdPRTNR?oc=5",
-      "ts": 1786071883.7549489
-    },
-    {
-      "clave": "decreto_petro_repartidores",
-      "resumen": "Petro expide decreto de última hora que afecta a repartidores de plataformas como Rappi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVZyd0V0R21ZbnUyY0Zxbmpvem5YZnl0d1d2R1hWLUczNm9JeHJOdjNMNGpnS1NkZjV0alEydzZRVlU5RmQzcFhKeGNqeTJ1OEREYXNoNkZycTJ5MTFQbXUtRUFERWFPclJrc3pUckhGVTluNkotN3BRSmE2dUVjY2FubUZDMUUxRnl0aC1aWUlUdGpDOGhEa2Fiaml2NldOX2Nr0gGjAUFVX3lxTFB1VnJ3RXRHbVludTJjRnFuam96blhmeXR3V3ZHWFYtRzM2b0l4ck52M0w0amdLU2RmNXRqUTJ3NlFWVTlGZDNwWEp4Y2p5MnU4RERhc2g2RnJxMnkxMVBtdS1FQURFYU9yUmtzelRySEZVOW42Si03cFFKYTZ1RWNjYW5tRkMxRTFGeXRoLVpZSVR0akM4aERrYWJqaXY2V05fY2s?oc=5",
-      "ts": 1786071884.1849308
-    },
-    {
-      "clave": "irregularidades_dps_nombramientos",
-      "resumen": "Alerta en el DPS por nombramientos con presuntas irregularidades en los últimos días del Gobierno Petro",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOclY4VGdiTWVYYlByT1BlV3hyU2VKRnJscmlQaUs1cUpYVFlyY0kwVno3QnBuLUNXZFQ2WU14VHdoRWZ3ZGQyWU5EUXJnRThMR2V2WGg5UkJtenJ5TnhoQlQ5RGVkNWFYZThsMGhEcmJJaXZEODJ2ZjBacklPcVFZVC1xN2toWXhiOTdOR0RES2VKbVJZNDdhSC1WUHJvS2ZfYVNYd2toaVRLZWdRZ203bm85eGpHUWkwQTRXSnJIMjAzNUowajc0SnBaeEpJTk5PUXB5YVg4VWpNNmxQS1A2WG4xbGpFRDjSAewBQVVfeXFMUGlkbGQxWlI5NzFIZlc3X19qX2FUdHdSYi0tZ0xRYVI3dm1rdUdFd1ZJcmt5dXVURjlpem1URU56ZjZvbWxKQU5fWFBkUDVvekJDck1leWVKMHpyczRBRUwtMjlXdUNpY0lSQm1YU3FfWWZjVkp0T0hqc2VTWk1YZFBpOXphS3dpdS00TGdNWGpRUElDREVlclVIcExtSlNOVlNKVERUZEJRQm9FdHhDbkVmV25FaWgyNXp4Y3RCeUw2WVJzclhub1lvTkN3WlpSbFppUV9OS09ZcEdLVXJuems3UmpXaU1uZjRZamY?oc=5",
-      "ts": 1786072497.485876
-    },
-    {
-      "clave": "ocad_ctei_procuraduria_alerta",
-      "resumen": "Universidades involucradas en OCAD CTeI niegan aprobación express de proyectos tras alerta de la Procuraduría",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFUzdV9COXB5WjVNcDJFamZZbDdPVmlsdnRjQlV1X3J6WEt0TjVSdXRIVVBZSWlXQzVXcU5wWU9sVnRwZDltZDJib3pOSWt4eGl3RXQteFJzTk9UUlI4UDNtTEV6REx5LWxQUzNTYjFjanNMWU9LQTFWbjJOQ083QnY5R3BJcVVDd3psRjNHeWhGMmhnenVBSUxoS2hTZ0JoOUhVWFJ1LU02aVBsNy0tc3lvb2tKV1c5bTZtOdIBwgFBVV95cUxQUF9NZ3JqQzZkTFIxYjF5R3p2T185UzN2VS1QUmplLTB3VGNNSW1YZlBoQW5HTXJaZDhzdUc0RUhQai1ZU3NoY1ZSTzEwNzAyTzZMdnZrTjdmbG1ac1BlNWdtbzFzNEY4NEh4VW9IY2MwMlVfeHVLTDBWYV9LUExkdGQyZVpKUGloUWUwWFpGazh3Y2JFclotTUFyRFdyUlNHS29KZkJJdUFGb2pnNFkweWFqTUhIQUlBb1lrU0gzSkU5Zw?oc=5",
-      "ts": 1786072497.9283123
-    },
-    {
-      "clave": "propuesta_precios_automoviles",
-      "resumen": "Precios de automóviles podrían caer por propuesta presentada al presidente Abelardo De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWJnN0dxczZkOEF0Z3l6d3R4cmhnb1V1UmtLVTc4RXJrLVpxUzFpaC1NOEJtZlZ4emdDR2NrX3pfbi1CaUJHb0pXcTVfUjdFNUVZZVQzMTc5TmhJYV9MRzJ3ZXBmUldoYmIzVXVfZnVjY01UeE5mMExwMlNESUxFOFN4aUJjazMxazU2Nk5aTHLSAZABQVVfeXFMTTJXeUFveFpmT0xvOHNRRjYxd3Fha0NEUWE5bXBmX2RjeWltbVVHTjZIUTJQd2hQeEYxQUFIb2RGTDV0Zm1FNmhxamJVdHl5bVpFbmE1Y0RwdUVhN2tFcnR4TmtLZFN6cU1EaWtQeC1EYlRVTWw5UVh0OWdoMzBsWXVZZHluZjN6V19mN09zOHZr?oc=5",
-      "ts": 1786074399.6992946
-    },
-    {
       "clave": "banderas_rojas_economia_gobierno",
       "resumen": "Nuevo gobierno De La Espriella hereda cinco banderas rojas en materia económica",
       "url": "https://www.larepublica.co/economia/las-cinco-banderas-rojas-que-hereda-el-nuevo-gobierno-en-materia-economica-4453273",
@@ -77,6 +17,18 @@
       "resumen": "Sismo registrado en Colombia la noche del jueves 6 de agosto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-noche-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576833",
       "ts": 1786097738.0409622
+    },
+    {
+      "clave": "cilindro_bomba_popayan_posesion",
+      "resumen": "Hallan posible cilindro bomba en la variante norte de Popayán durante la posesión presidencial de Abelardo De La Espriella",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNVpaZXBQWTdtZWVCU2FLRjFSVDBxZmFuUHdOamt2SkVvZUVwZlZtUktydk5BTDdKb1NwWG9tbG9FQS1VZkFpbnRnUmNPSVhaa2M3VDIwb0NEZ1JTakNJMlRBdUk3Zm9lSFIyTFZ5aFVYeGdfb25Ea2NiNk1HU19xQWdWNEd6SlRKOU1hbGRLdGlmcGhMU25kVWh3NnFKQnJmN2M3RDItNW5SbjloSE5hME5XMjUwLXlkMXFMQVFWeGNJYkVRNFBMWVdxQ0ZWQkJ1cjBBMzJkaHFXTzZzOWc1elRnNXc0YlJZTnJmRXpwU0d6YzNHV0t5M2ZmRUY0MTgzUWhIR3Q1T0lkMEhxV0pR0gGUAkFVX3lxTFBfWEMxbk5FcDBWTlpBR1lvVDZ2cjVJUElER0pCYnl5Q2FhOHowTkN2dnJBaFk4a0EyN3laQ21FZWllZklPYXZYbnQxT0FIRnRUeXVDTzlqcF8tZDJ4VnZWTmtrUFJTVm8tR2g3TU1YTXpFSlpCbkgxUEU2U1FFbVhWUkFiVGIycGdLUmFQSlZZd0VhWVNmM0s5UnU5eFI0TDZyLWxUV2MwLUhMVm1vM1RTQTVmc2t4dzVheGpudTlSRVMzVW9UdVlwVTZXTEliRGd6LVEyVlhOUVB3YUNOX0tjM3g5YWkzNGVKckFRMG9xWHFjRVdTYnJMbjNzVlhNdFpvODVaTXJlaGJlVUtuSEU1NzdubA?oc=5",
+      "ts": 1786122980.8232062
+    },
+    {
+      "clave": "eeuu_reunion_gobierno_espriella",
+      "resumen": "Delegación de Estados Unidos marca línea dura en seguridad y justicia en reunión con gobierno de Abelardo De La Espriella",
+      "url": "https://www.minuto30.com/seguridad-y-justicia-la-delegacion-de-ee-uu-marca-su-linea-dura-en-reunion-con-el-gobierno-de-abelardo-de-la-espriella/1715426/",
+      "ts": 1786122981.2916691
     }
   ]
 }
