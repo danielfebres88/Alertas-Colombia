@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "banderas_rojas_economia_gobierno",
-      "resumen": "Nuevo gobierno De La Espriella hereda cinco banderas rojas en materia económica",
-      "url": "https://www.larepublica.co/economia/las-cinco-banderas-rojas-que-hereda-el-nuevo-gobierno-en-materia-economica-4453273",
-      "ts": 1786080580.9986534
-    },
-    {
-      "clave": "alerta_caudal_magdalena_cauca",
-      "resumen": "Alerta por caída significativa en caudal de los ríos Magdalena y Cauca durante la última semana",
-      "url": "https://www.larepublica.co/economia/alerta-por-caida-en-caudal-de-los-rios-magdalena-y-cauca-en-la-ultima-semana-4453309",
-      "ts": 1786080581.4188833
-    },
-    {
       "clave": "sismo_colombia_agosto_2026",
       "resumen": "Sismo registrado en Colombia la noche del jueves 6 de agosto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-noche-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576833",
