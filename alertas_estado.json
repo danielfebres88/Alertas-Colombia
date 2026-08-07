@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismos_5_agosto_2026",
-      "resumen": "Dos sismos se registraron durante la noche del 5 de agosto en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-dos-sismos-se-registraron-durante-la-noche-de-este-miercoles-5-de-agosto-conozca-epicentro-profundidad-y-magnitud-3576559",
-      "ts": 1786001913.0949645
-    },
-    {
-      "clave": "sismos_6_agosto_2026",
-      "resumen": "Sismo de magnitud registrado en Colombia durante la mañana del jueves 6 de agosto",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-manana-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576566",
-      "ts": 1786014360.2284753
-    },
-    {
-      "clave": "caf_cdf2bd03198d",
-      "resumen": "Presidente ejecutivo de CAF recibió Doctor Honoris Causa en Barranquilla - caracol.com.co",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSm5CNVJlQnpKOF9PZlJDU0thcW5LZ1Rmb04zWnRYX1lxVWhPQ2pVOFZ3ZTVkMUtiWm1uSFluZEZEMVpUekpMM2ZKdXFtMzVwUEl2U091ZGVGOUtiU1kzbmRydTUtUC03aXpQSHJSbmMyZVEtUUFsRzJlSzhLSWdtUkJuR25SOGEyVlRSSmg3NTExTk5fNnNsdXJmdmE0V05sd04zVUk5UDNkNGPSAb8BQVVfeXFMTl9CZnJTZWEzcEtZUXFLbm90bVJHWkJQbHNaRUxrTTBLcmRUY2R2TFVFY0NnM0txMGxQMXNTMGc4b3d1V01YQktDLWVNaWZ5czlORGJWek9vbFhBVW5nUGRBNVhmTVhYekxWMjhnRzdsbUJwZVRQMjdadUQ4ZmxYN1o3dl9LdVNJOXNwQU13ZXJraVBWMEFTUEVLWndxRlZrRVVqdEg1RndydGRRazBzUjJvRGFud0Nmd0Q2eWwtOTg?oc=5",
-      "ts": 1786016204.5413122
-    },
-    {
       "clave": "analdex_demoras_importacion",
       "resumen": "Analdex alerta sobre demoras de hasta cuatro días en registros de importación en Colombia",
       "url": "https://www.larepublica.co/economia/analdex-alerto-por-demoras-de-hasta-cuatro-dias-en-registros-de-importacion-4452464",
@@ -71,6 +53,24 @@
       "resumen": "MinHacienda del gobierno De La Espriella calcula recorte de gasto del 1% del PIB",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnhJMHByd1JSdkdTTlpXZ0xfaVBiU3lUYTFkWjRMRVlpTzd6ZGxzSE1DQWlhU3IzSDJ4MndvdVBBSXdqcTNmWk1FS054RkRkTndocnd0dDVSOWl5ekgtS1l0UGN6VFRBb1VQb0hQSjlER1NNT01femZKWGxEOWE0enExQ3dpMlBiYjlFVGFaVVMzNkwxclpyRlZtZnlHRkF4SHJz?oc=5",
       "ts": 1786026683.9961154
+    },
+    {
+      "clave": "nino_extremo_inflacion_crecimiento",
+      "resumen": "El Niño extremo elevaría riesgos para la inflación y el crecimiento económico en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONThQSmFidnprSzk0V2VNT1J4TWpETWZrOE8yalQwMXk4NmhIUTFqMHg2b1BOZ29BdTNmMXkwMTlGZUZrSGxibEpQdXVSSjAzazAzaEVsWkxMdGZiendYaE43TFdWSDVzU25pUzBLUzFOVXNsU2t0SzdZdVBBZ0lSWjRCTmRQQXFTWnA0Y0x1S0J5VnJ3Y3lwREpzLTZFM0h1ckZCNzNKQmpwd3BQbDd0YnJRaXVZeXVCWHhYdGY0bVhZYkRfNDdhejJOWWI3a0ZGUVlESGFNQzhyTHVod0gtcU1qVkxRQWvSAewBQVVfeXFMT05tNWd4SnctclZjMzJsc2EzWHFJdk1vXy1GZzVESndqWlJiYVRCcTQzUUZNaFd1VWFxX084NG9vSDFDbnVkT3F3ZW1PbDN0alQxRUxIM2dWN1JsRkZSMU9tVi1KWGJvQ0gwM09FdVZoN0pFSUxZSDcyeTRzUWJhLUlvU3ZCMFZFS0JyVV8tTkM0YVZVWkVtS3ZQU2dJZzktaVNJOGRKWjBYOFJURVJqSzItMG1CcElSZVJqQldFSHcyMllXZlNabzlzM0dmbmltMFpCcHdjdnNnNHM3cFhfWGYyZUhzUVZ2dlpTakg?oc=5",
+      "ts": 1786063895.2397912
+    },
+    {
+      "clave": "escazu_gobierno_hoja_ruta",
+      "resumen": "Gobierno presentó hoja de ruta y Comisión para ejecutar Acuerdo de Escazú",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnZiaWlZQ3g4VEJUNnZ0d2kxVGFGeGJxeXNRNFNveTlrbXl5TTAzTVp1d0VlY0FxSTJabXg3dFh1SHYtOE9wQ2FOdV9wRTM3emptQTAxQVJwWnBVYTFWVmtkaEJjaW5KWUZTMW5qWFRMUzc0emxRdUhaMG9uTHVaNFpWRE50Uk51dmdRN2hJeUp3VzF1bnJEaW0zc2I5RXIzTW5oX18zWHdvSEZRUmpuYjZRNXY?oc=5",
+      "ts": 1786063895.6831455
+    },
+    {
+      "clave": "amenazas_penagos_defensor",
+      "resumen": "Amenazas contra registrador Penagos despiertan repudio y Defensoría emite alerta",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ04zOFdORGZqYWlSUkdGbGpFSnU5UG5FY3prVUp0Um5aOWZPWWI2M0h0UExaWjRUS3ZtQXJBSkVwY1pZWlphdVpUYTY1X1piWk5kTFZicEpyNTFnZWtrNlRBcFR2c1NOOHQ3NmViNHNwQ2pLVmFWNVh0dnlOVktEbFlhVXp3eTI1ZmVlT2xhSS1VUEJSOVV2SEhQejk2NWFQSzRyVktDMXNGcHFSTDA00gG0AUFVX3lxTE5ZZkE1aFhfbFJ2QzB2bUw1Y3NnMFk4cUpSdGJMZG5sRjdaSjU3T0ZtLVJyMTAzRGFYVnhaVC1VX19vbTlNak9ReHU1SHBReWszTGZpNXpfYmxGQ3NqWHMzeXpSZHprdnFHSGtlMXlrNFlHNzMxRGQwSDh1VEwyQUdpRFFTT2xtN1QtYnM1WmlfZDBFWXVXclJQeFBNLUEzSV84dE96ckllSlNjel9ZNUN0eS1UbA?oc=5",
+      "ts": 1786063896.126675
     }
   ]
 }
