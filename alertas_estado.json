@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "lista_grupos_narcoterroristas_espriella",
-      "resumen": "De La Espriella publica lista de grupos narcoterroristas para combatirlos con la Fuerza Pública",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHhfSUNpbGtzZUMyWlVhaW1oRmtESjMxN1k0dHA3NTA4VlZhVDd3eWM4WENjZ3A4ekxDUHZTMm5UTnNWb3p0eFhYcjIxZmllZjhoSTFUVlZUM1hneEFXbjBzTnBDbTU0THMtVFRVUlpsWTlUdXZNRDU1dndZRGd5X20zZ2pCU0dnT3VuNE04Z1lJQlB5ZEloV3BQTlZyRVVqLVdfQmZmNFVqS1NVbjc2Q2VKREM2enNuYlBhU0VhaDJPc3diZjctcnJEUDZrMjTSAdwBQVVfeXFMUDhtYWluMndKUUhvZ0VjekU2bUFwX3YzUVNCQlotek01RlhkWTN1YjZNZFAxNmczamVsZE5nbUdvTmRnanM1UkZBazNnaGZNbWNzMlFfczh0U3lqUXZiWlZ3N3BxeFRfRmpDbXdVU3k1eDBOZ3JuVDBHcm05TVotR3dQWllYVDF4VTVKNWFNdEJ2Vm5YZ3J6RUxRTGRNaWgwNXRJZTlvWGQ1U2EyUDBFLVREa3pPeEdLdWlGZnktdnQwcGExWkxvY3pZUWhSaWtNT05Fbjl5TEFwSXlwdQ?oc=5",
-      "ts": 1786152087.6502268
-    },
-    {
-      "clave": "politica_exterior_exportadores_espriella",
-      "resumen": "De La Espriella fija rumbo de su política exterior priorizando exportadores",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRk5lQzljV0xxOWl3SFdnUkpkNDFzVDBYT185bTAwQXhUUWFRNEdZNDFQZXV1WEJ2YXFLdGpzeDF2UHM5dVc4QUxRclpXRmJFclNHV0xwaHJtNnRXLUQyX01TRUhfejJkTTlOOURSbC1wZUpJa0dCeC1GUzBjWHA5SjNxZVRGaFFPYWxYQ3BRWTZrNkF1czJiS0YwbklBRUFQLVBuUjhyRjRkSUFlWHFEVjlIZWpQekZHajBLMm1PeFRIcVZnVTU0UWxvU0duZ9IBzgFBVV95cUxQbXVGaU9XTk9MMmRaVzAxRlplSUtYU3dCeHNhdHp6UWw3b2JxQVpmU1daSzlfUGY5eGZzdHg1UEV5czVGVVp0UW5ZaHRGRjNscVZSMm9Nd05LaGlKdEpBcFByTXI4SXdvcWpSdEZ1cmhJbjI4TWpXOUc0bFVCVWI2TTJES0dWWjVjS0M4Y2VjUXV3NF9VYXVCUEdEdWRJVGo5UE5VU25sV1N0b0I2VldnWkZLV19mRGcxODJLOU9DbG9JOW5CdnFoMmh2MUxadw?oc=5",
-      "ts": 1786152088.243971
-    },
-    {
       "clave": "fracking_sostenible_espriella",
       "resumen": "Presidente Abelardo De La Espriella anuncia 'fracking sostenible' en varias zonas del país",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3M0M0l4QXAtejhrdVFQZUhBcWhjdWJqM3FVR0Fsb3Fza1F2LXFpTlZCSDlWODVFVmlfMGdabnRGRHFHdzFlNE12SXNNZkFXWnNWX01QVUJJT1V2bUZNQUNyR2NTZ3RrSldsc01tM29WZDRrdFp1ZGkyX2QzeWowTzJZNmtxNlhnNy1BUlFPSW55VGFUMlV3Q3hyV1dRMEUxNG9nbE91a1ZUNzhUUGxRVzlOVEpFNHRDc1lZNm9UX0tweDRG0gHSAUFVX3lxTE1yZWNrVDlkZFJiaTR1WDM1NmhCYmlQcVA2QnZLdklPanlERVRZWFJXS25Uc0F5QkprV0NXRG5WejU5X3NnZV9IUTNGYWRKMFQwcS1PVl9iZDJkTHdzN1I2UnRLYlhUSW5MbU5jX1JKZ3E1VkZvOW5mUWUxbzVfcURpZDlKbmNJTnNkM2l2ZFhEWmdDVzJTaHZTaU4zMHRoakJ1R2dkUUZNS3ItbG92emp0UWFiZTVpbWJaSnlMS2paMnRRcV9yc3FMRWk0OTN0amh6QQ?oc=5",
@@ -137,6 +125,24 @@
       "resumen": "Abelardo De la Espriella posesiona a los 18 ministros de su gabinete",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1RZOHdrU2Y1RmlWdGlLS2szZUNzX3lfS2ppOHZSUDJ2NnlfS0sxVlJVOTc2WHMwa2k1VW8tNzlDUjZCNUJ4WlR0ejNmbXh3blFpRHVMV2FOZHpMY1NEWkdTUVMxS0pJd1J4U1hPaTNVdDd6MlpGOFRJdndGSmFUbVR5SGhQam53YlFxMExUTUVia3BL?oc=5",
       "ts": 1786194631.6910048
+    },
+    {
+      "clave": "asistencia_seguridad_eeuu_mil_millones",
+      "resumen": "EE.UU. planea brindar asistencia de seguridad por US$1.000 millones al nuevo gobierno colombiano",
+      "url": "https://www.larepublica.co/globoeconomia/ee-uu-planea-brindar-asistencia-de-seguridad-por-us-1-000-millones-al-nuevo-gobierno-4453794",
+      "ts": 1786195887.5915391
+    },
+    {
+      "clave": "ataque_explosivos_mandiva_agosto2026",
+      "resumen": "Nuevo ataque terrorista en la vía Panamericana destruye peaje en construcción en Mandivá",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXhxR3FRQVZCbmdibUJqNmNlNmlyY2g3ZXVDYVRJQlRFY2FlU2IyVHpLNXNlUU5peWU5YVdnTnZ5QU1SU0tMY2NCRXVQNXJQdTgtVkNBVHdXamZjSHBCLVQ4NDNkOHZpNHhfdXlQek44b1dnUzFBWlFZZmFRM1NveVlNYmJkU0p1R1Y0aHZ3d3lxN3RWMWRsdFl6c2pBRlk3RlpxRXpvN2gyX0F3NGV5WTExdlp0ZTdfV05lODJ5SWhSUHQzVjBReWRWM2lYOGhYUWfSAd8BQVVfeXFMT21xMUs0cHQzNnlpRUR6OEJUZl91cTc4cFhKVXhUdGhrZ2pFUm1mM21zNUJmaDNRMkI1WmF1dl9HdHlWeGxpbmFsdjFCMXVaaVhuODlIdEt3ZWl5Nk5jc3BEOXRwNWR0YmhFMEZrUm93QVI2VE1qMXViN0Rlc0o3SkVSQUE3c2U5TWJNUXVFQkZFWkNwbnY1OXdwbkdlOW8yNTdNMlpWRWJJSDVFeV9lbDJTaTFjUGZramhsTkNUQjlsZ09WZnRyT3FDS0praXFvYkNIaVdkQ2ZKSEtYYzVUOA?oc=5",
+      "ts": 1786195888.1926656
+    },
+    {
+      "clave": "traslado_cabecillas_itagui_posesion",
+      "resumen": "En plena posesión presidencial fueron trasladados varios cabecillas de la cárcel de Itagüí",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeXVJYVB4Y2s5U01NOHRlZWtXYnAxRkIweGZ3eWVmdzh3eG5KcVlkNTRPdzUxQ3VNWUVpU1RUYU9sUk1zaWdEaXEtd3Bnc0tQME9DOS1HMlpIVTFTVGc1QUR3T2tERFZKZzNIWHB1TVY4NHk0SEg2bkFoWkdJQlE0RmcyN2tHWEx3WE03Qy1LbmduNVAtdGtkMjJ1LVB5blJWN2h0VFlWX2g1czY1TlVlSTVnR2Q4MFNEN3dVa2RBVmZ1cDNXNTFpbE9uaFl0NWpTekZLMXJn?oc=5",
+      "ts": 1786195888.7734962
     }
   ]
 }
