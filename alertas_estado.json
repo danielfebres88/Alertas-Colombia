@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "traslado_cabecillas_paz_total",
-      "resumen": "Ordenan traslado de cabecillas de Medellín que negociaron la Paz Total con Petro",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlcwcEQwNXNzQWpFVmZmQmRUeVF0amZ4S2pOb1ZfUkQ2ckViVjlQX0wxeXJaS2xIeFlIWWYwRFZDNXNlaExhYVdhNFpsNk5IU1hBQjFjRnpMc0ZrSzkxTVk2ZmpLanRiUnN3QW9FclNtMnBzQUZ2SG84NXdVU3AwcGs2M3VpMm9FR054UVBVU0dxdmZJODI0MVRZbzlYeGlwSkoxZU51NjZYNjFHc0RTN1F0VlZaVld5SHhXMTlscWVCTFRwZ2FoWjdsWVPSAdIBQVVfeXFMUFMzekdYam9IaTBQTmQzM1YtQW51NUEzTGFnVVRUdEtLV0R6QlM2OUZUTGZDclBUMDhfN0RLYkFJS0tlOGhaaHF5aEdORjZieFFfenJGZ0czbmFQaFppY09QaXVNUkpkSmZFeUJzWkVNTllTU1k0RTliNDBQb2VHMDIxNnZkUjZjb3FwaHlHSVRRa1cwUHRGRFk1VHVQT2pyZGdhcWxzUTNKZDlHclBweVhsbV9iOVZ3NllDamNZdERJVlB2NlJsaEtjcWZRdUFZaDlR?oc=5",
-      "ts": 1786134052.7545578
-    },
-    {
-      "clave": "deficit_espriella_70billones",
-      "resumen": "De la Espriella tendrá que afrontar un déficit de 6,4% y un ajuste de $70 billones",
-      "url": "https://www.larepublica.co/economia/de-la-espriella-tendra-que-afrontar-un-deficit-de-6-4-y-un-ajuste-de-70-billones-4453675",
-      "ts": 1786134053.1998389
-    },
-    {
       "clave": "ataque_drones_explosivos_guadalupe_agosto2026",
       "resumen": "Drones cargados con explosivos atacaron puesto de Policía en Guadalupe, Antioquia",
       "url": "https://www.minuto30.com/alerta-en-antioquia-drones-cargados-con-explosivos-atacaron-puesto-de-policia-en-guadalupe/1715447/",
@@ -137,6 +125,12 @@
       "resumen": "Alcaldía de Cali ofrece hasta $50 millones de recompensa por información sobre pirómanos tras incendios en Cristo Rey y Zoológico",
       "url": "https://www.minuto30.com/hasta-50-millones-de-recompensa-cali-declara-la-guerra-a-piromanos-tras-incendios-en-cristo-rey-y-el-zoologico/1715480/",
       "ts": 1786173097.9860122
+    },
+    {
+      "clave": "volcan_purace_ceniza_agosto2026",
+      "resumen": "Volcán Puracé registra fuerte expulsión de ceniza y mantiene alerta naranja en la región",
+      "url": "https://www.minuto30.com/volcan-purace-fuerte-expulsion/1715486/",
+      "ts": 1786177402.5833297
     }
   ]
 }
