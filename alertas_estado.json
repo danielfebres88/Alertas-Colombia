@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_colombia_agosto_2026",
-      "resumen": "Sismo registrado en Colombia la noche del jueves 6 de agosto",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-noche-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576833",
-      "ts": 1786097738.0409622
-    },
-    {
       "clave": "cilindro_bomba_popayan_posesion",
       "resumen": "Hallan posible cilindro bomba en la variante norte de Popayán durante la posesión presidencial de Abelardo De La Espriella",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNVpaZXBQWTdtZWVCU2FLRjFSVDBxZmFuUHdOamt2SkVvZUVwZlZtUktydk5BTDdKb1NwWG9tbG9FQS1VZkFpbnRnUmNPSVhaa2M3VDIwb0NEZ1JTakNJMlRBdUk3Zm9lSFIyTFZ5aFVYeGdfb25Ea2NiNk1HU19xQWdWNEd6SlRKOU1hbGRLdGlmcGhMU25kVWh3NnFKQnJmN2M3RDItNW5SbjloSE5hME5XMjUwLXlkMXFMQVFWeGNJYkVRNFBMWVdxQ0ZWQkJ1cjBBMzJkaHFXTzZzOWc1elRnNXc0YlJZTnJmRXpwU0d6YzNHV0t5M2ZmRUY0MTgzUWhIR3Q1T0lkMEhxV0pR0gGUAkFVX3lxTFBfWEMxbk5FcDBWTlpBR1lvVDZ2cjVJUElER0pCYnl5Q2FhOHowTkN2dnJBaFk4a0EyN3laQ21FZWllZklPYXZYbnQxT0FIRnRUeXVDTzlqcF8tZDJ4VnZWTmtrUFJTVm8tR2g3TU1YTXpFSlpCbkgxUEU2U1FFbVhWUkFiVGIycGdLUmFQSlZZd0VhWVNmM0s5UnU5eFI0TDZyLWxUV2MwLUhMVm1vM1RTQTVmc2t4dzVheGpudTlSRVMzVW9UdVlwVTZXTEliRGd6LVEyVlhOUVB3YUNOX0tjM3g5YWkzNGVKckFRMG9xWHFjRVdTYnJMbjNzVlhNdFpvODVaTXJlaGJlVUtuSEU1NzdubA?oc=5",
@@ -119,6 +113,30 @@
       "resumen": "Drones cargados con explosivos atacaron puesto de Policía en Guadalupe, Antioquia",
       "url": "https://www.minuto30.com/alerta-en-antioquia-drones-cargados-con-explosivos-atacaron-puesto-de-policia-en-guadalupe/1715447/",
       "ts": 1786135899.3721426
+    },
+    {
+      "clave": "ataque_explosivos_pasto_agosto2026",
+      "resumen": "Artefacto explosivo lanzado contra sede de la Policía Metropolitana de Pasto; sin víctimas",
+      "url": "https://www.eltiempo.com/colombia/cali/un-artefacto-explosivo-fue-lanzado-contra-la-sede-de-la-policia-metropolitana-de-pasto-no-se-registraron-muertos-ni-heridos-3576956",
+      "ts": 1786151471.4041162
+    },
+    {
+      "clave": "traslado_cabecillas_itagui_agosto2026",
+      "resumen": "103 presos trasladados desde cárcel de Itagüí a otras prisiones; incluye cabecillas 'Douglas', 'Carlos Pesebre' e 'El Indio'",
+      "url": "https://www.eltiempo.com/colombia/medellin/103-presos-fueron-trasladados-desde-la-carcel-de-itaguei-a-otras-prisiones-del-pais-douglas-carlos-pesebre-y-el-indio-seran-reubicados-3576912",
+      "ts": 1786151471.9932573
+    },
+    {
+      "clave": "eeuu_apoyo_1000millones_espriella",
+      "resumen": "Estados Unidos presentará paquete de apoyo por USD 1.000 millones al Gobierno de Abelardo De La Espriella",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG9fNlpVUkVpSE1EZjRydWdaMlg0UmV2Vk5Hc2ltR3FRc2Nxc096SHY4VU8tQkhrV0RKSE9HNFo4eFBXNzBlR3RRWVlDSENSQ3J3c3ZydG05MmpST2txZ20taTROWkZYUUdONy1DaHp2VUlFTFgtZTVaT09UdVJ5bEhSNFVkdzk0ZFpCX0xVcGU3blZ2Z1RHSE9uLW1famp0bmVvSHJ4Yl92TTZVa1BwbmszRzVveWk3QWo2dHhNVGRDWThmeWhGM0xtRdIB2AFBVV95cUxNQi10RlF5YVdfckFfRXVndXdCelZycWVHQzBwSDNwbkpRUk9YNnI3R3pZRXljcXk2bHJJTUFueURqam5RbEk1V2JEOHA2bXRjckhOdGNQUHd3WlpmRjBjakxUcDVIaFk5OHJiMlRYUEo3LU8tVTctUWZ4eEFmakcyNDFvZ2RuZDc4bzJpTS1NSjU3SG01ZmtJS0hZRFFCTnJ0QWdGblM0dUhpWTM4bEtuTnREd04zaHJrMGV1dWp4TEtHbzd3emlQNEpjV3BrX3dGbGduRGlNXzM?oc=5",
+      "ts": 1786151472.5895424
+    },
+    {
+      "clave": "reforma_tributaria_espriella_agosto2026",
+      "resumen": "Abelardo De La Espriella anuncia reforma tributaria y eliminación del impuesto al patrimonio",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZlVkOGFHOWdFREozSWJ2R3E4YlRIMXNkR2VVRzVWTDhBeFRObjFfbXJzTHhUcWRkS2k0Wkp2Y2V3TVhJaFRuODBUamRfX3YzWmlQOGgzYjRLSVNubTE1aEd1ZTl1VUljWDM5aGxZbC1nNHhGSjIwOUlHajZGcldZMFcxTEtUaTEyMVpHMGFyTEhVYWdSTVlMMnhNU1lkQjJjc2g2ZWdQNHg?oc=5",
+      "ts": 1786151473.1684332
     }
   ]
 }
