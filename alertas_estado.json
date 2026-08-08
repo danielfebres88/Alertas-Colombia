@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "masacre_antioquia_agosto_2026",
-      "resumen": "Semana reporta nueva masacre en Antioquia: tres hombres asesinados a disparos",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdlU1dm11T3RlU2h6S1BnRXh5bkU4Sm9RdzJucjdSY0U1UnJjRjVLUUxMX2N1SGxSWnBObWdMSGxRNVVjWVVpdVVzTXJtZW13OTZFSWVUVEJOQ2xQTUVUVDIzZXlSY1FBcDB1cEVsNC04R0h2UUdvN2ktWmkxd2lhbVF3Zk5CeGpEOEw0WWNKZVNuYkNKdmdQeUxTR2FkM3pudmZlb0ZCSEZjSTBFR1Y0b2w0c3NyVnBSNE1NOE1BYTNkQmc1M0VHa2RRWll6a2pHaFVOaUtPX3VDcE5jNV9MTjBR0gHnAUFVX3lxTE1FOWRIWHR0TU9HQXoxcS1mc2dLandsRFlSZ3UtVmtuNGdzZmNual95VmZGTWZlN1hHQmhXWmRyLUdPT2dCXzdOdWRrUFdabUdaTHpSdEtKdUdlcjRjWEdWWGtsQWxZMnFObTRLZS1zRFk3eEZOeno2Nlkya0MtZS1hd251SGJ3Ykk5ZW5hZWx0WEVodkJMTU0zel9ZNmI5emxYcm9qLUQ0TlpfU3JHN1lEajRIUlF3UDV2S2l6OGRWbGhET1NCVmhjOUh6T0dmbWtUM3hLZkxRNUR5djFQdS1Zd0JIMU5JVQ?oc=5",
-      "ts": 1786129751.9279835
-    },
-    {
-      "clave": "oro_colombia_7agosto_2026",
-      "resumen": "Banco de la República: precio del oro en Colombia este viernes 7 de agosto",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTdjVW1HZ3F5aVhsY2ZnVUwwQUlBMlZpZTB1ZjVqVVROQnVsVTRpdXFxZVlINHNJVUhTdkxQVmJhakNEVXlTdGJZQlMwZ3J3M2d5eGlicUppZWE5aFBwZng3Mkdza3JOWkY0elhnc0J1T2Y3dWsyTkxJVWJ1Tk4yQlB5Y2ZDSXhkV1ExV2IwT2VTR1l4Mlg3Y2hOX3pmTnRNaUlKbXA4SUNoNTItUFI1VS1rbEdOYnVnMmfSAdQBQVVfeXFMT2JwdFZHRGlLbURfYndlSU9YQl94Q3NDUm43ZktCU3M2YURTQnNDR1lKZjdxZGxLYS02aG1aUDRSay04b0JyYWJ0VXRidk16Qk53YWVqbWxsbVgwQ2ktaVNGVGwxbFJZRHpKM0VVczZnTEYxaWVna2NlY3dUSU1GYmtDamZuZHY3bXNpdEZjdm1YVDNMb1lteDlYUjM0M3JFTGRTM2xNUFRrZXplVFJEbDFtd2R2bGxHQmtkenNQZVNWRHk2eTcyeUF0TmNrY0tSUzRQSDE?oc=5",
-      "ts": 1786129752.3576593
-    },
-    {
       "clave": "tiroteo_adolescente_antioquia_agosto_2026",
       "resumen": "Adolescente de 14 años habría asesinado a sus abuelos y desatado tiroteo que dejó cinco muertos en Antioquia",
       "url": "https://www.minuto30.com/aterrador-adolescente-de-14-anos-habria-asesinado-a-sus-abuelos-y-desatado-un-tiroteo-que-dejo-cinco-muertos/1715435/",
@@ -185,6 +173,12 @@
       "resumen": "Presidente Abelardo De La Espriella advierte que \"la opción del diálogo está agotada\" con estructuras armadas",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUs5ZGhia1Q0M2prT052Yjk0Y2dFcHBVbWNjZE1RWUdYRFJuZFROTmduSENJYUV1MC0xNWo4YWhCN21wbExmbnVHbnd2dTh1TDh6eGFXa3p0X3RpX3pTZ0g2QTBCUUtKaHBrVHBQaVVXQV8tNjBRaHlpZnl3LWgxUE1fRWpOODVSRVdGc2R1QmFDOWphYklFTFZqeVZsZGFzSWRMcFpHMnBmTkNFZ25GYUE2ZWgzbWZMNjdyWTZlTktiMVNRQVHSAdoBQVVfeXFMTjdiNE5PWlM3Wks2NWxpcThDMU1jRklJSWFzLTh5Mjc0anVadDhfR3hzbGVkcHVsZlhDZXlEOXU4RUFwVF9keTdhaDhyem5vZDJIbWNTc3IzbUxySm5iU3V2SnB3Q0FBbkNOUjhtWEt5MFNCUWJpblFSdHA2WnZYUWFWcEx2Z3dnbzZZTnpfMFktTUZ0WkFaeFpwUE10SUdOWTdHTkdIdS1XZ2wwSGtFTG9ZWHVpcDY4T1diQUdmYzRhZWNpSVcwd3pTekdUT3RSQXd0NE40c0k1WWc?oc=5",
       "ts": 1786170026.0492144
+    },
+    {
+      "clave": "recompensa_pirómanos_cali_agosto2026",
+      "resumen": "Alcaldía de Cali ofrece hasta $50 millones de recompensa por información sobre pirómanos tras incendios en Cristo Rey y Zoológico",
+      "url": "https://www.minuto30.com/hasta-50-millones-de-recompensa-cali-declara-la-guerra-a-piromanos-tras-incendios-en-cristo-rey-y-el-zoologico/1715480/",
+      "ts": 1786173097.9860122
     }
   ]
 }
