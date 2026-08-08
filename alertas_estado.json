@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "primera_dama_pineda_rol_agosto2026",
-      "resumen": "Primera dama Ana Lucía Pineda anuncia rol social junto al presidente Abelardo De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbzVibWZtN0steTlkdV8tMWpaNERXak5WZjlPdGtPOFh5bDVuUE5EY2xjX1dDd3d1SmNWaUxaUFlZLXZzOXNmYXN6VGliQUlzLTB4U2xSUlFQUzJPTU1FS1pIXzJqZHYtZzRiXzRCU0hlaDdiaWFWS1p0Ty1uMnBfdUg3bl9HODFiaDN0NEVXWXp4bzdxS3VST0hVcHJPcXRwMzJ2N2V2NEtQSEZIbDFxMWtiNGtURldMQkw3XzlhOVRYRUNGMFRKdU5PbkRaMW5KV29MMHNRV1ZidXRIY2hId1pwSFdnR0Z6R0l6R0d30gHzAUFVX3lxTE1ISURUMkhXc1ZZQ0VUOTRXVHJJQ3laOEtVaE9OR3FWWW5MZ2pFRi14cDRWX2dvdHZqREdNcVVnWThOaGN6Y25CVlRoVXQ3NjlRTFZaQTV5ZXFId1l4TzdLX2JGVVdTcXhKVlYxU2xXS1A3dVFQWWtQX3gzaGJkTjloY3FLcS1kc2lDV0tIVWtmSS10cm5PelhxSGFaOFdnbmVEbEdEdGM3cm1yRXlpVjRHNzYwS1Vtb0VEUVZxRHl6Ukw1LUNQcmNQdVp2bEFxbDEtVTBtclNnWDZkbmFldFhGOGJLenhPR0N3Q2p6TDdVWlp3MA?oc=5",
-      "ts": 1786163869.3409374
-    },
-    {
-      "clave": "vehiculos_chinos_colombia_agosto2026",
-      "resumen": "Marca de vehículos chinos llega al mercado colombiano",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRURvTURUNHhJQW4zSUxDcnR6ckRZZG5yREMxa3lqTTB4UDdiWXJ6Vkx2VF9vT0FUZHJKa2VkM1BvV1k5Z0wxYnR4anpPSzZNLVl3c0J0MmRfNWdoTFJUOVVORTE1SEExUjNyWThWb3BxXzVUanF1OHRWNGFBU0tBSjI0V2tsWlZfbnJDLVI4aC1KbmRfTzZFRVRLVy1aZTDSAaQBQVVfeXFMUHdWTF96YV9UaWJpMjVJaDA1TzdLOTVtaUZ4WVFhWnJkcUhSXzVMUWJ1T09LM1dvN3JfZnBIVEx5ak9keHFsMXZ6MzcyYjlCTE1zX1k5THNQTXpQSEpLaXdGaFNjaVRFaWVSWEtGSTMwSF9vZFd6YTdwanNuTUFHTTRxRGg2bU9yOTBWcWlrV0p0T19FcHE3aHZlYVBWWGY1ZmhxcV8?oc=5",
-      "ts": 1786163869.9368172
-    },
-    {
-      "clave": "posesion_espriella_agosto2026",
-      "resumen": "Posesión presidencial de Abelardo De La Espriella como presidente de Colombia 2026-2030",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQ0NUTzFDRk9JVUFKNVVnaDJudEdOd0lYV3JxZlFQSzREbWZob20wUXBNRzhVZjRIUEZTa0psaFNaMHVNd29HSHVENlhtX0NCR3FRMFBUTU9XZEN5bGh3bW5wLWNfczdzTzh6UUpHTGdFejgydGV4MUdvbnMzXzRYaFVnR1c1VUxCdTVnYjhWRlZ6NjBRRDZJWDBsQ1VCMGxpVXI1Vk5lQ0g1cTQxT1lGZHJVSGwyVXNSaGFJSDltVE9DUmFrRzBzZmJLLXRaTTBrSGZXRnhuY1RpdE9TckFPMnd1YWhmNm5sdzRlbEZtQmoyOW83bHZB?oc=5",
-      "ts": 1786163870.5069795
-    },
-    {
-      "clave": "ecopetrol_prioridad_espriella_agosto2026",
-      "resumen": "Presidente Abelardo De La Espriella afirma que recuperar Ecopetrol es prioridad definitiva de su gobierno",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0tSVzVMRmZ5a1NpWXZMSUwwODVjUU9XdGZ1TkNFLVBvemhIb2w4LWtubW5BR1BTd2o0X0VsWWxTb3R4LV9IV3BHYkFpUkkwY0hNckQ4OFlaWWFBT1FjUnFXOWxwa01IZ09EMDhHX1p0R0tRMmJZR0JLc09qZVRzMU5aalctSWdEWjAxNWZUdkVZWGVUd1ZaSlVuMm9naEllckc0dzd1OGJkSy1TSjNvX25oajVub21Wc0E3MlAxNUVvenZKaWRWbjY5Z0MxZ9IB4gFBVV95cUxQN3BGQTZLOERfZG5rLXpWLWJ6OVY2eWhWVHMxYnZ5Y1YtcEtMX0QzRTI2WEJUeUtLMVJCVTAzTUlIQWdScEdnNjl0Nl9OaEFFay14b1pnSFdpdjBITFRaOUdlMmtMcmNBYi05Z3c2T1ZjTEtydkFKVEFuSjdSbnoyZkoyUkYxM3NENjdTbEM1RUlfajF2ak84VVJzbU5lRnJnckszNUUtUVNGTVZ0aEthRURwY01fVFFWOXY0QXFYek9oLXMyZmdpUWNTUWZDNU1ZeFBOUDNUbmlvVkdPUWFpTzVB?oc=5",
-      "ts": 1786163871.0842953
-    },
-    {
-      "clave": "eeuu_primer_anuncio_espriella_agosto2026",
-      "resumen": "Estados Unidos hace primer anuncio tras posesión del presidente Abelardo De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkdsRWdOSVY0eWJsSXgzWDJ5Q0x0T1dHZnNnWllpTUdXUFdORzAxTXJjT2wxU0xjN05jdWptQl9wQ0Z2ZXgyY2xpcDQ4c0RmSmszWndiaXBTaVM0dXRDTDM4SlZwcDliajhOQlhsSk04SHI2Nzdud05LdjlPbl9KN1o0NUdWRGZWa1ZPVnA2SnlwekoxM1BxS0IzMWfSAZwBQVVfeXFMTVlIZjM5eXN5WXhXRU5zVW5VejQ5cF84Q0tyc1FzaHZqeDUzT1VmYXVfSFR4VWM3NElFdzk5bVo1eXBrc3VKX0NEUnF1MDBKMFhwRmtqZFBNQnpaeTl6NklraVA4UnAxQ1dQWm9wOGJZTWRzYzZoZC0zWWRMTHpvYTNaQWNlR2ZHNXZ3emdzaGVPSmFIcU9FZFoxcm9L?oc=5",
-      "ts": 1786163871.6536462
-    },
-    {
       "clave": "incendio_forestal_copacabana_agosto2026",
       "resumen": "Incendio forestal en Copacabana, Antioquia genera columna de humo visible desde Bello",
       "url": "https://www.minuto30.com/atencion-voraz-incendio-forestal-en-copacabana-genera-enorme-columna-de-humo-visible-desde-bello/1715474/",
@@ -149,6 +119,12 @@
       "resumen": "Gobernador Andrés Julián Rendón lanza 'Operación Cazador Antioquia' tras traslado de capos de Itagüí",
       "url": "https://www.minuto30.com/gobernador-operacion-cazador-antioquia-capos/1715525/",
       "ts": 1786206388.6038976
+    },
+    {
+      "clave": "cilindro_sospechoso_panamericana_agosto2026",
+      "resumen": "Cilindro sospechoso atribuido a disidencias genera cierre de la vía Panamericana entre Cauca y Valle",
+      "url": "https://www.minuto30.com/alerta-en-la-panamericana-cierran-via-entre-cauca-y-valle-por-cilindro-sospechoso-atribuido-a-disidencias/1715529/",
+      "ts": 1786207626.1496282
     }
   ]
 }
