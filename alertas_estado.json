@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ataque_explosivos_pasto_agosto2026",
-      "resumen": "Artefacto explosivo lanzado contra sede de la Policía Metropolitana de Pasto; sin víctimas",
-      "url": "https://www.eltiempo.com/colombia/cali/un-artefacto-explosivo-fue-lanzado-contra-la-sede-de-la-policia-metropolitana-de-pasto-no-se-registraron-muertos-ni-heridos-3576956",
-      "ts": 1786151471.4041162
-    },
-    {
-      "clave": "traslado_cabecillas_itagui_agosto2026",
-      "resumen": "103 presos trasladados desde cárcel de Itagüí a otras prisiones; incluye cabecillas 'Douglas', 'Carlos Pesebre' e 'El Indio'",
-      "url": "https://www.eltiempo.com/colombia/medellin/103-presos-fueron-trasladados-desde-la-carcel-de-itaguei-a-otras-prisiones-del-pais-douglas-carlos-pesebre-y-el-indio-seran-reubicados-3576912",
-      "ts": 1786151471.9932573
-    },
-    {
-      "clave": "eeuu_apoyo_1000millones_espriella",
-      "resumen": "Estados Unidos presentará paquete de apoyo por USD 1.000 millones al Gobierno de Abelardo De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG9fNlpVUkVpSE1EZjRydWdaMlg0UmV2Vk5Hc2ltR3FRc2Nxc096SHY4VU8tQkhrV0RKSE9HNFo4eFBXNzBlR3RRWVlDSENSQ3J3c3ZydG05MmpST2txZ20taTROWkZYUUdONy1DaHp2VUlFTFgtZTVaT09UdVJ5bEhSNFVkdzk0ZFpCX0xVcGU3blZ2Z1RHSE9uLW1famp0bmVvSHJ4Yl92TTZVa1BwbmszRzVveWk3QWo2dHhNVGRDWThmeWhGM0xtRdIB2AFBVV95cUxNQi10RlF5YVdfckFfRXVndXdCelZycWVHQzBwSDNwbkpRUk9YNnI3R3pZRXljcXk2bHJJTUFueURqam5RbEk1V2JEOHA2bXRjckhOdGNQUHd3WlpmRjBjakxUcDVIaFk5OHJiMlRYUEo3LU8tVTctUWZ4eEFmakcyNDFvZ2RuZDc4bzJpTS1NSjU3SG01ZmtJS0hZRFFCTnJ0QWdGblM0dUhpWTM4bEtuTnREd04zaHJrMGV1dWp4TEtHbzd3emlQNEpjV3BrX3dGbGduRGlNXzM?oc=5",
-      "ts": 1786151472.5895424
-    },
-    {
-      "clave": "reforma_tributaria_espriella_agosto2026",
-      "resumen": "Abelardo De La Espriella anuncia reforma tributaria y eliminación del impuesto al patrimonio",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZlVkOGFHOWdFREozSWJ2R3E4YlRIMXNkR2VVRzVWTDhBeFRObjFfbXJzTHhUcWRkS2k0Wkp2Y2V3TVhJaFRuODBUamRfX3YzWmlQOGgzYjRLSVNubTE1aEd1ZTl1VUljWDM5aGxZbC1nNHhGSjIwOUlHajZGcldZMFcxTEtUaTEyMVpHMGFyTEhVYWdSTVlMMnhNU1lkQjJjc2g2ZWdQNHg?oc=5",
-      "ts": 1786151473.1684332
-    },
-    {
       "clave": "lista_grupos_narcoterroristas_espriella",
       "resumen": "De La Espriella publica lista de grupos narcoterroristas para combatirlos con la Fuerza Pública",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHhfSUNpbGtzZUMyWlVhaW1oRmtESjMxN1k0dHA3NTA4VlZhVDd3eWM4WENjZ3A4ekxDUHZTMm5UTnNWb3p0eFhYcjIxZmllZjhoSTFUVlZUM1hneEFXbjBzTnBDbTU0THMtVFRVUlpsWTlUdXZNRDU1dndZRGd5X20zZ2pCU0dnT3VuNE04Z1lJQlB5ZEloV3BQTlZyRVVqLVdfQmZmNFVqS1NVbjc2Q2VKREM2enNuYlBhU0VhaDJPc3diZjctcnJEUDZrMjTSAdwBQVVfeXFMUDhtYWluMndKUUhvZ0VjekU2bUFwX3YzUVNCQlotek01RlhkWTN1YjZNZFAxNmczamVsZE5nbUdvTmRnanM1UkZBazNnaGZNbWNzMlFfczh0U3lqUXZiWlZ3N3BxeFRfRmpDbXdVU3k1eDBOZ3JuVDBHcm05TVotR3dQWllYVDF4VTVKNWFNdEJ2Vm5YZ3J6RUxRTGRNaWgwNXRJZTlvWGQ1U2EyUDBFLVREa3pPeEdLdWlGZnktdnQwcGExWkxvY3pZUWhSaWtNT05Fbjl5TEFwSXlwdQ?oc=5",
