@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ataque_drones_explosivos_guadalupe_agosto2026",
-      "resumen": "Drones cargados con explosivos atacaron puesto de Policía en Guadalupe, Antioquia",
-      "url": "https://www.minuto30.com/alerta-en-antioquia-drones-cargados-con-explosivos-atacaron-puesto-de-policia-en-guadalupe/1715447/",
-      "ts": 1786135899.3721426
-    },
-    {
       "clave": "ataque_explosivos_pasto_agosto2026",
       "resumen": "Artefacto explosivo lanzado contra sede de la Policía Metropolitana de Pasto; sin víctimas",
       "url": "https://www.eltiempo.com/colombia/cali/un-artefacto-explosivo-fue-lanzado-contra-la-sede-de-la-policia-metropolitana-de-pasto-no-se-registraron-muertos-ni-heridos-3576956",
