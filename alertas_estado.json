@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incendio_cristo_rey_cali_agosto2026",
-      "resumen": "Incendio voraz en cerro Cristo Rey cerca del Zoológico de Cali; evacuado un edificio por riesgos",
-      "url": "https://www.eltiempo.com/colombia/cali/alerta-por-un-voraz-incendio-en-el-cerro-tutelar-de-cristo-rey-en-inmediaciones-del-zoologico-de-cali-un-edificio-fue-evacuado-por-riesgos-3576959",
-      "ts": 1786153319.4397783
-    },
-    {
       "clave": "ataque_drones_porce_agosto2026",
       "resumen": "Disidencias de Calarcá atacaron con drones a la Policía en Porce, Antioquia; gobernador Rendón advierte contra criminales",
       "url": "https://www.minuto30.com/farc-ataca-con-drones-porce-3/1715470/",
