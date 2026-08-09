@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "abatido_cabecilla_segunda_marquetalia_agosto2026",
-      "resumen": "Abatido cabecilla de la Segunda Marquetalia en Caquetá y Huila",
-      "url": "https://www.minuto30.com/eso-fue-diciendo-y-haciendo-abatido-cabecilla-de-la-segunda-marquetalia-el-terror-de-los-comerciantes-en-caqueta-y-huila/1715498/",
-      "ts": 1786202081.559139
-    },
-    {
       "clave": "consejo_seguridad_cali_espriella",
       "resumen": "De la Espriella encabeza Consejo de Seguridad en Cali tras su posesión presidencial",
       "url": "https://www.minuto30.com/consejo-de-seguridad-en-cali/1715517/",
@@ -227,6 +221,12 @@
       "resumen": "Presidente De La Espriella anuncia captura importante contra el crimen organizado",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWVlrdnE3UDdnZ2REa3JibkZEdm1IaVhTdndTWTc5ZWV2MHVGckhybFN4dTR2SElpQmsydHRFRV9sZUhqNXRBdk4tWnZ1S2FqeXhCN0N3WW8tV2lCWjZBc0thbEV2Qml1MWFLd1RPQjNfbnFoMjNiNFNGMVZhdU8xYXI2OHZtOFRYVHEzcUJqM2ZXbGNiTEs5OGZlNG10eTlZWU1haTRKNHEtdDduaU9DeGhrT3FCLUh5SE56STRxanBISXo4NlFmbVh3cmRkbGZSZEttZ0NvZXN2UEd4cG81ZF91QkdaOV9MQ3ROZmdNU3lwTDZxZ0dqcEVFY3IwOEo1X1c2adIBigJBVV95cUxNSGFQUTFxc0VIekdCdWhaX3F3SHh4U1NWMi1RVGszQnFFb25oWW9LYm1HWFZEWmxYOVRkQTdsa21Ua1YwQXYzZ2ZTSTg4RjdLLVc1SFpwb3lLb1lTVmlWWU9tVUhIT3REY2RSVDV2Sm82SE1tY19IeXl4NXVHSVk4RW4zYVZPNEsyUGtCQnFCYVJzdlI1d1ZiNDYwc2NEYlFjUmlTRkl1MGNnTkhScjVQRkFBV2hLNlBodG1leXRfemRHOHRrc2I2NG1QTlJGaE1sczZ2dzBpQ2I3aWNOZmZkX0pXRVVGVlFOSXJsdDI2Slg0d1JhTGNHVXphcU1XcWY0RU1SSWNXQm1Bdw?oc=5",
       "ts": 1786243392.973188
+    },
+    {
+      "clave": "contrataciones_adr_minAgricultura_agosto2026",
+      "resumen": "MinAgricultura alerta sobre contrataciones realizadas por la ADR el día después del cambio de gobierno",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlVSeFBrVkx0WmRxLVQ1M2dTWjlLd3YwT0lzUDZGcExHOHllQ3MxMUJfQlpvZVRNZG0tOVdKTmtDUU8wSVZ0VGtfMEl4aDNzMUlmSlJ6M21vMk0xOUkxWW41cE5PMVBMZk1FcXZEcXBtS2g3UUZMY1FDckpuNHNyVi1FazlCZktsWHZrZVd5QUEyZW4zeExUM3hXS0dtTW81Wnl2VlZreFdOVjJxUVFidzBMQkZVNHlOR2VGRHBPNnpULVlqUGRMNXVQTDdLZ9IB4gFBVV95cUxOOXRIRnAwNjdnb1pCTHpJLUtwU1ZxazdDNHNQWkRVS0l4OTk0V0EwNFhlNkZxQm93WG5pRWw1Yjc2UXQ1eFFKeEc3Zi1LTFNBdHJvbGlibjlKQmRndXZXdEJtX1BISWJMSV85MUZvZmNhYWpWMjBlNG9LNnNWVnN3enUzeHFDUElWR3l1cWRlbGpJUkpZZTVWTTB3MEZQNjREYXRkNzRnSlI2cUZzRGNhRnlnNTJHNzFFWDg2c0ZkMGlTeUx2MjEwQ0xLNHRLT3JWTU5wdU9jRjBzQzdUTzZpMFp3?oc=5",
+      "ts": 1786245841.4690547
     }
   ]
 }
