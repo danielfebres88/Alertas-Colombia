@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "desfile_silleteros_espriella_agosto2026",
-      "resumen": "Fico confirma asistencia del presidente Abelardo de La Espriella al Desfile de Silleteros en Medellín",
-      "url": "https://www.minuto30.com/fico-confirma-asistencia-del-presidente-abelardo-de-la-espriella-al-desfile-de-silleteros/1715578/",
-      "ts": 1786240935.8354728
-    },
-    {
-      "clave": "pronunciamiento_lara_traslado_criminales_agosto2026",
-      "resumen": "Rodrigo Lara se pronuncia sobre imágenes del traslado de criminales del 'tarimazo' de Petro reveladas por Semana",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONGdoQmNrUnJ5SldQWUFLc2J1X1NiZXdQNVNsQUk2N1hJdXNMZUUtSW90ZDc1M3FEVW5jVFIxYmJIMlZVeXI2X0FhTURYbHNtVGdjZlZIVEJMaGZQYnVwYW1qcGszOHdZaG5LZXlvSWxPV2lwZWpUb3ROOFAzdmpIa1IxdE1ySzhtNEJrWG83WkFCVU5GOUVsa05aMDRjSW8yeTdWOWhlMmVRdzNESE93TFBrUklWN3dQMnF6Ymk1OWZZczJlSmxCMWpSSUJJZWY4Tnk0Y1RpMDliRENtS01pQkdXUGlROFJyYlFXYXF4eUNGeDZp0gH6AUFVX3lxTE92dVZwVGxHWEFlYXo5MnduNUhLdWR0ZnR3TDBObkcyQl9qYjRVOV9sOU5WbzcwdEdoSl9qMG1zZHo4b0FoYTMwRHZSb0tXSW5tY1NfUGpBdUh6dmRPN0RvNmlhazItTGk3VDRqeDZBakkwdEVYTm8tVmhnTGh3ZTcwTWE3VUxKZFpaaHlxVkNfNmJsMTFjRk9KalI5a25mdGhlWjdQeDZjYUR2bFBOOUpsTG44OHF6ZUI5dnhvbVNLXzBoam1DdnVFLW5xSnlFRDFNMmxjVHRLOXRfdVg0QjZaRnV3OGRiUmZieXRpQkgxdXNBb2lYS2VTbUE?oc=5",
-      "ts": 1786241551.0091295
-    },
-    {
-      "clave": "pronunciamiento_gutierrez_traslado_itagui_agosto2026",
-      "resumen": "Federico Gutiérrez se pronuncia tras traslado de capos de la cárcel de Itagüí",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMkxCSXpINlRBS1N4bnFWckRyRS0wSzdycEU2TmE3dGVuV0w5dTRHbksxSEJva3I3Nk5CNUxQMl9QcC1RQkVLVHRnOWRXTmF3NEZFcGNZRXF3XzhDQmxSaDRUZG5IMVVmQTRweWdDSTVzbE1yVDBVU0RBUFNQZzAyVHd0Q3JqQmpqaGgtZDZfRFJfTTJlUDVPOUljMmxIS3picnpEeGtZdHM3MERCM2lKTHZDVzZrSnlXaldMcHRyUnVsMUFhcFVFRG9zVHN1X2EtaW5oZTlNdkJqVmN6akxXTnJfamwzWFRmYl9v0gHwAUFVX3lxTE1Lc1NmU2dPUW1PaFVZUHZpems5UmZuclRFVFlSUktxUlc2NEZpbjU1TG5HaWtva0lYOUtxRi1XdVdvNnBqcHpseHRRdFZkUkkyOXppVm1FakF6OG1HOUxnUWwtemJyRVBVUmxrMFVWbjlIVG9YWVRocVM0UmxPMUJOOVpQMklJR1BzNHh4QVhXUkdPTDhwQk9UVUFtTVM0NTFfMktia2xReGhYakVpWWlJQk5RSndLcmdoVkFNREUydjB1cEp0N2tocWdLZEJHa1hhTGJ3REttMzRfTjB0Z2VtLVB3VjQ0b3hDc19wMUVSVQ?oc=5",
-      "ts": 1786241551.4875405
-    },
-    {
-      "clave": "captura_gobierno_espriella_agosto2026",
-      "resumen": "Presidente De La Espriella anuncia captura importante contra el crimen organizado",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWVlrdnE3UDdnZ2REa3JibkZEdm1IaVhTdndTWTc5ZWV2MHVGckhybFN4dTR2SElpQmsydHRFRV9sZUhqNXRBdk4tWnZ1S2FqeXhCN0N3WW8tV2lCWjZBc0thbEV2Qml1MWFLd1RPQjNfbnFoMjNiNFNGMVZhdU8xYXI2OHZtOFRYVHEzcUJqM2ZXbGNiTEs5OGZlNG10eTlZWU1haTRKNHEtdDduaU9DeGhrT3FCLUh5SE56STRxanBISXo4NlFmbVh3cmRkbGZSZEttZ0NvZXN2UEd4cG81ZF91QkdaOV9MQ3ROZmdNU3lwTDZxZ0dqcEVFY3IwOEo1X1c2adIBigJBVV95cUxNSGFQUTFxc0VIekdCdWhaX3F3SHh4U1NWMi1RVGszQnFFb25oWW9LYm1HWFZEWmxYOVRkQTdsa21Ua1YwQXYzZ2ZTSTg4RjdLLVc1SFpwb3lLb1lTVmlWWU9tVUhIT3REY2RSVDV2Sm82SE1tY19IeXl4NXVHSVk4RW4zYVZPNEsyUGtCQnFCYVJzdlI1d1ZiNDYwc2NEYlFjUmlTRkl1MGNnTkhScjVQRkFBV2hLNlBodG1leXRfemRHOHRrc2I2NG1QTlJGaE1sczZ2dzBpQ2I3aWNOZmZkX0pXRVVGVlFOSXJsdDI2Slg0d1JhTGNHVXphcU1XcWY0RU1SSWNXQm1Bdw?oc=5",
-      "ts": 1786243392.973188
-    },
-    {
-      "clave": "contrataciones_adr_minAgricultura_agosto2026",
-      "resumen": "MinAgricultura alerta sobre contrataciones realizadas por la ADR el día después del cambio de gobierno",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlVSeFBrVkx0WmRxLVQ1M2dTWjlLd3YwT0lzUDZGcExHOHllQ3MxMUJfQlpvZVRNZG0tOVdKTmtDUU8wSVZ0VGtfMEl4aDNzMUlmSlJ6M21vMk0xOUkxWW41cE5PMVBMZk1FcXZEcXBtS2g3UUZMY1FDckpuNHNyVi1FazlCZktsWHZrZVd5QUEyZW4zeExUM3hXS0dtTW81Wnl2VlZreFdOVjJxUVFidzBMQkZVNHlOR2VGRHBPNnpULVlqUGRMNXVQTDdLZ9IB4gFBVV95cUxOOXRIRnAwNjdnb1pCTHpJLUtwU1ZxazdDNHNQWkRVS0l4OTk0V0EwNFhlNkZxQm93WG5pRWw1Yjc2UXQ1eFFKeEc3Zi1LTFNBdHJvbGlibjlKQmRndXZXdEJtX1BISWJMSV85MUZvZmNhYWpWMjBlNG9LNnNWVnN3enUzeHFDUElWR3l1cWRlbGpJUkpZZTVWTTB3MEZQNjREYXRkNzRnSlI2cUZzRGNhRnlnNTJHNzFFWDg2c0ZkMGlTeUx2MjEwQ0xLNHRLT3JWTU5wdU9jRjBzQzdUTzZpMFp3?oc=5",
-      "ts": 1786245841.4690547
-    },
-    {
-      "clave": "captura_boni_segunda_marquetalia_agosto2026",
-      "resumen": "Presidente De la Espriella confirma captura de 'Boni', cabecilla de la Segunda Marquetalia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHNSSGNES0dmRFRLS0JFX0Q2SlRsREQ3MnlTWFVkdzBKbkg0RmlHU0p6Q2FqMjBfbWdLUkZBdXB6WEEzRlk4cGdnaVI0SWt5ZlhBNmI3TzNmNDBXdVBiMl9Gb0xjc2pXQUU4TVZ2bU1fSmlSVXB1Qjh2NG8tdUZ2bEdwYWVpY2pUNEZHMnR1cHp1cjBZa3JLQmFRSmlFQ3dyVFpIaXczWGpPQ2FQQXBKcTdLWi1uUWQwclR4c2dJWmYyaVXSAdcBQVVfeXFMTzdhNWRXTXdFLVFJbU5odUkzRDhjQ1lRaWUtMVZBZ3ZzZVJGNGhvaUZxSGdZV19yX2xQaDJlWFlqOGFLaDdZSzFUWjQzeDVUZVBnYXlYQlNCRnJhM0ZPMmxJaXRmTnZNVlN3eWFPUEtYQXV5TmJzWW1EdzFfZkE5VXVKdF95c0VyRXZtWUo2WUM4aTdLZng3VWJSWkpEUkU1Rk5Cdk9WLVpDc0c5TWlsd2RFT1FJT2NGekE3em05OFltd3Z0WEM0SHJ2eDktUmRxbTI0R0NmNHM?oc=5",
-      "ts": 1786246454.639373
-    },
-    {
-      "clave": "tiroteo_estacion_norte_santander_agosto2026",
-      "resumen": "Tiroteo contra estación de policía en Norte de Santander",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0gxREFsVXNSU0tCaUY1T0RYYlI4bGd3LXlZX3pwMTNyMmNRY0hfZzdqXzk2WmYxSE5pMUJvdWJhLUpqeVp4bWw2a1RxY3BxbFQweENRVXZzNE8yUEdRUFJUNW96UnhGOXFzUUVqdURsdmgzMjNUSjFObGpaRUczbXJPdm12OEF4QkJXUmloRm5fUkhZT2s3NUZ4cG5kdFBqaGUwc0FEbXRmbzljN1MybGN5WFbSAboBQVVfeXFMT2toOW42SHUyY2tDX2JNbTVxcDhVS184d2FFN3cwRUNIRXk3VWFmWEJJdFRrdldqS2VPXzc1ZmNLenN5SEM5R284aXhGZHk1MlJOYjJ1MlBRZllVb3VFRzFSWklDdEExN1NCc0VXNXAwVXltYzhuOFgwdm5KclRHd0hCckdhdG1Bd21LTmJOTms4LVhWSExmZWV2RVFaVEdoV0NzY3c1b1B4aTUtQ0dKb2t1Y29TYWE3X2J3?oc=5",
-      "ts": 1786248296.2321668
-    },
-    {
       "clave": "contratacion_irregular_adr_agosto2026",
       "resumen": "Denuncian contratación millonaria irregular en la Agencia de Desarrollo Rural",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVhPelc3QVVwaHR0VFVybnJJemVNdXFETXl2U1paaC1fX0dPSW80ZjdsZnhLR1VqQzlwREhIUUVqd21OUGNIWUEwZ2VRSnVvYnhDVU4zS2g5ZkxXVkU0X0hXcENSdkx5UW8wbk9pTU9CdzZGTHFSZ2J6X2NLSWE3UVA0OGN5VU52LS1J0gGLAUFVX3lxTE1YR0ZTOVlhLVdJcnAwUkJzQ3FQZGNSaE80d3hDOXZnMGVyUzVnbTJRdS1YZlA2Z1JKTVJ1MWpXNG9nQXlaQVktVFFnbVVsUENZYVNabzFTTmtEcjYzdGdyYWdNdlpDbWdQTFgxbE1VWEFwbTIwTFBkbjhWSDU5aFVYLURCYkEwMF9zekE?oc=5",
@@ -59,6 +17,24 @@
       "resumen": "Andrés Felipe Velásquez es nombrado director de la DIAN en el gobierno de Abelardo De La Espriella",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUZDbFVzc0pYN1hQQy1PMTB6RC1RTjdsVWV4OVRTU2xLYmowTVZrakg4YVhnNnpmUTVOQXQ0MFFQZlczd0NyYzM2SVhWR2RYUFktNjlzVE52XzFCclp0Z0JQWDFHSnliUlFkeFdJR1NkNUFBTGdiNzdEZ2hlX1lXT0Frdy0xbGVVQ05YUlJxcFJWVm83dUQ1QjFWTUdUMnZxbk9qWWtpTkV5elFySkwyVVF0RkU3YzNsQVpBSVFJU2dVcjhBM1HSAcsBQVVfeXFMT2psY0FxaTV5b2E2RFZTUDhyeW5waDA5bWRncXJ4NzRtbUZtRTJlaDBUZFU3c01zQ1k3NjZjdFU5ZDV3bXlWekhRMnB4S25DRlNROHcyT01mbW9qVlBXN2p4QkwxRFJkd1RsY3Z2Qmd4Wk1ZTjZIbzdHRHBkcTNfR0RkQ1E0dkFMQ2RaWEhPWTNlRk5TUlZRRjV1bXFucjdMVlBLSFMwTkM2MkJ6d2hkUHpsdmFQVE9rd24wZlUxRWU0VzBWSjNwcmFtSUE?oc=5",
       "ts": 1786274825.8243294
+    },
+    {
+      "clave": "suspension_contrataciones_mininterior_agosto2026",
+      "resumen": "Ministerio del Interior suspende nuevas contrataciones y movimientos de personal hasta el 20 de agosto en el gobierno de De La Espriella",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmdESVdmVG8zQW84UzdmLVFYdVlxNEdUZm5LSzhmWVFGZDcyUzdESVFKY2JOY1hXNEJpVEV1NUljNGlGbG85UjZQdG1zUFVrbnRvRXY1Z1JOaWRmeS1Ma2psQ2F0S3EwOXgySzl4X0Z1NHBaYm1uejVFLVB1RzQ0S3BNLU9lZ3BpS0Y3VVlfWFkzRWRPazFBSDdOM2xyQ2Y5S3c4bko5OWJFY0Nua2w5U2RubWRKcnhIZlpNclZfMFdhdU9rT1VGeG130gHXAUFVX3lxTE5fRU5vekJQOVhiV0tHaWZnZW9yM2kzN3FpaG4tNTNwRXBxWU9IWU5QT3lVdHVxRWlsVmVDVTlCTncyV3dxcndmRllnOGpPVWZxZERMQVZPdFFCZVppSldBYVpISGZzM1RhdFlRdVlOc1JSTVFZN3YzNWRZT3dRTHdfblFER2l0SnJMVGdOUWE3TWUwVzJZM1BwSnFzb3I4MUZxSjJMUHo5UXdDcHc4SkY3QVVJck9pUGRLZlh2Tm1DR1JHeDJWWnNsVV9YdHRfRnJiQ3d5V0dJ?oc=5",
+      "ts": 1786294560.472061
+    },
+    {
+      "clave": "alerta_defensoría_violencia_drones_agosto2026",
+      "resumen": "Defensoría alerta sobre posible escalada de violencia tras ataques con drones y explosivos contra civiles",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzlud28wSXNYeklnaWVaYkxSRmRMVVhaQWpBQVE3T2RrdklmaEgyTU5zbmdfdGpfSlpNZWIyNE4tTzV0R1FZNGppdlVxLTVqaVVUOHNPZ3c1U0JQMUdNOVZMeGFyZkxmZmpEMmtUNWExRDVXOEZKeFpybllrWm9aeHhCdnppcjBzSFhHQ1dXcU5vR2RzTkdpc1FhQThLbF9uNlFOYUo0dnpPcFJrSEZNWVZkMm12ZUgtbXYyNGpaV1AwRGc0UUHSAdMBQVVfeXFMTm5LcGVBSUFKVTIyRjNUS1lwNnhWNGRkTUxWR0pjUnRsZHZSdmRJYmhXSkFTUER0OG9ibDFVX3dRdXJKUTRoWVRKRkhFRFVCNk9kanZvQ0tuRFBpNnZoQ0dsQkhWSUx4WENtOWZvbHEtVGpPTlZGakM2QnFfQzhvdm1wbVZLNGVHSkhCbldibkZoZFhLZjN1eFhEaWIzSzFIOGZWS3RoWDNVaXkxZXpIYWpobXcwdW90WGNmcFFKYjVxeDk0UVdhV1pKMjZXZGY2NEZndw?oc=5",
+      "ts": 1786294561.0342467
+    },
+    {
+      "clave": "baja_eln_santander_agosto2026",
+      "resumen": "Dos integrantes del ELN fueron dados de baja en operativo policial en Santander",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0xleV9yNFA0TXJsVGlPd1NYTFdrLTUzbGRpLUhscjhSRVlMMlBlUjV1QTNHWDNwRWhFRTEwWHFmTC05aFExLWtoOW5jeXlzOW1RcnhmaURTa2pDWHpOQ1BEb2FET0pyRXpTSjhzX3BZaUpROS01T0pJOVRHalZSRzlmaUZMRm5LTzZoLXdwV3BpTlZvX0h5RjFtT0ZzNm85V3pMUGNWcnhNU1BNb2VDRlB2a0TSAcgBQVVfeXFMTU9Hd2FBbnNGdlpOQkh5dDlYSmlrdmlFWkZtSUFJTC1GQzBVVDlvZlJwalREMDgwNXlkd1VzWUw4alRwXzkxWmJZX3ltZ2FtMks5OVE4N3hKZ3g0cmNxVF9aTGZoV280LUVBVW9CaXRMMjZ6QlNYdjJCekZwSmVneE1FY1ZNcXVBYU5IRFRHLUFwOTNJZkN0ZDVObDQwbWxIcTg1aWZDdFlabWE4NVl2N3otbnlKdVNiVE5nRXo2ZUNJbUVmVmpIM2Y?oc=5",
+      "ts": 1786294561.566608
     }
   ]
 }
