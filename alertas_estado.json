@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "consejo_seguridad_cali_espriella",
-      "resumen": "De la Espriella encabeza Consejo de Seguridad en Cali tras su posesión presidencial",
-      "url": "https://www.minuto30.com/consejo-de-seguridad-en-cali/1715517/",
-      "ts": 1786204545.497965
-    },
-    {
       "clave": "hostigamientos_nariño_agosto2026",
       "resumen": "Múltiples hostigamientos contra estaciones de Policía en tres municipios del norte de Nariño",
       "url": "https://www.eltiempo.com/colombia/cali/noche-de-terror-y-miedo-en-tres-municipios-del-norte-de-narino-se-registraron-multiples-hostigamientos-contra-estaciones-de-policia-3577010",
@@ -233,6 +227,12 @@
       "resumen": "Presidente De la Espriella confirma captura de 'Boni', cabecilla de la Segunda Marquetalia",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHNSSGNES0dmRFRLS0JFX0Q2SlRsREQ3MnlTWFVkdzBKbkg0RmlHU0p6Q2FqMjBfbWdLUkZBdXB6WEEzRlk4cGdnaVI0SWt5ZlhBNmI3TzNmNDBXdVBiMl9Gb0xjc2pXQUU4TVZ2bU1fSmlSVXB1Qjh2NG8tdUZ2bEdwYWVpY2pUNEZHMnR1cHp1cjBZa3JLQmFRSmlFQ3dyVFpIaXczWGpPQ2FQQXBKcTdLWi1uUWQwclR4c2dJWmYyaVXSAdcBQVVfeXFMTzdhNWRXTXdFLVFJbU5odUkzRDhjQ1lRaWUtMVZBZ3ZzZVJGNGhvaUZxSGdZV19yX2xQaDJlWFlqOGFLaDdZSzFUWjQzeDVUZVBnYXlYQlNCRnJhM0ZPMmxJaXRmTnZNVlN3eWFPUEtYQXV5TmJzWW1EdzFfZkE5VXVKdF95c0VyRXZtWUo2WUM4aTdLZng3VWJSWkpEUkU1Rk5Cdk9WLVpDc0c5TWlsd2RFT1FJT2NGekE3em05OFltd3Z0WEM0SHJ2eDktUmRxbTI0R0NmNHM?oc=5",
       "ts": 1786246454.639373
+    },
+    {
+      "clave": "tiroteo_estacion_norte_santander_agosto2026",
+      "resumen": "Tiroteo contra estación de policía en Norte de Santander",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0gxREFsVXNSU0tCaUY1T0RYYlI4bGd3LXlZX3pwMTNyMmNRY0hfZzdqXzk2WmYxSE5pMUJvdWJhLUpqeVp4bWw2a1RxY3BxbFQweENRVXZzNE8yUEdRUFJUNW96UnhGOXFzUUVqdURsdmgzMjNUSjFObGpaRUczbXJPdm12OEF4QkJXUmloRm5fUkhZT2s3NUZ4cG5kdFBqaGUwc0FEbXRmbzljN1MybGN5WFbSAboBQVVfeXFMT2toOW42SHUyY2tDX2JNbTVxcDhVS184d2FFN3cwRUNIRXk3VWFmWEJJdFRrdldqS2VPXzc1ZmNLenN5SEM5R284aXhGZHk1MlJOYjJ1MlBRZllVb3VFRzFSWklDdEExN1NCc0VXNXAwVXltYzhuOFgwdm5KclRHd0hCckdhdG1Bd21LTmJOTms4LVhWSExmZWV2RVFaVEdoV0NzY3c1b1B4aTUtQ0dKb2t1Y29TYWE3X2J3?oc=5",
+      "ts": 1786248296.2321668
     }
   ]
 }
