@@ -1,42 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "violencia_simultanea_cauca_narino_agosto2026",
-      "resumen": "Violencia simultánea en Cauca y Nariño con ataques, amenazas y atentado en la vía Panamericana",
-      "url": "https://www.eltiempo.com/colombia/cali/violencia-simultanea-en-cauca-y-narino-enciende-alertas-ataques-amenazas-y-atentado-en-la-via-panamericana-3577033",
-      "ts": 1786222529.5919504
-    },
-    {
-      "clave": "deficit_fiscal_ministro_hacienda_agosto2026",
-      "resumen": "Nuevo ministro de Hacienda denuncia 'el déficit fiscal más grande de nuestra historia'",
-      "url": "https://www.larepublica.co/economia/declaraciones-de-miguel-gomez-nuevo-ministro-de-hacienda-4453970",
-      "ts": 1786222530.2128077
-    },
-    {
-      "clave": "mina_antipersonal_tibu_agosto2026",
-      "resumen": "Adolescente herido por explosión de mina antipersonal sembrada por la guerrilla en Tibú",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2plYVNqWnhWSW1jajZRQmJ0RGZEVzNZWHpETTJaalRDS2xSVlNIdV9WS091Ym1jRmVMeG9wN2t5MWxOWVRmTjhjMmNPMnhzSkJ0SXBFeXk3SGFCWmNMZUtiMDZabTdab1dyOTl6Q2E4VGt6VUJLdElHQmU3c2ZLRE5lV3M3MjZTZVBrN1lRbFdmTk82V0w2NV9qd2s0cnRYR2FpWXo0Q1ZDTWV1bkhPdTZhcmtBeXRWclZUTE9ta05UTndKNDFHTDdTMVZ2T3JOV1VpU3dFSFpqZzVoTzBr?oc=5",
-      "ts": 1786222530.8324656
-    },
-    {
-      "clave": "acciones_eln_sur_bolivar_agosto2026",
-      "resumen": "ELN intensifica acciones contra población civil en el sur de Bolívar",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZC1BbTJpNUFVS1VfaVBJejVSck1VUlFUSkctMGliQXRVS3JCQWV5dEZMWnFpTGNNZE04cmROWHhIZFk0a3AycDlrMVFBSnN1YjhtYXA5aUZEd2o0UFZqRzRfRzlMM0tsWFVvTFc3eWhJdlFWdlZ6SHU5MUg4bEkzY3hkd3BqY0tLOVFiMERPODhscDg5c19UMmdyMXRWRVV6NEc0cHVPel8wN0Fqd0FkbXZ0YmhYNHJNZFcxbF9vSWVPWVRWc21oU2diWdIB2AFBVV95cUxQM2xuWXFWdkY5NWd0R3VybVBkeDdXTjB3VE9KaWhLQ3Q4QW0tSk5uYjVtYUVVUlk2SGlEdE0xMjRqMEFLcmd2OUo2MTBLb1VBUzl1UUxCbFdMTnZydm5OTzBvUGc0N1VscENqLW5ReVFoOG5WYTBUR2VJY21WZEpnQWxxYWlvbDdMRmg3dmx2MWJWMkEwNG1lUEdUTmJjeVJGTHVma0FRWlRMcnlsODJEaGVJcU5MUlBNSEVkaWpwNldJYTlKQTFJZGRNblp1eUxySWc0bVZVb1c?oc=5",
-      "ts": 1786222531.444713
-    },
-    {
-      "clave": "refuerzo_seguridad_bucaramanga_agosto2026",
-      "resumen": "Bucaramanga refuerza seguridad con 200 policías y 70 cámaras LPR",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTlXTmlyeTB0RzVYN04tMWc4UkY1YXU1VWRJMUoyWW05ODctMDRpTDFYekZ2RllyaVB0WFNnakxzcnZrOE1PZDdCOTMtbmxlMkhoaXJYN0VXaHpneWxkSFhiaUlOLTdrUTNaQ1MwLWdMX2UzZ3JBZEhXYnZ5NHhwajZ5NEgtd3YxaW03SzZCZG5HX1ZIalZJdlBFSmIxeklOZGFVUmwzcjBvbjluNHJ0YW1aaklqNEZSYnNySGtud3hHa09O0gHSAUFVX3lxTFB0RE5qV1ZIenlzWm4tT1pvc3U1M1BkNHk4M0VfS2FjRU5RRExPazFyQ3VHQzZGYWtkSUpBZkdtdWhRM1VoaC1GSWVLQU14Xzl0ZURqX21wd093WDg0enhRTFduUEVQYmY0dmJqdzVDRFRUZVJuUEszRi1ySEdmTFZSclNGR3pUcEtZV3lZRExfVFh0S3RBT0E2ZUN5eGZLNFYwbmxrWDRDbWdsN2NPalAyVGFkUGh6S3E2YldtSTQ5MVNLdVI5Vmo4amVvcjRqaGlUUQ?oc=5",
-      "ts": 1786222532.1084278
-    },
-    {
-      "clave": "jornada_42_horas_empresas_agosto2026",
-      "resumen": "Jornada laboral de 42 horas genera mayores costos para empresas colombianas",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUIwMTJaaWVUYXY5MWFERlBZQVpkSXhFaVpEcDdsdGF3VDh3MGR1N3M3ZnZMaF8zRGdfSHJ2V0JFYTJscnZUWlhUU2JOdmxoN241cUhhUkpDUVV4N0tHQXo5cndZQXotZ3dKQzRqWjdxdGQxY1ZxOXV4YlNFSjhyUDhLcVQ4RXdhcU4zNFZjTHZZLUZFZjZMTXVVNDhyRVlaTmQ3X2RObm9BVV93eVVzdGdVUHNEWUk2UzVaVVo2eGFCTXMtR2dIcW1tZjB0ajY1ZTFfRHhpSXV6RVXSAeABQVVfeXFMTnBaZ2RBdGtBLVVyd2JtX1lLbjNqdXRPYnlNbXNRcVItMUZyQU1UNlg2a09LMURna1lRS3dPSm9QbmJmMUR4TV9pbzk4N3JIQWlzcnRLRzVvQjJFczhmaGItbGw0ZEJCU2hFMy1nZW95c25Dc2RpcEd0czdrczF2QWJTbEF6YV9vb3EtV0pBemRSNGdiQkw5N1BmWGE2OUVGTk5KREVWMVJNbElQOTc1WEFEZDZVQWR4Tm40VnlCQlB6alJLSWpKRXczakprVldtcW9tRXVTYkx1VW1BSHZjNFI?oc=5",
-      "ts": 1786222532.7469337
-    },
-    {
       "clave": "director_dian_agosto2026",
       "resumen": "Andrés Felipe Velásquez es nombrado nuevo director general de la DIAN",
       "url": "https://www.larepublica.co/economia/el-abogado-andres-felipe-velasquez-seria-el-nuevo-director-general-de-la-dian-4453981",
