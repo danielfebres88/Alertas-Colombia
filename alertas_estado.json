@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "hostigamientos_nariño_agosto2026",
-      "resumen": "Múltiples hostigamientos contra estaciones de Policía en tres municipios del norte de Nariño",
-      "url": "https://www.eltiempo.com/colombia/cali/noche-de-terror-y-miedo-en-tres-municipios-del-norte-de-narino-se-registraron-multiples-hostigamientos-contra-estaciones-de-policia-3577010",
-      "ts": 1786206387.9906044
-    },
-    {
-      "clave": "operacion_cazador_antioquia_agosto2026",
-      "resumen": "Gobernador Andrés Julián Rendón lanza 'Operación Cazador Antioquia' tras traslado de capos de Itagüí",
-      "url": "https://www.minuto30.com/gobernador-operacion-cazador-antioquia-capos/1715525/",
-      "ts": 1786206388.6038976
-    },
-    {
       "clave": "cilindro_sospechoso_panamericana_agosto2026",
       "resumen": "Cilindro sospechoso atribuido a disidencias genera cierre de la vía Panamericana entre Cauca y Valle",
       "url": "https://www.minuto30.com/alerta-en-la-panamericana-cierran-via-entre-cauca-y-valle-por-cilindro-sospechoso-atribuido-a-disidencias/1715529/",
