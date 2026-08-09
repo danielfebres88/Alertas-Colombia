@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "cilindro_sospechoso_panamericana_agosto2026",
-      "resumen": "Cilindro sospechoso atribuido a disidencias genera cierre de la vía Panamericana entre Cauca y Valle",
-      "url": "https://www.minuto30.com/alerta-en-la-panamericana-cierran-via-entre-cauca-y-valle-por-cilindro-sospechoso-atribuido-a-disidencias/1715529/",
-      "ts": 1786207626.1496282
-    },
-    {
       "clave": "violencia_simultanea_cauca_narino_agosto2026",
       "resumen": "Violencia simultánea en Cauca y Nariño con ataques, amenazas y atentado en la vía Panamericana",
       "url": "https://www.eltiempo.com/colombia/cali/violencia-simultanea-en-cauca-y-narino-enciende-alertas-ataques-amenazas-y-atentado-en-la-via-panamericana-3577033",
