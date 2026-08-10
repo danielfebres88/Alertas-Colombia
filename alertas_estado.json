@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "temblor_frontera_agosto2026",
-      "resumen": "Temblor de magnitud no especificada en la frontera colombo-venezolana el 9 de agosto",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-9-de-agosto-en-la-frontera-de-colombia-y-venezuela-conozca-epicentro-magnitud-y-mas-3577146",
-      "ts": 1786300772.9332507
-    },
-    {
-      "clave": "reunion_restrepo_embajador_venezuela_agosto2026",
-      "resumen": "Vicepresidente Restrepo se reúne con embajador de Colombia en Venezuela",
-      "url": "https://www.larepublica.co/economia/vicepresidente-juan-manuel-restrepo-se-reunio-con-embajador-de-colombia-en-venezuela-4454138",
-      "ts": 1786300773.5094774
-    },
-    {
       "clave": "alerta_volcan_purace_agosto2026",
       "resumen": "Volcán Puracé mantiene alerta naranja por actividad sísmica y emisión de gases",
       "url": "https://www.larepublica.co/economia/volcan-purace-mantiene-alerta-naranja-y-continua-monitoreo-por-actividad-sismica-y-gases-4454167",
@@ -137,6 +125,12 @@
       "resumen": "Se conocerá cantidad de jóvenes que no estudian ni trabajan con corte a junio de 2026",
       "url": "https://www.larepublica.co/economia/se-conocera-la-cantidad-de-jovenes-que-no-estudian-ni-trabajan-con-corte-a-junio-4453425",
       "ts": 1786339202.4078052
+    },
+    {
+      "clave": "oferta_captura_cabecillas_tolima_agosto2026",
+      "resumen": "Gobernación del Tolima ofrece hasta $100 millones por captura de tres cabecillas de disidencias de las Farc y anuncia refuerzo militar en cuatro municipios",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernacion-del-tolima-ofrece-hasta-100-millones-por-tres-cabecillas-de-las-disidencias-de-las-farc-y-anuncia-refuerzo-militar-en-cuatro-municipios-3577222",
+      "ts": 1786344214.146139
     }
   ]
 }
