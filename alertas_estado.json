@@ -113,6 +113,18 @@
       "resumen": "Colpensiones cierra temporalmente instalaciones para verificar su estado estructural tras el sismo",
       "url": "https://www.larepublica.co/finanzas/colpensiones-cerrara-temporalmente-instalaciones-para-verificar-su-estado-por-el-sismo-4454797",
       "ts": 1786392436.6221812
+    },
+    {
+      "clave": "sismo_impacto_salud_agosto2026",
+      "resumen": "Valle del Lili recibió 84 pacientes tras el sismo y suspendió servicios ambulatorios",
+      "url": "https://www.larepublica.co/empresas/valle-del-lili-recibio-84-pacientes-tras-el-sismo-y-suspendio-servicios-ambulatorios-4454866",
+      "ts": 1786393144.2317379
+    },
+    {
+      "clave": "sismo_impacto_rionegro_agosto2026",
+      "resumen": "Alcalde de Rionegro ordena evacuación de edificio por daños estructurales tras el terremoto",
+      "url": "https://www.minuto30.com/evacuan-edificio-rionegro-danos-sismo/1715802/",
+      "ts": 1786393144.6947563
     }
   ]
 }
