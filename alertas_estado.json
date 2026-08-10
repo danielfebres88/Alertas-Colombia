@@ -71,6 +71,18 @@
       "resumen": "Wingo habilitó cambios y reembolsos para pasajeros afectados por el sismo de magnitud 7,4",
       "url": "https://www.larepublica.co/empresas/wingo-habilito-cambios-y-reembolsos-para-pasajeros-afectados-por-el-sismo-4454810",
       "ts": 1786388890.3994951
+    },
+    {
+      "clave": "sismo_impacto_panama_agosto2026",
+      "resumen": "Panamá evacúa edificios y hospitales tras sismo de magnitud 7,4 originado en Colombia",
+      "url": "https://www.larepublica.co/globoeconomia/panama-evacua-edificios-y-hospitales-tras-sismo-de-magnitud-7-4-registrado-en-colombia-4454829",
+      "ts": 1786389603.9880483
+    },
+    {
+      "clave": "sismo_impacto_antioquia_agosto2026",
+      "resumen": "Sismo de magnitud 7,4 deja 352 viviendas afectadas en Antioquia, con un muerto y dos heridos reportados",
+      "url": "https://www.minuto30.com/aumentan-los-danos-en-antioquia-sismo-deja-352-viviendas-afectadas-un-muerto-y-dos-heridos/1715785/",
+      "ts": 1786389604.447295
     }
   ]
 }
