@@ -155,6 +155,30 @@
       "resumen": "Ideam advierte sobre ola de calor en varias regiones de Colombia con riesgo elevado de incendios",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/ideam-advierte-sobre-ola-de-calor-en-colombia-estas-son-las-regiones-mas-afectadas-por-las-altas-temperaturas-y-el-riesgo-de-incendios-3577212",
       "ts": 1786333015.1799848
+    },
+    {
+      "clave": "desafios_economicos_espriella_agosto2026",
+      "resumen": "Déficit fiscal en máximos e inflación al alza entre los retos económicos del gobierno De la Espriella",
+      "url": "https://www.larepublica.co/especiales/de-incluir-a-gobernar/deficit-fiscal-en-maximos-y-una-inflacion-al-alza-entre-los-retos-a-enfrentar-4453665",
+      "ts": 1786339201.0002909
+    },
+    {
+      "clave": "inflacion_alimentos_agosto2026",
+      "resumen": "Colombia tendría inflación de alimentos superior al promedio nacional",
+      "url": "https://www.larepublica.co/consumo/donde-golpeara-mas-fuerte-la-inflacion-de-los-alimentos-en-2026-4453094",
+      "ts": 1786339201.4707375
+    },
+    {
+      "clave": "empresas_estado_agosto2026",
+      "resumen": "Estado colombiano tendrá bajo su control 62 empresas valuadas en $197,27 billones",
+      "url": "https://www.larepublica.co/especiales/de-incluir-a-gobernar/las-62-empresas-que-tendra-en-sus-manos-el-estado-valen-197-27-billones-4453635",
+      "ts": 1786339201.9465444
+    },
+    {
+      "clave": "jovenes_nini_agosto2026",
+      "resumen": "Se conocerá cantidad de jóvenes que no estudian ni trabajan con corte a junio de 2026",
+      "url": "https://www.larepublica.co/economia/se-conocera-la-cantidad-de-jovenes-que-no-estudian-ni-trabajan-con-corte-a-junio-4453425",
+      "ts": 1786339202.4078052
     }
   ]
 }
