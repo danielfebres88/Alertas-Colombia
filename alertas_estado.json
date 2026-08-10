@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "oferta_captura_cabecillas_tolima_agosto2026",
-      "resumen": "Gobernación del Tolima ofrece hasta $100 millones por captura de tres cabecillas de disidencias de las Farc y anuncia refuerzo militar en cuatro municipios",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernacion-del-tolima-ofrece-hasta-100-millones-por-tres-cabecillas-de-las-disidencias-de-las-farc-y-anuncia-refuerzo-militar-en-cuatro-municipios-3577222",
-      "ts": 1786344214.146139
-    },
-    {
       "clave": "formalizacion_empleo_domestico_agosto2026",
       "resumen": "Ministerio de Trabajo implementa nuevos requisitos para la formalización del empleo doméstico en Colombia",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG5tb1lNZW8wSDRMTTZmSHRnZ29ic0dVNk1oZU5IMmxaMnhkZnROZVVTYzFTWGZGU0ZzNF9YMFJCMGk1VXhaWTZ4UkkyWjFCcWtSbmxZRWNueUhyMTVJdU52dzlyVjBQb3ZjZW9NYnRpQnJsN3J0d2NPWVFKTDMtX3Y1bE8zaGdQSndHVHQxdzlzbkZVOFhMbkg3WXdIdHpROVZRNnhHcnlsZ2Nvc1hJRVFPR2ZzV09yOXBrSlFyR2ZFbEhmWENHaVVndFlpZDjSAdQBQVVfeXFMT0F0WVNRaWxnS25XVnFWWkd1UUJWRlBhSXFpYURNblJuOVg2bS1zR0xTT1pySHNqRnFSeU42TkJXc3NGS2U0ZnliZzBmLXlZTlJTdktjY1NTU3Y5bWhKVUdrbDZvbGxaSy14eWNxQl95Z3Zkc1VIN3lQXzhodllwWkFTT054VVJXaThheVN1NnhQRlJPN2FGbUxGYlZNTk5TOU01ZF9zNTR6dlhqY3V0UGEyNWoxZGNRS1BMQmRjbnllUUI0TUR0T1dfN2JNYmpQTTNIQ0w?oc=5",
@@ -65,6 +59,12 @@
       "resumen": "Vías bloqueadas tras el sismo en Tolima, Quindío, Valle y Caldas; Policía de Tránsito reporta cierres totales",
       "url": "https://www.minuto30.com/vias-bloqueadas-tras-el-sismo-policia-de-transito-reporta-cierres-totales-en-tolima-quindio-valle-y-caldas/1715782/",
       "ts": 1786385368.6151009
+    },
+    {
+      "clave": "sismo_regional_impacto_panama_agosto2026",
+      "resumen": "Panamá evacúa edificios y hospitales por sismo de magnitud 7,4 originado en Colombia",
+      "url": "https://www.larepublica.co/globoeconomia/panama-evacua-edificios-y-hospitales-tras-sismo-de-magnitud-7-4-registrado-en-colombia-4454829",
+      "ts": 1786387475.66883
     }
   ]
 }
