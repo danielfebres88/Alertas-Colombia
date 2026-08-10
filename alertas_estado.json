@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "desafios_economicos_espriella_agosto2026",
-      "resumen": "Déficit fiscal en máximos e inflación al alza entre los retos económicos del gobierno De la Espriella",
-      "url": "https://www.larepublica.co/especiales/de-incluir-a-gobernar/deficit-fiscal-en-maximos-y-una-inflacion-al-alza-entre-los-retos-a-enfrentar-4453665",
-      "ts": 1786339201.0002909
-    },
-    {
-      "clave": "inflacion_alimentos_agosto2026",
-      "resumen": "Colombia tendría inflación de alimentos superior al promedio nacional",
-      "url": "https://www.larepublica.co/consumo/donde-golpeara-mas-fuerte-la-inflacion-de-los-alimentos-en-2026-4453094",
-      "ts": 1786339201.4707375
-    },
-    {
-      "clave": "empresas_estado_agosto2026",
-      "resumen": "Estado colombiano tendrá bajo su control 62 empresas valuadas en $197,27 billones",
-      "url": "https://www.larepublica.co/especiales/de-incluir-a-gobernar/las-62-empresas-que-tendra-en-sus-manos-el-estado-valen-197-27-billones-4453635",
-      "ts": 1786339201.9465444
-    },
-    {
-      "clave": "jovenes_nini_agosto2026",
-      "resumen": "Se conocerá cantidad de jóvenes que no estudian ni trabajan con corte a junio de 2026",
-      "url": "https://www.larepublica.co/economia/se-conocera-la-cantidad-de-jovenes-que-no-estudian-ni-trabajan-con-corte-a-junio-4453425",
-      "ts": 1786339202.4078052
-    },
-    {
       "clave": "oferta_captura_cabecillas_tolima_agosto2026",
       "resumen": "Gobernación del Tolima ofrece hasta $100 millones por captura de tres cabecillas de disidencias de las Farc y anuncia refuerzo militar en cuatro municipios",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernacion-del-tolima-ofrece-hasta-100-millones-por-tres-cabecillas-de-las-disidencias-de-las-farc-y-anuncia-refuerzo-militar-en-cuatro-municipios-3577222",
@@ -53,6 +29,12 @@
       "resumen": "Terremoto de magnitud 7,4 en Colombia deja al menos 54 muertos, decenas de desaparecidos y colapso de infraestructura en Valle del Cauca, Risaralda, Antioquia y Chocó",
       "url": "https://www.eltiempo.com/colombia/cali/cuatro-ninos-entre-los-27-muertos-hasta-ahora-en-el-valle-del-cauca-por-el-terremoto-de-7-4-grados-dos-puentes-y-el-muelle-de-buenaventura-colapsaron-3577339",
       "ts": 1786381830.0686576
+    },
+    {
+      "clave": "apoyo_eeuu_sismo_agosto2026",
+      "resumen": "Estados Unidos ofrece apoyo a Colombia tras terremoto de 7,4; Secretario de Estado Marco Rubio envía mensaje al presidente De La Espriella",
+      "url": "https://www.minuto30.com/ee-uu-ofrece-apoyo-a-colombia-tras-el-sismo-secretario-marco-rubio-envia-mensaje-a-abelardo-de-la-espriella/1715766/",
+      "ts": 1786382541.8532956
     }
   ]
 }
