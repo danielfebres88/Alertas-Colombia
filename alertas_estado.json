@@ -89,6 +89,18 @@
       "resumen": "Chocó reporta 12 fallecidos y 84 heridos tras el terremoto de magnitud 7,4; gobernadora confirma cifras preliminares",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-y-destruccion-en-choco-una-mujer-embarazada-entre-las-12-victimas-mortales-del-terremoto-que-sacudio-a-quibdo-y-dejo-escombros-a-su-paso-3577377",
       "ts": 1786390309.0298443
+    },
+    {
+      "clave": "sismo_impacto_cali_agosto2026",
+      "resumen": "Cali reporta 15 muertos y 380 heridos; Alcaldía declara Alerta Roja en toda la red de salud de la ciudad",
+      "url": "https://www.eltiempo.com/colombia/cali/terremoto-deja-15-muertos-y-380-heridos-en-cali-alcaldia-declara-alerta-roja-en-toda-la-red-de-salud-de-la-ciudad-3577382",
+      "ts": 1786391019.298431
+    },
+    {
+      "clave": "dimayor_cancela_partidos_sismo_agosto2026",
+      "resumen": "Dimayor cancela todos los partidos del FPC de esta semana por el terremoto",
+      "url": "https://www.minuto30.com/no-es-momento-para-el-futbol-dimayor-anuncio-que-todos-los-partidos-del-fpc-de-esta-semana-se-cancelan/1715799/",
+      "ts": 1786391019.7587605
     }
   ]
 }
