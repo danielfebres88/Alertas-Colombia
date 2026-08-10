@@ -101,6 +101,18 @@
       "resumen": "Dimayor cancela todos los partidos del FPC de esta semana por el terremoto",
       "url": "https://www.minuto30.com/no-es-momento-para-el-futbol-dimayor-anuncio-que-todos-los-partidos-del-fpc-de-esta-semana-se-cancelan/1715799/",
       "ts": 1786391019.7587605
+    },
+    {
+      "clave": "sismo_impacto_manizales_agosto2026",
+      "resumen": "Manizales reporta 4 fallecidos y 17 colapsos totales de edificios tras el terremoto de magnitud 7,4",
+      "url": "https://www.minuto30.com/tragedia-en-manizales-alcalde-confirma-4-fallecidos-17-colapsos-totales-y-habilita-albergue-tras-sismo/1715806/",
+      "ts": 1786392436.1805792
+    },
+    {
+      "clave": "sismo_impacto_colpensiones_agosto2026",
+      "resumen": "Colpensiones cierra temporalmente instalaciones para verificar su estado estructural tras el sismo",
+      "url": "https://www.larepublica.co/finanzas/colpensiones-cerrara-temporalmente-instalaciones-para-verificar-su-estado-por-el-sismo-4454797",
+      "ts": 1786392436.6221812
     }
   ]
 }
