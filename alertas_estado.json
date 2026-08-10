@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "suspension_contrataciones_mininterior_agosto2026",
-      "resumen": "Ministerio del Interior suspende nuevas contrataciones y movimientos de personal hasta el 20 de agosto en el gobierno de De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmdESVdmVG8zQW84UzdmLVFYdVlxNEdUZm5LSzhmWVFGZDcyUzdESVFKY2JOY1hXNEJpVEV1NUljNGlGbG85UjZQdG1zUFVrbnRvRXY1Z1JOaWRmeS1Ma2psQ2F0S3EwOXgySzl4X0Z1NHBaYm1uejVFLVB1RzQ0S3BNLU9lZ3BpS0Y3VVlfWFkzRWRPazFBSDdOM2xyQ2Y5S3c4bko5OWJFY0Nua2w5U2RubWRKcnhIZlpNclZfMFdhdU9rT1VGeG130gHXAUFVX3lxTE5fRU5vekJQOVhiV0tHaWZnZW9yM2kzN3FpaG4tNTNwRXBxWU9IWU5QT3lVdHVxRWlsVmVDVTlCTncyV3dxcndmRllnOGpPVWZxZERMQVZPdFFCZVppSldBYVpISGZzM1RhdFlRdVlOc1JSTVFZN3YzNWRZT3dRTHdfblFER2l0SnJMVGdOUWE3TWUwVzJZM1BwSnFzb3I4MUZxSjJMUHo5UXdDcHc4SkY3QVVJck9pUGRLZlh2Tm1DR1JHeDJWWnNsVV9YdHRfRnJiQ3d5V0dJ?oc=5",
-      "ts": 1786294560.472061
-    },
-    {
-      "clave": "alerta_defensoría_violencia_drones_agosto2026",
-      "resumen": "Defensoría alerta sobre posible escalada de violencia tras ataques con drones y explosivos contra civiles",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzlud28wSXNYeklnaWVaYkxSRmRMVVhaQWpBQVE3T2RrdklmaEgyTU5zbmdfdGpfSlpNZWIyNE4tTzV0R1FZNGppdlVxLTVqaVVUOHNPZ3c1U0JQMUdNOVZMeGFyZkxmZmpEMmtUNWExRDVXOEZKeFpybllrWm9aeHhCdnppcjBzSFhHQ1dXcU5vR2RzTkdpc1FhQThLbF9uNlFOYUo0dnpPcFJrSEZNWVZkMm12ZUgtbXYyNGpaV1AwRGc0UUHSAdMBQVVfeXFMTm5LcGVBSUFKVTIyRjNUS1lwNnhWNGRkTUxWR0pjUnRsZHZSdmRJYmhXSkFTUER0OG9ibDFVX3dRdXJKUTRoWVRKRkhFRFVCNk9kanZvQ0tuRFBpNnZoQ0dsQkhWSUx4WENtOWZvbHEtVGpPTlZGakM2QnFfQzhvdm1wbVZLNGVHSkhCbldibkZoZFhLZjN1eFhEaWIzSzFIOGZWS3RoWDNVaXkxZXpIYWpobXcwdW90WGNmcFFKYjVxeDk0UVdhV1pKMjZXZGY2NEZndw?oc=5",
-      "ts": 1786294561.0342467
-    },
-    {
-      "clave": "baja_eln_santander_agosto2026",
-      "resumen": "Dos integrantes del ELN fueron dados de baja en operativo policial en Santander",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0xleV9yNFA0TXJsVGlPd1NYTFdrLTUzbGRpLUhscjhSRVlMMlBlUjV1QTNHWDNwRWhFRTEwWHFmTC05aFExLWtoOW5jeXlzOW1RcnhmaURTa2pDWHpOQ1BEb2FET0pyRXpTSjhzX3BZaUpROS01T0pJOVRHalZSRzlmaUZMRm5LTzZoLXdwV3BpTlZvX0h5RjFtT0ZzNm85V3pMUGNWcnhNU1BNb2VDRlB2a0TSAcgBQVVfeXFMTU9Hd2FBbnNGdlpOQkh5dDlYSmlrdmlFWkZtSUFJTC1GQzBVVDlvZlJwalREMDgwNXlkd1VzWUw4alRwXzkxWmJZX3ltZ2FtMks5OVE4N3hKZ3g0cmNxVF9aTGZoV280LUVBVW9CaXRMMjZ6QlNYdjJCekZwSmVneE1FY1ZNcXVBYU5IRFRHLUFwOTNJZkN0ZDVObDQwbWxIcTg1aWZDdFlabWE4NVl2N3otbnlKdVNiVE5nRXo2ZUNJbUVmVmpIM2Y?oc=5",
-      "ts": 1786294561.566608
-    },
-    {
       "clave": "disputa_minagricultora_adr_agosto2026",
       "resumen": "MinAgricultura y director de Agencia de Desarrollo Rural entran en disputa pública sobre contratos",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1Q1a3A3OU55N2Yzb21UaFpkZWxWU25KRnVrRnVURXJMOE5rRGtQVkc5cXV0Qmt4aGdUeGV4WlctQ3lIYjl4ZDhZZjd6OFJoU3pERTZfRVZkandPLWZ2eDFEUW55eFQ4cGJicERnV3Q1TThOUzNwZHNhR0NUeHlIMUtqSVBpZ9IBhgFBVV95cUxNbWZHZVMzNWtFVUp2M2VNNHNZQzgzQ2dKeDY4cVg2cVNKLTdwSEotUnRycGF6OVRLTmJQTFU4eEItc0VpODRyWXhUd2ptalBwX0RrZmxGVWFIN3NXNHhQR0FOZjBBOGpzeDFpS2o2NVptZzJjaHg1aHMzTmxKalFqRkU5VE1tUQ?oc=5",
