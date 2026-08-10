@@ -1,66 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "baja_cabecilla_ivan_mordisco_agosto2026",
-      "resumen": "Gobierno De la Espriella confirma baja a cabecilla de disidencias de alias Iván Mordisco",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU0x6c0N2ckpVUjNPRElMeU0xck85WmNEVUR4cjIxS2pmVlVNaG15Z3RLU0haSmFjQTEwMTRzVHhZOEpsbkt4UmFCUWNxZW9lVG14UV81MVByUUVBb3R3Z1VsWEFBZ1BFVEliOW9BSXVfOGJ0bElDM05idWk3OElzVm41RzQyU2ZRcERXT0VPWG5kLTZsNUdmeUNmSVMyQmVNYWNtNGVpTW9ZYThmbkpxVGNiUUtvRlNjd2RKbFlFU042cFVtYlp0VkJhRXkyVkF3ekJqaWVma0lTeUViTTVDd1p3aWJIOVNRN24xaUlidktNWGfSAfgBQVVfeXFMTnRnR2hZMmlhSktqZHFVU0VKRlFKaXBZaDJHOF91T1Q4R0YwYUJvVjAzMF9IRmpyUWJyTTVsM0IyVHVhcjQxOFExeE11cWJ3c1Zpb2x1Wmp1aXo1Q1lKVXhVelFOUDgwYUt2YWdJdGl6WkZ6cTYzN3pTNDc4dkxmSDBlYlJBLUdyZm9kWXlubUdXREJqWGpOQWRkYXFEN0FOV0FiYkhkZ3VXeXhCVHh5R0hrNGs1ckpENWxrQXVMUldCd3lrc05hcmU4SDdDdldLZFEzcmdNUFBZaHNRTGI2T1Nldkp0a05pempvNE1XYzRUeDh0aWM1NnQ?oc=5",
-      "ts": 1786324384.8354268
-    },
-    {
-      "clave": "baja_el_ruso_guaviare_agosto2026",
-      "resumen": "Ejército abatió en Guaviare a alias 'El Ruso', cabecilla de disidencias de las Farc",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0lxbHRCR1JiNVlJbGRGbDM5ckIzZWRrOFY0QVFlSktTczZGUi1mQlk0UzdPeUhZR2R0TkhwQkt2aW16eC1VOGJncDgzdE1PSEpCUzJSMlZ3VDF3Q2k0NlpyOFBhZjFKR1hvcGZndGhHSzRHZENiR0ZsdksyUWJObWpDWWNFeW5KU0dsbnhpYXdRZ012YmpMUHFpSWdfUEFLYnFlUTNDVEcwd1R6QlFnYS1ReTk0VWt6S0pkR0ZYVWJPUW13S2MxZUR5VdIB2AFBVV95cUxOS0hXdGZVb05VdE5tVXhMSVpDcW1uZW5UTzlfdnFsakVrUG5fWjF3ZWpBdG9wVjl1ZmRRNWhKOTNEdVA1aUtsVk9ZbWRfSnlQN2V0MzExNVhqTWN0UnUzN0l3a1hCUEFhdC1WeEJKNXhzakNGVTZtcjZRNHNrV1NLVkxQRXdyYnhONUl0aHMzVTk5R18tTk9ZaHhzT3cta2pjVHlweTF6X2pSaWx5eGhhaXlicnl6bEZ5SUFQQ2F3NnBtc1hhQnRIRzJYbnFsQ2JqY0tpdnJGd3k?oc=5",
-      "ts": 1786324385.337807
-    },
-    {
-      "clave": "ataque_drones_rioblanco_tolima_agosto2026",
-      "resumen": "Ataque con drones explosivos contra la Alcaldía de Rioblanco en Tolima atribuido al Frente Ismael Ruiz",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjNybUdyMVdWOEFEaXJ6bjI1ZTJFMHQxbThYTkhRbVlpZFB5Z01RR3M5WWFURjVUVzZWX0RVVlA3djVHRXJNdVdneTZmLTlPSV9oSlpxYnZlanRjTHRMNU5jb1ZYWWt1ejhKUG9QSFFtZ2dzVlV2cF9xZ25jMVR0WjdHWTRZRXVPaERZdW5kbDE5WjBuUW5Lbm5xNURud1UzaF9xUi1tNTFzSGctcEV1d2pUa2RtNWZxcm03bEVTdV93ejDSAcgBQVVfeXFMUEsyT3ZlczloSTZyd1RIR2h2ZTdoQnQ2N2ZVZ0hSMkRaanZkNWRNZlVWY21ab1RNczRjWnFqZ2ZHSFRnRGdBeHo3Q21MTVhHeFkwOWxzTEU2eXRBVExhNTBvSHJvVGtXdnVQZG1kRmdrclpQMmxwdC1iV1JXcmg2S2x3bDVmUnRTb0pQU09jelFSamhPZy02a0VYWEJLcEg3M0tiSHUzQW5WQV9OWFhRTGIzR3BaTTQzbnBMMkZXcndCbTFHQ1pfVWo?oc=5",
-      "ts": 1786324385.825754
-    },
-    {
-      "clave": "eleccion_contralor_agosto2026",
-      "resumen": "Congreso de Colombia define este miércoles la nueva Contraloría General entre diez candidatos",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXZsWDA5X3M4RUp1cGZ2WkE1WDB0Vm56QW1ZamhhSWFOQy1RVk1YSVRLelFzZndKYmhGclpUaWlLSDZPM1hwby14VHBZcEV6U0syVFFZbXJ0YlE4Y0lQa3J0SFBiaERFUG1ROGc5RzVnTUNFOGd1dHpDN2pTYktpUHJkQU5fY2x3b3Nxb0Nzblk4UVJ1SlBIMXp2NkdOSG9ER096NTg0Tkd1RmNuZGs1dHVtMm9McW9wd0hFeEkxajBPcFlMWnfSAcsBQVVfeXFMTW90MFlmTnFMR0txY2JjV0JYMU4zaEpKZ0tOV2hBbzlXczM0ZjhOUjlVN19LWFJrdUI5SU9ydzEtUDlrNGtCb3pYMHd0b2xhSV9TTy00cWJMYnVoUk1fWjlSY0VILVN4emFEOWJTM0I5dk1NYWdpdVRsb0JiYmdsYk81RFhieldybXhBOTU0SWdJODFmbTFiRjhZdmNUb2dKclp4LWlBcGRKbWRDNkxnWXNOTGhCZ29LRXltcnJ2N3VzVUN0Z2ExMW9qWjg?oc=5",
-      "ts": 1786324386.3308241
-    },
-    {
-      "clave": "golpes_criminales_espriella_agosto2026",
-      "resumen": "Gobierno De la Espriella confirma nuevos golpes contra disidencias y Clan del Golfo en su primer fin de semana",
-      "url": "https://www.kienyke.com/colombia/abelardo-de-la-espriella-reporta-muerte-de-alias-ruso-y-golpes-al-clan-del-golfo",
-      "ts": 1786331157.742882
-    },
-    {
-      "clave": "gobierno_espriella_desafios_politicos_agosto2026",
-      "resumen": "Abelardo de la Espriella empieza gobierno con fisuras con Uribe y oposición de Petro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEVRNzBfODNTYUthNXFyY1NzbGhLYXJnVDk4eVFvRDctZjJiaEZxUjAxUUI4dlN4aEVyUHJTTm5ybFdwYWNScktTdExjcXJTMzM2SUtwNXJUeHV1Xzh4M3NzdUFLclE1dHUzbjJNYndGVFRHTlpCNG1sVXZnQXozdnk0VjhtUFBfREtMOGMtYzNaMjVheV9JMS1KYVVOVnBZRHBIcXlvTDN4c3ZwUGdLTDEtX2I3MnU0aEMzaFVFMEJuUXFpQjNfMNIB3AFBVV95cUxOOEhyQi14akFaMjl1TnB5SHNkWGgta0FxdEdmQmgyNEY1OURvM3kwWkZ3aHhxenI2OVJxdUdXT3VrRnpOVExlX202NVhIVDhEVDVyai1TeFRvZG5hSUJhYXhQMHJQejBjTVRDaURtMERXbDE2Ujd5Qk4zWmx3bVJiZHd1U0NBR3dSVVMycjJENERacDRRLUo1VWRBQXlnNWlwU1IwVDNaazRidXdkbU53bmRlbGxxdUZsZkd5UDd5WGk5WjhqenRwRDNYY0tLcUM2MzcyRHlzV1lLSlJs?oc=5",
-      "ts": 1786331158.2494946
-    },
-    {
-      "clave": "costo_paz_total_petro_agosto2026",
-      "resumen": "Contraloría revela costo de la política de Paz Total del gobierno de Petro",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFc4a25oUERCWUtCek9NSTFnMWtWcFV6U09hdzh3LUlGVEFuRFphNFMxbFZlZmJsZnZyNFZCTVJSNjlTQlA2empIUk9GS3ZlWEt6eGotTmk2ZUszSVRaUmtMMDJTblNfOGRyN1k1NHNxSF9oaGh1ZzRRbXRlelROQkNveGs0cXgtcVdGQkxiaTdzY3JuTERGMnhldDRtb3AxbXFYVk5fbWx5UVZZR2w4dTZSNWxJNHZKMG9sa3ZRWWZVUkVfMXZSR2JvZHFGN0xKMXFtS2h4ZWlnaWw4dUtYUEdkUTgwQmZGOGMxTmNJQ1J3YWQ1VTJ1V0ZzVUxwbGRTeVpFMTlUeXhmZnQ1S3BB0gGqAkFVX3lxTE5FczYzTmNOOGNUYlMyRWx5NExFYzQ5MG1lRTJCRmdIZVdCaHpiVzNfbGYzMV96UkhOT2VucmZmc1p1NUc5dzVSTGJhMmt1aV9Gb3JOeFpUUnVyMHVzeFItZDZUQU5DS2lOU29yaUNDTkc3MWcyWXl2WGRrckl3blVKVFhrRTcyNi1ENVE3UmRheXlRTGtOUDhwSTdOaWoyajIwZ3dnZktEd08xOTJzYzB2TzNVemNnZ1kwNVNSZmlPNDBERm1weFFlMWd0RE9yVnVvT0J1YTBHRV9Yc01kZGlQYVp3OWVjelZOS1otazJ5dW9ubVFpV3dIc2g5SjBiVDk3MmtKNUZiaHdXeWdpMFBheVRzSnR0eHc3V3Jvbmh3YWJydWczTUZLZ2c?oc=5",
-      "ts": 1786331158.7711074
-    },
-    {
-      "clave": "reforma_pensional_espriella_agosto2026",
-      "resumen": "Reforma pensional: propuestas de Abelardo de la Espriella y cambios para trabajadores y cotizantes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWpaalBfSk1ETFRxcm5QUkRzZGROd2tSUHVRaEVUUHZ0N2s0cHF6ejlKb0Q1MFVTOS16OGFVSEVNb3RVYXVVMFJoZDNjT1dROWxNR3lmd0xXZEtWZFd3QlJOZVpZcEtFVmlHeGlpdVd0dzF3Q24xaTA1b0FWYVhBLXJFQTNRVU9SbU5jSTJjMHRTd2ZnV2VXYU9OX3RYSVBad1V1NGdkNzdueDBOeWZ5ejBrMC1mNldnSHJwQzZfWjVTMmlxSXFlemhzQQ?oc=5",
-      "ts": 1786331159.2759268
-    },
-    {
-      "clave": "nombramiento_viviane_morales_educacion_agosto2026",
-      "resumen": "Viviane Morales asume como ministra de Educación en gobierno De la Espriella",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZG9MTmZManU1OEd3dkp6ZmZ3R3JRbkRLUnktN1JRS0RFZzJGWF9hTkRDU0RZQjA2VU4wTkFMTFI4ZHlQWWJsYVRDZnp0V0h6ajExcFVteFh0b1Qwb2RBdXplNDBTSEI5d0dFWVpxYUdZV0dqZ2Frd0gxeEVDckdqWkh6OHNmc29MNi1NNEZEajVNQy1mMGhhbldFRWtkZXZoUGVfQWY5UnB6TTVTdGlYWjlYVHRmYm53UmI4R1dLVDFWZzh2QUtaSUE1MXFpQWpxQkpXOS04d9IB3AFBVV95cUxNbVA1ZmRpUjBtVXJUM2FmeXU4NHd0azMydzBuSjcxREhXTVRaV29kZXRyMlpsS0ZqUlB6c1hhT2F6dFVnWU15Z2pLN09NNlVudTlLcjEyMDJraHBsXzcxczZBVEtuXy1Gbm1qVDN0V2R3ay03WWVQWDc2UGdvVGVaeUNSb1U5SjYwMmxQdUlKSV9yaDZwS3hvcWtReXVCM0xmeGg2anBudWFEOEdHZUhXSWgtazRiOUhVdE84WWsxX3dpZlUzNEJSeGR4ZHZDZWJDU3d2VlNjOTJMcmhH?oc=5",
-      "ts": 1786333014.6753001
-    },
-    {
-      "clave": "alerta_ola_calor_incendios_agosto2026",
-      "resumen": "Ideam advierte sobre ola de calor en varias regiones de Colombia con riesgo elevado de incendios",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/ideam-advierte-sobre-ola-de-calor-en-colombia-estas-son-las-regiones-mas-afectadas-por-las-altas-temperaturas-y-el-riesgo-de-incendios-3577212",
-      "ts": 1786333015.1799848
-    },
-    {
       "clave": "desafios_economicos_espriella_agosto2026",
       "resumen": "Déficit fiscal en máximos e inflación al alza entre los retos económicos del gobierno De la Espriella",
       "url": "https://www.larepublica.co/especiales/de-incluir-a-gobernar/deficit-fiscal-en-maximos-y-una-inflacion-al-alza-entre-los-retos-a-enfrentar-4453665",
@@ -107,6 +47,12 @@
       "resumen": "Servicio Geológico Colombiano reportó sismo de magnitud 6.6 con epicentro en Chocó",
       "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporto-sismo-de-magnitud-de-6-6-con-epicentro-en-choco-4454483",
       "ts": 1786366883.7120633
+    },
+    {
+      "clave": "terremoto_74_agosto2026",
+      "resumen": "Terremoto de magnitud 7,4 en Colombia deja al menos 54 muertos, decenas de desaparecidos y colapso de infraestructura en Valle del Cauca, Risaralda, Antioquia y Chocó",
+      "url": "https://www.eltiempo.com/colombia/cali/cuatro-ninos-entre-los-27-muertos-hasta-ahora-en-el-valle-del-cauca-por-el-terremoto-de-7-4-grados-dos-puentes-y-el-muelle-de-buenaventura-colapsaron-3577339",
+      "ts": 1786381830.0686576
     }
   ]
 }
