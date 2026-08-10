@@ -101,6 +101,12 @@
       "resumen": "Estados Unidos brindará asistencia de seguridad por US$1.000 millones al nuevo gobierno de Colombia",
       "url": "https://www.larepublica.co/economia/ee-uu-planea-brindar-asistencia-de-seguridad-por-us-1-000-millones-al-nuevo-gobierno-4454480",
       "ts": 1786365474.9335198
+    },
+    {
+      "clave": "sismo_choco_magnitud_66_agosto2026",
+      "resumen": "Servicio Geológico Colombiano reportó sismo de magnitud 6.6 con epicentro en Chocó",
+      "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporto-sismo-de-magnitud-de-6-6-con-epicentro-en-choco-4454483",
+      "ts": 1786366883.7120633
     }
   ]
 }
