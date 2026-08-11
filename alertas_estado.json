@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_impacto_pereira_agosto2026",
-      "resumen": "Video muestra colapso de edificio en el centro de Pereira tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-exacto-en-el-que-un-edificio-colapso-en-el-centro-de-pereira-tras-el-terremoto-de-magnitud-7-4-en-colombia-3577484",
-      "ts": 1786423044.5908058
-    },
-    {
       "clave": "gat_directora_garrido_agosto2026",
       "resumen": "Lina María Garrido asume como directora de la Agencia Nacional de Tierras",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMlF5dkxzWE91c1AzZHlyNExFbXg5MGNHTDZCSkVoaURPeGFVQ2tJS0pHRVRXNTQwRWk5aVEwUGFXM1cwcWcyMDkxZWpnS0JrQ21OZFJSV2RQZ0ZoMmkwQXdHMGFtRzhNMzZFakRmVWx2c0JTbFZsU0JWOXpuelp1YkFZYmlldXhHYjJaYkw2NkVlVWJRR2xhM1hCZEZFTUFZUkVEWUxDYzVNQVpBSmxxeDhuRW5OVy1OOWE4QmdUS3h2RzVGRHF6S1A4cUUzTThuTXfSAdcBQVVfeXFMTnFJSThkU2FNb3NEYzYxeVRHY0JlVl9fVTM1Tk1rVVNqMGdOamxZMTRiekdjQUtfYUVScHpmcFpfSlJwU1ZXYnhJV2lWNV9Zb0E1YjRqdlNGUFZkSVYyX3ZVckRHVC13UHpXQ1FMMk0zb19ZRG9TNlBKdGZDQjRxTldUeG8xTzZMRy0tMEJDN21fR29EcWNVbTBtZlM1VmRBTlVZU195cXdHWlNNWGUybnBNazJyNTRiak1WUmIwT2xSQS1vcDVyVnQ1NDZyTm1kTXowUE5OdTA?oc=5",
@@ -413,6 +407,18 @@
       "resumen": "Estadio El Campín será centro de acopio en Bogotá para recibir ayudas destinadas a zonas afectadas por terremoto",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdhZXRQV3JKcUhQSldBQ3dhNjlnUVdJT016NldZbmk1TjBNUkJJSXA2c3YwckVyOEhpSjlwX2hhaFRocFJLdURyT0o5bVc2aVNra2RISEZDYk5Pd1VZYTNzRUtEOFhkUDlucGxuTmFveUJZcnVVbGFRV0VHNnp6eHJxWEptUmp3aTFfVTZXTEhCXzV6c1I2cVc1bXNYZ1MwMVNfQ2VpZWpTOFRibDI1LXpFUm44eTlRdmRqLW5VemdJd1pGeWhTR05aVFlPbXpQYzd1Sl9DTmk1bjZ4Wmo5REF5QTBNOUt6c2U0SzlpSDlCUDNIZFprdW5aaErSAYICQVVfeXFMT0NnU2J2Y013X2tUQXJ5OXFFMExUMEF4UFhrczJ3Um0zTXVKakdyVTdqWDhZWjUxekxnTFBWa2U2aW5DS2Vtd3B4MGJ1S1BpRlI3WWtNbUZzOTFoN0ZjWVlvWnNKNjFnUFRXWUQtdW9rcDFOMjloVHpFcVV1RXM4Y2dJbEhWemxMaEdaRm5LUEhHaHBkS0ZUUHk3eGRiWjJ3RmhObGxQQTcyWDRsenZEc0wzVlBaY1FrdmpweFROUkswcWNYOWxCU2ZsU2J2TDMyVGxHLUlWd2Y5Nkp1Y095WWtfVzFnQjgwbUdUTXVIVjlRSUJxU2RzZWJ1QjFqMzBLRGRB?oc=5",
       "ts": 1786465714.7643893
+    },
+    {
+      "clave": "sismo_neonatos_cali_agosto2026",
+      "resumen": "Enfermeras en Cali sacaron todos los bebés de neonatos y los atendieron tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/video-enfermeras-en-cali-sacaron-todos-los-bebes-de-neonatos-y-los-atendieron-tras-terremoto-3577587",
+      "ts": 1786466331.9422982
+    },
+    {
+      "clave": "unp_rodrigo_lara_agosto2026",
+      "resumen": "Rodrigo Lara designado como director encargado de la Unidad Nacional de Protección (UNP)",
+      "url": "https://www.kienyke.com/politica/rodrigo-lara-queda-encargado-de-la-direccion-de-la-unp",
+      "ts": 1786466332.5086126
     }
   ]
 }
