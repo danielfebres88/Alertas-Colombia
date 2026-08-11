@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_impacto_aerolineas_agosto2026",
-      "resumen": "Latam Airlines y Avianca anuncian medidas de flexibilidad para pasajeros afectados por terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/fuerte-terremoto-de-magnitud-7-4-aerolineas-latam-airlines-y-avianca-anuncian-medidas-de-flexibilidad-para-pasajeros-afectados-en-colombia-3577345",
-      "ts": 1786393872.8512685
-    },
-    {
       "clave": "agricultura_suspension_contrataciones_agosto2026",
       "resumen": "Ministerio de Agricultura suspende contrataciones en el sector hasta el 20 de agosto",
       "url": "https://www.larepublica.co/economia/ministerio-de-agricultura-suspendio-contrataciones-en-el-sector-hasta-el-20-de-agosto-4454921",
