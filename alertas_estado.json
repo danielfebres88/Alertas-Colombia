@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_impacto_cali_agosto2026",
-      "resumen": "Cali reporta 15 muertos y 380 heridos; Alcaldía declara Alerta Roja en toda la red de salud de la ciudad",
-      "url": "https://www.eltiempo.com/colombia/cali/terremoto-deja-15-muertos-y-380-heridos-en-cali-alcaldia-declara-alerta-roja-en-toda-la-red-de-salud-de-la-ciudad-3577382",
-      "ts": 1786391019.298431
-    },
-    {
-      "clave": "dimayor_cancela_partidos_sismo_agosto2026",
-      "resumen": "Dimayor cancela todos los partidos del FPC de esta semana por el terremoto",
-      "url": "https://www.minuto30.com/no-es-momento-para-el-futbol-dimayor-anuncio-que-todos-los-partidos-del-fpc-de-esta-semana-se-cancelan/1715799/",
-      "ts": 1786391019.7587605
-    },
-    {
       "clave": "sismo_impacto_manizales_agosto2026",
       "resumen": "Manizales reporta 4 fallecidos y 17 colapsos totales de edificios tras el terremoto de magnitud 7,4",
       "url": "https://www.minuto30.com/tragedia-en-manizales-alcalde-confirma-4-fallecidos-17-colapsos-totales-y-habilita-albergue-tras-sismo/1715806/",
