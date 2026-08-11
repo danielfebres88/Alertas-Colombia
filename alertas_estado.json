@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "agricultura_suspension_contrataciones_agosto2026",
-      "resumen": "Ministerio de Agricultura suspende contrataciones en el sector hasta el 20 de agosto",
-      "url": "https://www.larepublica.co/economia/ministerio-de-agricultura-suspendio-contrataciones-en-el-sector-hasta-el-20-de-agosto-4454921",
-      "ts": 1786395278.8831222
-    },
-    {
-      "clave": "corredor_humanitario_sismo_agosto2026",
-      "resumen": "Gremios apoyan corredor humanitario por sismo de la mano de Abaco",
-      "url": "https://www.larepublica.co/economia/gremios-apoyaran-el-corredor-humanitario-por-sismo-de-la-mano-de-abaco-4454919",
-      "ts": 1786395279.3946264
-    },
-    {
-      "clave": "trump_decreto_vacunas_agosto2026",
-      "resumen": "Presidente Trump firma decreto para reducir vacunas recomendadas para la infancia",
-      "url": "https://www.larepublica.co/globoeconomia/presidente-trump-firma-un-decreto-para-reducir-las-vacunas-recomendadas-para-la-infancia-4454874",
-      "ts": 1786395279.8359458
-    },
-    {
       "clave": "caf_ac59a375da80",
       "resumen": "Banca multilateral otorga fondos y créditos por más de US$1 millón por emergencia sísimica",
       "url": "https://www.larepublica.co/empresas/banca-multilateral-otorga-fondos-y-creditos-por-mas-de-us-1-millon-por-emergencia-sisimica-4455171",
