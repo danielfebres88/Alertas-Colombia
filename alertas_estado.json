@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_replica_agosto2026_nuevas",
-      "resumen": "Nuevas réplicas de terremoto reportadas la noche del 10 de agosto en Colombia tras sismo de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-la-noche-de-este-10-de-agosto-del-terremoto-de-7-4-en-colombia-epicentro-profundidad-y-detalles-3577486",
-      "ts": 1786420577.8528755
-    },
-    {
-      "clave": "sismo_valle_cauca_desaparecidos_agosto2026_actualizado",
-      "resumen": "Valle del Cauca reporta 188 desaparecidos y aproximadamente 5.000 viviendas colapsadas tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/preocupan-victimas-188-desaparecidos-y-5-000-viviendas-con-danos-en-valle-tras-terremoto-listos-para-ayudar-dijo-el-presidente-de-la-espriella-3577481",
-      "ts": 1786420578.451691
-    },
-    {
-      "clave": "cali_alcalde_agresion_sismo_agosto2026",
-      "resumen": "Agreden a Alejandro Eder, alcalde de Cali, mientras atiende emergencia de rescate tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSWhyVi1EUW0zeHBqMnlOZF9fMlp6T0tpMUVKcEExT3FaUlFJVTBhWkgzcmFhWTM4Um1UZWc5OGc2Q0FzUFZEbkNMOXZGd1hwMTdrX085aGxHczY5QnpxcVJTaXhKd0twTFVXVUo3ZEJfTVd1azctcUYySVBUTkZMaUJyUjFoT2lRQXY5YktuNXg4cEZWRC0yOUVycHBRSEVBcnNtbE9Ta3RkencwM0gtMFhmQkhoUEdGY2FnVzl5cnFUQW5tTDdTOGJrSzhPMXQtSnhONGkxaXVkUWt0Yll1SEliYkJ4Vkhl0gHuAUFVX3lxTFBBNWR3clBQTkcxZU9SZlpkWE5DLTVzU2I0amRPLUVPcFpKVHR6RHNNYllRNVJ0eEpnMXRKZXdqOFBlbEhXb0VYOUgzcnM3VmRMQWc3bTVONlBJUnpVcFFHOWlOZjlISTlFSnhVbFczQVhHeFF6dXF3OWNuN2NmaFpRNWFvd0pLS1ZtZXVwU2h1OGl0OUVpMWd2QURtZnRLQ3NmeHVwbWZ5cEdpQmxZTno0LUtBc0F2eTFJRnVHVlBKNTdkNTYtRkxPX2tmYW8td1JKMHQ1LW8wTDlYV2hzVjNmRWFRbXIySzZmcl91SFE?oc=5",
-      "ts": 1786420579.053602
-    },
-    {
       "clave": "sismo_impacto_pereira_agosto2026",
       "resumen": "Video muestra colapso de edificio en el centro de Pereira tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-exacto-en-el-que-un-edificio-colapso-en-el-centro-de-pereira-tras-el-terremoto-de-magnitud-7-4-en-colombia-3577484",
