@@ -233,6 +233,18 @@
       "resumen": "Presidente del Senado Henríquez propone a legisladores donar su salario por el terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/economia/presidente-del-senado-henriquez-propone-a-legisladores-donar-su-salario-por-el-terremoto-4455272",
       "ts": 1786413768.6237752
+    },
+    {
+      "clave": "sismo_valle_cauca_desaparecidos_agosto2026",
+      "resumen": "Valle del Cauca reporta 188 desaparecidos y 35 fallecidos; balance actualizado del terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/preocupan-victimas-188-desaparecidos-y-5-000-viviendas-con-danos-en-valle-tras-terremoto-listos-para-ayudar-dijo-el-presidente-de-la-espriella-3577481",
+      "ts": 1786414999.9142327
+    },
+    {
+      "clave": "cali_calamidad_publica_sismo_agosto2026",
+      "resumen": "Alcaldía de Cali decreta calamidad pública además de toque de queda y militarización tras terremoto",
+      "url": "https://www.larepublica.co/economia/alcaldia-de-cali-decreta-toque-de-queda-militarizacion-y-calamidad-publica-tras-el-terremoto-4455268",
+      "ts": 1786415000.5309346
     }
   ]
 }
