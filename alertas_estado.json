@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_impacto_panama_agosto2026",
-      "resumen": "Panamá evacúa edificios y hospitales tras sismo de magnitud 7,4 originado en Colombia",
-      "url": "https://www.larepublica.co/globoeconomia/panama-evacua-edificios-y-hospitales-tras-sismo-de-magnitud-7-4-registrado-en-colombia-4454829",
-      "ts": 1786389603.9880483
-    },
-    {
-      "clave": "sismo_impacto_antioquia_agosto2026",
-      "resumen": "Sismo de magnitud 7,4 deja 352 viviendas afectadas en Antioquia, con un muerto y dos heridos reportados",
-      "url": "https://www.minuto30.com/aumentan-los-danos-en-antioquia-sismo-deja-352-viviendas-afectadas-un-muerto-y-dos-heridos/1715785/",
-      "ts": 1786389604.447295
-    },
-    {
       "clave": "sismo_impacto_choco_muertos_agosto2026",
       "resumen": "Chocó reporta 12 fallecidos y 84 heridos tras el terremoto de magnitud 7,4; gobernadora confirma cifras preliminares",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-y-destruccion-en-choco-una-mujer-embarazada-entre-las-12-victimas-mortales-del-terremoto-que-sacudio-a-quibdo-y-dejo-escombros-a-su-paso-3577377",
