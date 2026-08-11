@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "deficit_presupuestario_2027",
-      "resumen": "Presupuesto de 2027 tiene un hueco de $8,3 billones incluso con reforma tributaria",
-      "url": "https://www.larepublica.co/economia/presupuesto-de-2027-tiene-un-hueco-de-8-3-billones-incluso-con-reforma-tributaria-4454709",
-      "ts": 1786383250.734866
-    },
-    {
-      "clave": "colombia_sahara_occidental",
-      "resumen": "Colombia reconoce soberanía del reino de Marruecos en el Sahara Occidental",
-      "url": "https://www.larepublica.co/economia/colombia-reconoce-soberania-del-reino-de-marruecos-en-el-sahara-occidental-4454702",
-      "ts": 1786383251.179208
-    },
-    {
       "clave": "desastre_nacional_terremoto_agosto2026",
       "resumen": "Gobierno declara desastre nacional tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://www.minuto30.com/declara-desastre-nacional-terremoto/1715778/",
@@ -317,6 +305,12 @@
       "resumen": "Alcalde de Pereira anuncia toque de queda, suspensión de clases y urgencia manifiesta tras terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMHIwR3NTUjY4eXYyNmltZ2RSWE50enJpQWZ2QlZPZ01Mc0pOanVZcFRCZFBLZFJBN0lJNXRQY3FOQVBIZFFGbWlIb010SW4tb3RPR2x1Rm90NmFMLWFfZHZQQmh6eDZublRob3JNMFZoOGlPVHFYMklyYnJJaUdDVFh5MGtaWE1DLTU5UU9jbWZHWVUyOGtSaVRLbnpCV3lXOHlCUkhXSF9XRjZ0dnRuTERtQlZrU1lMZnB4WHZucXRnTENTdVhDRmZsaXRLZTlJaGh3S3JhV3V2UzVuemp6NW0xLU5DcmxNMnphMW9tYktUUXdCaWhLOVFOdkt5RHN3N2EzbjJfd3oyVkVCZG5YNzBjc3JwZ2lT0gGeAkFVX3lxTFB2QWNpODdGcEYxTDVtRDVib3VmU2xSbUxYb2NXbjZueDhFejRkMGZjUnhwblZMaktIdmlYakZSSVN6ZXVaaUJqZ1dmQ3N3UC1iclViOHJ1dXVTQUZDV3laY0FDcDZURVhPR2hzeGJFUjF3U2tVNGl3U0hUaXFfUVQteEpiaGFYMm1KbmlPazZLbzRWUU84d3h5bTlWaGhGYXFwM0kzY0NrZVhVdXJ5NTZzaExNZGw4MGVncUJZd25hSkRpMzR1dW1iTWp1cFFhUjFUZDB5dnYwUDVHRzVybDY2Z21KX1FDRkhyZ3dkTzZZZ2RqdGtoV04xS2VJT2dTa2hCN0tSYTVVNzVmQzY0YkdWdzRWdnowcW1jekdveVE?oc=5",
       "ts": 1786426133.350772
+    },
+    {
+      "clave": "sismo_cali_balance_actualizado_agosto2026",
+      "resumen": "Cali reporta 40 edificios colapsados, 188 desaparecidos y 37 rescatados tras terremoto de magnitud 7,4",
+      "url": "https://www.minuto30.com/desolacion-cali-alcalde-colapsos/1715842/",
+      "ts": 1786426746.6184053
     }
   ]
 }
