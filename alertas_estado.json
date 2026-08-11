@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "apoyo_eeuu_sismo_agosto2026",
-      "resumen": "Estados Unidos ofrece apoyo a Colombia tras terremoto de 7,4; Secretario de Estado Marco Rubio envía mensaje al presidente De La Espriella",
-      "url": "https://www.minuto30.com/ee-uu-ofrece-apoyo-a-colombia-tras-el-sismo-secretario-marco-rubio-envia-mensaje-a-abelardo-de-la-espriella/1715766/",
-      "ts": 1786382541.8532956
-    },
-    {
       "clave": "deficit_presupuestario_2027",
       "resumen": "Presupuesto de 2027 tiene un hueco de $8,3 billones incluso con reforma tributaria",
       "url": "https://www.larepublica.co/economia/presupuesto-de-2027-tiene-un-hueco-de-8-3-billones-incluso-con-reforma-tributaria-4454709",
@@ -317,6 +311,12 @@
       "resumen": "Socorristas en Cali piden a voluntarios civiles retirarse de escombros para agilizar operaciones de rescate tras terremoto",
       "url": "https://www.minuto30.com/urgente-en-cali-agilizar-rescates/1715841/",
       "ts": 1786425518.8230057
+    },
+    {
+      "clave": "pereira_toque_queda_medidas_sismo_agosto2026",
+      "resumen": "Alcalde de Pereira anuncia toque de queda, suspensión de clases y urgencia manifiesta tras terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMHIwR3NTUjY4eXYyNmltZ2RSWE50enJpQWZ2QlZPZ01Mc0pOanVZcFRCZFBLZFJBN0lJNXRQY3FOQVBIZFFGbWlIb010SW4tb3RPR2x1Rm90NmFMLWFfZHZQQmh6eDZublRob3JNMFZoOGlPVHFYMklyYnJJaUdDVFh5MGtaWE1DLTU5UU9jbWZHWVUyOGtSaVRLbnpCV3lXOHlCUkhXSF9XRjZ0dnRuTERtQlZrU1lMZnB4WHZucXRnTENTdVhDRmZsaXRLZTlJaGh3S3JhV3V2UzVuemp6NW0xLU5DcmxNMnphMW9tYktUUXdCaWhLOVFOdkt5RHN3N2EzbjJfd3oyVkVCZG5YNzBjc3JwZ2lT0gGeAkFVX3lxTFB2QWNpODdGcEYxTDVtRDVib3VmU2xSbUxYb2NXbjZueDhFejRkMGZjUnhwblZMaktIdmlYakZSSVN6ZXVaaUJqZ1dmQ3N3UC1iclViOHJ1dXVTQUZDV3laY0FDcDZURVhPR2hzeGJFUjF3U2tVNGl3U0hUaXFfUVQteEpiaGFYMm1KbmlPazZLbzRWUU84d3h5bTlWaGhGYXFwM0kzY0NrZVhVdXJ5NTZzaExNZGw4MGVncUJZd25hSkRpMzR1dW1iTWp1cFFhUjFUZDB5dnYwUDVHRzVybDY2Z21KX1FDRkhyZ3dkTzZZZ2RqdGtoV04xS2VJT2dTa2hCN0tSYTVVNzVmQzY0YkdWdzRWdnowcW1jekdveVE?oc=5",
+      "ts": 1786426133.350772
     }
   ]
 }
