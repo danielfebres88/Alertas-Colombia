@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "desastre_nacional_terremoto_agosto2026",
-      "resumen": "Gobierno declara desastre nacional tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.minuto30.com/declara-desastre-nacional-terremoto/1715778/",
-      "ts": 1786385367.7188156
-    },
-    {
-      "clave": "claro_intermitencias_sismo_agosto2026",
-      "resumen": "Servicio de telecomunicaciones Claro reporta intermitencias en sus servicios tras el sismo en diferentes regiones de Colombia",
-      "url": "https://www.larepublica.co/empresas/claro-reporta-intermitencias-en-sus-servicios-tras-sismo-en-diferentes-regiones-4454724",
-      "ts": 1786385368.1800468
-    },
-    {
-      "clave": "vias_bloqueadas_sismo_agosto2026",
-      "resumen": "Vías bloqueadas tras el sismo en Tolima, Quindío, Valle y Caldas; Policía de Tránsito reporta cierres totales",
-      "url": "https://www.minuto30.com/vias-bloqueadas-tras-el-sismo-policia-de-transito-reporta-cierres-totales-en-tolima-quindio-valle-y-caldas/1715782/",
-      "ts": 1786385368.6151009
-    },
-    {
       "clave": "sismo_regional_impacto_panama_agosto2026",
       "resumen": "Panamá evacúa edificios y hospitales por sismo de magnitud 7,4 originado en Colombia",
       "url": "https://www.larepublica.co/globoeconomia/panama-evacua-edificios-y-hospitales-tras-sismo-de-magnitud-7-4-registrado-en-colombia-4454829",
