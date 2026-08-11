@@ -497,6 +497,48 @@
       "resumen": "Minhacienda anuncia que aplazará el pago del impuesto de renta para personas naturales por el terremoto",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmY1V3hQOUgwM2RZbTREdGVMNDFTLXBIMG13eG1VT0xvbHYyS2JrWklGNm9PRUJMbG5yVy1rejlEOGRpV3B5ZTdhNzFSeTJHcjZORXRQOGQ2SjR0ZWMyS0xVUzM5Y0JUbVBEVXpsV3FMTlR6YUM5dnMzSFF3V05BVllkdjg1UWhHbDRieG1zTHNLZ25Hdi1EcWJsNGVvREt2QUZxTUFwendXNWltLWNuclczdUxMd3dfdmNTM2JyUHlXQzdOWVhmN2dDcDkyOGRHS0tIWXpkTzNuMlJDUXfSAeMBQVVfeXFMTVZ6d3BWSFNkVUVrcDRDTk5tWjJhdm5seFpOaENNT3RQTzZpYWVPUDhjNHJDQjBZWG5XV25xdDlITi1lOExlTl9CeDJJbUt5eEdBaV9ReEFFWE81M1RKVDZPZnNNeDJ2MXBQbGJ3WnVSZFYwTER6SFJmeTRCZUkzUDRZbkxSOFVCVllERDY1UG1OWHFMNWphZU9Ob2JzaHk3cjJRb3lJN2hHcFJpbUxSNHJManN1a0JNZWVqMFNqS2tEZjl0YXJ2UXhabWlLbzFXbDhZdXROM1E4bzlTQ0dNT09tc2s?oc=5",
       "ts": 1786470681.7595406
+    },
+    {
+      "clave": "sismo_tolima_daños_agosto2026",
+      "resumen": "Tolima reporta 224 viviendas y 16 hospitales dañados por terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-tolima-dejo-danos-materiales-en-224-viviendas-y-16-hospitales-ni-las-iglesias-se-salvaron-del-sacudon-3577619",
+      "ts": 1786471918.9088583
+    },
+    {
+      "clave": "sismo_cali_rescate_diana_agosto2026",
+      "resumen": "Rescatan con vida a Diana tras más de 16 horas bajo escombros en Cali tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/diana-lleva-mas-de-24-horas-bajo-los-escombros-tras-terremoto-en-cali-alcalde-eder-dice-que-esta-viva-y-rescatistas-trabajan-para-sacarla-3577632",
+      "ts": 1786471919.3943
+    },
+    {
+      "clave": "minhacienda_aplazo_renta_terremoto_agosto2026",
+      "resumen": "MinHacienda declara emergencia y aplaza pago de impuesto de renta por un mes para personas naturales tras terremoto",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/minhacienda-declarara-la-emergencia-y-aplazara-un-mes-el-pago-de-renta-4455855",
+      "ts": 1786471919.8668363
+    },
+    {
+      "clave": "sismo_isa_energia_agosto2026",
+      "resumen": "ISA reporta afectaciones tras terremoto pero descarta impactos en el servicio de energía",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/isa-reporto-afectaciones-tras-el-sismo-pero-descarto-impactos-en-el-servicio-4455871",
+      "ts": 1786471920.3339272
+    },
+    {
+      "clave": "saldarriaga_viceministra_agua_agosto2026",
+      "resumen": "Mónica Saldarriaga designada viceministra del Agua del Ministerio de Vivienda",
+      "url": "https://www.larepublica.co/economia/monica-saldarriaga-sera-la-viceministra-del-agua-del-ministerio-de-vivienda-4455792",
+      "ts": 1786471920.8074777
+    },
+    {
+      "clave": "ungrd_35mil_millones_agosto2026",
+      "resumen": "UNGRD dispone de $35 mil millones para atender emergencia del terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZFlnckt5R0ZGRjQ0TEFycWtwTEpMelpDNy01Z2h3ZDZuMlVHbU1DTXFpeGJJczI2RDM4cGtQZVlIbzhLRXROc2tySEt1YzBsZXlYdE13NjVoMHg2bTd4TUFmdkNhWnVUSzEwSkJwbmROTl94YXlBMmhFX3ptLUZaODRsNU93dW5zNUhYUjUyQUpBRmZfM203ZmItRWlXdHdhUU9jWUlDVEpJMk4zYm4zS05UdElEbDZLdGNHWllINNIB0wFBVV95cUxPSTFsZzBja3VGVUdwQkpBMmJXSjl5RzlaWDBwc2labkZYN2Z3a1VBWDZ1Z0J2cTNQT1htdnE5aHdURXgtRlVzTlhkLXExMjZqb0t4RGNfTnVubndOLTJWZHpPbEJNam5sQkE5Nmw1eEI2QzZZN3I5RUk4bExIZXlQOXB3cUZHWG5LX2JsaTJoSEM4dEpfc0p4eFFWanZxaXROUkVXeG96TVVkcFdibWpzUzhOOUxGOE1rMlVFclFzUjd3Z3oyTkRZVWt6cWU1bVE5YXlN?oc=5",
+      "ts": 1786471921.2942688
+    },
+    {
+      "clave": "sismo_medicina_legal_22_identificados_agosto2026",
+      "resumen": "Medicina Legal ha identificado a 22 de los 160 cuerpos de víctimas del terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkpZTVFlYWw3ZFBhLTFSSkhSRFp3SDVxZDlodVV1Q1JqRjBDNXQxSzFYdDVZeHYzN01OUHRDUWdDYTRrakF5Q1poZzZJb1AxTHR4d19xNTF0aW5sM283TXFVRE9jWk9NNS1heE1TNUVvRWZOdHpGVnl5TEEySGxCdDlRNERQN2l5cDVFLXNEeTlabGtBQ0o5VXpGXy1sWDktS1dEQVpuZXZGNVIwQ1lLZ2RvcGt6ZXhUTFNzR1RoT0R4YVEybllBMWstYTVRam1jNW1YU2FESHNhRG9j0gHiAUFVX3lxTE1lTGd0aE1NZk5BMWJEMExKbEFubGpmLVR3YndJTFRDTzhRYlB6Z09maUxxalVFWWU3Z2Z4RWdBT1JtQ0xUa3VoNWlaMmZVMlZjeUlUWm1ZQ0M3dm1vVGtOVGt6X3FVVGtBMGM5NVFCd29fUU44MW5ITnBYWV9XUEFaMXQ0RzBGQmZzZlpSeFB3dzlUQjhhU21LSkc2OVh6MTAyWDlNTEZ3d1RhVkxERnRlMUtlLU82VFdxbzd6XzBsamRwS21weG8xUkQ3aF9LazlvbnFfWEFsa0NrZl83RjFDd1E?oc=5",
+      "ts": 1786471921.7592874
     }
   ]
 }
