@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_cali_balance_actualizado_agosto2026",
-      "resumen": "Cali reporta 40 edificios colapsados, 188 desaparecidos y 37 rescatados tras terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/desolacion-cali-alcalde-colapsos/1715842/",
-      "ts": 1786426746.6184053
-    },
-    {
       "clave": "incendio_cerro_quitasol_bello_agosto2026",
       "resumen": "Incendio forestal en Cerro Quitasol de Bello controlado en 80% por bomberos",
       "url": "https://www.minuto30.com/controlan-incendio-forestal-quitasol/1715843/",
@@ -479,6 +473,30 @@
       "resumen": "Gas para generar electricidad se acerca al límite: importaciones ya usan el 86% de la capacidad disponible",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDBJVktaeUp5Q1ctQVkydUhwMHFJRGRiRXFkcWhTdlAzZ1kxbHYyUHh1dzRiTE1JUGdpYXQ0bmlhRnBLTGhORnRuWjR1S1dRb3JyTmhDUkJWS2M5SkR4T2hkU19VVlRSYmdYcmhaLUVsODZLbV9CWm1kSDczSlVMemQ3eGlIV2R1UnZsYmc1UGF3bVkyaUdGVU5tenZnZGthLTVsWjB5U1pmdURvRHJQazB0dnNqOXdSb2c3NmhRUXZsY2pha1pKRjIwZ1VfR3kwZ1pXZU9jVzRhaEFUVEHSAeMBQVVfeXFMTVdjWVBFbTlISjY0ZGx4NERDUWhqemVLU2dCblFGQk5JMDlIRUZyWWk0Yzhjblc0c3gyQ1N2WGZvSzNtbk9yWmNDZUJfTjRVV0s3MEJVdjlkLV9HdjR6WEI1dEF5cnhsWWdhcDdja1JRV2JFX2JRYTRUWHpmUnVrR2wyLUhCZ25ZcWl6ZUV5RmtUbk9QSmc3WXo3S2N5aUt2d0J2UzlBMG9OREdfWFhNNG5YZmFCYmlkeV9meDV3ZDY0WEg2a05saG8yZ29wMUl4ak1Ua20zdEkyRm1helQ5bXFrUlk?oc=5",
       "ts": 1786468825.3471708
+    },
+    {
+      "clave": "canal_dique_anla_revoca_agosto2026",
+      "resumen": "ANLA revoca resoluciones que frenaban el Canal del Dique y abre camino para reactivar el megaproyecto de infraestructura en Bolívar y Atlántico",
+      "url": "https://www.eltiempo.com/colombia/barranquilla/anla-revoca-resoluciones-que-frenaban-el-canal-del-dique-y-deja-libre-el-camino-para-reactivar-el-megaproyecto-en-bolivar-y-atlantico-3577618",
+      "ts": 1786470064.4946985
+    },
+    {
+      "clave": "nequi_separacion_bancolombia_agosto2026",
+      "resumen": "Nequi se separará de Bancolombia y operará como entidad financiera independiente",
+      "url": "https://www.larepublica.co/finanzas/nequi-se-separara-de-bancolombia-y-operara-como-entidad-financiera-independiente-4455694",
+      "ts": 1786470064.9613738
+    },
+    {
+      "clave": "militares_ataque_eln_tibu_agosto2026",
+      "resumen": "Fuerzas Militares atacaron al ELN en Tibú en primer bombardeo del nuevo Gobierno",
+      "url": "https://www.minuto30.com/bombardeo-contra-el-eln-en-tibu/1715881/",
+      "ts": 1786470065.4371567
+    },
+    {
+      "clave": "gobierno_deuda_58_pib_agosto2026",
+      "resumen": "Gobierno de Abelardo de la Espriella recibe deuda superior al 58% del PIB con limitado margen fiscal según Anif",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbU9wMDRFOGRHTkdva25Zb3puTEtUc3pURUdhak1HTUx0NkJjbEZMYjJKTldWNjc1bFlNR3JmU1RnWnJWS3VyeHZ5aURiem9UOXM0aHNaUjJvbUlFdy1YdHVPTzdJQy1hN3REbGJJaEI2UHM3bXBwUldwTHNGR1RWWmZpY1JNS2tRTzRxNlgzdVloSnAtaEVDd0FTU3JCNi1BY3dkeG5fQXpvNk8xT2RhU3I0cWRsVDJZaG10OWFNLXhLSzhMNGRYSm51eHN5VjVJbkl2SE9lcVI2QmlDTHBIZG9qRVFudkFC0gHuAUFVX3lxTE1tS2VWRlVrellHZGpLaTBpRURLc3NiaGdiM182OG1kVzVZaXlSVjU2dVZqX2JuUVVhaS1lNTFWT0VMdTdxN1Jzd0tTZUZ5VlkzZXB4Yjg4RENtNWh4c3RYNi16S2lvYmV5TkVGQWJtWVIteHp2S0NfZDhvTHdKTmFJbEkxVXRsQkdzbW4zTS1UdGpDZnVpQjJIeGpMRlc5WDBka1F1VXNsS3p0OEItb2VjU1NPcGJ2aEl3eHBSLS00c3BfNjNEMndYUmxTRkFFSkZyelE4QUVTVHl3RTNVUUZzaXFsUEFzLV9rUEhUTnc?oc=5",
+      "ts": 1786470065.9166746
     }
   ]
 }
