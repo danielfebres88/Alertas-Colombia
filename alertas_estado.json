@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_respuesta_ejercito_agosto2026",
-      "resumen": "Comandante del Ejército se encuentra en Chocó coordinando labores de atención de emergencia tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-de-7-4-en-vivo-el-comandante-del-ejercito-nacional-se-encuentra-en-choco-coordinando-las-labores-de-atencion-de-la-emergencia-3577491",
-      "ts": 1786425517.8699765
-    },
-    {
-      "clave": "sismo_pereira_aeropuerto_agosto2026",
-      "resumen": "Video muestra pánico en terminal aérea de Pereira durante terremoto de magnitud 7,4; piloto grabó movimiento desde avión",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-piloto-grabo-como-se-vivio-terremoto-de-7-4-en-colombia-desde-avion-en-aeropuerto-de-pereira-antes-de-despegar-hubo-panico-en-terminal-aerea-3577489",
-      "ts": 1786425518.3423946
-    },
-    {
-      "clave": "sismo_cali_rescate_voluntarios_agosto2026",
-      "resumen": "Socorristas en Cali piden a voluntarios civiles retirarse de escombros para agilizar operaciones de rescate tras terremoto",
-      "url": "https://www.minuto30.com/urgente-en-cali-agilizar-rescates/1715841/",
-      "ts": 1786425518.8230057
-    },
-    {
       "clave": "pereira_toque_queda_medidas_sismo_agosto2026",
       "resumen": "Alcalde de Pereira anuncia toque de queda, suspensión de clases y urgencia manifiesta tras terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMHIwR3NTUjY4eXYyNmltZ2RSWE50enJpQWZ2QlZPZ01Mc0pOanVZcFRCZFBLZFJBN0lJNXRQY3FOQVBIZFFGbWlIb010SW4tb3RPR2x1Rm90NmFMLWFfZHZQQmh6eDZublRob3JNMFZoOGlPVHFYMklyYnJJaUdDVFh5MGtaWE1DLTU5UU9jbWZHWVUyOGtSaVRLbnpCV3lXOHlCUkhXSF9XRjZ0dnRuTERtQlZrU1lMZnB4WHZucXRnTENTdVhDRmZsaXRLZTlJaGh3S3JhV3V2UzVuemp6NW0xLU5DcmxNMnphMW9tYktUUXdCaWhLOVFOdkt5RHN3N2EzbjJfd3oyVkVCZG5YNzBjc3JwZ2lT0gGeAkFVX3lxTFB2QWNpODdGcEYxTDVtRDVib3VmU2xSbUxYb2NXbjZueDhFejRkMGZjUnhwblZMaktIdmlYakZSSVN6ZXVaaUJqZ1dmQ3N3UC1iclViOHJ1dXVTQUZDV3laY0FDcDZURVhPR2hzeGJFUjF3U2tVNGl3U0hUaXFfUVQteEpiaGFYMm1KbmlPazZLbzRWUU84d3h5bTlWaGhGYXFwM0kzY0NrZVhVdXJ5NTZzaExNZGw4MGVncUJZd25hSkRpMzR1dW1iTWp1cFFhUjFUZDB5dnYwUDVHRzVybDY2Z21KX1FDRkhyZ3dkTzZZZ2RqdGtoV04xS2VJT2dTa2hCN0tSYTVVNzVmQzY0YkdWdzRWdnowcW1jekdveVE?oc=5",
@@ -461,6 +443,48 @@
       "resumen": "Fraudes en compras online dejarían millonarias pérdidas en Colombia durante 2026",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjRTUVhzaDRQZHVIdUdnZGFaZktEWHF0azJqYnZIWVNCSHFDdGRmbVhQVUlUMXRRdXBrSDZ5R2doQ1VDUEtZR09uckVmc2IzZVV5bXI3b2V0WDh6LWVpM2xnMFA4MXJyMmJyQi0zZUppVHpyRXBsNDVnaC1PRjRxWURkQU9Id2ZnZlNRaFRzM2VLb3BoMWZ2VFZWQ1VkM2F0OUszUE9jbktaNmk2bDhKWGdPUTZYLWxpQUIw0gHIAUFVX3lxTFBOZ2lLTUpkMXMxUmZkMDg0cWVZXzlzSVRWU2dwMnBuNmROQkp6ZGNGU1VVVHV5bmVDcktiaThNTVEtOV9Vc2lfSlJvWUI1djNyWXBUOVJNZXE2c3pNYUxlNkN5YTd4dXpjclhsazZrS3o3TThpMGM3dEFqbEVCTlF5Y05kNm1EeWtSdUFQSjdkVzlPVWFXTXNFRy1pTUlTdTQwSGt2YU5aUUFmTC1lS0JXSUR1ZmhKY0N0OUpGR01ocHJWSGsxWnlk?oc=5",
       "ts": 1786468204.6016843
+    },
+    {
+      "clave": "sismo_desastre_nacional_agosto2026",
+      "resumen": "Gobierno declara situación de desastre nacional por terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFZpdEs2WkEwd3VtbTJzR29wS0ZVM3JWT1ZGOGVPMGczb1RuMjV1WFRjN0dMa080NGx4Z2pBMnpYVmhSRHg1VzJDanZXSGxxX0Nta1J1ZG9fb3NUeXBWZUt0WF9lVEZsX1Y3VGhLSDRuVkNWUm81Y2lyTEhaRlZjZVo3WWpQOFJEOC1KSHAyMjZOYklLZ1pyaFlJcnUxZjJUczBZWndtVE5veGlSTnFrdDNwRkJyM0h0WWJqYkZmM1VKeVRHbjVHSE1LMHJ3REdDdFJnRGxUVdIB5AFBVV95cUxPbExSaXQwSlZJdXFGMVdGc04zbWpmaVg0MzdzRHdFNEtQNFNqdkQ2RzJ2S29lSk5WTDh5elc3R2hDcjQwTUZKNlhzRWF6TnhncEVoX0xVOTBfeXQxcnhzMnRycHpSdXZjTnBZSW5lMzY0cXRELWpxVHhvVEVWSlB1MFM4bFp1emZ5VGN1bDJ1a1lTMlczd0thc2hHV2VaeW5nb0VRMldsbkFQcmF4bW95LTU3Y3RyN1FMTWg2X0tndzYtSmZ6QUQ3ZzdWdk92OWhRUUNvWGlnSll6Um9rM3E3QnppeGE?oc=5",
+      "ts": 1786468822.5183778
+    },
+    {
+      "clave": "sismo_carreteras_afectadas_agosto2026",
+      "resumen": "Trece carreteras en Colombia permanecen afectadas por el terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGwtVVM4TWwxT3N5OUxieFNOY0pleVFiR0xnTl9YbldRTnRiUExDa0NWOGNkc1c0VUNjOWNlbk9yRnB2VzJPNUJ1M010WTV1bkk0RVNGZk1pc1gySmo0Sk1qLXBjWTkya2NZX2JHZFNuOV9fZkVEeFRGaWo2dUxqVl9SdDJnZUZNMW43RjA3OFJ3YWJiR0c2VVdubEpDWnNtQTNTNjJJU0dNQm1Yckd4NHRnQTlHdkFsLWRFQU9ZMzFBaDJs0gHKAUFVX3lxTE92YVBuWVFUZFEtWWFWeUhpSFc5YmlkZklDajR0LUgtWF9WczQtWW9ZN3c4LTluYlM4Mml0VG9Pa01rUTZMeUdGQmpMQlh2TkJJR1hKUm9iZFNBalBVbXNGWnBta3RwcUxDV1RlRDRBamdhN3dRdDlwMW9rXzAwT1c0MEZGdWdrbHR2TWpKNzQzaU43MEZpdE5PR1BDZFJTSVZJTnpqZUlYM3lVWVVnOC1pMXJlRVltRkpnZ3VVNUxaTTFDOUxqcUVTTXc?oc=5",
+      "ts": 1786468823.0122473
+    },
+    {
+      "clave": "sismo_replicas_86_agosto2026",
+      "resumen": "Sismo de magnitud 7,4 ya deja 86 réplicas en Colombia",
+      "url": "https://www.minuto30.com/sismo-en-choco-ya-deja-86-replicas/1715880/",
+      "ts": 1786468823.4790797
+    },
+    {
+      "clave": "sismo_bbva_donacion_agosto2026",
+      "resumen": "Bbva donará 3.500 ayudas para las poblaciones afectadas por el sismo",
+      "url": "https://www.larepublica.co/finanzas/bbva-donara-3-500-ayudas-para-las-poblaciones-afectadas-por-el-sismo-del-dia-de-ayer-4455801",
+      "ts": 1786468823.9415545
+    },
+    {
+      "clave": "volcan_lodo_san_pedro_uraba_agosto2026",
+      "resumen": "Erupción del volcán de lodo de San Pedro de Urabá reportada; varios animales quedaron atrapados",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSWcya1ZhUDQtUUhZWkFHUmlxZ2dOZnljOHFsVnkwbG1OS0oweDllY0x5WTQtZlpzZVA5VHpuVGxUZ1FRVncyMTduRklQZURZbVFRQUFmVHUxNjZucnpJeEg5ZkZsYXFMY2N3N3VrNUFERVdTMUNKblJOeFowM293LWpMMnhDZzBXaTYzRG4xTjFnTmd1cWd5ck1SM3ROV0pwR053YWUyYS16Y2JybXMyY05kRThreUlyQUE0allmZlR1Qno0MUdrZ05jblFxYjBtZUQyc1NKMXhtMm1HODRrdWxGMNIB6AFBVV95cUxNeVFCemFoVGhlWGQ5aVNKRmQ0TmItajE0TFFTX0hqcGxJTEtLaFhhaVFzWm0zaGJQdkhuZG9IRW50LUhMcHVGRkFyNFdoLURpUEpIUE8zQXg3R3BOWnkyU0tfcE5CQzk4MWNHd2lPSmhZNjE4d3V3YkV1ZW96YWNNLTdtRU5JZTMyVDkxQmNIU2JtNzBxcUJmLUtOSTEwQ3FhcWF2SXlBY1ZfTFhPTlNiLVpXVHJlUEplS3pMd3Y2ajdGTm1uZEs0UTZscy1HMzJGVDNUSUI0QXRNNk9zSWZfOW9lUXAyRXRF?oc=5",
+      "ts": 1786468824.4125247
+    },
+    {
+      "clave": "sismo_silos_templo_colapso_agosto2026",
+      "resumen": "Silos, Norte de Santander, cierra su templo parroquial por riesgo de colapso tras terremoto",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUs0cVh4T3BmbGEydnVzNVhaQlFUdXNrTXcxZ0gzcEZxanRmV3ozcVNic3owTjk3VUlBYkxnbjZRbWhoV1ZCVmxteVlnRDNvZjdscXdBbzNBeEZHMFgwQmlhbkExVkFYZ2Yzel8wTDVBcXNWcnFEME40eEdsWExXZHppTWRjLXM4XzZrbVJoTktnRElfdXpBcnNqQmVCX1UwTUlmNXRDN1B3d3VLWGfSAcIBQVVfeXFMTmVKb1l2TWVpRzVSbGRSU0tvald3bDZvdFBQZlo5c0UwQTF0eXlYTGYtZVVXR0UzZ1VSOHlLVWNHbG5ueXFIcGZOZ3IxOTF6c2l3TU1fQkJtS1ljUGkyTEZ4M2RXLWNEY2tqS1F3WGYyZ2lMdnNhZ0JmWkxLRDRFOFlLTEVnSElmTnAweHVYQ0hVeHhvekt1UEtUZUtOYlhvLU81REJGdFdvRllaUV93OTlzcjRYQUlURzVTWWFqRXFBaFE?oc=5",
+      "ts": 1786468824.8872175
+    },
+    {
+      "clave": "gas_electricidad_capacidad_agosto2026",
+      "resumen": "Gas para generar electricidad se acerca al límite: importaciones ya usan el 86% de la capacidad disponible",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDBJVktaeUp5Q1ctQVkydUhwMHFJRGRiRXFkcWhTdlAzZ1kxbHYyUHh1dzRiTE1JUGdpYXQ0bmlhRnBLTGhORnRuWjR1S1dRb3JyTmhDUkJWS2M5SkR4T2hkU19VVlRSYmdYcmhaLUVsODZLbV9CWm1kSDczSlVMemQ3eGlIV2R1UnZsYmc1UGF3bVkyaUdGVU5tenZnZGthLTVsWjB5U1pmdURvRHJQazB0dnNqOXdSb2c3NmhRUXZsY2pha1pKRjIwZ1VfR3kwZ1pXZU9jVzRhaEFUVEHSAeMBQVVfeXFMTVdjWVBFbTlISjY0ZGx4NERDUWhqemVLU2dCblFGQk5JMDlIRUZyWWk0Yzhjblc0c3gyQ1N2WGZvSzNtbk9yWmNDZUJfTjRVV0s3MEJVdjlkLV9HdjR6WEI1dEF5cnhsWWdhcDdja1JRV2JFX2JRYTRUWHpmUnVrR2wyLUhCZ25ZcWl6ZUV5RmtUbk9QSmc3WXo3S2N5aUt2d0J2UzlBMG9OREdfWFhNNG5YZmFCYmlkeV9meDV3ZDY0WEg2a05saG8yZ29wMUl4ak1Ua20zdEkyRm1helQ5bXFrUlk?oc=5",
+      "ts": 1786468825.3471708
     }
   ]
 }
