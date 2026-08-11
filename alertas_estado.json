@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "terremoto_74_agosto2026",
-      "resumen": "Terremoto de magnitud 7,4 en Colombia deja al menos 54 muertos, decenas de desaparecidos y colapso de infraestructura en Valle del Cauca, Risaralda, Antioquia y Chocó",
-      "url": "https://www.eltiempo.com/colombia/cali/cuatro-ninos-entre-los-27-muertos-hasta-ahora-en-el-valle-del-cauca-por-el-terremoto-de-7-4-grados-dos-puentes-y-el-muelle-de-buenaventura-colapsaron-3577339",
-      "ts": 1786381830.0686576
-    },
-    {
       "clave": "apoyo_eeuu_sismo_agosto2026",
       "resumen": "Estados Unidos ofrece apoyo a Colombia tras terremoto de 7,4; Secretario de Estado Marco Rubio envía mensaje al presidente De La Espriella",
       "url": "https://www.minuto30.com/ee-uu-ofrece-apoyo-a-colombia-tras-el-sismo-secretario-marco-rubio-envia-mensaje-a-abelardo-de-la-espriella/1715766/",
@@ -305,6 +299,24 @@
       "resumen": "Lina María Garrido asume como directora de la Agencia Nacional de Tierras",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMlF5dkxzWE91c1AzZHlyNExFbXg5MGNHTDZCSkVoaURPeGFVQ2tJS0pHRVRXNTQwRWk5aVEwUGFXM1cwcWcyMDkxZWpnS0JrQ21OZFJSV2RQZ0ZoMmkwQXdHMGFtRzhNMzZFakRmVWx2c0JTbFZsU0JWOXpuelp1YkFZYmlldXhHYjJaYkw2NkVlVWJRR2xhM1hCZEZFTUFZUkVEWUxDYzVNQVpBSmxxeDhuRW5OVy1OOWE4QmdUS3h2RzVGRHF6S1A4cUUzTThuTXfSAdcBQVVfeXFMTnFJSThkU2FNb3NEYzYxeVRHY0JlVl9fVTM1Tk1rVVNqMGdOamxZMTRiekdjQUtfYUVScHpmcFpfSlJwU1ZXYnhJV2lWNV9Zb0E1YjRqdlNGUFZkSVYyX3ZVckRHVC13UHpXQ1FMMk0zb19ZRG9TNlBKdGZDQjRxTldUeG8xTzZMRy0tMEJDN21fR29EcWNVbTBtZlM1VmRBTlVZU195cXdHWlNNWGUybnBNazJyNTRiak1WUmIwT2xSQS1vcDVyVnQ1NDZyTm1kTXowUE5OdTA?oc=5",
       "ts": 1786424271.5249631
+    },
+    {
+      "clave": "sismo_respuesta_ejercito_agosto2026",
+      "resumen": "Comandante del Ejército se encuentra en Chocó coordinando labores de atención de emergencia tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-de-7-4-en-vivo-el-comandante-del-ejercito-nacional-se-encuentra-en-choco-coordinando-las-labores-de-atencion-de-la-emergencia-3577491",
+      "ts": 1786425517.8699765
+    },
+    {
+      "clave": "sismo_pereira_aeropuerto_agosto2026",
+      "resumen": "Video muestra pánico en terminal aérea de Pereira durante terremoto de magnitud 7,4; piloto grabó movimiento desde avión",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-piloto-grabo-como-se-vivio-terremoto-de-7-4-en-colombia-desde-avion-en-aeropuerto-de-pereira-antes-de-despegar-hubo-panico-en-terminal-aerea-3577489",
+      "ts": 1786425518.3423946
+    },
+    {
+      "clave": "sismo_cali_rescate_voluntarios_agosto2026",
+      "resumen": "Socorristas en Cali piden a voluntarios civiles retirarse de escombros para agilizar operaciones de rescate tras terremoto",
+      "url": "https://www.minuto30.com/urgente-en-cali-agilizar-rescates/1715841/",
+      "ts": 1786425518.8230057
     }
   ]
 }
