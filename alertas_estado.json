@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "formalizacion_empleo_domestico_agosto2026",
-      "resumen": "Ministerio de Trabajo implementa nuevos requisitos para la formalización del empleo doméstico en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG5tb1lNZW8wSDRMTTZmSHRnZ29ic0dVNk1oZU5IMmxaMnhkZnROZVVTYzFTWGZGU0ZzNF9YMFJCMGk1VXhaWTZ4UkkyWjFCcWtSbmxZRWNueUhyMTVJdU52dzlyVjBQb3ZjZW9NYnRpQnJsN3J0d2NPWVFKTDMtX3Y1bE8zaGdQSndHVHQxdzlzbkZVOFhMbkg3WXdIdHpROVZRNnhHcnlsZ2Nvc1hJRVFPR2ZzV09yOXBrSlFyR2ZFbEhmWENHaVVndFlpZDjSAdQBQVVfeXFMT0F0WVNRaWxnS25XVnFWWkd1UUJWRlBhSXFpYURNblJuOVg2bS1zR0xTT1pySHNqRnFSeU42TkJXc3NGS2U0ZnliZzBmLXlZTlJTdktjY1NTU3Y5bWhKVUdrbDZvbGxaSy14eWNxQl95Z3Zkc1VIN3lQXzhodllwWkFTT054VVJXaThheVN1NnhQRlJPN2FGbUxGYlZNTk5TOU01ZF9zNTR6dlhqY3V0UGEyNWoxZGNRS1BMQmRjbnllUUI0TUR0T1dfN2JNYmpQTTNIQ0w?oc=5",
-      "ts": 1786352794.1887345
-    },
-    {
-      "clave": "asistencia_seguridad_eeuu_agosto2026",
-      "resumen": "Estados Unidos brindará asistencia de seguridad por US$1.000 millones al nuevo gobierno de Colombia",
-      "url": "https://www.larepublica.co/economia/ee-uu-planea-brindar-asistencia-de-seguridad-por-us-1-000-millones-al-nuevo-gobierno-4454480",
-      "ts": 1786365474.9335198
-    },
-    {
-      "clave": "sismo_choco_magnitud_66_agosto2026",
-      "resumen": "Servicio Geológico Colombiano reportó sismo de magnitud 6.6 con epicentro en Chocó",
-      "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporto-sismo-de-magnitud-de-6-6-con-epicentro-en-choco-4454483",
-      "ts": 1786366883.7120633
-    },
-    {
       "clave": "terremoto_74_agosto2026",
       "resumen": "Terremoto de magnitud 7,4 en Colombia deja al menos 54 muertos, decenas de desaparecidos y colapso de infraestructura en Valle del Cauca, Risaralda, Antioquia y Chocó",
       "url": "https://www.eltiempo.com/colombia/cali/cuatro-ninos-entre-los-27-muertos-hasta-ahora-en-el-valle-del-cauca-por-el-terremoto-de-7-4-grados-dos-puentes-y-el-muelle-de-buenaventura-colapsaron-3577339",
@@ -149,6 +131,36 @@
       "resumen": "Presidente Trump firma decreto para reducir vacunas recomendadas para la infancia",
       "url": "https://www.larepublica.co/globoeconomia/presidente-trump-firma-un-decreto-para-reducir-las-vacunas-recomendadas-para-la-infancia-4454874",
       "ts": 1786395279.8359458
+    },
+    {
+      "clave": "caf_ac59a375da80",
+      "resumen": "Banca multilateral otorga fondos y créditos por más de US$1 millón por emergencia sísimica",
+      "url": "https://www.larepublica.co/empresas/banca-multilateral-otorga-fondos-y-creditos-por-mas-de-us-1-millon-por-emergencia-sisimica-4455171",
+      "ts": 1786410675.5478363
+    },
+    {
+      "clave": "cali_toque_queda_militarizacion_sismo_agosto2026",
+      "resumen": "Alcalde de Cali decreta toque de queda y militariza la ciudad tras terremoto de magnitud 7,4 por inseguridad y operaciones de rescate",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cali-decreta-toque-de-queda-y-militariza-ciudad-tras-terremoto-de-magnitud-7-4-en-colombia-por-inseguridad-y-rescates-tenemos-amenazas-3577453",
+      "ts": 1786410680.891282
+    },
+    {
+      "clave": "banco_republica_compra_dolares_agosto2026",
+      "resumen": "Banco de la República adquiere US$385,9 millones en dólares para intervenir el mercado cambiario",
+      "url": "https://www.larepublica.co/economia/emisor-realizo-nueva-compra-de-dolares-en-total-ha-adquirido-us-385-9-millones-4455251",
+      "ts": 1786410681.5870705
+    },
+    {
+      "clave": "dane_inflacion_julio2026",
+      "resumen": "Dane reporta inflación en julio de 2026 en 6%, manteniéndose estable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEJhVGVDUnBIMUo4SFNjRTNwdlctU09oQnRIcmg5TUQyRWZVdG1ZeTNSY2M4N21ITWdHbS1YY29jS2ltd3pxUDAzMzFLOFZaY1JBc0loX29ucHBwLUo0RjFzNzhfaUwwRS1pSVhNdzlRX2plNEtDazdkSzlXYVRQVEx2Y0RtTE1NNVJxV1Yxbw?oc=5",
+      "ts": 1786410682.237
+    },
+    {
+      "clave": "gobierno_respuesta_coordinacion_sismo_agosto2026",
+      "resumen": "Vicepresidente Restrepo se traslada a Manizales y ministro Lara a Pereira para coordinación de respuesta al terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUxkdTl0QzV1eFlXQmhGXzRTMUxmSGduTGJpYVRXcXczNXB0SWNaMl85Mzg3cVN2RGNEWTQtcG9CMzFHRDBHTWFhMzh5RmQyMERGLXQ4ZEV2eDFuYzE2VjUySERUQ1BvZ1ZRcmZFTk5VakxTYnNfczFDYnMwcGptbVdOOVp5bXh0MXZLNnE1WkJpS3gxcWZWdC14TzMyUUJBVF85MVZiR21fUjBhZjBvbmFhY3RlZmk5bWpxNFFsbmdGWlFOelYtWm5LYy1ZOXZLVnFST2dSNHNZSE9BeS1sWllsOGZDdExZRF9sOU5nQk9SRWFjTUxxSTV5SdIBjwJBVV95cUxPRGUtd2h3U05tWk1JNmtCdUwtVkdGQWV6Ml9TZzI2XzJONWFmTTBBVU5XVnBNVG44Z3g0dGZpSU1JZDUxMmZIeVBleXM1WE5TWFk4UjVVYnMtb0dVLVB0N1JNVXZFbUk4Ui1qMk1jVHBUYnF5TEgyZG05bjVnV2N1QVNjTDhzM0lGU1lMU0V3NFlOYTh5RVM0RTV6VTUzQk83aWJHLU5NZHhiNUhiWng1UEVhNVo5RXZPVG1mbGU3bEtaZVBoMEc4WkNNZjhRZkVSMTl2RTNXd3g4eFZEZTdIOG9pcTBPdDhRXzZNRUtXRkdKNl9SdlZUa1l2YXdQS2M2WlBxLVVVZDhWZk9UZHhN?oc=5",
+      "ts": 1786410682.8506584
     }
   ]
 }
