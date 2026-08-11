@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incendio_cerro_quitasol_bello_agosto2026",
-      "resumen": "Incendio forestal en Cerro Quitasol de Bello controlado en 80% por bomberos",
-      "url": "https://www.minuto30.com/controlan-incendio-forestal-quitasol/1715843/",
-      "ts": 1786427361.0341375
-    },
-    {
       "clave": "sismo_bahia_solano_fallecido_alcalde_agosto2026",
       "resumen": "Hijo del alcalde de Bahía Solano fallece por desplome de edificio durante terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMldMcHZvdm9CMncxQnEyenludkZ2cGk1RE1VNGVKcFNtZlhRU3RUNkhiRjhKbmo4SUlWOTd3THRtMlNnZ19uRVJIRzE1cG45LTZQSVlHOE9aNmRWRG03VjRPUXlPc2xWN0UxZ2c2YmVSSWFPS25LZ2hGOGl3OXQzeVRGSmRaQVlpclNVU3lNUVpQQW1rSEFvcGZHamRiMmpFaFpvZnRqVHRfNkp4dnJ1RXF0N2wxLXFpZjNkWXBxZHTSAdQBQVVfeXFMUGd4eVEyWVIwOTJhazdqMl92S05peGY2ci1ENkVCbko3TTV4eTZlZGxzY2wxMUxBUTZHdWR0MXZZMkgwazVqNERVTVVuT2c0eUVna2NXdWoyQmowRllhUGlfZXJDNC1acEFiU05LWjdIcldRbzRXejFwcnVFU1pNYUxqcUNoaWotbDdDcE5UZklab1VZcGE0TklxSkl2RFJ2MzRGUTBXcUJrUDNRT0tlY3I0QlNpQ01xSUduNjlSWFlEUEZGUEJRUDk4RHdYQmdfTlNtVGU?oc=5",
@@ -497,6 +491,12 @@
       "resumen": "Gobierno de Abelardo de la Espriella recibe deuda superior al 58% del PIB con limitado margen fiscal según Anif",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbU9wMDRFOGRHTkdva25Zb3puTEtUc3pURUdhak1HTUx0NkJjbEZMYjJKTldWNjc1bFlNR3JmU1RnWnJWS3VyeHZ5aURiem9UOXM0aHNaUjJvbUlFdy1YdHVPTzdJQy1hN3REbGJJaEI2UHM3bXBwUldwTHNGR1RWWmZpY1JNS2tRTzRxNlgzdVloSnAtaEVDd0FTU3JCNi1BY3dkeG5fQXpvNk8xT2RhU3I0cWRsVDJZaG10OWFNLXhLSzhMNGRYSm51eHN5VjVJbkl2SE9lcVI2QmlDTHBIZG9qRVFudkFC0gHuAUFVX3lxTE1tS2VWRlVrellHZGpLaTBpRURLc3NiaGdiM182OG1kVzVZaXlSVjU2dVZqX2JuUVVhaS1lNTFWT0VMdTdxN1Jzd0tTZUZ5VlkzZXB4Yjg4RENtNWh4c3RYNi16S2lvYmV5TkVGQWJtWVIteHp2S0NfZDhvTHdKTmFJbEkxVXRsQkdzbW4zTS1UdGpDZnVpQjJIeGpMRlc5WDBka1F1VXNsS3p0OEItb2VjU1NPcGJ2aEl3eHBSLS00c3BfNjNEMndYUmxTRkFFSkZyelE4QUVTVHl3RTNVUUZzaXFsUEFzLV9rUEhUTnc?oc=5",
       "ts": 1786470065.9166746
+    },
+    {
+      "clave": "minhacienda_aplaza_renta_terremoto_agosto2026",
+      "resumen": "Minhacienda anuncia que aplazará el pago del impuesto de renta para personas naturales por el terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmY1V3hQOUgwM2RZbTREdGVMNDFTLXBIMG13eG1VT0xvbHYyS2JrWklGNm9PRUJMbG5yVy1rejlEOGRpV3B5ZTdhNzFSeTJHcjZORXRQOGQ2SjR0ZWMyS0xVUzM5Y0JUbVBEVXpsV3FMTlR6YUM5dnMzSFF3V05BVllkdjg1UWhHbDRieG1zTHNLZ25Hdi1EcWJsNGVvREt2QUZxTUFwendXNWltLWNuclczdUxMd3dfdmNTM2JyUHlXQzdOWVhmN2dDcDkyOGRHS0tIWXpkTzNuMlJDUXfSAeMBQVVfeXFMTVZ6d3BWSFNkVUVrcDRDTk5tWjJhdm5seFpOaENNT3RQTzZpYWVPUDhjNHJDQjBZWG5XV25xdDlITi1lOExlTl9CeDJJbUt5eEdBaV9ReEFFWE81M1RKVDZPZnNNeDJ2MXBQbGJ3WnVSZFYwTER6SFJmeTRCZUkzUDRZbkxSOFVCVllERDY1UG1OWHFMNWphZU9Ob2JzaHk3cjJRb3lJN2hHcFJpbUxSNHJManN1a0JNZWVqMFNqS2tEZjl0YXJ2UXhabWlLbzFXbDhZdXROM1E4bzlTQ0dNT09tc2s?oc=5",
+      "ts": 1786470681.7595406
     }
   ]
 }
