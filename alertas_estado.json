@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_bahia_solano_fallecido_alcalde_agosto2026",
-      "resumen": "Hijo del alcalde de Bahía Solano fallece por desplome de edificio durante terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMldMcHZvdm9CMncxQnEyenludkZ2cGk1RE1VNGVKcFNtZlhRU3RUNkhiRjhKbmo4SUlWOTd3THRtMlNnZ19uRVJIRzE1cG45LTZQSVlHOE9aNmRWRG03VjRPUXlPc2xWN0UxZ2c2YmVSSWFPS25LZ2hGOGl3OXQzeVRGSmRaQVlpclNVU3lNUVpQQW1rSEFvcGZHamRiMmpFaFpvZnRqVHRfNkp4dnJ1RXF0N2wxLXFpZjNkWXBxZHTSAdQBQVVfeXFMUGd4eVEyWVIwOTJhazdqMl92S05peGY2ci1ENkVCbko3TTV4eTZlZGxzY2wxMUxBUTZHdWR0MXZZMkgwazVqNERVTVVuT2c0eUVna2NXdWoyQmowRllhUGlfZXJDNC1acEFiU05LWjdIcldRbzRXejFwcnVFU1pNYUxqcUNoaWotbDdDcE5UZklab1VZcGE0TklxSkl2RFJ2MzRGUTBXcUJrUDNRT0tlY3I0QlNpQ01xSUduNjlSWFlEUEZGUEJRUDk4RHdYQmdfTlNtVGU?oc=5",
-      "ts": 1786437924.0584157
-    },
-    {
       "clave": "sismo_telecomunicaciones_agosto2026",
       "resumen": "Terremoto deja fuera de servicio 3.403 estaciones de telefonía móvil en siete departamentos de Colombia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-que-sacudio-a-colombia-golpea-la-senal-movil-3-403-estaciones-quedan-fuera-de-servicio-en-siete-departamentos-3577513",
@@ -653,6 +647,12 @@
       "resumen": "Elección del contralor se mantiene para este miércoles",
       "url": "https://www.kienyke.com/politica/eleccion-del-contralor-se-mantiene-para-este-miercoles",
       "ts": 1786479323.177297
+    },
+    {
+      "clave": "sismo_aeropuertos_operacion_agosto2026",
+      "resumen": "Aeropuertos colombianos vuelven a operar tras el terremoto con algunas restricciones",
+      "url": "https://www.minuto30.com/aeronautica-civil-estado-aeropuertos/1715893/",
+      "ts": 1786481185.4995542
     }
   ]
 }
