@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_impacto_manizales_agosto2026",
-      "resumen": "Manizales reporta 4 fallecidos y 17 colapsos totales de edificios tras el terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/tragedia-en-manizales-alcalde-confirma-4-fallecidos-17-colapsos-totales-y-habilita-albergue-tras-sismo/1715806/",
-      "ts": 1786392436.1805792
-    },
-    {
-      "clave": "sismo_impacto_colpensiones_agosto2026",
-      "resumen": "Colpensiones cierra temporalmente instalaciones para verificar su estado estructural tras el sismo",
-      "url": "https://www.larepublica.co/finanzas/colpensiones-cerrara-temporalmente-instalaciones-para-verificar-su-estado-por-el-sismo-4454797",
-      "ts": 1786392436.6221812
-    },
-    {
       "clave": "sismo_impacto_salud_agosto2026",
       "resumen": "Valle del Lili recibió 84 pacientes tras el sismo y suspendió servicios ambulatorios",
       "url": "https://www.larepublica.co/empresas/valle-del-lili-recibio-84-pacientes-tras-el-sismo-y-suspendio-servicios-ambulatorios-4454866",
