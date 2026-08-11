@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "caf_ac59a375da80",
-      "resumen": "Banca multilateral otorga fondos y créditos por más de US$1 millón por emergencia sísimica",
-      "url": "https://www.larepublica.co/empresas/banca-multilateral-otorga-fondos-y-creditos-por-mas-de-us-1-millon-por-emergencia-sisimica-4455171",
-      "ts": 1786410675.5478363
-    },
-    {
-      "clave": "cali_toque_queda_militarizacion_sismo_agosto2026",
-      "resumen": "Alcalde de Cali decreta toque de queda y militariza la ciudad tras terremoto de magnitud 7,4 por inseguridad y operaciones de rescate",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cali-decreta-toque-de-queda-y-militariza-ciudad-tras-terremoto-de-magnitud-7-4-en-colombia-por-inseguridad-y-rescates-tenemos-amenazas-3577453",
-      "ts": 1786410680.891282
-    },
-    {
-      "clave": "banco_republica_compra_dolares_agosto2026",
-      "resumen": "Banco de la República adquiere US$385,9 millones en dólares para intervenir el mercado cambiario",
-      "url": "https://www.larepublica.co/economia/emisor-realizo-nueva-compra-de-dolares-en-total-ha-adquirido-us-385-9-millones-4455251",
-      "ts": 1786410681.5870705
-    },
-    {
-      "clave": "dane_inflacion_julio2026",
-      "resumen": "Dane reporta inflación en julio de 2026 en 6%, manteniéndose estable",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEJhVGVDUnBIMUo4SFNjRTNwdlctU09oQnRIcmg5TUQyRWZVdG1ZeTNSY2M4N21ITWdHbS1YY29jS2ltd3pxUDAzMzFLOFZaY1JBc0loX29ucHBwLUo0RjFzNzhfaUwwRS1pSVhNdzlRX2plNEtDazdkSzlXYVRQVEx2Y0RtTE1NNVJxV1Yxbw?oc=5",
-      "ts": 1786410682.237
-    },
-    {
-      "clave": "gobierno_respuesta_coordinacion_sismo_agosto2026",
-      "resumen": "Vicepresidente Restrepo se traslada a Manizales y ministro Lara a Pereira para coordinación de respuesta al terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUxkdTl0QzV1eFlXQmhGXzRTMUxmSGduTGJpYVRXcXczNXB0SWNaMl85Mzg3cVN2RGNEWTQtcG9CMzFHRDBHTWFhMzh5RmQyMERGLXQ4ZEV2eDFuYzE2VjUySERUQ1BvZ1ZRcmZFTk5VakxTYnNfczFDYnMwcGptbVdOOVp5bXh0MXZLNnE1WkJpS3gxcWZWdC14TzMyUUJBVF85MVZiR21fUjBhZjBvbmFhY3RlZmk5bWpxNFFsbmdGWlFOelYtWm5LYy1ZOXZLVnFST2dSNHNZSE9BeS1sWllsOGZDdExZRF9sOU5nQk9SRWFjTUxxSTV5SdIBjwJBVV95cUxPRGUtd2h3U05tWk1JNmtCdUwtVkdGQWV6Ml9TZzI2XzJONWFmTTBBVU5XVnBNVG44Z3g0dGZpSU1JZDUxMmZIeVBleXM1WE5TWFk4UjVVYnMtb0dVLVB0N1JNVXZFbUk4Ui1qMk1jVHBUYnF5TEgyZG05bjVnV2N1QVNjTDhzM0lGU1lMU0V3NFlOYTh5RVM0RTV6VTUzQk83aWJHLU5NZHhiNUhiWng1UEVhNVo5RXZPVG1mbGU3bEtaZVBoMEc4WkNNZjhRZkVSMTl2RTNXd3g4eFZEZTdIOG9pcTBPdDhRXzZNRUtXRkdKNl9SdlZUa1l2YXdQS2M2WlBxLVVVZDhWZk9UZHhN?oc=5",
-      "ts": 1786410682.8506584
-    },
-    {
       "clave": "sismo_impacto_valle_cauca_agosto2026",
       "resumen": "Valle del Cauca reporta alerta roja en red hospitalaria tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/cali/alerta-roja-en-la-red-hospitalaria-del-valle-del-cauca-tras-el-fuerte-sismo-de-magnitud-7-3577472",
@@ -257,6 +227,30 @@
       "resumen": "EPM reporta normalidad en Hidroituango y sus 12 presas tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXU4S2dKT1NnSndIaXNzRWxxZE1lYVp6NFVoRm5SZWdkcGhpb3A0VVh4dkNzeXl0cWxTNkNFcjVBT3BNT0FUSVBac29CcjlLUF8wcHhMa2hDaDhXWi12WEs0QzFHVTVSTjlRck9QcXNfNGxGbVN4c0FsNU1OQXpWdHJyUHFZNXpURjZVZE1McTZUUUZMUzdyTE1lMmUxOV8wMk0zNHRZRUMtMFlKQ0UwR2xRZXJpbHBFREVOLTA0X3UzaW5qbDVKMmtYVnBnTlNUSGRj0gHgAUFVX3lxTE1WaXdPZi00MEVaUlFGVk1aUlhNYjctdzYyWDJ5TmtzRFNTN1F5a1A4R3FTNnQ5YVNsdzVCQ19vY3ZtSEoyeHZnb2htQWRFTkhsU1lZeHdfRHNFM0pvYWFRZ2lfUGxkWmdBWTBZeHZQRjBIM00tbzFiWXpmOG51UndBWHVXYlprUVhjZXh3OHRTLWZuV1JVTFltNnhLeWJmVElibkU2Y2ZKOExRNWR3dmxqTGtSVHpGRkZwbHJENnFGRGdWb3Q1VXdOTFN5MmVYM2kteGF1dDVfMkVJX1M4OEkt?oc=5",
       "ts": 1786453313.0787394
+    },
+    {
+      "clave": "sismo_quibdo_hospital_agosto2026",
+      "resumen": "Hospital de Quibdó solicita medicamentos e insumos urgentes tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/hospital-de-quibdo-pide-medicamentos-e-insumos-urgentes-tras-terremoto-en-colombia-del-lunes-10-de-agosto-este-es-el-listado-de-elementos-solicitados-3577501",
+      "ts": 1786453932.2960532
+    },
+    {
+      "clave": "feria_cafe_tolima_aplazada_agosto2026",
+      "resumen": "Feria Internacional del Café en el Tolima se aplaza por impacto del terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTm1oRzNmWC12NlR5NkdYZnQwdHJRUWVOYnVFQjJHekJvMzl1R01kQjlhLWNfX1VKbjZodVZUdlZTS3NvRGR3ZnhLUUE5TkhFdUwxMkhwUTd3OTVXSTF0NHdVWWRtSGNBbmlvRV9IaVAyZE9ZdWFDQ0VPT2JkNGVUQk05blo1VTBVaWEtX21xa0l4TTlNYW9GdUJUekUwd01sV0V3ZXRQd1hneTQwYlhQTzBFaC1BenlMYlJmZnE4VdIB0wFBVV95cUxPeWNJNlNMdElOM1ZubGlrVDllb1BmTmJkYXZhVnVHeHFxakN0ZVZBTTM4c2VKLVoxZ290d0lYb2ZHWnFTZ2tHRUpMcFlZQ3c2MWs4WFRSRjgybW1EY3cxQUcwQ1E0cG1aNWJ2QkhTZjlvTXl0bmtkTTEyYmZuTWlKQk55YXdSYU1xM29haXdFYzZ3U0FCYkdHaGtsQXJfT0lCanNTODVEemFJZW51UFJVWjJ0dmQ2RXVRYnZuVjZkRE11d2pKTlVqaTFldmZUblJGYm1v?oc=5",
+      "ts": 1786453932.8555975
+    },
+    {
+      "clave": "sismo_españoles_desaparecidos_agosto2026",
+      "resumen": "164 españoles reportados sin localizar tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk01eGRwVHhLOFlhemhuMXZBWHYtMHo3Zm80azMwekN5Z1kweEdINlRXU1ktYWlDVzU0cWVBUW5qbHdJTVo1dUpPY0hBM2ZsU1FoQjNraEZ2RHpwdEZJSW9jOGVpeVpaRk1vQUpPUnp4ODkteERqVHJXb1JvRDJJMHphOUpDWVRfdTBlSzZpOVU3T2xSYU1JLUdDanR5cUw2clFr0gGwAUFVX3lxTE4xci1Ka3RUNUh3UGxsVWZRYlpUZl9TYUJFWWZxU0ROalBYaTIzUGp3ZkNQQlNjWW9nNWZhaElDMktPLU9uQm51Vnd1M0toZ2lOQ2wwbmpYbE5wQ3p0RUJuMXVoek1IWWc1TDNmbU9pcjJRNDdvX0V2bXBEeFpUN2w4cTU5UE9LQ29iX3NXellUSXJZdnZxY1RjU0tqTnc5QVRGcG1jc1Q0QTM5OWhVeVpX?oc=5",
+      "ts": 1786453933.441109
+    },
+    {
+      "clave": "dolar_inflacion_agosto2026",
+      "resumen": "Dólar abre al alza tras conocerse desaceleración de la inflación en Colombia",
+      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-11-de-agosto-4455543",
+      "ts": 1786453934.0119777
     }
   ]
 }
