@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "terremoto_74_agosto2026_actualizado_muertos",
-      "resumen": "Nuevo balance del terremoto de magnitud 7,4 reporta 132 fallecidos y 570 heridos en Colombia",
-      "url": "https://www.larepublica.co/economia/nuevo-balance-del-sismo-de-magnitud-7-4-en-colombia-reporta-132-fallecidos-y-570-heridos-4455257",
-      "ts": 1786411922.0124128
-    },
-    {
       "clave": "sismo_impacto_gas_agosto2026",
       "resumen": "Intermitencia en suministro de gas tras terremoto en Colombia; autoridades atienden emergencia",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDctSjI1STJ6WEVYS1ZnaFRBcG5RSFVHWjlZQkdaUzBwS2w2YUozY0QwdnVtb2VqYzBxMDVOYkg5OUY4eWFQcEVnVnhjZ3pKdlBMWFZhX215QS1OUXk5OTFnN01yMFdncm8wTEFBSHJXdm9MdWw4V0tOVm90TENYUVVSRENucU5TNmt2UkZVbk9IVkFkb3lQRnNnalNJMjdRVzJDTmxrTklwam1DZ0NnZ254bUJrMXdFTmZJMThoRFJzSVRaQldMV0kyOTPSAeABQVVfeXFMT1RPUW8xUkZ5VUZ1N05fem8yTnpGdkZabGxmMlRQMFAwMG96X3dWbXRrUnNIdWExbDBDQlNQMzJqUFpnWUF2U01QbzBtWHhtMmUyc2p3WnFpbjZ0Q3hRZVIySThJRHlFT2YwejRGVDdzdW1zWGxGVVJvbEFmeGVWNFJxM19GMHRRNS1JeTBEYnUyYzlka1dKclBKSXFSbGpSbWNNb3BKcHlRM2RYR3ZPNy05SXktLWdhdDJkWlM1QVQzWWQtSXdsMzdNZDNsSmRibVlKOGtaeVZkNFA1bGM1b0I?oc=5",
