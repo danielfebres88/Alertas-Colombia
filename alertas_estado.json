@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_regional_impacto_panama_agosto2026",
-      "resumen": "Panamá evacúa edificios y hospitales por sismo de magnitud 7,4 originado en Colombia",
-      "url": "https://www.larepublica.co/globoeconomia/panama-evacua-edificios-y-hospitales-tras-sismo-de-magnitud-7-4-registrado-en-colombia-4454829",
-      "ts": 1786387475.66883
-    },
-    {
       "clave": "sismo_impacto_transporte_agosto2026",
       "resumen": "Wingo habilitó cambios y reembolsos para pasajeros afectados por el sismo de magnitud 7,4",
       "url": "https://www.larepublica.co/empresas/wingo-habilito-cambios-y-reembolsos-para-pasajeros-afectados-por-el-sismo-4454810",
