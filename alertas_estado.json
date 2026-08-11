@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_valle_cauca_desaparecidos_agosto2026",
-      "resumen": "Valle del Cauca reporta 188 desaparecidos y 35 fallecidos; balance actualizado del terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/preocupan-victimas-188-desaparecidos-y-5-000-viviendas-con-danos-en-valle-tras-terremoto-listos-para-ayudar-dijo-el-presidente-de-la-espriella-3577481",
-      "ts": 1786414999.9142327
-    },
-    {
-      "clave": "cali_calamidad_publica_sismo_agosto2026",
-      "resumen": "Alcaldía de Cali decreta calamidad pública además de toque de queda y militarización tras terremoto",
-      "url": "https://www.larepublica.co/economia/alcaldia-de-cali-decreta-toque-de-queda-militarizacion-y-calamidad-publica-tras-el-terremoto-4455268",
-      "ts": 1786415000.5309346
-    },
-    {
       "clave": "banco_bogota_cierre_sismo_agosto2026",
       "resumen": "Banco de Bogotá cierra oficinas en Risaralda, Caldas y Quindío tras fallas por terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/finanzas/banco-de-bogota-cierra-oficinas-ubicadas-en-risaralda-caldas-y-quindio-tras-fallas-4455110",
@@ -239,6 +227,30 @@
       "resumen": "David Tamayo se posesiona como director de la Ungrd en medio de labores de atención de emergencia por terremoto",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakdFT2QwVExxVnB5QmxCNm5xdHRJbUFSaF8yeWN0Vm1iQ2VrNXNNcVFIcWZUaWxyZGItTWZhRVdhTlc0UXEtMG43dFhZOWNONVNFWW1DeW90R0pkM1p2eDg2Q1FkRGNEbzhZX1dOa3VnQ2pHc2I2NGVNcF93eHFWYVB6bmJmXzltLXpoQThXckpVam5oaG9pdVllQlF3c2ZJLWJvUDZn?oc=5",
       "ts": 1786457647.5955973
+    },
+    {
+      "clave": "sismo_santander_acopio_agosto2026",
+      "resumen": "Santander abre centros de acopio para enviar ayudas a regiones afectadas por terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/santander/terremoto-en-colombia-santander-se-solidariza-con-damnificados-y-abre-varios-centros-de-acopio-para-enviar-ayudas-a-regiones-seriamente-afectadas-3577536",
+      "ts": 1786458268.2117357
+    },
+    {
+      "clave": "sismo_aerolineas_internacionales_agosto2026",
+      "resumen": "Air Europa, Iberia y World2Fly activan medidas especiales para viajeros tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/air-europa-iberia-y-world2fly-activan-medidas-especiales-para-viajeros-tras-terremoto-4455629",
+      "ts": 1786458268.7779117
+    },
+    {
+      "clave": "sismo_fundacion_bancolombia_agosto2026",
+      "resumen": "Fundación Bancolombia habilita cuenta para apoyar a damnificados por terremoto de magnitud 7,4",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/fundacion-bancolombia-habilita-cuenta-para-recibir-donaciones-para-damnificados-por-el-terremoto-4455559",
+      "ts": 1786458269.3576288
+    },
+    {
+      "clave": "dolar_baja_inflacion_julio2026",
+      "resumen": "Dólar se cotiza a la baja luego de desaceleración de inflación de julio 2026",
+      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-11-de-agosto-4455543",
+      "ts": 1786458269.9195325
     }
   ]
 }
