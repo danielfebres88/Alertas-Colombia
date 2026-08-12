@@ -1,48 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_tolima_daños_agosto2026",
-      "resumen": "Tolima reporta 224 viviendas y 16 hospitales dañados por terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-tolima-dejo-danos-materiales-en-224-viviendas-y-16-hospitales-ni-las-iglesias-se-salvaron-del-sacudon-3577619",
-      "ts": 1786471918.9088583
-    },
-    {
-      "clave": "sismo_cali_rescate_diana_agosto2026",
-      "resumen": "Rescatan con vida a Diana tras más de 16 horas bajo escombros en Cali tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/diana-lleva-mas-de-24-horas-bajo-los-escombros-tras-terremoto-en-cali-alcalde-eder-dice-que-esta-viva-y-rescatistas-trabajan-para-sacarla-3577632",
-      "ts": 1786471919.3943
-    },
-    {
-      "clave": "minhacienda_aplazo_renta_terremoto_agosto2026",
-      "resumen": "MinHacienda declara emergencia y aplaza pago de impuesto de renta por un mes para personas naturales tras terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/minhacienda-declarara-la-emergencia-y-aplazara-un-mes-el-pago-de-renta-4455855",
-      "ts": 1786471919.8668363
-    },
-    {
-      "clave": "sismo_isa_energia_agosto2026",
-      "resumen": "ISA reporta afectaciones tras terremoto pero descarta impactos en el servicio de energía",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/isa-reporto-afectaciones-tras-el-sismo-pero-descarto-impactos-en-el-servicio-4455871",
-      "ts": 1786471920.3339272
-    },
-    {
-      "clave": "saldarriaga_viceministra_agua_agosto2026",
-      "resumen": "Mónica Saldarriaga designada viceministra del Agua del Ministerio de Vivienda",
-      "url": "https://www.larepublica.co/economia/monica-saldarriaga-sera-la-viceministra-del-agua-del-ministerio-de-vivienda-4455792",
-      "ts": 1786471920.8074777
-    },
-    {
-      "clave": "ungrd_35mil_millones_agosto2026",
-      "resumen": "UNGRD dispone de $35 mil millones para atender emergencia del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZFlnckt5R0ZGRjQ0TEFycWtwTEpMelpDNy01Z2h3ZDZuMlVHbU1DTXFpeGJJczI2RDM4cGtQZVlIbzhLRXROc2tySEt1YzBsZXlYdE13NjVoMHg2bTd4TUFmdkNhWnVUSzEwSkJwbmROTl94YXlBMmhFX3ptLUZaODRsNU93dW5zNUhYUjUyQUpBRmZfM203ZmItRWlXdHdhUU9jWUlDVEpJMk4zYm4zS05UdElEbDZLdGNHWllINNIB0wFBVV95cUxPSTFsZzBja3VGVUdwQkpBMmJXSjl5RzlaWDBwc2labkZYN2Z3a1VBWDZ1Z0J2cTNQT1htdnE5aHdURXgtRlVzTlhkLXExMjZqb0t4RGNfTnVubndOLTJWZHpPbEJNam5sQkE5Nmw1eEI2QzZZN3I5RUk4bExIZXlQOXB3cUZHWG5LX2JsaTJoSEM4dEpfc0p4eFFWanZxaXROUkVXeG96TVVkcFdibWpzUzhOOUxGOE1rMlVFclFzUjd3Z3oyTkRZVWt6cWU1bVE5YXlN?oc=5",
-      "ts": 1786471921.2942688
-    },
-    {
-      "clave": "sismo_medicina_legal_22_identificados_agosto2026",
-      "resumen": "Medicina Legal ha identificado a 22 de los 160 cuerpos de víctimas del terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkpZTVFlYWw3ZFBhLTFSSkhSRFp3SDVxZDlodVV1Q1JqRjBDNXQxSzFYdDVZeHYzN01OUHRDUWdDYTRrakF5Q1poZzZJb1AxTHR4d19xNTF0aW5sM283TXFVRE9jWk9NNS1heE1TNUVvRWZOdHpGVnl5TEEySGxCdDlRNERQN2l5cDVFLXNEeTlabGtBQ0o5VXpGXy1sWDktS1dEQVpuZXZGNVIwQ1lLZ2RvcGt6ZXhUTFNzR1RoT0R4YVEybllBMWstYTVRam1jNW1YU2FESHNhRG9j0gHiAUFVX3lxTE1lTGd0aE1NZk5BMWJEMExKbEFubGpmLVR3YndJTFRDTzhRYlB6Z09maUxxalVFWWU3Z2Z4RWdBT1JtQ0xUa3VoNWlaMmZVMlZjeUlUWm1ZQ0M3dm1vVGtOVGt6X3FVVGtBMGM5NVFCd29fUU44MW5ITnBYWV9XUEFaMXQ0RzBGQmZzZlpSeFB3dzlUQjhhU21LSkc2OVh6MTAyWDlNTEZ3d1RhVkxERnRlMUtlLU82VFdxbzd6XzBsamRwS21weG8xUkQ3aF9LazlvbnFfWEFsa0NrZl83RjFDd1E?oc=5",
-      "ts": 1786471921.7592874
-    },
-    {
       "clave": "sismo_saqueos_cali_agosto2026",
       "resumen": "Saqueos reportados en Cali tras terremoto de magnitud 7,4; vecinos se organizan para proteger viviendas",
       "url": "https://www.eltiempo.com/colombia/cali/denuncian-saqueos-en-cali-tras-terremoto-de-7-4-vecinos-se-organizan-para-proteger-viviendas-3577634",
@@ -371,6 +329,24 @@
       "resumen": "Presidente De La Espriella firma decreto declarando desastre nacional tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSlViOEloYWNGY1hLU0lBRVE3MFJZc0JpS3NPZGJCTkt5NXJOS25YOGxmUkJIWmx1dlhmNFk2bnhpU3E2MklkbjhkV19NeXBHZ3JHRGV5S1NCVlYwbXpiaXc5LUFFbUlhaW02X2tUR0VOTnhXNFE0bDE2MHBsN19GODk4MXpPY2FLTVZub0tJT25LcHFIWHAyZHhMY05SdjU0TXYyVndEeVZnYjNObVdPVHVaU2tCdTRaU0RLUXlYVWphUzBVRk94NllYRnJPYjZ6VGkzbHZXdFZ1d9IB3wFBVV95cUxQQkJ4ZXY2eU5LbHR0YU9reW5TYi01NVNIcnRtTVV5VEw5RWd5aElwRHVvWkV1aTVTV09BVEtTcS13OFo0emRxNkpFN19wZWRkaTVkc2k5clphdWFVNGlORE5VbjVjTkhZLXdHUHNyVnBLSW52YjFmTVRDU0xDSHY2TS1nczFsTGY3R2NPTVZkNDhFSkpJclBCbEZHTHk0UFFUQTNvcldreUI0QVNGNVFZaVRESC1QbFdEMVNXS3JiWWxLU281VzRsbWRzOVJSMmtiYlpjaGd1ekRqbTNDaWdz?oc=5",
       "ts": 1786512982.7741778
+    },
+    {
+      "clave": "sismo_pico_placa_cali_agosto2026",
+      "resumen": "Alcalde de Cali decreta pico y placa estricto para agilizar rescates tras terremoto de magnitud 7,4",
+      "url": "https://www.minuto30.com/vias-libres-para-salvar-vidas-alcalde-de-cali-decreta-pico-y-placa-estricto-para-agilizar-rescates/1715919/",
+      "ts": 1786515435.5771565
+    },
+    {
+      "clave": "sismo_metrocable_medellin_agosto2026",
+      "resumen": "Metrocable Línea H de Medellín reanuda operación tras revisiones por terremoto de magnitud 7,4",
+      "url": "https://www.minuto30.com/buenas-noticias-metrocable-linea-h-reanuda-su-operacion-tras-revisiones-por-el-sismo/1715916/",
+      "ts": 1786515436.013183
+    },
+    {
+      "clave": "sismo_silencio_rescate_cali_agosto2026",
+      "resumen": "Alcalde de Cali solicita silencio absoluto en zonas de rescate para operaciones de salvamento tras terremoto",
+      "url": "https://www.minuto30.com/cuestion-de-vida-o-muerte-alcalde-pide-silencio-absoluto-en-zonas-de-rescate-en-cali/1715908/",
+      "ts": 1786515436.433721
     }
   ]
 }
