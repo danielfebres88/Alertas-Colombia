@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_desastre_nacional_agosto2026",
-      "resumen": "Presidente De La Espriella firma decreto declarando desastre nacional tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSlViOEloYWNGY1hLU0lBRVE3MFJZc0JpS3NPZGJCTkt5NXJOS25YOGxmUkJIWmx1dlhmNFk2bnhpU3E2MklkbjhkV19NeXBHZ3JHRGV5S1NCVlYwbXpiaXc5LUFFbUlhaW02X2tUR0VOTnhXNFE0bDE2MHBsN19GODk4MXpPY2FLTVZub0tJT25LcHFIWHAyZHhMY05SdjU0TXYyVndEeVZnYjNObVdPVHVaU2tCdTRaU0RLUXlYVWphUzBVRk94NllYRnJPYjZ6VGkzbHZXdFZ1d9IB3wFBVV95cUxQQkJ4ZXY2eU5LbHR0YU9reW5TYi01NVNIcnRtTVV5VEw5RWd5aElwRHVvWkV1aTVTV09BVEtTcS13OFo0emRxNkpFN19wZWRkaTVkc2k5clphdWFVNGlORE5VbjVjTkhZLXdHUHNyVnBLSW52YjFmTVRDU0xDSHY2TS1nczFsTGY3R2NPTVZkNDhFSkpJclBCbEZHTHk0UFFUQTNvcldreUI0QVNGNVFZaVRESC1QbFdEMVNXS3JiWWxLU281VzRsbWRzOVJSMmtiYlpjaGd1ekRqbTNDaWdz?oc=5",
-      "ts": 1786512982.7741778
-    },
-    {
       "clave": "sismo_pico_placa_cali_agosto2026",
       "resumen": "Alcalde de Cali decreta pico y placa estricto para agilizar rescates tras terremoto de magnitud 7,4",
       "url": "https://www.minuto30.com/vias-libres-para-salvar-vidas-alcalde-de-cali-decreta-pico-y-placa-estricto-para-agilizar-rescates/1715919/",
@@ -293,6 +287,18 @@
       "resumen": "María Carolina Restrepo designada nueva directora del ICBF",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEhRN3o4cDRfMzF2ZHVxY1VIMDVobnZaYTFtVmZVWXExNnlLWlFiSm1wYkdIdENQUWxKS1gwaG1UcWJ1Uy1UQ211bG5YbENSRHR3WS1WZVFvSkpCaXJkemw3THZweE1oZm04aUVEczBuQWgwODVtbDFxZUJ2ZmwzcEpCR21YR0pac0FFb0R0S0RkUU5EUlE2VUlmVE5GeVR5dFZIQUpTNETSAa4BQVVfeXFMTTU2NDhjM2szSk8zSFZBWm9mSnptN050NkpWbFEzVnU2LVFkc1dSNmdoZjF1a1RVQ0dnZnNrMXIzSWVnUmlSRzhKYmdyUG5BYmI5SHZOWGd0ekFodXFlUDQwUXhTQnBzbDNOaXNud210dVpQZ2c0YXA1ZXRCZllzUzRhM0xHUmpWdjJwaVFsbGo4M256YnQwREpZanJibTZobktBZVoyMVRaMkt4X0tn?oc=5",
       "ts": 1786555685.1824832
+    },
+    {
+      "clave": "cortes_directora_sic_agosto2026",
+      "resumen": "María Rocío Cortés Vargas designada nueva directora de la Superintendencia de Industria y Comercio (SIC)",
+      "url": "https://www.larepublica.co/empresas/maria-rocio-cortes-vargas-liderara-la-sic-un-cargo-que-rota-3-6-anos-en-promedio-4456763",
+      "ts": 1786556301.587105
+    },
+    {
+      "clave": "retiro_forzoso_pensionados_agosto2026",
+      "resumen": "Gobierno alista decreto para el retiro forzoso de funcionarios pensionados",
+      "url": "https://www.larepublica.co/economia/gobierno-alista-decreto-para-el-retiro-forzoso-de-funcionarios-pensionados-4456828",
+      "ts": 1786556302.0406575
     }
   ]
 }
