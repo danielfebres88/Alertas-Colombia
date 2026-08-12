@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_wom_datos_agosto2026",
-      "resumen": "WOM entregará 2 GB y minutos ilimitados a los afectados por el terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/wom-entregara-2-gb-y-minutos-ilimitados-a-los-afectados-por-el-terremoto-4455793",
-      "ts": 1786466951.3550622
-    },
-    {
-      "clave": "sismo_inmuebles_asegurados_agosto2026",
-      "resumen": "Más de 442.000 inmuebles asegurados están en las zonas más afectadas por el terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/finanzas/mas-de-442-000-inmuebles-asegurados-estan-en-las-zonas-mas-afectadas-por-el-sismo-4455458",
-      "ts": 1786466951.9269319
-    },
-    {
-      "clave": "sismo_grupo_aval_donaciones_agosto2026",
-      "resumen": "Grupo Aval habilita canales para recibir donaciones tras el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/grupo-aval-habilita-canales-para-recibir-donaciones-tras-el-sismo-en-colombia-4455695",
-      "ts": 1786466952.510321
-    },
-    {
-      "clave": "inundaciones_vendavales_antioquia_agosto2026",
-      "resumen": "Inundaciones y vendavales dejan familias afectadas en Antioquia tras eventos climáticos",
-      "url": "https://www.minuto30.com/inundaciones-vendavales-antioquia/1715868/",
-      "ts": 1786466953.1217573
-    },
-    {
-      "clave": "sismo_mercado_libre_donaciones_agosto2026",
-      "resumen": "Mercado Libre habilita página de donaciones para afectados por el terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGU0V0gydmdHb3h0VGVzbDgwZTBlQXZSR01ZRlZiNC1rYzgyVTNTWlhxQk55QllTS1VFUlFmQWV4WXE1WHlZUFZUTzBLZi1ZUGxoLUpXd0w4YTZHcDV5RXozbVFBN2VQMFhMeVdkMjR3WjdHWk5yOTN6QVF6MTRSX0sxWWljVUltVUc0dndpelNwQS1hdGQzeTQ5S2pfTlk3d3YxVng0SGdwdi1nNHpNdUhMX1NTYlp1WHFwTWhWb3c5b1Vo0gHKAUFVX3lxTE1KcVZGdENHWGliT1hHdHpfdXZ4YzROZkxPR1p1SlRKbW13MnpBbjRsYlFxVzFwNV8zdERSY2tHc1JOMDZjVDVsQWE0a1NHVjdldHFGWlVKTXc2NWNhSFNiRVBYdGRTS1U4cFJwX1g1RXdDeGxQdHpaUFdDRGRDelFfWXMwR1U0a1BFN0F1N2k4YU90d05uMjhIZEF3TzBTUUw5LWI2eHh5YjFoLXFkWEV6NmlfY2s0dU9OVkZtcTNwektFNTRJa2pVZHc?oc=5",
-      "ts": 1786466953.7163668
-    },
-    {
       "clave": "sismo_gobierno_alivio_servicios_agosto2026",
       "resumen": "Gobierno anuncia alivio de servicios públicos por tres meses y subsidios de vivienda en Risaralda tras terremoto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-gobierno-anuncia-alivio-de-servicios-publicos-por-tres-meses-y-subsidios-de-vivienda-en-risaralda-3577622",
