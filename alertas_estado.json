@@ -365,6 +365,18 @@
       "resumen": "Expertos alertan sobre riesgo sísmico en el Caribe: ciudades requieren estudios detallados de suelos y edificaciones",
       "url": "https://www.eltiempo.com/colombia/barranquilla/expertos-alertan-sobre-riesgo-sismico-en-el-caribe-ciudades-requieren-estudios-detallados-de-suelos-y-edificaciones-3577893",
       "ts": 1786563074.769754
+    },
+    {
+      "clave": "sismo_quimbaya_500_viviendas_agosto2026",
+      "resumen": "Municipio de Quimbaya, Quindío, reporta 500 viviendas con colapso y pérdida total tras terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDY5aUh1ekRKU0dMd01tSHQ3WWhSOUVOdjRHeGpRcENNNFl3dHdjZkdBMTNZR2hCUXdWRkJDSDB3bWwyQkFZM3ZNMGJzSDl2bV9QQk5VTGFMejRHcDBqY1NTLWJVWDJhSUY0dEJVNWFoX0RpeFJwNXpPQWFybVl3c244RHJLV21laWc5UmRPbF9GZjV3NVBUb042RkRaUkljRWRBUk1XNEotNTJLOU1obTF0alA2UHVjNWFYRFBVbTFIQU1BTkV6aWpxY9IB3wFBVV95cUxNSlZ2U3pDcU1FbnhQaV9BMzh2V3hQYnBCRl9TMXNKejAxSk5fM2hjNC1xTHBWWGNhVkk3NWRQUHBvRFJRYUpwdVpkaXRTRWJCUE5JcEs2cUd6M0VnS3ZQM0tzNjNLa3A4N2x3bi1ZaVJaWXVQZ0VmMDIxLU1JUHBhV3loWG1DU3g4Z2V1VFhXT2hDSElzT2VvaGN1eGxZcDAxZEdsckVrSVU1QUp6b2trUHNPVjZoYllMNWtlblo2YnN1MzAySTlQWmhHMWd2MVpmRGlWRUJDVW5kUTlsNzV3?oc=5",
+      "ts": 1786563690.1628523
+    },
+    {
+      "clave": "incendio_medellin_itagui_agosto2026",
+      "resumen": "Incendio forestal en los límites de Medellín e Itagüí requiere operaciones de control",
+      "url": "https://www.minuto30.com/alarma-en-el-sur-voraz-incendio-forestal-se-registra-en-limites-de-medellin-e-itagui/1715968/",
+      "ts": 1786563690.602848
     }
   ]
 }
