@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_pico_placa_cali_agosto2026",
-      "resumen": "Alcalde de Cali decreta pico y placa estricto para agilizar rescates tras terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/vias-libres-para-salvar-vidas-alcalde-de-cali-decreta-pico-y-placa-estricto-para-agilizar-rescates/1715919/",
-      "ts": 1786515435.5771565
-    },
-    {
-      "clave": "sismo_metrocable_medellin_agosto2026",
-      "resumen": "Metrocable Línea H de Medellín reanuda operación tras revisiones por terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/buenas-noticias-metrocable-linea-h-reanuda-su-operacion-tras-revisiones-por-el-sismo/1715916/",
-      "ts": 1786515436.013183
-    },
-    {
-      "clave": "sismo_silencio_rescate_cali_agosto2026",
-      "resumen": "Alcalde de Cali solicita silencio absoluto en zonas de rescate para operaciones de salvamento tras terremoto",
-      "url": "https://www.minuto30.com/cuestion-de-vida-o-muerte-alcalde-pide-silencio-absoluto-en-zonas-de-rescate-en-cali/1715908/",
-      "ts": 1786515436.433721
-    },
-    {
       "clave": "buenaventura_incendio_marte_agosto2026",
       "resumen": "Incendio en centro transitorio 'Marte' de Buenaventura causa muertes; trasladarán a 370 privados de la libertad",
       "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-buenaventura-trasladaran-a-370-privados-de-la-libertad-tras-mortal-incendio-en-centro-transitorio-marte-3577782",
@@ -341,6 +323,12 @@
       "resumen": "376 internos de la cárcel de Buenaventura serán trasladados tras incendio",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnV4SVUtbTBETk9ObzZsVW44TjYydzQ1c0o2ODEwd1dzT1k3RUlRZ0JLbnR3X2lQakxXWi0xOXpOZ1d2SGVVT2VLelk4RzBjdEtvdlBuaWFGVUhVUDlnZmNNOURQZkg2ZV9CY053dUF6bVVhYTk2UE9fQ2RwSkRvbmhyUTJRNG1yTXpNcjcwd2EyNFMxZVo5MnRFeXFMczk2VWV1TVUyQXI0bTVFd1pfX1pmQ215U2JP0gG-AUFVX3lxTE9yNXIzUy13T2pQX09CZ1VkTFdqZk9PV0hhNGNjNnpQX3h3elNVdTNyeGlIMDFIZjRkZHV3R0g0X3ExNFZzQS1udVlfVTNrZ1p6RUlocUFCSjctVTFlajhWYXZ5TVJqWTRMOVREUnoxY0FGanpBdnlkcWJWM1E3MFAxeExiYkRLRkphakd3b25XOFdfWlN4VjhSU3FrblIzNldwLXJxcnJpeUFzSk1jU21oZFEySkFyTktMRHpuZ1E?oc=5",
       "ts": 1786558149.466844
+    },
+    {
+      "clave": "sismo_claro_internet_gratis_agosto2026",
+      "resumen": "Claro Colombia ofrecerá internet gratis y minutos ilimitados por siete días para afectados por terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTVJpSVJ6WmVzaGgtVW1rLUpaRXl0OTRlem1wNm5YR1N6V3Q1RHozeTlWODF6NlhsR2hYaGNyUVF6Znc0MGJMWU9DSnh0bFYxUWtzTkR5dlJmY1pZNVpBZ1pDQjZYV3VqQW93eHR0eXBvOEVEMjNJOElvR1lablZCS2NjelZzR3ZPd2Q5dlZ0VGFMeUljYVpZX2l5QlFIOEV0cHM4TG0xZHhWaktuQkRocFYtbEh2NVJOanRJb2R1VktqdWs1MGtwZWJXOXJyOG5PQ0VCLTd6V2owQVpPTXhlRmVxOXk1cFhZeGZRdWtsUGdvQTRTLURPVtIB_gFBVV95cUxQNnNVa2pKNURoZ0szM3FmOVJUV2tkZGNpSE9tc0h2aWozS1BTOTNLT2NseTM0cXdJT0FOT0ZrdzlxSm1acTg0NlMxUUc1Z1EybW5Rb2dPVmJtQ29vbGhWSVJiWnA1cFZ2bVQtY3VsQ0JPRENZa2xXM2tKWXNqMUVycnMtZFRvZElYRWtwSXRtVW00WGFmc1dya3pxUHU1SDhhTTdtY3ByZmZWSFY4TDFsWE5aYjBlMlNCcHVzbEdLelVlN1U4TGlWUWRCRVlrZlViQmJQcFlyc2JfblpxQlhVQjRmQTdBZnhINmlkWHNtanNncWJ5QmtFYk50ZUwzZw?oc=5",
+      "ts": 1786558766.88622
     }
   ]
 }
