@@ -1,60 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_buenaventura_incendios_agosto2026",
-      "resumen": "Buenaventura reporta caos con incendios y bloqueos tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/cali/videos-entre-incendios-bloqueos-y-destruccion-asi-es-el-caos-en-buenaventura-tras-el-fuerte-sismo-del-10-de-agosto-3577569",
-      "ts": 1786462000.024304
-    },
-    {
-      "clave": "sismo_pereira_iglesia_agosto2026",
-      "resumen": "Iglesia San José de Pereira sufre colapso parcial de su estructura durante terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-momentos-de-tension-se-vivieron-a-las-afueras-de-la-iglesia-san-jose-de-pereira-tras-terremoto-de-7-4-en-colombia-parte-de-la-estructura-cayo-3577495",
-      "ts": 1786462000.5812356
-    },
-    {
-      "clave": "sismo_latam_medidas_agosto2026",
-      "resumen": "Latam anuncia alternativas para viajeros a Cali, Pereira y Manizales tras terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/latam-anuncio-alternativas-para-viajeros-con-vuelos-a-cali-pereira-y-manizales-4455642",
-      "ts": 1786462001.1901295
-    },
-    {
-      "clave": "sismo_espriella_eje_cafetero_agosto2026",
-      "resumen": "Abelardo de la Espriella anuncia visita hoy al Eje Cafetero para continuar labores de atención tras terremoto",
-      "url": "https://www.minuto30.com/abelardo-de-la-espriella-anuncio-que-hoy-estara-en-el-eje-cafetero-para-seguir-labores-tras-el-terremoto/1715863/",
-      "ts": 1786462001.7573912
-    },
-    {
-      "clave": "sismo_balance_general_181_muertos_agosto2026",
-      "resumen": "Balance actualizado: al menos 181 muertos y 1.246 heridos tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYm9fTlAyQUUzR2o3eHhVRXRNN1ptVzl4Z2N4ZG9IbG5hMk1YZWl4a0hGaHJ0NTZjZDlBNWdCbmdHai1qTEw3Wm1TMXgtYU5sOGNXd2RNWVdfQW1LU3ZNS2dCV19ZTjV0WlNNbHp4MFJVTjA3LXN3S01mQ0xOMWZxN2YzZU9rMEs4QlFkWlYxYk9PZGxuVnk3ZW9QTHhTRnBXRkJadjhLYUN1VkNpZlR3OFZtcVhYR1dpNFRoN0pMSGo4VjJlU3lZ0gHbAUFVX3lxTE5MejJmNEdScURJaFhtMVM4MmxNeU5jSWdLdFptRFNVRmpPaFd3dTAwVnFQQ01ZU2k5dTMwdlFlaWYzZjlSbGQtZllKQ25QSTlkSEdsZ1ZtcWg5WDZTcEJiTXU5UzRGQmhSdGR1MjRQWmxJV1FxYXJmQ1E1dlhUaVY2YlBwNFhLY1pDdWVad3NPT3FqMzJ4N2piZGZSdjF0RWdDSWFrWmFKYm11VXZRVjNyYjJ4bGV4SnpZd2xudVFBM2xTVFlYdHh6dkRnR1RtODkzU3RjLXZoMHR6TQ?oc=5",
-      "ts": 1786462002.3790693
-    },
-    {
-      "clave": "sismo_reconstruccion_ingenieria_agosto2026",
-      "resumen": "Everardo Murillo advierte sobre complejidad de ingeniería financiera en reconstrucción tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWk0bnc1UFA5QWlrTlY0YnVUSThfY1J3WnFkTHMxaFFQOFVEdU9wZnBwNGZTS2t6b2FBQ2h2TTJCbWFkTlpMaHozNjdGZFlreFNrWmtfVnFLRWxFUlNZX2JaYjFVVTZzX0U1YlZSRWdmSXhySWpVZW92YjA5OHFHenpKVXh1alpDdUhFbTVrZG5ndG9oRXNwVUd4NXpXN0FpSUE4dVVLTVB2ZC01QzAwbHUwWnBGSjNBc3J2eF9LbWs0VjFMaGhfc19NNDB2cTjSAeMBQVVfeXFMTzdCWFhCQXFjeXE4QUdCaTlSd0JLVDRLT1pWRkI0R3U2SFc0WW5IRElZSnNiQm54aHFRTHEzVzFtZnI1QXZSa0V6QjVicU1PSGJtZUItZlJjUkxaaEEwQ2ExTGNDRmJpR3ZxOU1PX0M2TXVJN3ppWC1mbzZHZkZsVkhvekFsQ0trY2R2SlhvQi0xbVpacXZxUVhEd0RjYllqcVU0aV9PQUQwUHQ3cGVidzFXVXl3eHRWdzRkR1I3MEVCdEljWDVFN0NRYTVxQXJLUGNiNDl5MDRrSC1TbldXVFFhSkE?oc=5",
-      "ts": 1786462002.9525032
-    },
-    {
-      "clave": "sismo_telefonica_masarange_agosto2026",
-      "resumen": "Telefónica y MasOrange ofrecen llamadas y roaming gratis entre España y Colombia tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVlVWdkNyNDVsUmVTRXU1YVVVcGUyVlBVMHNKdExNaHJLZXhCQ2FZbml3ZFlOa1kyRXRSTXpsOHFUeURSUUl5eXhMcWVTVW93Q09LWjdMTE9kejFwOExhb1ZlU18wazFNY0NXVGpEMXRsSUE5aEduSEZoWGNEZ0p3bDg3M2xwTnFYbmRtR1RiOWh5TFEzMndvV1dOUzZCZ0RrOEFMQUQweHE4ZHp2V2VYU1VqV0lpT2pzUHI3OGJTNjcwLW5HTksyYzdkTlBReU10N1dTSDdCa05YOTQ3UDNoME0ySdIB6AFBVV95cUxObE40dmVuLWlmdk5nTmVkdTZMUUlKbXN1OFktaGRxcXNrUi1JMzNqbXh3eVVPTWg5UkM1VkJaeTRmYzBCdk9IQnNmWUVadGd4V0NKeUQ2MFRPWUxIQUdCaEQ1Q1lqekxtdVhwWjBGZ3A1TjNWYnBQUEtfSzVWLWJBaEFLb05TZVh3ZGFvSGc3akdodWhCSksxUXRkV0d2b2RLYkFrV3FPSkhpUUZuY1pseThENklkOGtOY24tRG0zOUwtOFFfZmR2cjIwTmRSSnFJUTFaLUlaMm0tajk0cDdBMkgxby1uN0tj?oc=5",
-      "ts": 1786462003.5284667
-    },
-    {
-      "clave": "sismo_empresa_negligencia_agosto2026",
-      "resumen": "Empresa no permitió evacuación de empleados tras terremoto en Colombia; señalan responsabilidad",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2xsc1N2a0FhYkVQd1E0dWtvZEVtc1g2TnJLVF85RHdseUpYMFMyUHhjZnoxaXlsemhnWVV2NnJKMlY3ZjFadVFnSW5Eekd0eTBLMUZJc1pldWZ6dzV0YnBZMHJFMXhUTXR5Snh1UnVmNTl0OWtqWWNjV2pJc1NlR0c2STFSNHBSNkpxSmNyZjNIMWcyS3N5MUMwR2HSAaIBQVVfeXFMTzJtWkM3T3RzYVRjd3N0cHB0VkdfQV9tOXljRDM4cUw1ZDNfRjVaWmJVekVZLXFUZ2x4anptcnJkNGxyU1V0OGlFdkdGR2FBLVpyZWhfYUhMLS0wR01DY0thM3pEMWhIeXJPdm1wSjNQUXJRUGRqZTJ1eEhON003MmItZEgwWF9NLUxkc1FZeGU3SlVBSlE0elVxdGpTYXNNeUlB?oc=5",
-      "ts": 1786462004.093018
-    },
-    {
-      "clave": "sismo_balance_general_181_muertos_54_replicas_agosto2026",
-      "resumen": "Cifra de muertos sube a 181 con más de 1.300 heridos y 54 réplicas del terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3NtTE1aMmRTX1lCTjIxcklIeFU1QUd1Mk1BZkpRVGZlUm1NbXBnMmtCdHRueEFiNjZGdktCSDEwWXVMWFoyWW5tbnZGVG9XcFFSN2pCSWVpQWdQTVdoaWRuU3NUMDZIcjF4XzlRN3pBSDhBTU5VTkFRVmRYcUJOU29icVdUbzF6VHJLQ21LS1BrSi03QjVZN3lZcXFiTWF0akhzU0p3VE7SAa4BQVVfeXFMT08wM1FoUVQwUXJsY2xidVkyNTBVZFNMbFF3el9aR1owMjBzQnRaOWNxeHdTS3NyT2VMdFNEWVJYb2dZSmUwSmg0Z2FKTWpiT1FsNHV3VURsLUpCclFnQ3VCSXZ6TzFqamh2Z0JrU1cyaXhPeFMxU180c3o0dGRMTTZlMDZ5NDI0Y21DOWM2bmZPUFZ1c0ZvTnB1TUltVlBUN0xNZFlRUy1yODkxTy1B?oc=5",
-      "ts": 1786462004.6690576
-    },
-    {
       "clave": "sismo_peru_tres_temblores_agosto2026",
       "resumen": "Perú registra tres temblores en menos de una hora el 11 de agosto de 2026, generando alarma en el país vecino",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnYyb2Z3RmRrdVp6b1lZVnk3MUk5R2k3V3Byc2RVOTA4SVRxMUE2YXBwMFdUeXlya040Ui02dVpGM3p6UVZJclVnTFEwYmZic2wwQ25DdjllTXFOdE10Y1B1VDI1WHFISVB0TGFjU1Biak1ibjJGVEFSRFRKWnFlNTlxdEExdmVGOXVINldJQ2hlN1o3VzZiUXFITXBOVzRuR1RCRHFXaGMtOUZFM2pTM2dJQ1o2bWVrTzZLckhmRkR4MDNzWEHSAdMBQVVfeXFMT09DT0k2bWE2amVfSXFYcEs3UVZkRHlLb0RnbnFKa2ZrajRIQmVnR1pXU1RqWVljMnZWaHVlbTBiUWJqd2RkVU45dEk5ZVBiSFZlcnBmbVVXUFZZdkQweV9tSlhfemJhWVFMczg2OHNxVUpBQjRocU1pc0M5TWtncG9DY0JYMzhMUzNMZUlIenVFQ0hQZ0Fkdkp0X2hoNVMwVGozTjhnNWZVZ1E2bDVJQjZYRjJuSUF3dzVTVkRzNlJfZWhfOFBqaGVSWlV0dGNrZ0FxTQ?oc=5",
@@ -569,6 +515,12 @@
       "resumen": "Falla geológica que provocó el terremoto no es la misma de Hidroituango",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb2duU0Z3OGl6UGJvcTZPbnU4VGtyT0RoUDNBekRRcm02NXJjb0lLQXNtSEpiWk4taDREbVlFSXBlTHppN0plal85dzhVWTFXaWVXVVI0a1FheVd5ZW95TWFaV0ZZME1FSTRCWS1zczhuZFIwS1hMU3lPbW5UeWJXMDkyTl9PQ3NTVzhkTUExZGpvTVd2bndKUFZqX0htb09wbjRUTkZQRHlvVGdaangzOU90RnctUUZuYm9fSUtTQjBSMFFjUnBjbFotcw?oc=5",
       "ts": 1786504403.9850855
+    },
+    {
+      "clave": "sismo_ascopitales_desaparecidos_agosto2026",
+      "resumen": "Ascopitales lanza plataforma para reportar desaparecidos tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/ascopitales-lanza-plataforma-para-reportar-desaparecidos-tras-el-terremoto-de-magnitud-7-4-los-rostros-que-buscan-en-medio-de-la-tragedia-3577762",
+      "ts": 1786505638.679161
     }
   ]
 }
