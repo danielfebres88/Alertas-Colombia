@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incendios_santarban_agosto2026",
-      "resumen": "Incendios forestales avanzan en la zona baja del páramo de Santurbán con alerta máxima",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQW9SSVF0TVd6SlZJZFhjaExKZmE5bURxUUlNbHRoUkZBVWl3OVBXV2d1UDllSTFobDJiZ0VBUV9iOU9DY3Y3Nk16SlZUUEdBbkZlRDBBeVdndU9hejBhdS1QT2NEMzFGNVlrUXRmbThpalNDblQzdjZMMTVwdmVWM1djbTJ5bENYQ25iR21vOTBCLTd2d0RiZlFZbkhpQjBuZnZCcjlzQ1ppalQ3VHc0YXhlRzdQRTFaMGM2X2VPWDQ4NE54clNrNVF3clpJZ9IB2wFBVV95cUxOUFJxWXNoY19jOU5qSU1TZkNYeUxkdkVpUmxaMmhVU09JSXcwLWF1b1BOMTR1RUdFdGVVTXVLaXZ4OWtTeTc5cV93akwxZFRPcm45VzFWYjdwR25HMUNBZ2gwWDFHb3JCb1J4bHNUX084T3NqdXdVdXVJNXNHRFZ1dnZpeU96S015OHVjNFNkWlVwN2lnUDNhOG1aUWQxejRXS0VzRy0wQ2paYXpqS1FQSlRzUmJVVTRWTWowZGg1dlJ0YjJLVGlDcm02aWs1N2dIRWVIMnBteFRPbk0?oc=5",
-      "ts": 1786477474.9683392
-    },
-    {
-      "clave": "petro_permiso_salida_pais_agosto2026",
-      "resumen": "Gustavo Petro solicita permiso al Senado para salir del país",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjlWWGRkUTJLeWNMb29CRm9FZUtWaGRaUkRERG93MWx5R1cxSzl1NUd2ejllUHlCQWV3YkRSZjFXeTlSTnJOVWtoNFlKc1Y3UHBhTllfU0w5ZW9kTWIxQ3RnRjRlVFo3NjhFcmVsT3dZQS1ublhad2hXV1d5SnZub2stLXJBWXZvUlpjdXRBTQ?oc=5",
-      "ts": 1786477475.4448426
-    },
-    {
       "clave": "nu_banco_independiente_agosto2026",
       "resumen": "Nu se convierte en banco y operará como entidad financiera independiente con productos de ahorro e inversión",
       "url": "https://www.larepublica.co/globoeconomia/nu-se-convierte-en-banco-y-pasara-con-el-rendimiento-de-sus-cajitas-de-ahorro-e-inversion-4456026",
