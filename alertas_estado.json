@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_bukele_ayuda_salvadora_agosto2026",
-      "resumen": "El Salvador enviará 100 toneladas de ayuda humanitaria a Colombia tras el terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/toneladas-de-ayuda-humanitaria-a-colombia/1715885/",
-      "ts": 1786476854.808168
-    },
-    {
-      "clave": "sismo_risaralda_calamidad_publica_agosto2026",
-      "resumen": "Gobernación de Risaralda declara calamidad pública y urgencia manifiesta tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOF9lcjNHcGl6WW0zMHByY2hOWXVGdm9QOUcwX2Y3dlFTd3U4ckNNU2hfQUs2UUc4VEtxS2w0NDlZOTVkdk1nbTF2VTZ4REZqMzNIMXBoeWo0S050dzJfRUFhUXg0NmxVUWk1Q1VyV0xLSVFleGFJX0k5eE5ZcG40RHlMN0ctN1ZaRlNFc1RXVm0teXpxUi0xU3V2UnFGWlBiajctRFZJM2p6ZXJJMXVFcldMZWRqdXozMXlnVldKcnNpdEtuX2s3Rmp4SnZXSTlXbm9vNnYtVW9odDM5WkJoOURJRmtnbUZNS0VpVV9B0gHzAUFVX3lxTE5QRGEtN3JLbkhTQ2dhYUdhSHRnc25hQ2lrWWlzTnM1aDNOenhlMk1idjkxQ3FPdjA0YXM0YU12WG1YUHNKQ0ZRSTJtVk1EOEJWYU5ZRTdmQjJINnRmUUN3ZEY2YjJMSk13UFJTVG4xR1VYQ2ZtM010WUJDZUF0RE9XUEJFRkVxOExGel9kdVhfY3JSYUpKN1Y3Szc3V2FzQUJXREt0dHhIVGZXRGRxX3Z6cV9vR3AtTTBGYXdCNkxQT0JZaWhBa0FsZFl6Y3hhbXpra2NsSWRwbUo0V05KaDVOTDFSQ0xlVi1vT3RhTEdWZmFaYw?oc=5",
-      "ts": 1786476855.2768703
-    },
-    {
-      "clave": "sismo_replicas_magnitud_agosto2026",
-      "resumen": "Réplicas del terremoto en Colombia: seis superaron magnitud 3,0 y una estuvo por encima de 4,0",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWRoYldIX2ZNWlktdHpLVWZaVDJtTzlzWEtZXzFKa2JadVd3dzJKS0NNU2U4Vk1rQ3cxb3JQV0FaWnNtSFlzRUxNWng5elIxeDdtX0g2cGJ0YzRRQkZlMVE1NzIyT3QwTjVNU05VeTRQWTNGWWlDbERjbF8tMVh2aGw3a1Vid3owb01XVlJyS1pJM285aTJINnhtTXlMaUxwTWNLd1kwRHY2UEZadU1UTTd3MnJXc3oxM05LTVZCc2ZDbmw0MGlmS05IcG1NejEyXzY0WkVpcF9fd9IB3wFBVV95cUxPTmV3UkRkXzQyUkpTYVFLaHhIZnJvdnVCdmluTEZ4NVRaUkJjRXJNLTRpelRIc0luQlNFd0laUWxnN0Fta1VGN1AxOFN4T1p0OFV5WXR4ZXNneHpzMS1Ta3N3R3cwcmNiTXBVRDc0ZmdINHhCcVd5ZzRCM3dvbzJTOEZUOFZRNmFfTHRDSEVWRGhNcFZmQVUwU2RBN1h5Z0NHU1hkS1B3YTExSWpJRnVDbTVQcEVxelE5eld1aWU1TEFRNzY3aGw4RXQ5WU5IaEJPVHgtdUx5c3B6OTVvSjZr?oc=5",
-      "ts": 1786476855.7518904
-    },
-    {
       "clave": "incendios_santarban_agosto2026",
       "resumen": "Incendios forestales avanzan en la zona baja del páramo de Santurbán con alerta máxima",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQW9SSVF0TVd6SlZJZFhjaExKZmE5bURxUUlNbHRoUkZBVWl3OVBXV2d1UDllSTFobDJiZ0VBUV9iOU9DY3Y3Nk16SlZUUEdBbkZlRDBBeVdndU9hejBhdS1QT2NEMzFGNVlrUXRmbThpalNDblQzdjZMMTVwdmVWM1djbTJ5bENYQ25iR21vOTBCLTd2d0RiZlFZbkhpQjBuZnZCcjlzQ1ppalQ3VHc0YXhlRzdQRTFaMGM2X2VPWDQ4NE54clNrNVF3clpJZ9IB2wFBVV95cUxOUFJxWXNoY19jOU5qSU1TZkNYeUxkdkVpUmxaMmhVU09JSXcwLWF1b1BOMTR1RUdFdGVVTXVLaXZ4OWtTeTc5cV93akwxZFRPcm45VzFWYjdwR25HMUNBZ2gwWDFHb3JCb1J4bHNUX084T3NqdXdVdXVJNXNHRFZ1dnZpeU96S015OHVjNFNkWlVwN2lnUDNhOG1aUWQxejRXS0VzRy0wQ2paYXpqS1FQSlRzUmJVVTRWTWowZGg1dlJ0YjJLVGlDcm02aWs1N2dIRWVIMnBteFRPbk0?oc=5",
