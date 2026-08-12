@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_saqueos_cali_agosto2026",
-      "resumen": "Saqueos reportados en Cali tras terremoto de magnitud 7,4; vecinos se organizan para proteger viviendas",
-      "url": "https://www.eltiempo.com/colombia/cali/denuncian-saqueos-en-cali-tras-terremoto-de-7-4-vecinos-se-organizan-para-proteger-viviendas-3577634",
-      "ts": 1786473153.0991626
-    },
-    {
-      "clave": "sismo_petro_fracking_agosto2026",
-      "resumen": "Gustavo Petro culpa al 'fracking' por el terremoto y vincula la crisis climática con el sismo de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRXpVcmlMZ3FpRWJCaUV1dVA0YXAzRDh4VGwtY3NQQlAydVpNZVNzYlpCY2hNaXJZcnBiMHQxaEhQbURseWo2MDB3d0xXMDN1WkxaZ2FHSlBVeFhObUxEZDhxaXVIYUp1WVU3NUl5Q3dhanFrOVJWdTZiT1NEdDJVR1NUUThBMkV5WXBKNjZCZUgzYUNfaDJFUjJsNk50aXV1UlA5MHlCaGNhX09YTTN5TkIxMjE5MTJWTGU2LVZxNlozUWpZdVVmaVpfNlJOMUtXaEszbnkxWUJQdlFLRFpiLVVkVDRwTXpzbFJjZUFHRWFoRmNjUm1pSGlPRkktNUVGbkN2a0Z6d1JTaUdE0gGSAkFVX3lxTFA0dkQ3ckIwNnUxS055OXNTNnVpVWxPdHFBSDF0dFpqaGhEbkx3SXRGNUFyS3d1U01KcGR5MkZjUko1VjhSa0Q0TGpwcTRkWUNZWEdaNElWSDZKS2J0RU9vN1pQNDJ3YkhKV0QwU3JudXpfWVhNRERoOEpPaWtENm5FWExhYWJQdmF5ajdiRHZSUXo3Nm1tYnZhMnhDVDgwc29iMVA2YWJVRXBlZTM5djZjLVpha2RKVkV1THFpbHh1Z2pPRzc5bDk4MjBadHdNZFZnVThVRXNyYWxldWt6aWwxa3R3UWVLYjJRVkNmc3FZX1pJdElGUkc3ME5NdHBJN3JEUUxhR2dsRVVVenlCbWJtaUE?oc=5",
-      "ts": 1786473153.5931218
-    },
-    {
       "clave": "sismo_barranquilla_ayuda_agosto2026",
       "resumen": "Barranquilla envía socorristas y activa donación de sangre para llevar ayuda a zonas afectadas por terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/barranquilla/terremoto-en-colombia-barranquilla-envia-socorristas-y-activa-donacion-de-sangre-para-llevar-ayuda-a-las-zonas-afectadas-3577597",
