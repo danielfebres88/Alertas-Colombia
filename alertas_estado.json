@@ -1,210 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_balance_general_188_muertos_agosto2026",
-      "resumen": "Cifra de muertos por terremoto sube a 188 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWlPR2RyUnJmXzZTNTl5cEo3NzRRMlJXOWZWb08xNUdXZlptOE9NSmVWVTl2bHcxWUUyQTA1TUxoRWlXZjJodmRtM1VYRmVBQ1U1ZWN3UVdodEIyczI2X3d6Z0JsLWR0Nnczc2FvM3lCbjVSSTRqX0J1WFplSkhDY1M4SkdOSDFTejAzMzhlT2RsVDZTMzZFekgwYWF1bFhReFpJ0gG3AUFVX3lxTE1RaTNrYV9iUmxMdmwxVGVqaWI1amV5ZjJSNWI3blNTNkp5WVZoeUl6cEFPZUhpbkhXSjA4bF9PQXc5N0hFa2JFSnNwckdHTnVDTXN4WEFpQS1TdVVCb2NjZThFM0dBWkVOQnFJRURLZGZSMlNtWjNlWVZVdk9VakdablJmX2FkTEE3MThvMngwbHplT2xuc1R1NzBYMUN5R2drVnhCTHdUVjlxWnp3eUhXQkZENFF4bw?oc=5",
-      "ts": 1786497581.3860965
-    },
-    {
-      "clave": "sismo_cauca_alerta_roja_agosto2026",
-      "resumen": "Cauca mantiene alerta roja hospitalaria: 33 de 42 municipios reportan afectaciones por terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/el-cauca-mantiene-la-alerta-roja-hospitalaria-tras-el-terremoto-de-7-4-33-de-42-municipios-reportan-afectaciones-3577749",
-      "ts": 1786497581.9140654
-    },
-    {
-      "clave": "sismo_cooperacion_internacional_1300_millones_agosto2026",
-      "resumen": "Organismos multilaterales ofrecen US$1.300 millones en cooperación a Colombia tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUnVCdXpfU3BQU1VhOTY0LUEzQ1pEQjRSb2FXdjhQb0pVODR4d2hHaUxEaEpCZEd5MXloNnN1Qlg5Wl9FUWhCcUJTTV9fZkFqQW1RSk05TXBLeEZEd2ZvVy1VaDc1dEtGcGlKc2ZmZER0cUczYnh0WE9sU0tvUmhTVWhNU3Fla1NMT2hUYWVucUJuaGZ5SmNuM21UdWFEYW1mYUFwY0pzcWxtVWw0ZVHSAa4BQVVfeXFMT2NibVkxUUFyMWFCRHZDMTVUbHZsT3FaSFFXaFFsMnFOX2J4aUw0aEQ4RTRBbWlIYnpncjBJdjBPd09BaC1NNWpvc3BaVl83VVcyM2M2NWpzalpabWdlR093OGl6YkJGb0I5VjVzVTc1Rlc1MkJzTWszc0NtNW5tWENDZ1RIeVRmQkpFMG5Tb3Y1aEVGV3NpWEl1WW01ZGk5bHA3dmRiRUYtQ052N2FR?oc=5",
-      "ts": 1786497582.4457161
-    },
-    {
-      "clave": "sismo_educacion_virtual_quindio_agosto2026",
-      "resumen": "Gobierno anuncia educación virtual en zonas de Quindío afectadas por terremoto",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0dxN0QzMHlaNGNtbndpN1FUdE1ZTTJlQUhxZXFNRVZwQnFPMlJldnBtbVZHVTByc2RsUUhFQjhjX0ctME9QZnZzUGlRWG5sNEl3RXU0SHNQcVoyNGVqLW16S29JdTg3STRMSFZCNVo5V0tZVHlDWHFPUWppOWdDb244d2M1dFBRQjFJbm9rRGoyR3hVQzgwTWRxRk5ER19SWFFJbVpBZDYwMXp6Si1IN2tUSkctc0ZFYkwzVnZGRdIBzAFBVV95cUxQX1NmYjh4TDN5VHlCcHRsYWp3TjJMdEdtTXRNTDg0dW83MUs2NGJFczFNRjdEOEI5UUtyaWlPR3BNb0hETWM0c24xYktCZGpUclJTQjE2Mi1VUmJqZmFpeWJOeU9TWDNWNnpBeWUwRC1HaFlycXNlM241MzB4dFA3YlJLTDVvT0FwX3h3eGM4aEhHUm5NSHJXVU9uNnJ3c3B2V3d0VER3R0FRM1lpWnFuc1pzRHNNVC1OUkRkOFFlSU9jS0p0UUw2QTVIWVA?oc=5",
-      "ts": 1786497582.986824
-    },
-    {
-      "clave": "sismo_metro_bogota_inspecciones_agosto2026",
-      "resumen": "Metro de Bogotá no presenta afectaciones tras inspecciones realizadas por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWEVrTEV5UkZMSnUwX21UZHNJRlYySGxZNm5zX0JUMUN3S2s1Nk1IakI5SHJ5RHhVZlp2YXl0TTJKYjNHd081SVNqTW9VTlRSekpGd2FSVl9fNk9jbUtzeGVPMlRUdzhrQ2t4RzVGWk4tYTFjQ0RLcXJ3SjhuN05BZ092OEY0emN5WXpjdW1JUHVuY0ZKQ1FadGVRWEpJQzdzVmxzNC1yaWZPSXlVdVNPN3A3NU5HMERsdi1HeDVLR0dreU5vdXV5YmxMMFU4azlsTkE2Zk13WVRuYkk2RXpEdEx6VnowYVdNYk56Wg?oc=5",
-      "ts": 1786497583.5195107
-    },
-    {
-      "clave": "fpc_regreso_fecha_agosto2026",
-      "resumen": "Dimayor confirma fecha para regreso del Fútbol Profesional Colombiano tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1h5Sy0zSjRXY2hEUTFycXNRUWhycmdidmdaTGJJa2pXdWpZeUI4WkNCYUZRUzU4OUh4TktPamR0TzZ6b1lsbGZUTjJyLWs3bWF4WVg3RlVoNU1hM3cwdEt4SFhvbVdQb2JQTGVJd2VPRnhoTXlkelVuLWtrakllYS1Yd3RqY3lWenN6YndkUWhyemFtd25paDdZak5oUEd5WWlJV1VhNzZ1WkxLbzlfU3lvVXpRMFBiYUI2QkpGYXp6aDVrelFXQ2w2bVB4YUhwNEhBcEJjcEFRNlHSAeABQVVfeXFMTW5iUkI0elVYeWRxdjNLSmtjWW5hUTlZX2RETWxfQUhGVDRMUm9sMTVUak1EMmxxQUFKVktqMWJDNjFhenVyV2NvSmpCdXRHTVdvTXMzVFpXMkNuTDhzS195Z1RfdHlCMVl3WmU1anByS04tN0IzZWJwb2JNU2FEcmNxM216cWs3Smg2TXcwTVRCcFFJSy1yOWxydEJZeEJLNnU1dk5xRTNOVEJNcDJRdGt5SkdrRXQwSF9Pel93RGZxbzItZjBCMkVHdkpaeTNGMFdCbVVWdWdTZVpjdGgyQy0?oc=5",
-      "ts": 1786497584.1461074
-    },
-    {
-      "clave": "sismo_xi_jinping_condolencias_agosto2026",
-      "resumen": "Xi Jinping envía mensaje de solidaridad a Colombia tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1hrV0ZJb1BocG91Q0t4Q2dVUEhkbkpVeDBRR1Aydy04LTRSbEtaTFJVWUo3N2E2cnNFdzFzeXZzSGoybzI2RHlZX1NTOUhScFcxUkxZRlY1Z3A2dk05TkUzemJPeXFPLUk1OURqaTk0SFRyd3M2bENqdmZROVBkenZ4QVhWSnZGZ0syYWZhSWN6NW90RHk1OXRSengxMjg4bVI0Yk9LWmtVSkxWekFDaHV6a2w1LVlhZF9HWjc1ODh5ZTRzaEhCM2Q0WnhtTzFSRTdTQzJKMXhKNkhfTnpz0gHkAUFVX3lxTE1QZDBqdVJBNENRWm43Q0ZFdGRLTE84eGhYa1JkQmxqcHdGeDJaNUEzU1JWZFNKNHZNSVctOWpUZC1uMFhaMmtIVEF1Q2cwUlZnLVVoQjdsYUwxVUlDVVJ3dlJlQzFIN3hsUUVyX25JaVJCdmVQcWFCOVRzNTBhOUUzUllvTHI1bDEtUF85NUVRc3U3cmphS1RHYzBXLU96V2JBeHJtMVhiSEtUMktmNEVQakk5RDdlWHhnclltU1NJdHNtX3NXZG1vdFdpNUlvdXJDdmtMclU5VF9nSFYtaFVEaENCOA?oc=5",
-      "ts": 1786497584.6913285
-    },
-    {
-      "clave": "lombana_superintendente_salud_agosto2026",
-      "resumen": "Mónica Rocío Lombana designada superintendente de Salud encargada",
-      "url": "https://www.larepublica.co/economia/monica-rocio-lombana-fue-designada-en-el-cargo-de-superintendente-de-salud-encargada-4456350",
-      "ts": 1786498201.827674
-    },
-    {
-      "clave": "defensoria_bombardeo_norte_santander_agosto2026",
-      "resumen": "Defensoría del Pueblo verifica posibles afectaciones a población civil tras bombardeo en Norte de Santander",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamR2eFBLM05HWUFQVE5rWFotSm45NXBtVHgtMFdHdUZ0XzdER2tNbU1QNHZjQ0d4Vl9Ma1VLR01PcW9CTnFoNWthMEMxVDFqcGdtS1BLSzZOSVduVEwwbi1GUDc0Y240cktqUFlWR0VlT1ZaSGQ3Ni1DQ2J3VDZNUW5lTlQxY1pGTFRRNDdRVWJCTnBxRGVIWnJzUmlMNDN3N1cwQk8tWThIczNiOFBJWXBnNURDcFhRZ0Z4WWtfLVg2cFVzNk8yaklmbnhCUnBMTTRsNmY3X0ZnUzl3UUZLU1lBUXRVSU9fRENjbFBlVndOcXpTTmfSAfsBQVVfeXFMTjdMLUlSakI4SGsxaUpJQlVFbHdyZ0EyY3FCYktxZnhScjh1aEFwQUZjSmN5M0tXZzMwaGFJTE0xMVVrUHlQemZXVzNMZjB4clhlQmdiZ2dCdWhtZXRCRmI2RWxmbVhISU5jV0Z5Z3V4QUhJdEtxdl9EZUYzYmYtczRWd1NGdVA5WktYY0t6RmVMNFdWYnZVUlcyVlJ2YmN6TGFjZm5hbHVYRVplV185SERSSW04V19JcGlvV2w4c25DVnd0aUhpQm5aODBxQXRLbnlHZEtoRTlRR2hka0p4Z0VuVlNYeEF0WkphQWlwdzZlWW9GWlJjUF9RWTQ?oc=5",
-      "ts": 1786498202.35659
-    },
-    {
-      "clave": "laverde_contralor_respaldo_agosto2026",
-      "resumen": "Cinco partidos respaldan candidatura de Jorge Eliecer Laverde a la Contraloría",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG9xRjVmT1ItdFl2VUFRdmFFdmpnMGtWNzFBVDMzT2ItVFNpZHZaYWhQbnY4WTZ5bmNxOXlha0xlaFdWRDZacEdvQVpaOTB1Y1ZGd3otekxPbFVtZzFzUU5zdXRFQUo0OTJfc1FHcmNwVy1kYzJmaGZmQmUwZDIwTG5hMmg1alE2NnUzZl9pVEVQQml6Mk03dXlkdFlxTXVEVlB2bE5ZSjJNUm4tbFFJU3hkY1lWZ9IBwwFBVV95cUxNUnktdkFKRFY1bEZNbVQ4MXZHRk9jT2tqdUZhVHRtNEctZ3BYQW4wS3JEN0E3b1ZNOHplZE9YMm82LXpmUWpkOEFQYjJKSEVpNGhjQU9henJqemstU3d6U2NjYS0wdk1XZklBWGRwWnAtc2c5bHd2VzNya3N4bVJOWGY3WmF3WEY3ZVNhQ005NE10cDlOLWkyNDhjcFhabi1kYnR2cjQ1WWlVOXd5TmxiX3lQN2xTMkJtWkowb1MyemtaRGs?oc=5",
-      "ts": 1786498202.885678
-    },
-    {
-      "clave": "concierto_beneficio_terremoto_agosto2026",
-      "resumen": "Feid, Chayanne, Silvestre Dangond y más artistas harán concierto benéfico por Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFpaVEwZTQtZ3VRV20xYXNXTm9xanFlY2lWZ1ZfbHBSMEppbXBLRHhjdnVQV1hFb3BPVUVyNExfeWNfRDcyVTl6N3ZDaDdTY21HdmpqZVRKaTZ3cDZRWjJYeDVjeGljeENFeU1Ba1A2Z0JCSkxfY1lPbFFBSkFkQ1FSX1NURFhBMHg2V0hUZWtsb1NSWmhpTGRzSWdOVlVfZGlOMlh6d1djMWtEcXh5RUVPcDdIX20wd293aUROVVQwOGxyZFJpUlZn0gHXAUFVX3lxTE44elFRQ1hzZlNkUFdIVmFxNTdsek9ZRHZUU2VzcjZmX2p2Qy0wQUluNHI5R05QVExJTVdTQUxwUU5XLVUtMS1mbGFwdU9MdTBRbFdrWk1meDk2ai00MjZHQzhjTUZYZWlpX0NmSG55M2E0YmhZQktWNjdJeDFWc244Sldjd1pCZWhybEtDM3YzTnk3NnRtcHhEdDIxQ0ZQV2Yxa1VYOVBWQ2NOM3FtcWx1NThNc3BwdDE2YnVxVXE3anhRQTRPVWM0c3k0ZW9XeGJYS2Z0UkNV?oc=5",
-      "ts": 1786498203.411347
-    },
-    {
-      "clave": "minhacienda_aplazo_declaracion_terremoto_agosto2026",
-      "resumen": "Hacienda presenta proyecto para aplazar declaración de impuestos en zonas afectadas por terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/hacienda-presento-proyecto-de-decreto-para-aplazar-declaracion-en-departamentos-afectados-por-el-terremoto-4456328",
-      "ts": 1786498820.3745692
-    },
-    {
-      "clave": "trinity_pazdel_rio_rescate_terremoto_agosto2026",
-      "resumen": "Grupo Trinity y PazdelRío entregan material de rescate tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/grupo-trinity-y-pazdelrio-entregan-material-de-rescate-tras-el-reciente-terremoto-de-7-4-4456329",
-      "ts": 1786498820.9106166
-    },
-    {
-      "clave": "dsilva_viceministro_vivienda_agosto2026",
-      "resumen": "Reynaldo D'Silva Uribe designado nuevo viceministro de Vivienda",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3p2cjdFNFFzR190WkNHUmg3S2pwZ1dlTm1abDBpeUZ0VTFUUTRaaXE0S2M5dkQ5ci14YzM2UUFrYmRIRFFFZlRkRmdtYTFpczlPUEhYOTZfakpvaWhmTWc5T3dFbHBlbUJTNlJ4U05HZ2lyc0RiX0ZPTUk5QzNCX0hOSmZ1MUxuQXMxT1gzZU5MQU9qNFRXeNIBrAFBVV95cUxNYkN1em81cnQxQTI5T2ZMWlFpRUFFWWVTUy1EQ1JCUEUyYXA4RVlKT1FrbVNVNUlqZlFQX1RhbzBzRFk3UzFSRXZnSDhwdC0xbWpaMjNPTXRKc1MxVjVlWUIzMzkwWl8xaU5CLXU5cUhEMFctd2VVOGJHNHZmX29WQ0c2V0RHMURDc0wwejlvVmN1MUU1eGRHd3ZjbkdaWFZtTkVVcHVNOEIweFFk?oc=5",
-      "ts": 1786499437.114975
-    },
-    {
-      "clave": "colombina_ingresos_1_64_billones_agosto2026",
-      "resumen": "Grupo Empresarial Colombina reporta ingresos consolidados por $1,64 billones",
-      "url": "https://www.larepublica.co/empresas/el-grupo-empresarial-colombina-reporto-sus-ingresos-consolidados-por-los-1-64-billones-4456353",
-      "ts": 1786499437.6932528
-    },
-    {
-      "clave": "sismo_medicina_legal_93_identificados_agosto2026",
-      "resumen": "Medicina Legal identifica a 93 víctimas del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjF2MFNQT3FoSEdUWFBWWXg2YWswVHVlQnlmWXQ3NE5fNVVEWHo2SzRrNzlCMC1RTFdJSVJ0MF9NbEROb0NMX2RWa2NybEFRcUJvWW53T0VmMlloZktpcFRMS0VWemhWQlZVMzZqYzhGTTJpNThvM1NrOThMWGF5YWIzSXFDMEFUWFlSdktYY2VTTmxyM1NGaXQxU0tOSXMwY3fSAaIBQVVfeXFMTTRIeGlqVG10dmhwWks5aTJwaWtUeW5Wd2NyQ2RjX1U5RlZuTlNsNU1McXh3Nk5hVFRVTVNTbTF2X0d2SGJyMHNtYlZBWHFDMGJQSi1xbXpNRmtjT1BFbExWWTFRTjRnNFZvbml6eDh4b3VsWS03bVh2Wktkc3E5UHBtVnpwUDg5TnRabm51WGtnQ0xxS0djclZ3V1owN2tDRUlR?oc=5",
-      "ts": 1786500056.2889466
-    },
-    {
-      "clave": "minhacienda_aplazo_renta_retenciones_terremoto_agosto2026",
-      "resumen": "MinHacienda aplaza pago de renta y retenciones en nueve ciudades afectadas por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVnBGZmFHbGZxNHVWU0k4OHNvQUczaTdKZlpGSUYxZ0JDVE1qRTEyTkt2Qnh1R3hZQ0ZOX1dnQmZ6aG56RU9FcDJPbElJV1UtR2llUzcyOEZrWGg5SGZPaC1VbE9TeEFZWHRfeTdkYi0yVWY0ZWlSb25YVHZaLXQ3T0toemJqMGNGSWJiZF93YlpUNkRVbWZ6V2ZzZ1hZOUVXdEQ3Zlg3NVFQTkxxRGtpN3l4elRBMGxlOV9XMjNzQlNsdDBMTHpNZWlLdVlyZXpveGQxdFlaaW9HS0I1TEhMZF8xb25LNzV0bkRQTGg3RWvSAfYBQVVfeXFMT1N1eTNGdmg5eW9URWM2TGFfMHJST3FBeG5GWXZVckt2cjhUV0VVV3paY09ZcFV0bWx0bm1pNjNIdnVVaGhKbnNNWEFLaWRuRXBFN0pZOGY0MkZ1TTd4MjAzeUZUX09Ha3RDWEpMcFpXMkVPUVI1eWM4Sm5fRHBlNEV0SzhJTmVSZUgxMnJ2a0pPOE54MVR5WkxVYmtldUxhQ0dILVg5a2lpcTQ2Rl9mTmRnUnFXb3FDRkR5T1lLdVJud1hEM3BKRVRPUUNfa1UyZDUxR3FuZHlzZWUtRlkwWWNfbGlLaFBIRXNtYUR2VUZlMl9VamtR?oc=5",
-      "ts": 1786500056.82059
-    },
-    {
-      "clave": "sismo_hospital_quibdo_sobreocupacion_agosto2026",
-      "resumen": "Hospital de Quibdó reporta sobreocupación del 245% tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVNRTVRQWGNSLWZPckNERGVmUXNXclEzRXhROTRvQmRqdlQyelVRMUh0Rkh1U21YUElpcGcyNS1YX2V3cEtLOTFPY21QU1hVWmpxSDRUMndNa19pR0tnTmlGWUNsVXVyUUZNdUNwbWo4MXVKdXQ4Yld3d2JOQWZRSFNPb1hLa3d6VDFmUHJPcjVkNmd5NXJXVE1lT0JBc0R4WkNaaWR1dWxDX0xJQnhaVXJ5Wk9fMnJ5Z1k2eWFB?oc=5",
-      "ts": 1786500057.3472762
-    },
-    {
-      "clave": "grupo_exito_utilidad_316_millones_agosto2026",
-      "resumen": "Grupo Éxito aumenta utilidad 31,6% y alcanza $316 mil millones en el primer semestre de 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1FvUmZ2bGVBR24tRVFodTgyUV9jUTlvem50QW1WaGYzZDJwcTh3T1FZYlB2THZmN1FCTXFKc2NZT1pFODFOY3ZHaF9vd2poNTV3SFlkOFlMUlRob09nMWNiVFpyRkdMZ2pVRUNOU052eU5ja2o2R0dhSFdsTDE5ME00c0lWanoxRmVYV0NBU19nc3BoOE82SlB2RkxtLWsxNUUzYTJlQ0FheTFKd2pJb2lIenJWS29sRmZheTZuUTV0WXNsOHl5R0ltTnRhVDc1YUHSAdcBQVVfeXFMTlYzbWs4ZUFKWkZxa1hOOUNja0lqcEpOeGxlY1RNemRuMDFleXlaNHpyZFhzQWFLSkthYnYwaktfUmNNVlF1RnRvMzlfMVBsNG40UkxXb3RrT3JibVpRa2RqbkdKbks1N0UydTdyUjNJcWR0UmZyVzBBcEdxYXBqYUZyZTVHckZHc19fLU1BUHZ2QWRTLVB0WG11MVd3SmpBWmV3VmZJMVhHWWxWdlMxUk1lTGg5MUFKRnVFNWxvcDZaZElYSDFUNkNLSmdhVkxGaE5pV0JwTTA?oc=5",
-      "ts": 1786500057.8976846
-    },
-    {
-      "clave": "sismo_rescate_daniela_largo_agosto2026",
-      "resumen": "Daniela Largo rescatada con vida tras 36 horas bajo escombros en edificio colapsado en Pereira",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/milagro-tras-36-horas-del-terremoto-en-colombia-daniela-largo-fue-rescatada-en-edificio-colapsado-en-pereira-socorrista-revelo-como-la-encontraron-3577765",
-      "ts": 1786500674.73018
-    },
-    {
-      "clave": "reforma_pensional_espriella_agosto2026",
-      "resumen": "Reforma pensional: qué propone Abelardo de la Espriella y qué cambiaría para trabajadores y cotizantes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWpaalBfSk1ETFRxcm5QUkRzZGROd2tSUHVRaEVUUHZ0N2s0cHF6ejlKb0Q1MFVTOS16OGFVSEVNb3RVYXVVMFJoZDNjT1dROWxNR3lmd0xXZEtWZFd3QlJOZVpZcEtFVmlHeGlpdVd0dzF3Q24xaTA1b0FWYVhBLXJFQTNRVU9SbU5jSTJjMHRTd2ZnV2VXYU9OX3RYSVBad1V1NGdkNzdueDBOeWZ5ejBrMC1mNldnSHJwQzZfWjVTMmlxSXFlemhzQQ?oc=5",
-      "ts": 1786501291.35893
-    },
-    {
-      "clave": "peru_ayuda_humanitaria_terremoto_agosto2026",
-      "resumen": "Perú envía avión con 12,5 toneladas de ayuda humanitaria para afectados por el terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEhNMHpXSWlhWjQyUFBlWjF0MUVBZDhlRlRVV3pSWjgxU1VoeWg4VXpYYUxUSnZnMlJhUUFTT0RNdDhFX1BQelQ0d2gyUUlST091VjBZTFZFb2syd1MwNVN4dUQySWZNSWJJWV8xdnE5dWtid1ZWVDVqR1JIcHVkdG9scV9aSk1reDV6eDJOdm5Ha0NPUHdDSVgxc25LUG0xYkYtRm9zeEE5Y3g4SkFhcTlVNFRXRDh1RGFfUm5sTWFEZjjSAdABQVVfeXFMTkJKUDREc01Nb1IwWXkwdS1yQV8tLUktaEtrSkx0M0hpUTZQYm5JTFF2S19ELUlWMXYyaHRFSFktNnVHbExDYVpBVGJubmpLNUVUR0xBS2JLTkM1bVNNZXVxRUpBTEJtWHI5ODVfSjhaZGVZZTBseXpMNW1odFNFbEZBODNFQnFoRHJURG9tZUZMQkc3bVlqMEhWR0Y4SExqcV93emNBeWRSWS1SYkNUd1FIQVd0a2VuT3JuQlpJNnk2b216bUNfX1o1ZEtrOUtpag?oc=5",
-      "ts": 1786502528.4502425
-    },
-    {
-      "clave": "laverde_contralor_electo_agosto2026",
-      "resumen": "Jorge Laverde será designado nuevo contralor general de Colombia con respaldo de partidos mayoritarios",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTmxXaktiUmg4UXZLM0k0SEtucEJvMFZqYkJEV0V3NFBObW9Zd2pIT3h5RlBPbEpKVzg0UDhOMm9fV2JMZFdSb0NiLUtiU0VkdXRCUXk1ZHoyUTlnWWZPVWxmNnhpOE9sUXhUV1ZFMlFDdWprbk1tVGFFSTVtU2hfSVNWVGVaSlZfUnRCQzE1SGQ1NldaM1Bld082OU5aNHZIZi1wUGpPdy1CU3RwZG1qWkV6cThQb2lKNGFwbVVGSlNfbUMzY0dzZVZaZTByTVI2LXRIbGowVEwybTljT0RieDdUZTF4azRPUlp3c2RZcTEtRzZ4WS1mbkU4RXhGeEo3WnNWbHZSOG40ZU3SAZACQVVfeXFMT0tjNWFGal9sN0ZOSkRJcy0xSXFXQV9PYTRYcWhkc1dLS3owa1hoM3F5ZU02UXhGQy1YUFlIcnFkZXd3c0RyaFpmQ3N6Qlo4NGlhWTQ4ODZWUF82R1ZRZUc5YkRLc0FTRk5EUXVqYkF6MG8yTnc0OFhQejFqRlBKRS11d09rSDBram1rclpFbXRVSDhtTG40WDlZZXRJVUhnclJ5ZGZmVjFSMUR2NVpKTzVEa1QzZDhxaXZlVlFQdXkzY0s0Q0Y1ajNPZ1FNYnhic2R4VjJ1WU9GQWxub0lyTWFVWDZfY21vWVpnUXh1emFXWVJlQUttRjhHMk9hNnhFajZTc2xEZVM3UFI4bENyd24?oc=5",
-      "ts": 1786503146.762754
-    },
-    {
-      "clave": "sismo_gobierno_subsidios_arriendo_agosto2026",
-      "resumen": "Gobierno anuncia subsidios de arriendo y alivios en servicios públicos para afectados por terremoto en Quindío",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/gobierno-anuncio-subsidios-de-arriendo-y-alivios-en-servicios-publicos-para-afectados-por-sismo-en-quindio-4456409",
-      "ts": 1786504402.8951705
-    },
-    {
-      "clave": "sismo_ataque_alcalde_cali_agosto2026",
-      "resumen": "Agreden a Alejandro Eder, alcalde de Cali, cuando atendía emergencia tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSWhyVi1EUW0zeHBqMnlOZF9fMlp6T0tpMUVKcEExT3FaUlFJVTBhWkgzcmFhWTM4Um1UZWc5OGc2Q0FzUFZEbkNMOXZGd1hwMTdrX085aGxHczY5QnpxcVJTaXhKd0twTFVXVUo3ZEJfTVd1azctcUYySVBUTkZMaUJyUjFoT2lRQXY5YktuNXg4cEZWRC0yOUVycHBRSEVBcnNtbE9Ta3RkencwM0gtMFhmQkhoUEdGY2FnVzl5cnFUQW5tTDdTOGJrSzhPMXQtSnhONGkxaXVkUWt0Yll1SEliYkJ4Vkhl0gHuAUFVX3lxTFBBNWR3clBQTkcxZU9SZlpkWE5DLTVzU2I0amRPLUVPcFpKVHR6RHNNYllRNVJ0eEpnMXRKZXdqOFBlbEhXb0VYOUgzcnM3VmRMQWc3bTVONlBJUnpVcFFHOWlOZjlISTlFSnhVbFczQVhHeFF6dXF3OWNuN2NmaFpRNWFvd0pLS1ZtZXVwU2h1OGl0OUVpMWd2QURtZnRLQ3NmeHVwbWZ5cEdpQmxZTno0LUtBc0F2eTFJRnVHVlBKNTdkNTYtRkxPX2tmYW8td1JKMHQ1LW8wTDlYV2hzVjNmRWFRbXIySzZmcl91SFE?oc=5",
-      "ts": 1786504403.4293497
-    },
-    {
-      "clave": "sismo_falla_geologica_hidroituango_agosto2026",
-      "resumen": "Falla geológica que provocó el terremoto no es la misma de Hidroituango",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb2duU0Z3OGl6UGJvcTZPbnU4VGtyT0RoUDNBekRRcm02NXJjb0lLQXNtSEpiWk4taDREbVlFSXBlTHppN0plal85dzhVWTFXaWVXVVI0a1FheVd5ZW95TWFaV0ZZME1FSTRCWS1zczhuZFIwS1hMU3lPbW5UeWJXMDkyTl9PQ3NTVzhkTUExZGpvTVd2bndKUFZqX0htb09wbjRUTkZQRHlvVGdaangzOU90RnctUUZuYm9fSUtTQjBSMFFjUnBjbFotcw?oc=5",
-      "ts": 1786504403.9850855
-    },
-    {
-      "clave": "sismo_ascopitales_desaparecidos_agosto2026",
-      "resumen": "Ascopitales lanza plataforma para reportar desaparecidos tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/ascopitales-lanza-plataforma-para-reportar-desaparecidos-tras-el-terremoto-de-magnitud-7-4-los-rostros-que-buscan-en-medio-de-la-tragedia-3577762",
-      "ts": 1786505638.679161
-    },
-    {
-      "clave": "putin_solidaridad_terremoto_agosto2026",
-      "resumen": "Vladímir Putin envía carta a Abelardo De La Espriella tras el terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1R3MmZwRFZzSHZKN1I2elhCQzNyVldZaEpoZVA4WV9SM1FQOWM5di02Z1hnbUkwV1pmMy1Zajd3LVkwcHVNcXY2VlFkX3Q1b05MWU9rbTJjcW9JNW9qdjZ0YmN2T2hIQmg5bkFaN1hGRnJJRTU1WlhNWVQ5b19ZWmtGN19pLTg2ZmZpVWs3NThYcDJiN0xCMjUwTEZaZW1fY1lycjlNMVZuRG03bmVTT3FSaDFkWFVrXzA3SnBQX0JNZE9LdlpBTmcwSTEydDloanh1OGNnVdIB3AFBVV95cUxOT1otcng4Tk1IV3VGUi1PMzFtRTdkUENxdkJyWGVIZlJLRFF2VktSYjhOSGtjaFpsS3dvX0o4Z2hULVk4WDJUamh4ZjhvYkNLcUdkRzhOUU5SMmRsQV9qajVoYkxEYlBXQ1BIYjQ0Z1BUdGthbFJseFZsS3dxWWZDeFA1V2htdEwzS1A3ZFQ1VmNYUUFGZVpmWjNtQ3BRQUZVcHBjbVFkdDFLSHhqekctR1QwSWlzdmZER2tUUFUyd1VJQzZBWnZXdVZIOHNEeDZwbVMxNTZTQXVQOEM2?oc=5",
-      "ts": 1786506872.4735193
-    },
-    {
-      "clave": "sismo_blessd_ayuda_agosto2026",
-      "resumen": "Blessd envía cerca de 30 toneladas de ayuda humanitaria para damnificados por terremoto",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkkxVkJpNjZJX04zV0k5QjFzalJ2MXEzUm1MUERQUnYyNVN0VXF5YWk0eXBCNndWelNKM3MxNHVBc19nVTlkZVpLUkVCa2pKVUxsUjZLWExPSkdtaHZsbEVZOFEyOXV0NVZhc3B2NEhmYzM2cXlzVDZpel9KbnFZQko3NXFYM1BpY2VDbDI3c3F6VDhmN19sT0dRQ3U2NUlyQ0pvSXlCOVpfY21ORFhxRV8wTHl1YjVCNC15eFc2VlpMOFRka0xua0JEYnFKZ9IB2wFBVV95cUxNVmhIMUEtb0tnenlYa2doRUN6c0hPRm82WS1lTWhBZldDRFBOT1YwNXh6b2Qtc3B6Z1oyR3ppRTE3OXJEVENIUXdSdmN4VDU5SkVYcEpQNHJzTUZEQ19FU0MtbnB6Vzd4bzgtR2tudXpvRDh6eDdvMmNUR180SlgxVkxTSHBod3lXNFJZYmRhVlhRM0RSUUtOUWRsUFhGRUFSYXRUX1ZUejBrajh3VVdpSHQxZ1RjcEx0QjhjaGtpVTljbHZOeGJnSWVHNlF1RlpLMGU4bWpzVWRGVTQ?oc=5",
-      "ts": 1786508758.6319273
-    },
-    {
-      "clave": "sismo_replica_11_agosto_noche_2026",
-      "resumen": "Nueva réplica reportada en la noche del 11 de agosto en el epicentro del terremoto de magnitud 7,4; percibida en Cali y Medellín",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-en-epicentro-de-terremoto-de-7-4-la-noche-de-este-11-de-agosto-afirman-percibirlo-en-cali-y-medellin-3577780",
-      "ts": 1786509991.8291364
-    },
-    {
-      "clave": "sismo_vuelos_ayuda_internacional_agosto2026",
-      "resumen": "Primeros vuelos de ayuda internacional llegan a Colombia tras el terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei11OV9WaGcxX2lCRFcyY04wUGRKQTZrZS1QXzQtcGxuOFJqX0VvUjl0YWhsVmctTTY4NTlLV0VhWjN2RFJRdi1venlMN2ZYQkY2V0hCelllZ21wU2ZQYUFhUUlzV2o1c29zQmNEalV2Tzk0RWpJWlRQbzBuLWREcWVjalRlZ2c5TmdUOEc5Y3Y5VlpBblFyd2dlbTdZS25uY0dBWElNS2JjMEJIc2YzRmU5ONIBwAFBVV95cUxNdTduQUQtY053REM4Y2dYR05QMDhnaW44Rl83Y1VkSjVZM2JVSURLeE1kY0ttLV92dmpSNTgtLWJFQTdYS0JvQUdIemtlM013MHUzUDk4MjhURGxNSnBmTnRZdEdQU0hRZ1U3X3hqdXM1eFI3OFNiQkZtc1E2el85TE45VWpmTWlVSW9odGhoVUJOUXg3TmRpaUJpX2FrS3dLbnpCYkV1MXJKS3B0N1E3UEx5elJLczlwN3lobXFtYnQ?oc=5",
-      "ts": 1786509992.4177911
-    },
-    {
-      "clave": "sismo_exportaciones_cafe_buenaventura_agosto2026",
-      "resumen": "Terremoto paraliza exportaciones de café por el puerto de Buenaventura",
-      "url": "https://www.larepublica.co/economia/terremoto-paralizo-las-exportaciones-de-cafe-por-el-puerto-de-buenaventura-4456264",
-      "ts": 1786511225.0515642
-    },
-    {
-      "clave": "epm_centro_global_agosto2026",
-      "resumen": "EPM creará centro global para gestionar 118.000 aspirantes y otros procesos del Grupo",
-      "url": "https://www.larepublica.co/empresas/epm-creara-centro-global-para-gestionar-118-000-aspirantes-y-otros-procesos-del-grupo-4456231",
-      "ts": 1786511225.5952904
-    },
-    {
-      "clave": "sismo_sector_cultural_festivales_agosto2026",
-      "resumen": "Terremoto golpea al sector cultural y pone en pausa festivales en Colombia",
-      "url": "https://www.larepublica.co/ocio/el-terremoto-tambien-golpea-al-sector-cultural-y-pone-en-pausa-grandes-festivales-4456250",
-      "ts": 1786511226.1384883
-    },
-    {
       "clave": "sismo_desastre_nacional_agosto2026",
       "resumen": "Presidente De La Espriella firma decreto declarando desastre nacional tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSlViOEloYWNGY1hLU0lBRVE3MFJZc0JpS3NPZGJCTkt5NXJOS25YOGxmUkJIWmx1dlhmNFk2bnhpU3E2MklkbjhkV19NeXBHZ3JHRGV5S1NCVlYwbXpiaXc5LUFFbUlhaW02X2tUR0VOTnhXNFE0bDE2MHBsN19GODk4MXpPY2FLTVZub0tJT25LcHFIWHAyZHhMY05SdjU0TXYyVndEeVZnYjNObVdPVHVaU2tCdTRaU0RLUXlYVWphUzBVRk94NllYRnJPYjZ6VGkzbHZXdFZ1d9IB3wFBVV95cUxQQkJ4ZXY2eU5LbHR0YU9reW5TYi01NVNIcnRtTVV5VEw5RWd5aElwRHVvWkV1aTVTV09BVEtTcS13OFo0emRxNkpFN19wZWRkaTVkc2k5clphdWFVNGlORE5VbjVjTkhZLXdHUHNyVnBLSW52YjFmTVRDU0xDSHY2TS1nczFsTGY3R2NPTVZkNDhFSkpJclBCbEZHTHk0UFFUQTNvcldreUI0QVNGNVFZaVRESC1QbFdEMVNXS3JiWWxLU281VzRsbWRzOVJSMmtiYlpjaGd1ekRqbTNDaWdz?oc=5",
@@ -413,6 +209,36 @@
       "resumen": "Intrusión salina amenaza el río Magdalena y pone en riesgo el suministro de agua en Barranquilla y Puerto Colombia",
       "url": "https://www.eltiempo.com/colombia/barranquilla/autoridades-ambientales-alertan-sobre-posible-intrusion-salina-en-el-rio-magdalena-esto-es-lo-que-esta-en-riesgo-para-barranquilla-y-puerto-colombia-3577819",
       "ts": 1786540056.3813002
+    },
+    {
+      "clave": "sismo_balance_general_239_muertos_agosto2026",
+      "resumen": "Cifra de muertos por terremoto sube a 239 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazhLZ2VQUk1VaGJvWUNrZ1RERFFDY2RFaVlEUWVjR3FpNEJqTlh3akU5Qlg0bXVTVTdfYWc3dlFoV0I3eFFUT20tOFRtNW1GcU8wbjgzbTc4Vlk0RkZjdEpOeXBjSG96NXl6ZWJlalZ1VVpHWGtlTWFzclZFMkRVeTMxTnNIZlFSQm1hVkRPdDVrMlhzSXp3aFpXdy1TcTdMNDU4TlY1Z3bSAbwBQVVfeXFMUEg3SlE5VHdoZ01OX3d0X0xjODJubElzTEljVUZPX0FuYVRkYkZ2SEEzYTB6YWMwbFd4YjRIWEFQNk9wVXR1Vm5lZ1lzd0t2N0dSM21aMnhsVkc2OHRUZkdSRFhoZ2JXdWpBMkpFY1E3VU1FcDlxOUdpbnJSUlJJRXNVeENYdXQ1RFRaQ1ZmNkJscXExd1pTWUR6VEtLY1pxdFd4dXF6WUxKY1gtSlB5ODEwSzJpNHltVHhsMEY?oc=5",
+      "ts": 1786555061.457488
+    },
+    {
+      "clave": "sismo_el_salvador_ayuda_51_toneladas_agosto2026",
+      "resumen": "Cancillería confirma llegada de 51 toneladas de ayuda humanitaria de El Salvador",
+      "url": "https://www.larepublica.co/economia/cancilleria-confirmo-la-llegada-de-51-toneladas-de-ayuda-humanitaria-de-el-salvador-4456822",
+      "ts": 1786555061.8937168
+    },
+    {
+      "clave": "sismo_restablecimiento_electrico_91_agosto2026",
+      "resumen": "Restablecimiento eléctrico tras terremoto alcanza el 91% en occidente del país y Chocó normalizó servicio",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQVBTNlVrVGc2ck92b3VENHVkQ2FZSDQ2WWJibXVuTlplQjVjYldjamlYT28zOVJSTy15QllPUlpjVE1tUUhZMUxWc1BNM0k2c1p3Wk1EYmE5aUhjM2kxdG5nZGdXYXF6cGNSaDhfNzVKX1B4MFhKMm9pYmFVaXNFMnduX0tYcDIwekgzakJxbEFZQWx1VTEyZW9jMnF2QjR5cjBCalQ5c2NtaUZPbGYtc2hjcmtUUVZhZEpBWnpOYXdHYk9raHY2MjFwTG13elFMVlNrWENackxjOWN6ckJ0ZktZQ2xCd9IB6wFBVV95cUxQVmItS01YRndWTWRKQXdLWDl5LVMwVWI1RHc3R0tPZmFTYkxxZnliclFBbHRwWEJuNXNxamhFX1NaRy14SWp0ZGFaUDktVWdZTnhTNmo4ajVjU29OaW8waFNSeVo1UGN1ZTFLYW5LN3F4YklZeUJMclVDXzMzNGNUMXZxVDJGamtXV2xUeEdyUzBDd0VGaGFvdm9yZFUzOEg2V045a2x3NVFJbjJQQTY2a202ZTNkYmNTUGg2TDNjUHNMbHREVFRYNFhXeFFOS2QtQ1g3QjdueEg4Xy05N25heWY1RWVBazlOSC1z?oc=5",
+      "ts": 1786555062.3325474
+    },
+    {
+      "clave": "sismo_inflacion_riesgo_agosto2026",
+      "resumen": "El Niño y terremoto abren riesgos para la inflación tras dato de julio que sorprendió a la baja en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1doZDRsUEFfSjZPT0Z0b2YteWtDQ014OG93NGEzd3RiVVhRTVhGekZiWjdIM0YwZjh5YjlyTGwwR1RGelhCbGh4WHZxLXRfeXF2QTRhRGx2TG9CNFFjZ2NXdEI2VUdwNUhQVmNUS2haTklGLXZ6T0wxUnpXRm95dUY4R3E3SEZrNTRnSUE4Yng4MG9uT285QzZKcW5hakh4TFVVOGk0RFhwc0xNckZDSXIzT2VadmVlV0stVW5FZUZvY3JLbWh3T2NUbldmSWtEU0tSZlNDbUQ5TU1JcWpXb3JBOGVQWEXSAewBQVVfeXFMUGJ0QzFtSkZlVVJ1MWZvYVFhSktVOE43TVVTNmVYOHE3WTRIdDI3QjF1RE8xMzhRZXAtZFBkNDh3UGdKaEEwb2tuZkJCYkItN2xYcjFWbGIzd2lIMnZJUDY1SnlOOFFQU19PZVBGVFFqbWU2aGNRc3FSZHdqMWczb2xrMDVrVXVaTU9JbEh0Q1JEeEpQV0xuOWpzdXRLWWpfSFNwODlpckJvdU5POWRBLWU5dURBd1lkQlFoZ3pFazUwdlBMMzNuOG9HZzFEQnNvSlh3cnVrb3dzQmlrM3d4OERyNjI4UVpMRzAteFM?oc=5",
+      "ts": 1786555062.7695885
+    },
+    {
+      "clave": "sismo_vias_antioquia_80_municipios_agosto2026",
+      "resumen": "Dos vías afectadas deja el terremoto en Antioquia; inspeccionan tramos en 80 municipios",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1pVeXI2OFAxano5TEkybjRJSnJyQWdOS0g1c0xTSFFVZnUyZ3dFYVFWcnBCYVZfYVhyRm1KWTVMSmhCSEh0bjlSd1FqVVZiVml3WThaclNZRVRPdEhpTFBSSnJUcGJENFRqREF2V201TkNFcVM5OW9VeUVia0xfck4zZEJCeTl2bm0xQUkxSmpnTkxYQzdUZ2RCdjNmUGY0aEZiMHZTVWxuNVVKN2VFM2lUdnZVV0dnMy02bVdVMzM5TFNoejBvakhFREtLbmJV0gHeAUFVX3lxTE5qWEV2a0RSWWtmcERnbTlwanBXOEQ2YXR2cGdZWUlwdTJteUhsN2YyZ2hCWjhxWDctUGRBVF9oX0FqU3RTQlduYkRMSUhnaExTWmRuY2ZXRUhWVnRYcmRXaUZQZFBiZkplVE9wSVR2QjVTWXRyOGNwbVNsYklpMVhjLUg0SjhFeHBVNnJnN0ItN0NjOWMtWjlnRnEtNzVxV0ZNdGtHQ3A5eXFsMGh3OW9wVUJWbWhPcklCdnpRUnJBcGF5QThCbmYtWU9KbGhFTGFxUzRvRkoxNDBCRHJ5QQ?oc=5",
+      "ts": 1786555063.201764
     }
   ]
 }
