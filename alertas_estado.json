@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_peru_tres_temblores_agosto2026",
-      "resumen": "Perú registra tres temblores en menos de una hora el 11 de agosto de 2026, generando alarma en el país vecino",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnYyb2Z3RmRrdVp6b1lZVnk3MUk5R2k3V3Byc2RVOTA4SVRxMUE2YXBwMFdUeXlya040Ui02dVpGM3p6UVZJclVnTFEwYmZic2wwQ25DdjllTXFOdE10Y1B1VDI1WHFISVB0TGFjU1Biak1ibjJGVEFSRFRKWnFlNTlxdEExdmVGOXVINldJQ2hlN1o3VzZiUXFITXBOVzRuR1RCRHFXaGMtOUZFM2pTM2dJQ1o2bWVrTzZLckhmRkR4MDNzWEHSAdMBQVVfeXFMT09DT0k2bWE2amVfSXFYcEs3UVZkRHlLb0RnbnFKa2ZrajRIQmVnR1pXU1RqWVljMnZWaHVlbTBiUWJqd2RkVU45dEk5ZVBiSFZlcnBmbVVXUFZZdkQweV9tSlhfemJhWVFMczg2OHNxVUpBQjRocU1pc0M5TWtncG9DY0JYMzhMUzNMZUlIenVFQ0hQZ0Fkdkp0X2hoNVMwVGozTjhnNWZVZ1E2bDVJQjZYRjJuSUF3dzVTVkRzNlJfZWhfOFBqaGVSWlV0dGNrZ0FxTQ?oc=5",
-      "ts": 1786462622.8426876
-    },
-    {
-      "clave": "sismo_empresa_negligencia_evacuacion_agosto2026",
-      "resumen": "Empresa no permitió evacuación de empleados tras terremoto en Colombia; señalan responsabilidad legal",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2xsc1N2a0FhYkVQd1E0dWtvZEVtc1g2TnJLVF85RHdseUpYMFMyUHhjZnoxaXlsemhnWVV2NnJKMlY3ZjFadVFnSW5Eekd0eTBLMUZJc1pldWZ6dzV0YnBZMHJFMXhUTXR5Snh1UnVmNTl0OWtqWWNjV2pJc1NlR0c2STFSNHBSNkpxSmNyZjNIMWcyS3N5MUMwR2HSAaIBQVVfeXFMTzJtWkM3T3RzYVRjd3N0cHB0VkdfQV9tOXljRDM4cUw1ZDNfRjVaWmJVekVZLXFUZ2x4anptcnJkNGxyU1V0OGlFdkdGR2FBLVpyZWhfYUhMLS0wR01DY0thM3pEMWhIeXJPdm1wSjNQUXJRUGRqZTJ1eEhON003MmItZEgwWF9NLUxkc1FZeGU3SlVBSlE0elVxdGpTYXNNeUlB?oc=5",
-      "ts": 1786462623.4055648
-    },
-    {
       "clave": "sismo_medicina_legal_160_cuerpos_agosto2026",
       "resumen": "Medicina Legal ha recibido 160 cuerpos de las víctimas tras el terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/medicina-legal-ha-recibido-160-cuerpos-de-las-victimas-tras-el-terremoto-4455726",
