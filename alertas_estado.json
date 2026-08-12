@@ -1,72 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_telecomunicaciones_agosto2026",
-      "resumen": "Terremoto deja fuera de servicio 3.403 estaciones de telefonía móvil en siete departamentos de Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-que-sacudio-a-colombia-golpea-la-senal-movil-3-403-estaciones-quedan-fuera-de-servicio-en-siete-departamentos-3577513",
-      "ts": 1786453309.6043978
-    },
-    {
-      "clave": "sismo_pereira_energia_agosto2026",
-      "resumen": "Pereira recuperó 75% de la energía tras terremoto de magnitud 7,4; varios sectores permanecen sin servicio por medidas de seguridad",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-recupero-el-75-de-la-energia-tras-el-terremoto-de-magnitud-7-4-que-sacudio-a-colombia-varios-sectores-sin-servicio-por-seguridad-3577504",
-      "ts": 1786453310.17875
-    },
-    {
-      "clave": "incendio_santa_fe_antioquia_agosto2026",
-      "resumen": "Incendio forestal en Santa Fe de Antioquia amenaza viviendas en sector de Cativo",
-      "url": "https://www.eltiempo.com/colombia/medellin/video-alarma-en-santa-fe-de-antioquia-por-voraz-incendio-que-amenaza-viviendas-en-cativo-3577521",
-      "ts": 1786453310.7569103
-    },
-    {
-      "clave": "sismo_roldanillo_agosto2026",
-      "resumen": "Roldanillo reporta dos muertos y mil edificaciones afectadas por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3R5NkhHVy1nNVo3MlhqdjdkN3gwNjctaTZmZWY2eG5SQ2pxZUVoQWZUck9VR1dhQU8weEtFMnFwYnRfTThGdk1hN1dmeWlrT2hxWTFBTWR1T2Y5bVZwd0VBN1IzQjhlMDd5blhoLV84LVZjZlB4R2ExUFktME9LY1Bia0xfbXFfdS1GZ1BvcUlCekFJ0gGoAUFVX3lxTE5ZM0c3eTBQazhBN080S0lJQWhEUjdJd3NnTDNYQUlzMVFFUW9kalRTZkwxdW9DbTZib3YtOWpTcE5nSWJZYU1OMnNzekFFQmM2LVVmZktjX2tDZnhRZjdPR1RVM0JSbmQ5LWpWWTRoWEFwSzlLUFJjZGtRelcxbkxUUTZlUFZVdWdrVklHakhsWXFVVzFyelZDRUNZMzM0cnpLVVVraEg0eA?oc=5",
-      "ts": 1786453311.3264866
-    },
-    {
-      "clave": "uts_universitaria_agosto2026",
-      "resumen": "UTS obtiene reconocimiento como institución universitaria",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkN4bHlpSkhHaUN4eTUtZU5GWXRCTUNiTGR4WXdLVGJaNkl6U0ZWejdMM050VjhpMWpJbl9rTmJxdUhXdm1lTTV0d00zSS1rTm5lWFVzNDJNczhJTHpyVVpKb2VVc1Q4MmNJeWEwcEJ5UUNyWjd1ck9BMGN5Yko2bUR0aEFSYUxDRnlaX2M1cGpVLXdwYnFJ0gGrAUFVX3lxTE9lenNLZHFidUl0aXBwWWJWSU5EbVpNLWZYd2htVnZISWR3SHJWaFVnbGlpUDEtVFQ0ZTVhS01lX0U5NE1wZGFZTlNrOXd2Z3NvS05FOW1CdWNQVjlQUk9ydlJjdFlOSmhRaVluYXExRTdnSFp6TEZyS1BkMEFoZGxPTFB2LXg2MkEzMEVUM2dBa0NaWmFWb3FGbDRrQVpHdWFyaTlkRW9XWnZXNA?oc=5",
-      "ts": 1786453311.9372501
-    },
-    {
-      "clave": "sismo_antioquia_sedes_educativas_agosto2026",
-      "resumen": "250 sedes educativas en Antioquia tienen afectaciones en infraestructura por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVkxMURuTEc5SlZid0swN2tNcHRvNnh5U3M2eXZhaEVmeG5IQ3dPdzlxbm1nQ3RtVWUzaG5PNHFGazM5ZXlKaXdXMlotSE9iMzNxeWdpSlVKaWdyemVvRm4wbC1VWC1vU3VjU1hDLXVULTFhM2xCelBNTW9wTjFadXE3N1lSdWFMbHc5TTQwLVpiLTlBYXl1ZkpOdFNmZE5KZE9lYXBKbWtNVG9SY2t4ZnRuYk4teHFtMDFZTjdNc3NWczlYX1RBMk1SMWNtOHpkX1QxbHJB0gHjAUFVX3lxTE5xVFZSSTZRMU9fN2hsU0tkbC1QUFJIU3JfV3lyNjR6SjVWRUNEeWRuaFhKYmp2UDZJWkZfdzViT1g4SmZGV1RJRFZRcHdzR0dEUTNBRUY4bjRkMUZZaWx0dHJVcVNQVFpQM3JMel91YnVybHJYdnY3RU4wYk5taEVxLWttNWZLWGttUFV5MzJRWUpLeU1iR3hyeTYzcjkyVzBHMVd1UGp2YmF3Qlp4OEU3ZHhwWVdva1NRd1JCMjJmdDBkWU5qdU1vbUhHVGpXbjBiS2xUaDBCRlhUU1VTcXlHMG9N?oc=5",
-      "ts": 1786453312.5057204
-    },
-    {
-      "clave": "sismo_epm_hidroituango_normalidad_agosto2026",
-      "resumen": "EPM reporta normalidad en Hidroituango y sus 12 presas tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXU4S2dKT1NnSndIaXNzRWxxZE1lYVp6NFVoRm5SZWdkcGhpb3A0VVh4dkNzeXl0cWxTNkNFcjVBT3BNT0FUSVBac29CcjlLUF8wcHhMa2hDaDhXWi12WEs0QzFHVTVSTjlRck9QcXNfNGxGbVN4c0FsNU1OQXpWdHJyUHFZNXpURjZVZE1McTZUUUZMUzdyTE1lMmUxOV8wMk0zNHRZRUMtMFlKQ0UwR2xRZXJpbHBFREVOLTA0X3UzaW5qbDVKMmtYVnBnTlNUSGRj0gHgAUFVX3lxTE1WaXdPZi00MEVaUlFGVk1aUlhNYjctdzYyWDJ5TmtzRFNTN1F5a1A4R3FTNnQ5YVNsdzVCQ19vY3ZtSEoyeHZnb2htQWRFTkhsU1lZeHdfRHNFM0pvYWFRZ2lfUGxkWmdBWTBZeHZQRjBIM00tbzFiWXpmOG51UndBWHVXYlprUVhjZXh3OHRTLWZuV1JVTFltNnhLeWJmVElibkU2Y2ZKOExRNWR3dmxqTGtSVHpGRkZwbHJENnFGRGdWb3Q1VXdOTFN5MmVYM2kteGF1dDVfMkVJX1M4OEkt?oc=5",
-      "ts": 1786453313.0787394
-    },
-    {
-      "clave": "sismo_quibdo_hospital_agosto2026",
-      "resumen": "Hospital de Quibdó solicita medicamentos e insumos urgentes tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/hospital-de-quibdo-pide-medicamentos-e-insumos-urgentes-tras-terremoto-en-colombia-del-lunes-10-de-agosto-este-es-el-listado-de-elementos-solicitados-3577501",
-      "ts": 1786453932.2960532
-    },
-    {
-      "clave": "feria_cafe_tolima_aplazada_agosto2026",
-      "resumen": "Feria Internacional del Café en el Tolima se aplaza por impacto del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTm1oRzNmWC12NlR5NkdYZnQwdHJRUWVOYnVFQjJHekJvMzl1R01kQjlhLWNfX1VKbjZodVZUdlZTS3NvRGR3ZnhLUUE5TkhFdUwxMkhwUTd3OTVXSTF0NHdVWWRtSGNBbmlvRV9IaVAyZE9ZdWFDQ0VPT2JkNGVUQk05blo1VTBVaWEtX21xa0l4TTlNYW9GdUJUekUwd01sV0V3ZXRQd1hneTQwYlhQTzBFaC1BenlMYlJmZnE4VdIB0wFBVV95cUxPeWNJNlNMdElOM1ZubGlrVDllb1BmTmJkYXZhVnVHeHFxakN0ZVZBTTM4c2VKLVoxZ290d0lYb2ZHWnFTZ2tHRUpMcFlZQ3c2MWs4WFRSRjgybW1EY3cxQUcwQ1E0cG1aNWJ2QkhTZjlvTXl0bmtkTTEyYmZuTWlKQk55YXdSYU1xM29haXdFYzZ3U0FCYkdHaGtsQXJfT0lCanNTODVEemFJZW51UFJVWjJ0dmQ2RXVRYnZuVjZkRE11d2pKTlVqaTFldmZUblJGYm1v?oc=5",
-      "ts": 1786453932.8555975
-    },
-    {
-      "clave": "sismo_españoles_desaparecidos_agosto2026",
-      "resumen": "164 españoles reportados sin localizar tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk01eGRwVHhLOFlhemhuMXZBWHYtMHo3Zm80azMwekN5Z1kweEdINlRXU1ktYWlDVzU0cWVBUW5qbHdJTVo1dUpPY0hBM2ZsU1FoQjNraEZ2RHpwdEZJSW9jOGVpeVpaRk1vQUpPUnp4ODkteERqVHJXb1JvRDJJMHphOUpDWVRfdTBlSzZpOVU3T2xSYU1JLUdDanR5cUw2clFr0gGwAUFVX3lxTE4xci1Ka3RUNUh3UGxsVWZRYlpUZl9TYUJFWWZxU0ROalBYaTIzUGp3ZkNQQlNjWW9nNWZhaElDMktPLU9uQm51Vnd1M0toZ2lOQ2wwbmpYbE5wQ3p0RUJuMXVoek1IWWc1TDNmbU9pcjJRNDdvX0V2bXBEeFpUN2w4cTU5UE9LQ29iX3NXellUSXJZdnZxY1RjU0tqTnc5QVRGcG1jc1Q0QTM5OWhVeVpX?oc=5",
-      "ts": 1786453933.441109
-    },
-    {
-      "clave": "dolar_inflacion_agosto2026",
-      "resumen": "Dólar abre al alza tras conocerse desaceleración de la inflación en Colombia",
-      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-11-de-agosto-4455543",
-      "ts": 1786453934.0119777
-    },
-    {
       "clave": "sismo_balance_general_agosto2026",
       "resumen": "Balance actualizado del terremoto en Colombia: 181 fallecidos reportados",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmR1cV9hNGY2WW5Nc0otRDFIblR2SW1ZU09BaC1aVi0tM0swMVY0YUZXSEI5REZnWFNXMzNlaF9WWE9oWGdHbENvNk11dUM1RzVNQnFXZDBGUGZCMFpIbUxsQzVXOU1kZmxwN3Y4SmVzVlhXcnBhWFFKdm9OVVNsaTFrelBCMV9yNmRFZmw3TWRXUHRjdk5MM2JHMktlbE5t?oc=5",
@@ -653,6 +587,48 @@
       "resumen": "Aeropuertos colombianos vuelven a operar tras el terremoto con algunas restricciones",
       "url": "https://www.minuto30.com/aeronautica-civil-estado-aeropuertos/1715893/",
       "ts": 1786481185.4995542
+    },
+    {
+      "clave": "sismo_balance_general_188_muertos_agosto2026",
+      "resumen": "Cifra de muertos por terremoto sube a 188 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWlPR2RyUnJmXzZTNTl5cEo3NzRRMlJXOWZWb08xNUdXZlptOE9NSmVWVTl2bHcxWUUyQTA1TUxoRWlXZjJodmRtM1VYRmVBQ1U1ZWN3UVdodEIyczI2X3d6Z0JsLWR0Nnczc2FvM3lCbjVSSTRqX0J1WFplSkhDY1M4SkdOSDFTejAzMzhlT2RsVDZTMzZFekgwYWF1bFhReFpJ0gG3AUFVX3lxTE1RaTNrYV9iUmxMdmwxVGVqaWI1amV5ZjJSNWI3blNTNkp5WVZoeUl6cEFPZUhpbkhXSjA4bF9PQXc5N0hFa2JFSnNwckdHTnVDTXN4WEFpQS1TdVVCb2NjZThFM0dBWkVOQnFJRURLZGZSMlNtWjNlWVZVdk9VakdablJmX2FkTEE3MThvMngwbHplT2xuc1R1NzBYMUN5R2drVnhCTHdUVjlxWnp3eUhXQkZENFF4bw?oc=5",
+      "ts": 1786497581.3860965
+    },
+    {
+      "clave": "sismo_cauca_alerta_roja_agosto2026",
+      "resumen": "Cauca mantiene alerta roja hospitalaria: 33 de 42 municipios reportan afectaciones por terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/el-cauca-mantiene-la-alerta-roja-hospitalaria-tras-el-terremoto-de-7-4-33-de-42-municipios-reportan-afectaciones-3577749",
+      "ts": 1786497581.9140654
+    },
+    {
+      "clave": "sismo_cooperacion_internacional_1300_millones_agosto2026",
+      "resumen": "Organismos multilaterales ofrecen US$1.300 millones en cooperación a Colombia tras terremoto",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUnVCdXpfU3BQU1VhOTY0LUEzQ1pEQjRSb2FXdjhQb0pVODR4d2hHaUxEaEpCZEd5MXloNnN1Qlg5Wl9FUWhCcUJTTV9fZkFqQW1RSk05TXBLeEZEd2ZvVy1VaDc1dEtGcGlKc2ZmZER0cUczYnh0WE9sU0tvUmhTVWhNU3Fla1NMT2hUYWVucUJuaGZ5SmNuM21UdWFEYW1mYUFwY0pzcWxtVWw0ZVHSAa4BQVVfeXFMT2NibVkxUUFyMWFCRHZDMTVUbHZsT3FaSFFXaFFsMnFOX2J4aUw0aEQ4RTRBbWlIYnpncjBJdjBPd09BaC1NNWpvc3BaVl83VVcyM2M2NWpzalpabWdlR093OGl6YkJGb0I5VjVzVTc1Rlc1MkJzTWszc0NtNW5tWENDZ1RIeVRmQkpFMG5Tb3Y1aEVGV3NpWEl1WW01ZGk5bHA3dmRiRUYtQ052N2FR?oc=5",
+      "ts": 1786497582.4457161
+    },
+    {
+      "clave": "sismo_educacion_virtual_quindio_agosto2026",
+      "resumen": "Gobierno anuncia educación virtual en zonas de Quindío afectadas por terremoto",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0dxN0QzMHlaNGNtbndpN1FUdE1ZTTJlQUhxZXFNRVZwQnFPMlJldnBtbVZHVTByc2RsUUhFQjhjX0ctME9QZnZzUGlRWG5sNEl3RXU0SHNQcVoyNGVqLW16S29JdTg3STRMSFZCNVo5V0tZVHlDWHFPUWppOWdDb244d2M1dFBRQjFJbm9rRGoyR3hVQzgwTWRxRk5ER19SWFFJbVpBZDYwMXp6Si1IN2tUSkctc0ZFYkwzVnZGRdIBzAFBVV95cUxQX1NmYjh4TDN5VHlCcHRsYWp3TjJMdEdtTXRNTDg0dW83MUs2NGJFczFNRjdEOEI5UUtyaWlPR3BNb0hETWM0c24xYktCZGpUclJTQjE2Mi1VUmJqZmFpeWJOeU9TWDNWNnpBeWUwRC1HaFlycXNlM241MzB4dFA3YlJLTDVvT0FwX3h3eGM4aEhHUm5NSHJXVU9uNnJ3c3B2V3d0VER3R0FRM1lpWnFuc1pzRHNNVC1OUkRkOFFlSU9jS0p0UUw2QTVIWVA?oc=5",
+      "ts": 1786497582.986824
+    },
+    {
+      "clave": "sismo_metro_bogota_inspecciones_agosto2026",
+      "resumen": "Metro de Bogotá no presenta afectaciones tras inspecciones realizadas por terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWEVrTEV5UkZMSnUwX21UZHNJRlYySGxZNm5zX0JUMUN3S2s1Nk1IakI5SHJ5RHhVZlp2YXl0TTJKYjNHd081SVNqTW9VTlRSekpGd2FSVl9fNk9jbUtzeGVPMlRUdzhrQ2t4RzVGWk4tYTFjQ0RLcXJ3SjhuN05BZ092OEY0emN5WXpjdW1JUHVuY0ZKQ1FadGVRWEpJQzdzVmxzNC1yaWZPSXlVdVNPN3A3NU5HMERsdi1HeDVLR0dreU5vdXV5YmxMMFU4azlsTkE2Zk13WVRuYkk2RXpEdEx6VnowYVdNYk56Wg?oc=5",
+      "ts": 1786497583.5195107
+    },
+    {
+      "clave": "fpc_regreso_fecha_agosto2026",
+      "resumen": "Dimayor confirma fecha para regreso del Fútbol Profesional Colombiano tras terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1h5Sy0zSjRXY2hEUTFycXNRUWhycmdidmdaTGJJa2pXdWpZeUI4WkNCYUZRUzU4OUh4TktPamR0TzZ6b1lsbGZUTjJyLWs3bWF4WVg3RlVoNU1hM3cwdEt4SFhvbVdQb2JQTGVJd2VPRnhoTXlkelVuLWtrakllYS1Yd3RqY3lWenN6YndkUWhyemFtd25paDdZak5oUEd5WWlJV1VhNzZ1WkxLbzlfU3lvVXpRMFBiYUI2QkpGYXp6aDVrelFXQ2w2bVB4YUhwNEhBcEJjcEFRNlHSAeABQVVfeXFMTW5iUkI0elVYeWRxdjNLSmtjWW5hUTlZX2RETWxfQUhGVDRMUm9sMTVUak1EMmxxQUFKVktqMWJDNjFhenVyV2NvSmpCdXRHTVdvTXMzVFpXMkNuTDhzS195Z1RfdHlCMVl3WmU1anByS04tN0IzZWJwb2JNU2FEcmNxM216cWs3Smg2TXcwTVRCcFFJSy1yOWxydEJZeEJLNnU1dk5xRTNOVEJNcDJRdGt5SkdrRXQwSF9Pel93RGZxbzItZjBCMkVHdkpaeTNGMFdCbVVWdWdTZVpjdGgyQy0?oc=5",
+      "ts": 1786497584.1461074
+    },
+    {
+      "clave": "sismo_xi_jinping_condolencias_agosto2026",
+      "resumen": "Xi Jinping envía mensaje de solidaridad a Colombia tras terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1hrV0ZJb1BocG91Q0t4Q2dVUEhkbkpVeDBRR1Aydy04LTRSbEtaTFJVWUo3N2E2cnNFdzFzeXZzSGoybzI2RHlZX1NTOUhScFcxUkxZRlY1Z3A2dk05TkUzemJPeXFPLUk1OURqaTk0SFRyd3M2bENqdmZROVBkenZ4QVhWSnZGZ0syYWZhSWN6NW90RHk1OXRSengxMjg4bVI0Yk9LWmtVSkxWekFDaHV6a2w1LVlhZF9HWjc1ODh5ZTRzaEhCM2Q0WnhtTzFSRTdTQzJKMXhKNkhfTnpz0gHkAUFVX3lxTE1QZDBqdVJBNENRWm43Q0ZFdGRLTE84eGhYa1JkQmxqcHdGeDJaNUEzU1JWZFNKNHZNSVctOWpUZC1uMFhaMmtIVEF1Q2cwUlZnLVVoQjdsYUwxVUlDVVJ3dlJlQzFIN3hsUUVyX25JaVJCdmVQcWFCOVRzNTBhOUUzUllvTHI1bDEtUF85NUVRc3U3cmphS1RHYzBXLU96V2JBeHJtMVhiSEtUMktmNEVQakk5RDdlWHhnclltU1NJdHNtX3NXZG1vdFdpNUlvdXJDdmtMclU5VF9nSFYtaFVEaENCOA?oc=5",
+      "ts": 1786497584.6913285
     }
   ]
 }
