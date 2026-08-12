@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_cancilleria_ayuda_internacional_agosto2026",
-      "resumen": "Cancillería activa canales internacionales para recibir ayuda humanitaria tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGpxaG5kU3F6MW5QdGpNY1FLUWplMHlIZTQzbUFxOFE2anBDZUFPU2F6SFlhRm9BdFo2Y0kySW5MdUliV0NwUm15X3dmT1NRNFZuN2N2LWdrcnVKN0UtVUtHNnJaQUtHZkRlMnpMVUVyZEdKWERtN3RRVWtYS284QVEzU1B5MVVza0w4MjFWY0RfZXlVeFR5cml6WUswak9ndFRQU3F2SEpER2dOQk5ucWVEWlNwTGxoWG5B0gHPAUFVX3lxTE5XR0hPVWFPbm56VWZpOTY2Nm85YVk5RnFRZHIzMlZZYnRpZ3BGWU5aZU16bU1MYmhXcUJ0MXBSSHBKX0RFcUdnbmNlWkp3TkdjNnA2S0R0UWdkazlGelAzTTlEenFBMnBuRGRPQU42TTNQeUJqR2llUEhYeFhic2hZal83c1pBcFZObldEWXZka3hmVFlhb1FyUFduT0t2WXdrT0pNbjR4NTU5ck05RktTWGgzd3NPSllRMDNEZWRyS1U1UXBYOXZPX2lZVHEwSQ?oc=5",
-      "ts": 1786522799.738413
-    },
-    {
       "clave": "sismo_el_salvador_ayuda_agosto2026",
       "resumen": "Nayib Bukele, presidente de El Salvador, anuncia primer envío de ayuda humanitaria a Colombia tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-12-de-agosto-ultimas-noticias-presidente-de-la-espriella-celebro-rescate-de-daniela-largo-tras-36-horas-bajo-los-escombros-3577781",
@@ -371,6 +365,30 @@
       "resumen": "Incendio forestal en los límites de Medellín e Itagüí requiere operaciones de control",
       "url": "https://www.minuto30.com/alarma-en-el-sur-voraz-incendio-forestal-se-registra-en-limites-de-medellin-e-itagui/1715968/",
       "ts": 1786563690.602848
+    },
+    {
+      "clave": "sismo_familia_desaparecida_choco_agosto2026",
+      "resumen": "Familia de 4 personas desaparecida tras terremoto aparece sana y salva en el Chocó",
+      "url": "https://www.minuto30.com/milagro-en-el-choco-aparece-sana-y-salva-la-familia-de-4-personas-desaparecida-tras-sismo/1715980/",
+      "ts": 1786566158.8513737
+    },
+    {
+      "clave": "sismo_cali_20_horas_vitales_agosto2026",
+      "resumen": "Alcalde de Cali advierte que las próximas 20 horas son vitales para salvar vidas tras terremoto",
+      "url": "https://www.minuto30.com/cali-contra-el-reloj-alcalde-actualiza-cifras-y-advierte-que-las-proximas-20-horas-son-vitales-para-salvar-vidas/1715977/",
+      "ts": 1786566159.2991066
+    },
+    {
+      "clave": "sismo_gobierno_apoyos_internacionales_agosto2026",
+      "resumen": "Gobierno explica organización de apoyos internacionales tras terremoto de magnitud 7,4",
+      "url": "https://www.minuto30.com/colombia-ayuda-internacional-terremoto/1715989/",
+      "ts": 1786566159.7370746
+    },
+    {
+      "clave": "sismo_beneficios_tributarios_dian_agosto2026",
+      "resumen": "Dian ofrece beneficios tributarios por donaciones a afectados por terremoto en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFVkMVNVNWNWajFveDA0a0Y5U2JsVVNQUUEtcWtxYWlVQzcxbkpRMjhoUG9uLWdnZHIxYjM2LXNKUzhRb3poVEdGTGVuVXg2eGtvYmRTTUFEU2ljNURzYXVYbXQ1YmZaeGtCTlBJQ0IyUDVtSnpRUVFDcjIyM2hBMllGQQ?oc=5",
+      "ts": 1786566160.1660511
     }
   ]
 }
