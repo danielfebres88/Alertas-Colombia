@@ -1,54 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_barranquilla_ayuda_agosto2026",
-      "resumen": "Barranquilla envía socorristas y activa donación de sangre para llevar ayuda a zonas afectadas por terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/terremoto-en-colombia-barranquilla-envia-socorristas-y-activa-donacion-de-sangre-para-llevar-ayuda-a-las-zonas-afectadas-3577597",
-      "ts": 1786473772.927369
-    },
-    {
-      "clave": "sismo_buenaventura_diez_muertos_agosto2026",
-      "resumen": "Buenaventura reporta diez muertos y queda incomunicada tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/buenaventura-incomunicada-y-con-diez-muertos-balance-preliminar-de-las-afectaciones-en-el-puerto-del-pacifico-tras-terremoto-de-7-4-en-colombia-3577646",
-      "ts": 1786473773.4027483
-    },
-    {
-      "clave": "sismo_rescate_carlos_rebolledo_agosto2026",
-      "resumen": "Carlos Rebolledo rescatado con vida tras permanecer bajo escombros en Cali durante terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/rescatado-con-vida-carlos-rebolledo-sobrevivio-bajo-los-escombros-tras-el-terremoto-de-7-4-vivido-en-cali-3577642",
-      "ts": 1786473773.9045305
-    },
-    {
-      "clave": "sismo_spiwak_hospedaje_rescatistas_agosto2026",
-      "resumen": "Hoteles Spiwak Chipichape habilita instalaciones en Cali para hospedaje de rescatistas tras terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/hoteles-en-cali-para-rescatistas-que-atienden-afectados-por-el-terremoto-4455906",
-      "ts": 1786473774.366716
-    },
-    {
-      "clave": "sismo_replica_cali_3_8_agosto2026",
-      "resumen": "Nuevo sismo de magnitud 3,8 registrado en Cali tras terremoto principal de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWxNNVFuWkhZQlZONjk4dXdwa050bFR3YUtyemtQQkdfNC0zUEJOWTVFR1lIV095cFRqOTRoSHgzMlZRVkxjTFRlOEZNSkVha1J0Rk9VLTVMVHdPcnBDZm9hN1dvUmxZbW1kSlhzdWdKRk5TSVVRZWdWUUljOEVlSWtXd1Q4elhibnVxVXN6QdIBnAFBVV95cUxQTEl2ZFA1YUE5YjNoNDBENDdLQ0Yzd3JDWVcyTVVYWmI1cEFnM1Q4LXVscmRZUEJpVmY4RHVlNlV2Z28xc0pxdVZQcGlRbDd4S3dxdVRhY1Fua2ZLYV85UGxlc1pJMk5WOU1JUWdaVTR2MUVObGN2WW9mdzdMYVhvLUppLUJKX0dVSHNtLVpMN0RDem51TS1udG5iUkI?oc=5",
-      "ts": 1786473774.8705041
-    },
-    {
-      "clave": "sismo_familia_santo_domingo_respuesta_agosto2026",
-      "resumen": "Familia Santo Domingo y Valorem impulsan respuesta humanitaria por el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjViQ01nUldYWXBQZXh2NVdmSlVlNDNZY2dmSXhsal9WeDZhRU50Ti1vV2R4WUtBclI4bi1qQ2xXNTRNd1ZwbjRUNGhzaDN1MG5sRmdTN05RUVpBRllnUGUxSE5pQkVRQW9uQ0sxa25CNWMtUThYMktPd0dROXlwSnhKUE13NFhqOHUzdGRBYnhRUXlvdGp4V21VdzZCY1RMeDQxZmhlazJmSGxXcjJ2LXpUMVNnUVnSAcQBQVVfeXFMTnhSd3QxQUNscXRoYlFVYTlnZG1ud19XV1JRMm9sVThOeWxTS2k3QzRPQVhqUXI1ejhUTWFTQ2szNzZ6RGJVcnlfWGxycG9RT3k3akRLMFBPenZQenBWMmV2MGoxU3JKOVRTVFdrTUMzV3FWYkFXbUVkVHN3WTNlQ3VNOXBHLWsxb2FhS19PZ1YwT3VORS1qTGpJd3FxTHpUdjZMTjY2RDNzd2dKcHVteEN4cHVXdEpXaHF1TTl3LU0xSVk5cA?oc=5",
-      "ts": 1786473775.346141
-    },
-    {
-      "clave": "sismo_minhacienda_credito_450_millones_agosto2026",
-      "resumen": "MinHacienda anuncia emergencia económica y crédito de USD 450 millones para atender consecuencias del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNktmOEl3NVZ5ZXV6N0xMdjlDelFhYWs5cjBqNGg0UVZxS2JVOHBVek9VQ243YS10YmItNUJWTElwMV9vM1NzS2IzNGRsV3pRRjNrZU9pTWZxZ3J2cEVIVUhMdloxZ2lsc25FMGNsQVZ4V0dVUU5ZUjg1NnQ0Mi1udzlvbXgxVnpRTUo4c0I2N1NaakZkbFZQUE84Rmk0Q3lGZFVZbVd4ckxBSUE?oc=5",
-      "ts": 1786473775.8102136
-    },
-    {
-      "clave": "sismo_espriella_pereira_181_muertos_agosto2026",
-      "resumen": "Presidente Abelardo de la Espriella en Pereira actualiza cifra de 181 muertos y anuncia medidas para víctimas del terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPX0Z1SDBoVENkRkw3Y1h2MTl3bDZwQmw3NUFOSnFMZU01OVdLem9QV192b0JwNm05SHVPdkt3RHJ3UDB5bE54ODJsT0t6NXRIdHFMOWsycUtKYmVOWWRXSDU4cHhfOGp0RDM3N3ZneVE4cHdlZGV5WkktNVlpaXJMdWpPTzdhVDd0UXhySmdXTzRkZ2lRYjFJY3F6c21XNnF5WWVCMmJ5WVF1aEZxQi05SlhxSk9JYS1GRjhmaERGMk1meExaaHFveDRVMUdQMVM0dXhiWnRaZGNzTU83c01KOWV0cF91eW1OXy1sLWJ0YnROS0sxM0JHMFc0bl9tTlhleTFOM24wTTNlY2hHaThaSEVEamw2c3AwakxXSjRn0gG4AkFVX3lxTE0wVnR3dDFZcVV0VGpwOFgzeGRIQmpCX3c0VEpiWVUwWnNpdXBEQlU0aTd4dVJEZmd0MFFnVUJ2NU5vc1E5U3R1X01Ga2pWRkNNSXlDNzItU1VXYm5YU2hjZ3N2NzhZRWFXcFRfcHFJYTNfVXRCOWNNdTJTV1hBNG1xODIyV1QtVjJQZjM5RTdkVm5JVUFaQkw0WnFsWFlSYjE5WGxDNUotY2d0QWtqQmtIQW1JNkVYd0hDSVcwb0hOWEc3WHR4RWN5cWgzR3BvM19jOFNINmZJZThEY2F5QUlEY1pRaUNwVHBoN0ppdVlqODk0a2RmQ1A3M3A0emdkbFlJSURpVkp5ZXFYWldjOVZpenZfNTF4OGRaUG1oZV9uS3h6VjExRmZUNy1Sd2h1V2hrb3JDTWtYbQ?oc=5",
-      "ts": 1786473776.2871351
-    },
-    {
       "clave": "sismo_replicas_total_agosto2026",
       "resumen": "Servicio Geológico revela el número total de réplicas registradas en Colombia tras terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNX3Q4YVc1Uk82alJ4X1k3RHRmQThHUWxCcWxHeTJEV1IzVmwxeWkxekVKaV9wc1dvZWdPT0ZZX0JiNzVNa1FNVkJMSDk0aHZEZVhLaWJ6VHczdHRuOFRUQWxpUnRhdFpvYmVFSUllRFh2dGoyZGp3elRQZzRIb09WTXB1SGQ5SzMzOFg0Y24yQWFMQ1IyU1o0X0VuUV9jeWJQMFFOOXM3clczMXFOaFRvSVo1dnkwWkM0SG5ILXUyVU9MVmZOekRZZjEzMDdsVGlmd1JvbE9GX1MycXF6VFBmd3YzVm9yN0o4NUxiMmR3eXJFSVFtRFhVYjBLZVdMY01TX0pDME1n0gGLAkFVX3lxTFA2WlNPS3MyUmtJLWpWUm9kU0xRenlQUXRlXy1zTUlHUlVGRXE1LUNhSF9HQkxPSUgtaGZ0Z1VodXh3ZUhCeV9ON0FKWlNaZ1NJeW5rQWlrZFhYSDIyc2lfcl9GLUdqSXZXa01SNUg0NEFzUTJ2bWlXa1ItVU9XWVc3S0c5Mnl2SERmMmpRQTdMMjdveFRxeGZnYWdmdjd6X19OWGR5WlFTQzJMdEp6LWtnUTAyTUEzc29lR3J0RWhReG1uOHVrZW44cGZyeWI0TTd0bzhYX21IUjUtVjgtbTFJRldhWDVKQV9nd201eWZ3X3ctWDZwRnhCWkxOLXlQU3hjWXQ2TVJuQ2d3aw?oc=5",
