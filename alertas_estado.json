@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_claro_conectividad_agosto2026",
-      "resumen": "Claro activa paquete gratuito de conectividad para usuarios prepago afectados por el terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/claro-activo-paquete-gratuito-de-conectividad-para-usuarios-prepago-afectados-por-el-terremoto-4455744",
-      "ts": 1786464478.6667995
-    },
-    {
-      "clave": "sismo_adres_pagos_agosto2026",
-      "resumen": "ADRES habilita pagos para víctimas del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.kienyke.com/colombia/adres-habilita-pagos-para-victimas-del-terremoto",
-      "ts": 1786464479.2279892
-    },
-    {
-      "clave": "sismo_replica_san_jose_palmar_agosto2026",
-      "resumen": "Nuevo sismo de magnitud 3,8 en San José del Palmar, epicentro del terremoto que sacudió a Colombia",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDRsaWFLV2pCaVdIR1FEazFzRlU5RWFRT1haTDZkenVvR2dBZTJBd3RWZzR0MnFXQ2YwVlVwWTZtY2xYS2N1aHV5cHEzWmo2RmlFUFQ4bmU4MUxIc1Rua1pQNHdudDI5a3Rfd1VtNW43blZ0RENkUGNKSjFnV3NYaWpmZkpKSmpmR2dvdlZ0Q0Nrb2hkRVpqWm5qUktRRC1rOWNRSThjbi1HcVR0aDVLQVV6RjBodDI0TFVGU0JLMU40ZTZFTUhRZlR0RmMySXM?oc=5",
-      "ts": 1786464479.8335524
-    },
-    {
       "clave": "sismo_valle_cauca_balance_agosto2026",
       "resumen": "Valle del Cauca reporta 38 fallecidos, 700 heridos y severos daños en infraestructura tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/cali/emergencia-en-el-valle-del-cauca-38-fallecidos-700-heridos-y-severos-danos-en-infraestructura-tras-sismo-de-magnitud-7-3577586",
