@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_venezuela_muertos_agosto2026",
-      "resumen": "Doble terremoto en Venezuela deja 6.300 muertos con impacto en frontera colombiana",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalFiQ0JjYTZ1LS1ETTN5OUJPcXpEYVRHZThmX05yRmdaOXB3MnltT25qcFVLUF9JcVJQYllaQzdjWXcyZHpBcG82eVRUbU5TTHR0RVBrV3NKbmN4WDhsRmJWaFUyb0ZMczM4Mmxrc0kwelVVWjlTWUI1b3h6YWYweXdUN1g3Z3MwUFE1YUpwZmpLRHVEOEs4ck01UndmcFnSAawBQVVfeXFMTmxvb0FSa3VIb2piMG5nQkh4ajlxaWJyaUtMZWxZLS1qTVZpOUVOVi11am45d1I3dGprLWVOcjNzTm9EN3ZpbC1KS1FBaWFySmhzWkZNUTUtVjd4c25nS0FTa3pLa1EwaWNuOVJGajN5NWJPcDJiaUswc3ktdWRVWnpVWXJoV2dxRkp0Vl9uSF9zTUNvREtZN0ZhTjNHVmFKb25nR01lU1N0RDlLVw?oc=5",
-      "ts": 1786459507.3610857
-    },
-    {
-      "clave": "sismo_bogota_verificacion_agosto2026",
-      "resumen": "Bogotá verifica más de 4.800 viviendas y oficinas tras terremoto sin reportar daños graves",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVkpwTFowRnlwRFNLeVZZVVNnUTRydmVSX0EwMXRhRFNsU0xVelhsQkd0VFV2T0JTWDBFbmZLb05QLTFITGtuczdmUUoycHMyV0xBZVdvUlVkNHpDSmlPZ0V3SVh3NUVVazJhemtlWW9kZnpWa0lSeVFUdFdhNFhmLWRoakRZOU1DWGF1YnA0bDFGVzVRVXJrTVF5eEJHRnBaYWh5QW03RHZJaW9laXlleFk4c3lrXzVSdHRsX2RzQ2o2VjNVdVNRSGJxTndCNFRnWXVGbDFZcGRBbWNLMFpxWFppUkxjaWRPa1FwbFdHcXNWX3ZaOWd6STljZHRqX3QxdTZZ0gGDAkFVX3lxTE9mb2VXRE5IeElrT3hXNU9vR3BDOEFzZWJPZUtHSE9BazNRdk5kWE5ycnNQc1o4X3BSOG5TZ2w0QXE3V3ZLYVU4U0U5UTh5a0N5emlGSHBSRGd2SDE2cEw1VGUtV184ZS05Y0l2MG9veVlseXpuOTFjT3lpWW9ucHBnUS1uX1VMdkNlTjBaX1NoMWNHTFlGWDJORTZySDdWdkdqVXVsNW1FZG1kNTRaS1NMbDVudE9ySUN3SkNxejF0UEFCWWRmZTJuQXpZWnlwQ3ZFREJCUExoSW43MjRfRkdJWFdMajhucV9KeG9OckltdU9qMXFxd2U1V2R5T25DeDR4eTQ?oc=5",
-      "ts": 1786459507.925359
-    },
-    {
       "clave": "fiduprevisora_cancelacion_agosto2026",
       "resumen": "Fiduprevisora cancelará anticipadamente proceso por $33.127 millones tras alerta de la Procuraduría",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1k4MjJzR2k0Y1ZLenlfMVF3VjBXMk0wTlgyUmdmM3FEOTZCWWphREtfNmN6RUpXTWhNX0ZLNUhtTU0tNmtCUVlfUWZ5LVFrMDRic3VsZDhpZTNHSTRSd0ZKLXZXOHp6UmtUNnlCWnN3aTVzVFJXeklaTGJ6UVlRLU9HaTU0TGRfWkVTU1o2WUZfTUd5YmNvRTYySm9QbDJjTUFLSUJLbm12bFJIc2h4QlZ4NW1PY28tLWs0ZU80ZU5QbGtmTl9hNFdWc3UwRFh60gHeAUFVX3lxTE9UMTZSWDhDNkNTMjEwZlNYSDRHcE45Yk5JaUVGTVRUSVFOTGtPS0xRUlYyUUJGVHA3QkFQdW1qRmtlMjJoazViaVdWTkphcHVNLUhBeGdJSzNCLUFydW5kU0NFekQ5a2dxSU9GcnhFYUNBeVlnR29yT2RONWhSb0w3cE9UYVhHSE1GVkNTaHVjLXBvVXhpWlJqYVl0eUF5QUlBWElEQ3NqSWdxMFI3OVNUQlNZSm9UcG1GVXZobWZYOWtDOG9zdk8yZjhxUjUxcUhQdkNlUjRKUWVfS0ZyZw?oc=5",
@@ -605,6 +593,12 @@
       "resumen": "Perú envía avión con 12,5 toneladas de ayuda humanitaria para afectados por el terremoto en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEhNMHpXSWlhWjQyUFBlWjF0MUVBZDhlRlRVV3pSWjgxU1VoeWg4VXpYYUxUSnZnMlJhUUFTT0RNdDhFX1BQelQ0d2gyUUlST091VjBZTFZFb2syd1MwNVN4dUQySWZNSWJJWV8xdnE5dWtid1ZWVDVqR1JIcHVkdG9scV9aSk1reDV6eDJOdm5Ha0NPUHdDSVgxc25LUG0xYkYtRm9zeEE5Y3g4SkFhcTlVNFRXRDh1RGFfUm5sTWFEZjjSAdABQVVfeXFMTkJKUDREc01Nb1IwWXkwdS1yQV8tLUktaEtrSkx0M0hpUTZQYm5JTFF2S19ELUlWMXYyaHRFSFktNnVHbExDYVpBVGJubmpLNUVUR0xBS2JLTkM1bVNNZXVxRUpBTEJtWHI5ODVfSjhaZGVZZTBseXpMNW1odFNFbEZBODNFQnFoRHJURG9tZUZMQkc3bVlqMEhWR0Y4SExqcV93emNBeWRSWS1SYkNUd1FIQVd0a2VuT3JuQlpJNnk2b216bUNfX1o1ZEtrOUtpag?oc=5",
       "ts": 1786502528.4502425
+    },
+    {
+      "clave": "laverde_contralor_electo_agosto2026",
+      "resumen": "Jorge Laverde será designado nuevo contralor general de Colombia con respaldo de partidos mayoritarios",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTmxXaktiUmg4UXZLM0k0SEtucEJvMFZqYkJEV0V3NFBObW9Zd2pIT3h5RlBPbEpKVzg0UDhOMm9fV2JMZFdSb0NiLUtiU0VkdXRCUXk1ZHoyUTlnWWZPVWxmNnhpOE9sUXhUV1ZFMlFDdWprbk1tVGFFSTVtU2hfSVNWVGVaSlZfUnRCQzE1SGQ1NldaM1Bld082OU5aNHZIZi1wUGpPdy1CU3RwZG1qWkV6cThQb2lKNGFwbVVGSlNfbUMzY0dzZVZaZTByTVI2LXRIbGowVEwybTljT0RieDdUZTF4azRPUlp3c2RZcTEtRzZ4WS1mbkU4RXhGeEo3WnNWbHZSOG40ZU3SAZACQVVfeXFMT0tjNWFGal9sN0ZOSkRJcy0xSXFXQV9PYTRYcWhkc1dLS3owa1hoM3F5ZU02UXhGQy1YUFlIcnFkZXd3c0RyaFpmQ3N6Qlo4NGlhWTQ4ODZWUF82R1ZRZUc5YkRLc0FTRk5EUXVqYkF6MG8yTnc0OFhQejFqRlBKRS11d09rSDBram1rclpFbXRVSDhtTG40WDlZZXRJVUhnclJ5ZGZmVjFSMUR2NVpKTzVEa1QzZDhxaXZlVlFQdXkzY0s0Q0Y1ajNPZ1FNYnhic2R4VjJ1WU9GQWxub0lyTWFVWDZfY21vWVpnUXh1emFXWVJlQUttRjhHMk9hNnhFajZTc2xEZVM3UFI4bENyd24?oc=5",
+      "ts": 1786503146.762754
     }
   ]
 }
