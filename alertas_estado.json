@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "congreso_presupuesto_agosto2026",
-      "resumen": "Congreso devolvió proyecto de Presupuesto al Gobierno; deberá ajustarse antes del 30 de agosto",
-      "url": "https://www.larepublica.co/economia/congreso-devolvio-proyecto-de-presupuesto-al-gobierno-debera-ajustarse-antes-del-30-de-agosto-4456031",
-      "ts": 1786479322.7039838
-    },
-    {
-      "clave": "eleccion_contralor_agosto2026",
-      "resumen": "Elección del contralor se mantiene para este miércoles",
-      "url": "https://www.kienyke.com/politica/eleccion-del-contralor-se-mantiene-para-este-miercoles",
-      "ts": 1786479323.177297
-    },
-    {
       "clave": "sismo_aeropuertos_operacion_agosto2026",
       "resumen": "Aeropuertos colombianos vuelven a operar tras el terremoto con algunas restricciones",
       "url": "https://www.minuto30.com/aeronautica-civil-estado-aeropuertos/1715893/",
@@ -269,6 +257,12 @@
       "resumen": "Starlink ofrece conexión a internet gratuita en zonas de Colombia afectadas por terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-de-magnitud-7-4-en-colombia-starlink-empresa-de-elon-musk-ofrece-conexion-a-internet-gratuita-en-zonas-afectadas-del-pais-asi-funciona-3577777",
       "ts": 1786522187.8116434
+    },
+    {
+      "clave": "sismo_cancilleria_ayuda_internacional_agosto2026",
+      "resumen": "Cancillería activa canales internacionales para recibir ayuda humanitaria tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGpxaG5kU3F6MW5QdGpNY1FLUWplMHlIZTQzbUFxOFE2anBDZUFPU2F6SFlhRm9BdFo2Y0kySW5MdUliV0NwUm15X3dmT1NRNFZuN2N2LWdrcnVKN0UtVUtHNnJaQUtHZkRlMnpMVUVyZEdKWERtN3RRVWtYS284QVEzU1B5MVVza0w4MjFWY0RfZXlVeFR5cml6WUswak9ndFRQU3F2SEpER2dOQk5ucWVEWlNwTGxoWG5B0gHPAUFVX3lxTE5XR0hPVWFPbm56VWZpOTY2Nm85YVk5RnFRZHIzMlZZYnRpZ3BGWU5aZU16bU1MYmhXcUJ0MXBSSHBKX0RFcUdnbmNlWkp3TkdjNnA2S0R0UWdkazlGelAzTTlEenFBMnBuRGRPQU42TTNQeUJqR2llUEhYeFhic2hZal83c1pBcFZObldEWXZka3hmVFlhb1FyUFduT0t2WXdrT0pNbjR4NTU5ck05RktTWGgzd3NPSllRMDNEZWRyS1U1UXBYOXZPX2lZVHEwSQ?oc=5",
+      "ts": 1786522799.738413
     }
   ]
 }
