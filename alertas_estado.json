@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_medicina_legal_160_cuerpos_agosto2026",
-      "resumen": "Medicina Legal ha recibido 160 cuerpos de las víctimas tras el terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/medicina-legal-ha-recibido-160-cuerpos-de-las-victimas-tras-el-terremoto-4455726",
-      "ts": 1786463239.8833404
-    },
-    {
-      "clave": "sismo_polémica_política_asamblea_agosto2026",
-      "resumen": "Diputado del Pacto Histórico criticó a Andrés Julián por no asistir a la Asamblea y quedarse atendiendo el terremoto",
-      "url": "https://www.minuto30.com/diputado-del-pacto-historico-critico-a-andres-julian-por-no-ir-a-la-asamblea-y-quedarse-atendiendo-el-temblor/1715869/",
-      "ts": 1786463240.4513283
-    },
-    {
       "clave": "sismo_claro_conectividad_agosto2026",
       "resumen": "Claro activa paquete gratuito de conectividad para usuarios prepago afectados por el terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/claro-activo-paquete-gratuito-de-conectividad-para-usuarios-prepago-afectados-por-el-terremoto-4455744",
@@ -509,6 +497,12 @@
       "resumen": "Ascopitales lanza plataforma para reportar desaparecidos tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/ascopitales-lanza-plataforma-para-reportar-desaparecidos-tras-el-terremoto-de-magnitud-7-4-los-rostros-que-buscan-en-medio-de-la-tragedia-3577762",
       "ts": 1786505638.679161
+    },
+    {
+      "clave": "putin_solidaridad_terremoto_agosto2026",
+      "resumen": "Vladímir Putin envía carta a Abelardo De La Espriella tras el terremoto en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1R3MmZwRFZzSHZKN1I2elhCQzNyVldZaEpoZVA4WV9SM1FQOWM5di02Z1hnbUkwV1pmMy1Zajd3LVkwcHVNcXY2VlFkX3Q1b05MWU9rbTJjcW9JNW9qdjZ0YmN2T2hIQmg5bkFaN1hGRnJJRTU1WlhNWVQ5b19ZWmtGN19pLTg2ZmZpVWs3NThYcDJiN0xCMjUwTEZaZW1fY1lycjlNMVZuRG03bmVTT3FSaDFkWFVrXzA3SnBQX0JNZE9LdlpBTmcwSTEydDloanh1OGNnVdIB3AFBVV95cUxOT1otcng4Tk1IV3VGUi1PMzFtRTdkUENxdkJyWGVIZlJLRFF2VktSYjhOSGtjaFpsS3dvX0o4Z2hULVk4WDJUamh4ZjhvYkNLcUdkRzhOUU5SMmRsQV9qajVoYkxEYlBXQ1BIYjQ0Z1BUdGthbFJseFZsS3dxWWZDeFA1V2htdEwzS1A3ZFQ1VmNYUUFGZVpmWjNtQ3BRQUZVcHBjbVFkdDFLSHhqekctR1QwSWlzdmZER2tUUFUyd1VJQzZBWnZXdVZIOHNEeDZwbVMxNTZTQXVQOEM2?oc=5",
+      "ts": 1786506872.4735193
     }
   ]
 }
