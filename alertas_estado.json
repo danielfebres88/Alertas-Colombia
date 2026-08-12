@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_replicas_total_agosto2026",
-      "resumen": "Servicio Geológico revela el número total de réplicas registradas en Colombia tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNX3Q4YVc1Uk82alJ4X1k3RHRmQThHUWxCcWxHeTJEV1IzVmwxeWkxekVKaV9wc1dvZWdPT0ZZX0JiNzVNa1FNVkJMSDk0aHZEZVhLaWJ6VHczdHRuOFRUQWxpUnRhdFpvYmVFSUllRFh2dGoyZGp3elRQZzRIb09WTXB1SGQ5SzMzOFg0Y24yQWFMQ1IyU1o0X0VuUV9jeWJQMFFOOXM3clczMXFOaFRvSVo1dnkwWkM0SG5ILXUyVU9MVmZOekRZZjEzMDdsVGlmd1JvbE9GX1MycXF6VFBmd3YzVm9yN0o4NUxiMmR3eXJFSVFtRFhVYjBLZVdMY01TX0pDME1n0gGLAkFVX3lxTFA2WlNPS3MyUmtJLWpWUm9kU0xRenlQUXRlXy1zTUlHUlVGRXE1LUNhSF9HQkxPSUgtaGZ0Z1VodXh3ZUhCeV9ON0FKWlNaZ1NJeW5rQWlrZFhYSDIyc2lfcl9GLUdqSXZXa01SNUg0NEFzUTJ2bWlXa1ItVU9XWVc3S0c5Mnl2SERmMmpRQTdMMjdveFRxeGZnYWdmdjd6X19OWGR5WlFTQzJMdEp6LWtnUTAyTUEzc29lR3J0RWhReG1uOHVrZW44cGZyeWI0TTd0bzhYX21IUjUtVjgtbTFJRldhWDVKQV9nd201eWZ3X3ctWDZwRnhCWkxOLXlQU3hjWXQ2TVJuQ2d3aw?oc=5",
-      "ts": 1786475009.274605
-    },
-    {
       "clave": "sismo_bukele_ayuda_salvadora_agosto2026",
       "resumen": "El Salvador enviará 100 toneladas de ayuda humanitaria a Colombia tras el terremoto de magnitud 7,4",
       "url": "https://www.minuto30.com/toneladas-de-ayuda-humanitaria-a-colombia/1715885/",
