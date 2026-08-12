@@ -269,6 +269,42 @@
       "resumen": "Papa Francisco envía 100.000 euros en ayuda humanitaria a Colombia tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-12-de-agosto-ultimas-noticias-presidente-de-la-espriella-celebro-rescate-de-daniela-largo-tras-36-horas-bajo-los-escombros-3577781",
       "ts": 1786528989.182462
+    },
+    {
+      "clave": "sismo_replica_12_agosto_noche_2026",
+      "resumen": "Nueva réplica de magnitud 3,3 reportada durante la madrugada del 12 de agosto en zona del terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-de-magnitud-3-3-durante-la-madrugada-de-este-miercoles-12-de-agosto-tras-fuerte-terremoto-3577788",
+      "ts": 1786530831.6143444
+    },
+    {
+      "clave": "sismo_victimas_violeta_amparo_agosto2026",
+      "resumen": "Niña Violeta Guerrero y su abuela Amparo Jaramillo halladas sin vida en Cali tras el terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/familiares-de-nina-violeta-guerrero-y-su-abuela-amparo-jaramillo-confirman-que-fueron-halladas-sin-vida-en-cali-tras-el-terremoto-de-este-lunes-3577787",
+      "ts": 1786530832.052429
+    },
+    {
+      "clave": "sismo_colapso_pereira_agosto2026",
+      "resumen": "Piso 12 de edificio icónico en Pereira colapsó durante terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-terremoto-en-colombia-piso-12-de-iconico-edificio-en-pereira-colapso-y-aplasto-a-personas-impactantes-imagenes-de-danos-y-rescate-3577778",
+      "ts": 1786530832.496509
+    },
+    {
+      "clave": "sismo_bebe_salomon_desaparecida_agosto2026",
+      "resumen": "Bebé Salomón de dos meses rescatado entre escombros en Cali; su madre sigue desaparecida tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.eltiempo.com/colombia/cali/mama-de-salomon-bebe-de-dos-meses-rescatado-entre-los-escombros-en-cali-tras-el-terremoto-en-colombia-sigue-desaparecida-su-familia-clama-por-ayuda-3577783",
+      "ts": 1786530832.9331434
+    },
+    {
+      "clave": "sismo_pueblo_borrado_agosto2026",
+      "resumen": "Pueblo similar a Salento quedó casi borrado tras terremoto de magnitud 7,4: sin energía, internet e inundado de polvo",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQ2hCdm14dUx3ZTFCa2tTRW1XbEtmcnJSV2JvVUlaWWRrV3dqSXFfQjdwWURDNURTVkJZZDU0RU9iLTdkck1ZTjFkYzFwSTdCOTFsYWdvYW94RENybnFkZ19EZjFFTUpSQko5Yk0talJGVXVTRTk0LTlFZUN0cm91bWlRU19rTU1ORUZidUsyN2xCZXdTOVE0cXZSU1hPMDhPVm0zelI3VmF6Uk5EekY2d25aRmhYQkJyZ0lOQnVXalpRRHB1bWtLal8zclRmTXhWOThPV0gwSEkwRFFqV3I4Nmd0a3R1d3hnWjY1eFV1akZjdU1sRGZwNklWbXhtUXBZLWNqSWlhOVpBQUpxbm9EOTNIT0lJaURnS29qRnlxUHFpd9IBpwJBVV95cUxPNGh3ZThHdGw3M0VUS2pMNXUzblRFQS1ZM0xhX0tCUUk0VHhYcWhyRnh5SWNsM1B6MlNtT3hzNTJFX3JudEp0cjE4d3JjdkFxM3c0eVQ4bFV6empHcTgxbGVnMm8tWDk1M0tqa1B1b2FXUDNpU0RzS2FlM3BDSTlmNEcwRzNRUzYybVp6eG0zNzk0aXo4alVjdzExSFJvdkhqeWZFRTNuM25TejV1eWdKblRJY2VqT19WMXBXYVYzcnV6YmdRWnptY0trQkxLdXdJY01Xd1AzY3pSRE00YnB0dHB6d3ZqVktRdmZyRG1WVXdTS3BQZFhjQlZYOERZTWd3WktudFF6eFBxYnpnc2ItdTA2NHRmZTQwaVBVZHdONGNyM19ka2p3?oc=5",
+      "ts": 1786530833.3708715
+    },
+    {
+      "clave": "sismo_replicas_santander_agosto2026",
+      "resumen": "Cuatro sismos reportados en las últimas horas en Santander tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHJ3NmVPMDdxV1kzRTJFTF9tN0IxZVRTSGp4M2NzNzZ2cTFRc3l5cHN0Nm5PTzNYbXljTkV4bVl2QWhkWDgxOUNZY3gyZTBZclpjdElnd25TcUhyT1hYWWJFa3kyLWZid0tITDFZVGtBaHA5UDBxWU9qRVdYZEFGbzVOb2EzZWVFVFZYcGFVVjVfWDNhYkM1WkJGWDE4NXR3aWplMklRVkxUTEkycy1SNnNQbW1qQdIBwwFBVV95cUxOaFU0YTRhLXQ2VzB1TE1ibGxlV3did2RQd1BYb3RQSjZ0a2pVcUY2WVJhREJRWEthWnB1T25PNm5kdWhIVkdtaXZBLTlvekhJdlhidkdDZ2F6UmpoQm9udllyUGhnUkd2d1dmLXl5MUs1RnloQkVFc1ozaEV2cThYc0xNcmY0RHFxcHNRTnhTdVNjV0xJb0EtRldVa3lyUXhlYTNXQjVjMjBBN2NLZTA5WDg5aWNOblNZaEpFUUlJS2RaQ3M?oc=5",
+      "ts": 1786530833.801628
     }
   ]
 }
