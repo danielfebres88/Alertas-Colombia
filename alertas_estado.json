@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_neonatos_cali_agosto2026",
-      "resumen": "Enfermeras en Cali sacaron todos los bebés de neonatos y los atendieron tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/video-enfermeras-en-cali-sacaron-todos-los-bebes-de-neonatos-y-los-atendieron-tras-terremoto-3577587",
-      "ts": 1786466331.9422982
-    },
-    {
-      "clave": "unp_rodrigo_lara_agosto2026",
-      "resumen": "Rodrigo Lara designado como director encargado de la Unidad Nacional de Protección (UNP)",
-      "url": "https://www.kienyke.com/politica/rodrigo-lara-queda-encargado-de-la-direccion-de-la-unp",
-      "ts": 1786466332.5086126
-    },
-    {
       "clave": "sismo_wom_datos_agosto2026",
       "resumen": "WOM entregará 2 GB y minutos ilimitados a los afectados por el terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/wom-entregara-2-gb-y-minutos-ilimitados-a-los-afectados-por-el-terremoto-4455793",
@@ -467,6 +455,18 @@
       "resumen": "Blessd envía cerca de 30 toneladas de ayuda humanitaria para damnificados por terremoto",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkkxVkJpNjZJX04zV0k5QjFzalJ2MXEzUm1MUERQUnYyNVN0VXF5YWk0eXBCNndWelNKM3MxNHVBc19nVTlkZVpLUkVCa2pKVUxsUjZLWExPSkdtaHZsbEVZOFEyOXV0NVZhc3B2NEhmYzM2cXlzVDZpel9KbnFZQko3NXFYM1BpY2VDbDI3c3F6VDhmN19sT0dRQ3U2NUlyQ0pvSXlCOVpfY21ORFhxRV8wTHl1YjVCNC15eFc2VlpMOFRka0xua0JEYnFKZ9IB2wFBVV95cUxNVmhIMUEtb0tnenlYa2doRUN6c0hPRm82WS1lTWhBZldDRFBOT1YwNXh6b2Qtc3B6Z1oyR3ppRTE3OXJEVENIUXdSdmN4VDU5SkVYcEpQNHJzTUZEQ19FU0MtbnB6Vzd4bzgtR2tudXpvRDh6eDdvMmNUR180SlgxVkxTSHBod3lXNFJZYmRhVlhRM0RSUUtOUWRsUFhGRUFSYXRUX1ZUejBrajh3VVdpSHQxZ1RjcEx0QjhjaGtpVTljbHZOeGJnSWVHNlF1RlpLMGU4bWpzVWRGVTQ?oc=5",
       "ts": 1786508758.6319273
+    },
+    {
+      "clave": "sismo_replica_11_agosto_noche_2026",
+      "resumen": "Nueva réplica reportada en la noche del 11 de agosto en el epicentro del terremoto de magnitud 7,4; percibida en Cali y Medellín",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-en-epicentro-de-terremoto-de-7-4-la-noche-de-este-11-de-agosto-afirman-percibirlo-en-cali-y-medellin-3577780",
+      "ts": 1786509991.8291364
+    },
+    {
+      "clave": "sismo_vuelos_ayuda_internacional_agosto2026",
+      "resumen": "Primeros vuelos de ayuda internacional llegan a Colombia tras el terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei11OV9WaGcxX2lCRFcyY04wUGRKQTZrZS1QXzQtcGxuOFJqX0VvUjl0YWhsVmctTTY4NTlLV0VhWjN2RFJRdi1venlMN2ZYQkY2V0hCelllZ21wU2ZQYUFhUUlzV2o1c29zQmNEalV2Tzk0RWpJWlRQbzBuLWREcWVjalRlZ2c5TmdUOEc5Y3Y5VlpBblFyd2dlbTdZS25uY0dBWElNS2JjMEJIc2YzRmU5ONIBwAFBVV95cUxNdTduQUQtY053REM4Y2dYR05QMDhnaW44Rl83Y1VkSjVZM2JVSURLeE1kY0ttLV92dmpSNTgtLWJFQTdYS0JvQUdIemtlM013MHUzUDk4MjhURGxNSnBmTnRZdEdQU0hRZ1U3X3hqdXM1eFI3OFNiQkZtc1E2el85TE45VWpmTWlVSW9odGhoVUJOUXg3TmRpaUJpX2FrS3dLbnpCYkV1MXJKS3B0N1E3UEx5elJLczlwN3lobXFtYnQ?oc=5",
+      "ts": 1786509992.4177911
     }
   ]
 }
