@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "laverde_contralor_respaldo_creemos_agosto2026",
-      "resumen": "Partido Creemos respalda a Jorge Laverde para la Contraloría General",
-      "url": "https://www.minuto30.com/apoyo-oficial-creemos-jorge-laverde/1715923/",
-      "ts": 1786517892.5065024
-    },
-    {
       "clave": "sismo_union_europea_ayuda_agosto2026",
       "resumen": "Unión Europea destinará 2 millones de euros en ayuda a Colombia tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-12-de-agosto-ultimas-noticias-presidente-de-la-espriella-celebro-rescate-de-daniela-largo-tras-36-horas-bajo-los-escombros-3577781",
@@ -341,6 +335,18 @@
       "resumen": "Panamá deporta a dos colombianos requeridos por la justicia; uno sería cabecilla de 'La Inmaculada'",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2lBODZVUXo4dzJPaTUxTC1RcEdlXzlESGJsS1VjWHdnWUo3a3RJM3o5M0FWUFExczE1TlNlc3JJcHRiTjhTY1c0Wm12aVE4TEJ4VnAtTVJYb0FWWFljd24yN3lzOU1mYzM5cGVaeGpQZDkxYUZVV3RIQVlCdmg0RWVFUDlUYXZvai1LVDU5TUJ3d0V3OHgydHFqM1RDVFZEQnRVZGRkM1ZyOTIxWmZmVWk3OUxxRFRvcGFCYkMwMGZaX0RmQ05OamdVZkczQdIB2wFBVV95cUxPVlRQVExjNUpNWEVYd2lDOXBoVGp0NFQzU2t5cllJU05nLVFhWVE5RUx4YnZiVUxFZ0trRHJGa09jNmdoZ0Z5WG1veWRndl8yRVFpYUN4NVhrRVdwdUNaMzVxeS1CQnI4cl9WQlk0NHJ4cmdnZFdnTkVsWV8tdks5Tm5ZODN6cnE1WjRtTmVsdHgxLUZRNW5ib3ByWUxQX3hlZ2RzU3JTaDE4aWN3NTZKdzNaUlp5ZlhLZnZzckFScHBQVU9LU0ZQVWVYZHYxYllUNWlFSWVnTjB6REk?oc=5",
       "ts": 1786560613.686826
+    },
+    {
+      "clave": "pulguarin_directora_invima_agosto2026",
+      "resumen": "Sindy Pahola Pulgarín Madrigal designada nueva directora del Invima",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmdlRFpKc0I0SnZMcmdTeW4tRHQ5ZUpXN1pxa2o5bndxcDF0X3NkRkJ5Nko3UXI2NjBsSGxxTGp0RHpSbi11V0Z5RFM1MWh4blFHVzM1XzRLUUJGeXZhb1BteGpwQlJSbHhuY1RiSzRMZU52LVV5cUlOb1BsVzNHajJQR1dCUXhlMVFaR1lkOTItLTRUaGRWX2VoZ1Y4NDZYeVpOOE1ZVlptUm1uMjI0OVBn0gG3AUFVX3lxTE1QdnpmZXhmaXZlVU8wcUxEYUpqOFljblhTcGllMGZ6OHhYZmVMMVhVVm0wVDdLck9QUVBZWnNlMVdHRVU3N1Y1MHVfc0plRTJCdnVYSkxqMVdJa01IckdEcDFLSlJuczl3VjZQZWNxeXd3endhbWYzMjhMMDV2ZUM1Z0hERDlEeFZIUFBUT0Q0T2xrOS1sRXl4amVYbVpiRGNLblVRTENNV3ZkU0lCbS1kUnhkSXFpdw?oc=5",
+      "ts": 1786561228.8448367
+    },
+    {
+      "clave": "sismo_replica_choco_3_4_agosto2026",
+      "resumen": "Nuevo temblor de magnitud 3,4 sacudió al Chocó en la zona del epicentro del terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMVFXQTNUdkNtWWdYUEVtcTNSM0JEbGs0dVhzd1I0ZzFVQk16V3RMNUNfX3BPVWJWSW5iU0dETmhNMXJ5bGNET0ZFT0VHeDJaa1NKU29CT1lVaTVreGlndDBaRlFGQnFHdjRvN1RTcXNWbG5PNE5VRVk0ZXNFUU9JSTJpZTZCZ2x6N0NadXkxM2hwWm1EYmRIc2VqV3VENDNYQ0xtYl91VzN3RjdBZm5Wc18wRjRKVmRnMm5TLUducW42RWRHOE1OMkd1U0ZzM3Q3UHpjaDdwT1owZFXSAegBQVVfeXFMTlVZQkU4VFJ4ZmU3U1VqOEFzeGZQRV8ybGN1RWJITVFXYXZlN2laQk1lbExKc0RhMW5RaWQ0eGhETXlBNnphT2ZQcjlCMU5EQml0bzk1c1Z2NXdIandVYkQ5VFFTMUhZT0lYWTk5QjJQeUVRMDhqaVpORkQ3VEhOVXMwNzl1dEFMUmVRYXlldmt5WDc3cjlmSl9GUnRySHJBc2VLaGhIdXFZXzFrTW1UY0VKNVhud2p4NlhGRWgzNmx1WXpDckpGbEpwR3kzZWtfQnRJR21EdW5VRWxoZGh4NFJIdU5ER0NVMg?oc=5",
+      "ts": 1786561229.2808187
     }
   ]
 }
