@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_choco_desaparecidos_agosto2026",
-      "resumen": "Chocó reporta suspensión de actividades escolares, refuerzos en equipos de búsqueda y cinco desaparecidos tras terremoto",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-choco-amanece-con-suspension-de-actividades-escolares-refuerzos-en-equipos-de-busqueda-y-el-reporte-de-cinco-desaparecidos-3577549",
-      "ts": 1786458887.195505
-    },
-    {
-      "clave": "sismo_manizales_inspecciones_agosto2026",
-      "resumen": "Manizales supera las 1.000 solicitudes de revisión de infraestructura tras terremoto; inspecciones tardarán días",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWNORTA3ODV4c2oyanNsLUNmdFkwWlh3TGJWeTZJRWxxLVM5WldpVnBmYzZSVGoxOHl5VldvUWNvZlpmRjdBbTVHWkNONE1TOXE4Znl0Zm1XNzU0RE81LV8ya2VqMlRWYWdwUERBVzdpMnlqZWZpZFZwZ2tJakVWSnczQjZLX0I4WHB2N0Nzb1JONHRhSkZDOHVqM3hqSEZXU1dVZnByTmx1aU44ZFVRanktSllwcTRvY1R2NkhGb2MtRXY1b3BYMl9KcHPSAdoBQVVfeXFMUHdxQ3pUc1d2enF1WnBycnNCZVA2eXZYWHF0dHJzNUpabkVkMnVKTkdIUkRBZ1lUT3p4bUVLWklVTkNuWGRudGk0N2xPcXlFTVhXOWUxMmlJUXR5NGQ0UFhfZmJWTW1nSXZ4N05rWmZ3V1J2c0R6VUdZRFVpNllWT1JOWFBNNGptUktobDdwNWxGWkZYV29mYTd0WlpYQTJuWkpXRWszc255T0VXS0ZrN1ZtVHhLWFhsQkRKeFZmLXgwSDc5UDZ5bDBldkpnYm5iUkxIQm5laEhGUmc?oc=5",
-      "ts": 1786458887.7822952
-    },
-    {
-      "clave": "sismo_puente_santander_agosto2026",
-      "resumen": "Ingenieros alertan por socavación que amenaza estabilidad de puente en Santander tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2pfdm1JVkhkYXZUV1pqRnpoVFFaRTlJVFg2VmpVWkFEajh1UFE4T3gtdEE2LTFTb1Bsb0tncFo2OWtVR2wtcnZvY0plV1ZBb3B0ZnluMjlEdTA0MTA5Zmw3WlVpR1Bhb0dtdUxBZk82U3B4allBS1h2cnJ0OTFtNTI3VDVZOW1qNU10NmhUU194Zzg2S1ByRVE0dHc5Y3NmV1JJYXl3SmJXNjYxdUwwZnd1S3FzX3JvaVcxQzlCSno1MTZERmlCNDYyVQ?oc=5",
-      "ts": 1786458888.3648841
-    },
-    {
-      "clave": "sismo_cruz_roja_operaciones_agosto2026",
-      "resumen": "Cruz Roja anuncia priorización de búsqueda de sobrevivientes tras terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUJZbWxXNUhfZkNBTDBON3RLX2l1amRDSHQxM2dqMnNJOEw3UVBHQzhBOW1rNm81WlV4ZFVob1dXcUlPVUM0TEw1aHJDTG1PT2RJX3NlTWVwcmU0Y19UMnFzdWhqNXM1cTlWeXktQkFEUGpBbVlWMEtsY3VxN01hU1lGNXQzekZTbDlUYnNPUGQ3d3ozVW1PYUQ1bUMtaDhabC05N3ZoVmtrSzZwbGdZSklUd2YzcC1iUHVfbWR3TVA1MGphZ0Y2Zk44ZU00ajExQlN6Rjh2RFZMVllL0gHiAUFVX3lxTE1IdkNjUGJpb0ZzMFRQX3hBWkU2MFJ4NE1UTVFiaXdLdXZXdDFvRVNsUEluTFE5aElST3BCZUtWd2lHS2VuUTlXZ20zOUhnYWkwMEU1a01DWGRhVUVNb1FLOVFDSkJmZ2E3cVp1SXJobEI1RGlWc1hVOU1vbGdYYVB1bkZvSms3djV2alE3bXBhVGZSc18yM0otakZ5STA4aUhtYzYyX0RKSDBxRFJkRUN4QzJEYkl1X2NCTFNBRDktUExfbzF4WUJqTll5dG9kRXJJM0U5WlE1NE9LLUZXNGRfckE?oc=5",
-      "ts": 1786458888.9465003
-    },
-    {
-      "clave": "sismo_festival_petronio_agosto2026",
-      "resumen": "Festival Petronio Álvarez 2026 se suspende tras el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.kienyke.com/entretenimiento/suspenden-el-festival-petronio-alvarez-2026-tras-el-fuerte-terremoto-en-colombia",
-      "ts": 1786458889.5446978
-    },
-    {
       "clave": "sismo_venezuela_muertos_agosto2026",
       "resumen": "Doble terremoto en Venezuela deja 6.300 muertos con impacto en frontera colombiana",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalFiQ0JjYTZ1LS1ETTN5OUJPcXpEYVRHZThmX05yRmdaOXB3MnltT25qcFVLUF9JcVJQYllaQzdjWXcyZHpBcG82eVRUbU5TTHR0RVBrV3NKbmN4WDhsRmJWaFUyb0ZMczM4Mmxrc0kwelVVWjlTWUI1b3h6YWYweXdUN1g3Z3MwUFE1YUpwZmpLRHVEOEs4ck01UndmcFnSAawBQVVfeXFMTmxvb0FSa3VIb2piMG5nQkh4ajlxaWJyaUtMZWxZLS1qTVZpOUVOVi11am45d1I3dGprLWVOcjNzTm9EN3ZpbC1KS1FBaWFySmhzWkZNUTUtVjd4c25nS0FTa3pLa1EwaWNuOVJGajN5NWJPcDJiaUswc3ktdWRVWnpVWXJoV2dxRkp0Vl9uSF9zTUNvREtZN0ZhTjNHVmFKb25nR01lU1N0RDlLVw?oc=5",
@@ -629,6 +599,12 @@
       "resumen": "Reforma pensional: qué propone Abelardo de la Espriella y qué cambiaría para trabajadores y cotizantes",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWpaalBfSk1ETFRxcm5QUkRzZGROd2tSUHVRaEVUUHZ0N2s0cHF6ejlKb0Q1MFVTOS16OGFVSEVNb3RVYXVVMFJoZDNjT1dROWxNR3lmd0xXZEtWZFd3QlJOZVpZcEtFVmlHeGlpdVd0dzF3Q24xaTA1b0FWYVhBLXJFQTNRVU9SbU5jSTJjMHRTd2ZnV2VXYU9OX3RYSVBad1V1NGdkNzdueDBOeWZ5ejBrMC1mNldnSHJwQzZfWjVTMmlxSXFlemhzQQ?oc=5",
       "ts": 1786501291.35893
+    },
+    {
+      "clave": "peru_ayuda_humanitaria_terremoto_agosto2026",
+      "resumen": "Perú envía avión con 12,5 toneladas de ayuda humanitaria para afectados por el terremoto en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEhNMHpXSWlhWjQyUFBlWjF0MUVBZDhlRlRVV3pSWjgxU1VoeWg4VXpYYUxUSnZnMlJhUUFTT0RNdDhFX1BQelQ0d2gyUUlST091VjBZTFZFb2syd1MwNVN4dUQySWZNSWJJWV8xdnE5dWtid1ZWVDVqR1JIcHVkdG9scV9aSk1reDV6eDJOdm5Ha0NPUHdDSVgxc25LUG0xYkYtRm9zeEE5Y3g4SkFhcTlVNFRXRDh1RGFfUm5sTWFEZjjSAdABQVVfeXFMTkJKUDREc01Nb1IwWXkwdS1yQV8tLUktaEtrSkx0M0hpUTZQYm5JTFF2S19ELUlWMXYyaHRFSFktNnVHbExDYVpBVGJubmpLNUVUR0xBS2JLTkM1bVNNZXVxRUpBTEJtWHI5ODVfSjhaZGVZZTBseXpMNW1odFNFbEZBODNFQnFoRHJURG9tZUZMQkc3bVlqMEhWR0Y4SExqcV93emNBeWRSWS1SYkNUd1FIQVd0a2VuT3JuQlpJNnk2b216bUNfX1o1ZEtrOUtpag?oc=5",
+      "ts": 1786502528.4502425
     }
   ]
 }
