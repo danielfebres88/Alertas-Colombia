@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_pereira_balance_actualizado_agosto2026",
-      "resumen": "Pereira reporta 73 muertos y 37 desaparecidos por terremoto de magnitud 7,4; nueva cifra actualizada de víctimas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbVpZRUhybklIb21kV2UzcEEySmRHYWpNN1ppbGV4YWYzUnpUczQxZWRkM2RKN3pGYmJKTjdydUZEWVpsYjl4Y0lNVjFUYkZ5VFhuTHRjR0Frc1lzWHhYb0djN2l3TXc4OS05YzhZVFhMU0lwMTVUQnJ6d19YT2lzb0o2ZzhkazZQRmxBaWRMZ3FuY3hqaVdjZFNOWmQxeDJPZm16MVZjcnU4MXRidExhaktGSW5TdmFKaWfSAc4BQVVfeXFMTWkwSWNudEg2c0Y3REpneWFESkVsY3pfc2todE1PeUlUZUZnSG05cW1SX3lpd01PU0IwdkJhNHI5cHlfSUU0d3VhNWRWY3dWQW52cmNrc3hYX04tNkJCVG5GM3pGeDVKUWt1WjBhcHlhODRQaEdfZEtjNmk1b3hWVUpGRmNjNXR1TlZyRDltSE9qN1BySy1LZHh6cmxZcjhFTjhIOVNRQks5RUc4dFp4UUxGX3VHM0pFQjlCNzBwZFcxbG1XN2RsZFJ2UThzNVE?oc=5",
-      "ts": 1786461374.5049531
-    },
-    {
-      "clave": "sismo_choco_servicios_agosto2026",
-      "resumen": "Chocó sin luz, internet ni maquinaria para atender emergencia de terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLU00WDNEaWVyMVdyQjJUcjd6V0NGQTNHTmxLUWlQRHppUUw1enRkdzJVYjYwYk1McEs1VVQ3b0FqUlQtcV9jNXRLb2FQYkltRnJ1dXVLQ0dQVFRzQWQ4TXZiMm5PUnljc3cyMFQ4NURtMy1Mal9SeUN0eHQ3Z3NWLVpHQk9Yb0ZDbDM5VWJtY05PT0xOWGhBMnRiRXd1cTBPSUJZNzBR?oc=5",
-      "ts": 1786461375.0696905
-    },
-    {
-      "clave": "sismo_cali_rescate_balance_agosto2026",
-      "resumen": "Cali reporta 86 personas rescatadas y 239 atrapadas entre escombros tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU05oek1nUkNHRmVhSUo2ODdqWm85M2ZnOXRXQU8zTHR4X1NsaG82S1d4SGt1TVBKYWdYUzRGRksxejU5T01Yb0xNcXJyb2ZXbG9sNGgxRVVmTjdFNjdpZzFYU0lGYU5fNWdRS25IdnM2QzNGd3Bsb2hqaXFsNkNWajdsLVlhOUo3WERtc3hpMXhzS1k1aGw5UmxqUXJfUXJfX3ZUMnJNeEpyc1Nr?oc=5",
-      "ts": 1786461375.6489913
-    },
-    {
-      "clave": "sismo_energia_eje_cafetero_agosto2026",
-      "resumen": "Afectación a demanda energética aún es de 20% en el Eje Cafetero y Chocó tras terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/afectacion-a-demanda-energetica-aun-es-de-20-en-el-eje-cafetero-y-choco-4455652",
-      "ts": 1786461376.2201395
-    },
-    {
-      "clave": "sismo_ibague_evacuados_agosto2026",
-      "resumen": "48 familias evacuadas en Ibagué por daños causados por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmI2WU9iYVBPdUdXX0ZfcTdxT3dtM2I4VDFxWnJYQ2FzSTRiUS1wVWVraHpyeWhlZkxGYmRuWUN1c1pyS1RGa3R4aC1SSzVUalBYbGltbHhVcjNVcXJFUXRSNUp4ektMUXh2NGY4cXNsTlRxUXVZNEU4NkwzaDNJX3ZFNWJ5ZUREdnBvaFJocXRwZ3dpQ2g0M2xPWVRmRzDSAaQBQVVfeXFMT09IS3FQclFzc0F1RmhMLXBqMUI0LXM0WDZsTHNVTEN4SmRLWkR5dC1tVzNYa1ZRRi1NME00aGNGazRjbWs5azBaNHFvNnNGYzY5OWY1WDlEbEt1OWgzV0NMLThjTXlTRVo0ZW82akZHYW00VFZqQnpKcFNpU1ZidEVtODFPbUtJaEwxaFg5M1lQWll6eUNPZWc2NjVNZVg3dC1CTEY?oc=5",
-      "ts": 1786461376.9192874
-    },
-    {
       "clave": "sismo_buenaventura_incendios_agosto2026",
       "resumen": "Buenaventura reporta caos con incendios y bloqueos tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://www.eltiempo.com/colombia/cali/videos-entre-incendios-bloqueos-y-destruccion-asi-es-el-caos-en-buenaventura-tras-el-fuerte-sismo-del-10-de-agosto-3577569",
