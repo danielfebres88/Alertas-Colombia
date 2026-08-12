@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_valle_cauca_balance_agosto2026",
-      "resumen": "Valle del Cauca reporta 38 fallecidos, 700 heridos y severos daños en infraestructura tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/emergencia-en-el-valle-del-cauca-38-fallecidos-700-heridos-y-severos-danos-en-infraestructura-tras-sismo-de-magnitud-7-3577586",
-      "ts": 1786465713.0234308
-    },
-    {
-      "clave": "sismo_rescate_bogota_cali_agosto2026",
-      "resumen": "Bomberos de Bogotá rescatan con vida a hombre de 35 años atrapado bajo escombros en Cali tras terremoto",
-      "url": "https://www.eltiempo.com/colombia/cali/video-bomberos-de-bogota-rescataron-con-vida-a-un-hombre-de-35-anos-atrapado-bajo-los-escombros-tras-el-fuerte-terremoto-de-7-4-en-cali-3577574",
-      "ts": 1786465713.6045208
-    },
-    {
-      "clave": "sismo_claro_2gb_agosto2026",
-      "resumen": "Claro Colombia entregará 2 GB y minutos ilimitados por siete días a afectados por terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3g5UmxDa0llcUpOaEFUd3VZSEJhbmhOR0hyQTVqTjJwVWRSYXZQZ2dMeWR3V3VuQ21CYVRVLW5VNE1oM0t2LUdCa2xTU1ZfOXlXUlVXN1FiUnBVd3duaXdHNmtjZXNjcXNTQ3U0TGFDdW1ORk4zZU5xMWJFbWpWcFlpcWJQMk40RlhJZFZfeHFNYnYwRzh6Z1JBdEpqcTZEQmg5bUYwbkl4dTMtTzJQUTBDTThNSzNleE9ydThwcDJSZ3dYaFdUMlJZTDBXNjE5a01XSXRiRHFDd9IB3wFBVV95cUxPcDRzR1B5UEtkYzdaeGtVY1RaVUhpcmVyYkttNnRWeTdkY0RlV3JybmRnNGYzZVhmOXNuZXVmMmFYelBtTG1DMGp3WV9rRzVyOGRWbllLUUJPOVFQVlZWaExvRFpod1RlMXVUM0ZvYmktQi1aQXBEbmJpRjVoV0JWYnowQXg3dGh3WVlHdDRIcmUydnBkb3laNWJXeHowczlXbDBXSkJoTFlFUHFEZjlPQmtMSlEzUWxXbm8xLUQ1N3RwOVBHcGE3TkFEWi00SDJpMFJvWjJKWGFJb2Nva2ww?oc=5",
-      "ts": 1786465714.194368
-    },
-    {
-      "clave": "sismo_estadio_campín_acopio_agosto2026",
-      "resumen": "Estadio El Campín será centro de acopio en Bogotá para recibir ayudas destinadas a zonas afectadas por terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdhZXRQV3JKcUhQSldBQ3dhNjlnUVdJT016NldZbmk1TjBNUkJJSXA2c3YwckVyOEhpSjlwX2hhaFRocFJLdURyT0o5bVc2aVNra2RISEZDYk5Pd1VZYTNzRUtEOFhkUDlucGxuTmFveUJZcnVVbGFRV0VHNnp6eHJxWEptUmp3aTFfVTZXTEhCXzV6c1I2cVc1bXNYZ1MwMVNfQ2VpZWpTOFRibDI1LXpFUm44eTlRdmRqLW5VemdJd1pGeWhTR05aVFlPbXpQYzd1Sl9DTmk1bjZ4Wmo5REF5QTBNOUt6c2U0SzlpSDlCUDNIZFprdW5aaErSAYICQVVfeXFMT0NnU2J2Y013X2tUQXJ5OXFFMExUMEF4UFhrczJ3Um0zTXVKakdyVTdqWDhZWjUxekxnTFBWa2U2aW5DS2Vtd3B4MGJ1S1BpRlI3WWtNbUZzOTFoN0ZjWVlvWnNKNjFnUFRXWUQtdW9rcDFOMjloVHpFcVV1RXM4Y2dJbEhWemxMaEdaRm5LUEhHaHBkS0ZUUHk3eGRiWjJ3RmhObGxQQTcyWDRsenZEc0wzVlBaY1FrdmpweFROUkswcWNYOWxCU2ZsU2J2TDMyVGxHLUlWd2Y5Nkp1Y095WWtfVzFnQjgwbUdUTXVIVjlRSUJxU2RzZWJ1QjFqMzBLRGRB?oc=5",
-      "ts": 1786465714.7643893
-    },
-    {
       "clave": "sismo_neonatos_cali_agosto2026",
       "resumen": "Enfermeras en Cali sacaron todos los bebés de neonatos y los atendieron tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/cali/video-enfermeras-en-cali-sacaron-todos-los-bebes-de-neonatos-y-los-atendieron-tras-terremoto-3577587",
