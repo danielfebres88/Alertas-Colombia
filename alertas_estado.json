@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_balance_general_agosto2026",
-      "resumen": "Balance actualizado del terremoto en Colombia: 181 fallecidos reportados",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmR1cV9hNGY2WW5Nc0otRDFIblR2SW1ZU09BaC1aVi0tM0swMVY0YUZXSEI5REZnWFNXMzNlaF9WWE9oWGdHbENvNk11dUM1RzVNQnFXZDBGUGZCMFpIbUxsQzVXOU1kZmxwN3Y4SmVzVlhXcnBhWFFKdm9OVVNsaTFrelBCMV9yNmRFZmw3TWRXUHRjdk5MM2JHMktlbE5t?oc=5",
-      "ts": 1786456405.0477557
-    },
-    {
-      "clave": "reforma_pensional_espriella_agosto2026",
-      "resumen": "Reforma pensional: el presidente Abelardo de la Espriella presenta propuesta de cambios para trabajadores y cotizantes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWpaalBfSk1ETFRxcm5QUkRzZGROd2tSUHVRaEVUUHZ0N2s0cHF6ejlKb0Q1MFVTOS16OGFVSEVNb3RVYXVVMFJoZDNjT1dROWxNR3lmd0xXZEtWZFd3QlJOZVpZcEtFVmlHeGlpdVd0dzF3Q24xaTA1b0FWYVhBLXJFQTNRVU9SbU5jSTJjMHRTd2ZnV2VXYU9OX3RYSVBad1V1NGdkNzdueDBOeWZ5ejBrMC1mNldnSHJwQzZfWjVTMmlxSXFlemhzQQ?oc=5",
-      "ts": 1786456405.6235154
-    },
-    {
       "clave": "onu_ayuda_sismo_agosto2026",
       "resumen": "ONU ofrece ayuda a Colombia tras el terremoto de magnitud 7,4",
       "url": "https://www.kienyke.com/colombia/onu-ofrece-ayuda-colombia-tras-terremoto",
@@ -677,6 +665,30 @@
       "resumen": "Grupo Empresarial Colombina reporta ingresos consolidados por $1,64 billones",
       "url": "https://www.larepublica.co/empresas/el-grupo-empresarial-colombina-reporto-sus-ingresos-consolidados-por-los-1-64-billones-4456353",
       "ts": 1786499437.6932528
+    },
+    {
+      "clave": "sismo_medicina_legal_93_identificados_agosto2026",
+      "resumen": "Medicina Legal identifica a 93 víctimas del terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjF2MFNQT3FoSEdUWFBWWXg2YWswVHVlQnlmWXQ3NE5fNVVEWHo2SzRrNzlCMC1RTFdJSVJ0MF9NbEROb0NMX2RWa2NybEFRcUJvWW53T0VmMlloZktpcFRMS0VWemhWQlZVMzZqYzhGTTJpNThvM1NrOThMWGF5YWIzSXFDMEFUWFlSdktYY2VTTmxyM1NGaXQxU0tOSXMwY3fSAaIBQVVfeXFMTTRIeGlqVG10dmhwWks5aTJwaWtUeW5Wd2NyQ2RjX1U5RlZuTlNsNU1McXh3Nk5hVFRVTVNTbTF2X0d2SGJyMHNtYlZBWHFDMGJQSi1xbXpNRmtjT1BFbExWWTFRTjRnNFZvbml6eDh4b3VsWS03bVh2Wktkc3E5UHBtVnpwUDg5TnRabm51WGtnQ0xxS0djclZ3V1owN2tDRUlR?oc=5",
+      "ts": 1786500056.2889466
+    },
+    {
+      "clave": "minhacienda_aplazo_renta_retenciones_terremoto_agosto2026",
+      "resumen": "MinHacienda aplaza pago de renta y retenciones en nueve ciudades afectadas por terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVnBGZmFHbGZxNHVWU0k4OHNvQUczaTdKZlpGSUYxZ0JDVE1qRTEyTkt2Qnh1R3hZQ0ZOX1dnQmZ6aG56RU9FcDJPbElJV1UtR2llUzcyOEZrWGg5SGZPaC1VbE9TeEFZWHRfeTdkYi0yVWY0ZWlSb25YVHZaLXQ3T0toemJqMGNGSWJiZF93YlpUNkRVbWZ6V2ZzZ1hZOUVXdEQ3Zlg3NVFQTkxxRGtpN3l4elRBMGxlOV9XMjNzQlNsdDBMTHpNZWlLdVlyZXpveGQxdFlaaW9HS0I1TEhMZF8xb25LNzV0bkRQTGg3RWvSAfYBQVVfeXFMT1N1eTNGdmg5eW9URWM2TGFfMHJST3FBeG5GWXZVckt2cjhUV0VVV3paY09ZcFV0bWx0bm1pNjNIdnVVaGhKbnNNWEFLaWRuRXBFN0pZOGY0MkZ1TTd4MjAzeUZUX09Ha3RDWEpMcFpXMkVPUVI1eWM4Sm5fRHBlNEV0SzhJTmVSZUgxMnJ2a0pPOE54MVR5WkxVYmtldUxhQ0dILVg5a2lpcTQ2Rl9mTmRnUnFXb3FDRkR5T1lLdVJud1hEM3BKRVRPUUNfa1UyZDUxR3FuZHlzZWUtRlkwWWNfbGlLaFBIRXNtYUR2VUZlMl9VamtR?oc=5",
+      "ts": 1786500056.82059
+    },
+    {
+      "clave": "sismo_hospital_quibdo_sobreocupacion_agosto2026",
+      "resumen": "Hospital de Quibdó reporta sobreocupación del 245% tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVNRTVRQWGNSLWZPckNERGVmUXNXclEzRXhROTRvQmRqdlQyelVRMUh0Rkh1U21YUElpcGcyNS1YX2V3cEtLOTFPY21QU1hVWmpxSDRUMndNa19pR0tnTmlGWUNsVXVyUUZNdUNwbWo4MXVKdXQ4Yld3d2JOQWZRSFNPb1hLa3d6VDFmUHJPcjVkNmd5NXJXVE1lT0JBc0R4WkNaaWR1dWxDX0xJQnhaVXJ5Wk9fMnJ5Z1k2eWFB?oc=5",
+      "ts": 1786500057.3472762
+    },
+    {
+      "clave": "grupo_exito_utilidad_316_millones_agosto2026",
+      "resumen": "Grupo Éxito aumenta utilidad 31,6% y alcanza $316 mil millones en el primer semestre de 2026",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1FvUmZ2bGVBR24tRVFodTgyUV9jUTlvem50QW1WaGYzZDJwcTh3T1FZYlB2THZmN1FCTXFKc2NZT1pFODFOY3ZHaF9vd2poNTV3SFlkOFlMUlRob09nMWNiVFpyRkdMZ2pVRUNOU052eU5ja2o2R0dhSFdsTDE5ME00c0lWanoxRmVYV0NBU19nc3BoOE82SlB2RkxtLWsxNUUzYTJlQ0FheTFKd2pJb2lIenJWS29sRmZheTZuUTV0WXNsOHl5R0ltTnRhVDc1YUHSAdcBQVVfeXFMTlYzbWs4ZUFKWkZxa1hOOUNja0lqcEpOeGxlY1RNemRuMDFleXlaNHpyZFhzQWFLSkthYnYwaktfUmNNVlF1RnRvMzlfMVBsNG40UkxXb3RrT3JibVpRa2RqbkdKbks1N0UydTdyUjNJcWR0UmZyVzBBcEdxYXBqYUZyZTVHckZHc19fLU1BUHZ2QWRTLVB0WG11MVd3SmpBWmV3VmZJMVhHWWxWdlMxUk1lTGg5MUFKRnVFNWxvcDZaZElYSDFUNkNLSmdhVkxGaE5pV0JwTTA?oc=5",
+      "ts": 1786500057.8976846
     }
   ]
 }
