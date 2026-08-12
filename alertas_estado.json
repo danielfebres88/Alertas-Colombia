@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "onu_ayuda_sismo_agosto2026",
-      "resumen": "ONU ofrece ayuda a Colombia tras el terremoto de magnitud 7,4",
-      "url": "https://www.kienyke.com/colombia/onu-ofrece-ayuda-colombia-tras-terremoto",
-      "ts": 1786457025.360373
-    },
-    {
-      "clave": "papa_condolencias_sismo_agosto2026",
-      "resumen": "Papa León XIV envía mensaje de condolencias a Colombia por terremoto",
-      "url": "https://www.kienyke.com/colombia/el-papa-leon-xiv-envio-un-mensaje-de-condolencias-colombia",
-      "ts": 1786457025.9862466
-    },
-    {
-      "clave": "sismo_pasto_danos_agosto2026",
-      "resumen": "Pasto reporta varias edificaciones con averías por terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTB1ZVhlNjRvTE85RXhwdzRoMUw2NEFZZGhUbTl4SFMycUg5b0MzNk1ScU1seFBWN3ZhU1gzSFgwX2tvdkpieW1zZWdSVGZBWUpia0xja2VZaGliVV9SS0ttMzc2Ymo0SFQ5SVBqWDhpX2M3WmpuYV9WWU5LeGZqOVJiWTNOaVctM2VJZWZOMVFheDkybzIwZWZjNGdmT1VkVlI1Sl9GVE1jbWtLNGNscmVLNDItVVAzRWo0LVBEZXVQbnVFc19WNWlR0gHeAUFVX3lxTE4tV18yUV9sNFZURFZvMkdhdlYtdUh2OWZMeUxGMHlmNFRLSUFPaU1NakJ0MmEzZkNxa002eXBXS3k3NmdDdUJBWGoxZnc0SjJlWUIxRTN2b19fV21TbXdFWmdBN0NzZ1NZdGdxNTM5SS14NmtvM01KcUhqNUNtMW41emoyYWR6RTBXVjdaUllZdFZVQlkwUk5iZmJWNWs4S0xGanAybFFqVUhQUjFPSUVUQzhXQ3FLY2NGNVVTTVBienZ3LU52MHlZd21hZ2lySWZ6Vkp1R1NMX2FhVlZBdw?oc=5",
-      "ts": 1786457026.5699646
-    },
-    {
       "clave": "caf_b2a1d73db380",
       "resumen": "El departamento de Estado de Estados Unidos donará US$15,5 millones tras el terremoto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/el-departamento-de-estado-de-estados-unidos-donara-us-15-5-millones-tras-el-terremoto-4455553",
@@ -689,6 +671,12 @@
       "resumen": "Grupo Éxito aumenta utilidad 31,6% y alcanza $316 mil millones en el primer semestre de 2026",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1FvUmZ2bGVBR24tRVFodTgyUV9jUTlvem50QW1WaGYzZDJwcTh3T1FZYlB2THZmN1FCTXFKc2NZT1pFODFOY3ZHaF9vd2poNTV3SFlkOFlMUlRob09nMWNiVFpyRkdMZ2pVRUNOU052eU5ja2o2R0dhSFdsTDE5ME00c0lWanoxRmVYV0NBU19nc3BoOE82SlB2RkxtLWsxNUUzYTJlQ0FheTFKd2pJb2lIenJWS29sRmZheTZuUTV0WXNsOHl5R0ltTnRhVDc1YUHSAdcBQVVfeXFMTlYzbWs4ZUFKWkZxa1hOOUNja0lqcEpOeGxlY1RNemRuMDFleXlaNHpyZFhzQWFLSkthYnYwaktfUmNNVlF1RnRvMzlfMVBsNG40UkxXb3RrT3JibVpRa2RqbkdKbks1N0UydTdyUjNJcWR0UmZyVzBBcEdxYXBqYUZyZTVHckZHc19fLU1BUHZ2QWRTLVB0WG11MVd3SmpBWmV3VmZJMVhHWWxWdlMxUk1lTGg5MUFKRnVFNWxvcDZaZElYSDFUNkNLSmdhVkxGaE5pV0JwTTA?oc=5",
       "ts": 1786500057.8976846
+    },
+    {
+      "clave": "sismo_rescate_daniela_largo_agosto2026",
+      "resumen": "Daniela Largo rescatada con vida tras 36 horas bajo escombros en edificio colapsado en Pereira",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/milagro-tras-36-horas-del-terremoto-en-colombia-daniela-largo-fue-rescatada-en-edificio-colapsado-en-pereira-socorrista-revelo-como-la-encontraron-3577765",
+      "ts": 1786500674.73018
     }
   ]
 }
