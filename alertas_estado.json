@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_pmu_choco_restrepo_lara_agosto2026",
-      "resumen": "José Manuel Restrepo y Rodrigo Lara liderarán PMU en Chocó para evaluar afectaciones del terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/jose-manuel-restrepo-y-rodrigo-lara-lideraran-pmu-en-choco-para-evaluar-afectaciones-4457525",
-      "ts": 1786586526.028715
-    },
-    {
-      "clave": "mintrabajo_nombramientos_209_agosto2026",
-      "resumen": "MinTrabajo ordena avanzar con 209 nombramientos de carrera administrativa",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOUs1WVRRNkgxdy1iaDVsQ0FYcmw5STlkOElQVzU3NnNxaUtLeEJjVFZpUmhTTU9SWFZTZHF4cjVJeV9nVlVxZXp5RndLYkxsc3hZVTlReHExb2dGQ3hRaFhQV3U1U1BzV1NmQW1HZ1dmc0pKeEt3Vy1SSnppVXlHMXZReDkxMjRuRlNpaXRqSjJGV0FXWWZJMHY4OFJ5TUl1TmdnRGExZUF0bjNTVTJCbzdKNTdic19LdUtwbnpNWkJHSFMxYTZzSGdEZ9IB0AFBVV95cUxONjI0ZVdHdVZEUGc2eDlsNlJBbzBCRDZBMEVkUkd6Z0xJRXc2SklFakdHTDBFcGpKWTFrWk8tMnhuaTM3UUFIQmFnSXR5NUo1My1DOFdud1BPanBHcDNFOFZmS3hNTnlPXzFQS3JhdDJIZFc1WEYzMm1XUHdYbWlKOWE1ZUstYXlDb3JvWTZNR3dNTDNoTzE3LXdhZ0xsUmt6MGlpWDRaa0FLSTJLeERiUmwwUWJ4Yk8zRU9nMDJPVjdkdUVTODBGd2N1Y3dienZm?oc=5",
-      "ts": 1786586526.4677927
-    },
-    {
       "clave": "sismo_defensoría_tregua_humanitaria_agosto2026",
       "resumen": "Defensoría del Pueblo exigió tregua humanitaria a grupos armados tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnoxQ1hYcjV4RFdDYk55UUtISjlvWEM2ZlNjLUtvUnRyaHFLZUlMSkN1RGtta0E5Ukg1bDFlUTI5TWFBZUpHMldkSTZNb1FSR0FsYVZjRFRaUGlNNkpOTlBLeGNaWVdpTGZpS1g5Nm5HNUFXOVZNVHZfRVd1MWtDRDBUQjJfYzh5MW9ZOF9LUjl2Ml9tSGNzNWc4WjFQaXhTbWpYV3pyUmh6cm04RlctYy1aS2NHU2tMamfSAc4BQVVfeXFMTWVYb0FMWUYzcURURXo5eUVtcF9heW5MR1k0eHdwdXBXQkhhd29rMXFScDVLdlM1aTNaSU43UXA0SDNnTVN5V1h3SmtWeTEweW1Ib3NBbElFdTA4MU1ycWNRY0xjU1pGbVhDbjVJaTdGb1pXRTVQZUNmVUJsVUJBdG83Z1FtMjZUS3ZnWk05RFhEYVdNT19Mc3FxUDZKUHJVeVE3TXpud3VBZ1hCWTFmQ2pnWDVpZ2ppYVkxX0Y1T1kyc3ZuT3o3cmVlY2U5VXc?oc=5",
@@ -197,6 +185,30 @@
       "resumen": "Reconstruir Colombia tras el terremoto costará más de $20 billones, advierte AmCham",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMElkOEdhWm1tWHc3Qi1lYmEzaHo5T1pwdVVHaFU5NTlmRUY2b2g3OWxCWXNYcjNnV09xTzlialN3bWtmNkJoVkJGVlI1Nzg1Mk1XcWZBNWRqd21hc290Z0V2aFdIRmMyeGc0OGt2cHhPNkhYU1lUWEktWmgtZTB6NEUyN2RFWHRKSi1kbXRZNFowU1NkVnVFMU5uQmJGMVHSAZ8BQVVfeXFMTlZjaENuQ0ZJZWFyR3RNeVpnTXZPZEFhQTFncUFJdXJ0aXJHbFF2UThSTkl3YUxieWtDNVVFaXU2Y21IdHFzdXBEdkp5NDQyMjhPLWpLUnFtY1lIUENfN0ZINk9vNFZWRW5IR3NZZ0N2dEM4d18xRGNKVER4LWtIQnpuTkdOb0dXXzJyOUYzUEwxdnVCMkdjSldiNzBJVGUw?oc=5",
       "ts": 1786629276.5389955
+    },
+    {
+      "clave": "salud_valle_cauca_emergencia_agosto2026",
+      "resumen": "Valle del Cauca enfrenta emergencia de salud tras terremoto con deudas acumuladas",
+      "url": "https://www.eltiempo.com/colombia/cali/entre-escombros-y-deudas-las-dos-emergencias-que-mantienen-en-jaque-a-la-salud-en-el-valle-del-cauca-3578104",
+      "ts": 1786629895.4085994
+    },
+    {
+      "clave": "petroleo_caida_agosto2026",
+      "resumen": "Petróleo cae por señales de menor demanda mundial",
+      "url": "https://www.larepublica.co/globoeconomia/petroleo-cae-tras-seis-jornadas-de-avances-por-senales-de-menor-demanda-mundial-4457697",
+      "ts": 1786629895.8521874
+    },
+    {
+      "clave": "uribe_colaboracion_eeuu_narcoterrorismo_agosto2026",
+      "resumen": "Álvaro Uribe celebra colaboración de Colombia con Estados Unidos contra narcoterrorismo",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWDhkYjhCWl9mRjF4RFRoQjljaXdDWWxZWmJUYzF2VFJ2YnNwNTJ0SHhVSkJYQ1BKRi1XeS1rbXNFb05CQUk1Q1RTSnp0NzFvMmNvQzZxQWJ2SUJTd19FYy1DSVBYWGpmLUxxQmlnSFVIMWh3STRMX0ZxNzhpRkZtMVFyVXNrV21WM0IzX2ZyZlBXYXM4VW81VHNXWDdUWl9KUjRialR4UUVyTnBHelVwVzUyWnE5OWhMWUVtTzJlZEVsQmNjZUlrTGVScUdDWVpWenFTeXBzaXhSWmZEMFJfVTNYMXNrZldpVDBaNWhDdnIteTh3OVZZY3lwZWNybFlBa3l3UmNLZk5yUV9uYV9yU3VBUXJqYU11RXc2YXBtdDNzRFRVcXNOUENJQzlsX2_SAcoCQVVfeXFMT2RDN2dDa2JEdkpEWGxISjdlcm92Wi1vby1GUlNaaldjcjJhSmpJNkJ0OWtycTY2eVkzTmIwamJoWGNidmRsbHdmNHZyWTlxblJKNU5wWmJJaDJpRl9qUEFmTFp5bXhjbmdyTmNUZlFkUy1fWWhQeEJBM24zZC1scFJtUDB3OVhLNWtLSldmLUFESkxrVlZPUVllRk5zcHZYR1pYVURnTldYUGQtUWlBaDRzLTB5U3g5ZjBPUjJydUJBemFUOVpiUHZwUDNXQXdxRG5YSElFVEhLbkpfd3RWelhFNnR5azFkZ2UxeXA0S1FxdjY3MGNBUDRtbG91ZE81emxYZU1IR3E1Zk94VV8xQW01SU5uZGVGWHczRDQ5NXdQa2xibDI5NDJyc1pJbk1JajVrdFAtV1FUV2hSZklFOURldU9OSWRoZ0p3?oc=5",
+      "ts": 1786629896.2937007
+    },
+    {
+      "clave": "abelardo_nombramientos_maratón_agosto2026",
+      "resumen": "Abelardo De La Espriella realiza maratón de nombramientos en Dian, DNP y ministerios",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2Q1VVdhX1FJWVBoa0dpWEhyaDFKbE8tcUV5LWRadTh1WnNjN2lnV2tvall0NTBDRGlDZ2pMOVQ0THUtU1poVzk2am1zOHp0V3JzUE9OUEFjbGFWdXM5YVY4RDE0SEZIRmJTd0NXb0VDeldQd0UtUzF1ZzlXZzhvUlNVVTIxRlN6UW12ckJkcngycXNMc3F1Z1BsMURZVzdoNlM2czZB?oc=5",
+      "ts": 1786629896.7346272
     }
   ]
 }
