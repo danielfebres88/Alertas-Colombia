@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "dolar_alza_12_agosto_2026",
-      "resumen": "Dólar cerró al alza en Colombia el 12 de agosto de 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREtLMkFTR2d6MVcwTWZVWUJRU00xNHVuUEpTVXJEa19aYXJodFBYLXNaODVFS181XzBxR19FRVJKb2ZYWXVWX0RDWjFlRzhtX2tXUzNOOVFlWGRsNUdXZmY1Y01lOG4xcTExRHZpV0dUUEhTM0dQZHV4MjhLVzVEZ3lONGM5V3ZvZzIzYnRxb3Z3VkRvbjYyNVBQSjNmeElfc29zSFAyU3ZBTG1RN3EtUGo2Wnd6d2hoUGhkbFZ2NTdJUFlXa05nWmNiM1BaTTNIVzhPWjZCaFlvazFWRXR2ZUVqbDDSAeoBQVVfeXFMT0luWDhadV9IMzIwRV9sWGhvcG5rdHYyWXdpYXJpN3YxNGlnd004NU9wVnYyVnRyckpCZXgyNTh3NVBOS2xCdWNQRUZQS0ZJZkJKLVpmaEpPX1lrQnJRR1ZpT0swUjExdmkxLWxnYjV2M0p1dFdza3lLREpCNVpTc0Q3eWNtTVBwM1UzOGtxQm1IaTBjb3dMNGhUSmZIVUdpVVVvcnRNdVRreUUwOFNuQmN6UkstZklBRE5BZ2hZZ0VocFhjRDUzRGFfOG5zM2xDYXBsWHIwWmZLd3RXd0dLejZEV3VDa1RVNGFn?oc=5",
-      "ts": 1786562459.1954916
-    },
-    {
-      "clave": "alqueria_donacion_500_millones_agosto2026",
-      "resumen": "Alquería anunció donación de $500 millones a afectados por terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.larepublica.co/empresas/alqueria-anuncio-la-donacion-de-500-millones-a-afectados-por-terremoto-4456940",
-      "ts": 1786562459.631276
-    },
-    {
       "clave": "riesgo_sismico_caribe_agosto2026",
       "resumen": "Expertos alertan sobre riesgo sísmico en el Caribe: ciudades requieren estudios detallados de suelos y edificaciones",
       "url": "https://www.eltiempo.com/colombia/barranquilla/expertos-alertan-sobre-riesgo-sismico-en-el-caribe-ciudades-requieren-estudios-detallados-de-suelos-y-edificaciones-3577893",
