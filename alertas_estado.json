@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "atentado_comfanorte_cucuta_agosto2026",
-      "resumen": "Atentado contra subdirector de Comfanorte en Cúcuta; ofrecen $10 millones de recompensa",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentan-contra-javier-gomez-gutierrez-subdirector-de-comfanorte-en-cucuta-ofrecen-hasta-10-millones-de-pesos-para-dar-con-el-responsable-3578032",
-      "ts": 1786592047.3518925
-    },
-    {
       "clave": "sismo_indigenas_choco_incomunicadas_agosto2026",
       "resumen": "Comunidades indígenas del Chocó siguen incomunicadas tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-del-pueblo-alerta-por-comunidades-indigenas-del-choco-que-siguen-incomunicadas-tras-terremoto-de-magnitud-7-4-en-colombia-3578048",
@@ -263,6 +257,18 @@
       "resumen": "Álvaro Alejandro Gámez sería director administrativo y financiero de la Cancillería",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNV9lTTZWUVpkY2xQbGdnTl85YUtXaktZTlZHMUFibkh4SmthVnROcU5zUG9HSnZPUnZZQ3FUWFl3TC13OTdGOFVkV0szSEpSSHdNbUJYTlowa0lnT0t4czhXMWRoWmo3WWtrMXpuVUFjeUM5VjVlWDRTRDU5ZldtR05QLV9OMkN3cXZSS0ROSUVaanhYOWtGRzRlMncyMkN1dUVCWm5NblFxRThMRlJYMkZDMks0R2NueFHSAc4BQVVfeXFMT0xHRkdwUzRhSmRmQi1BWWlrZzZoVE1kZmZNN1V4b3VXdzItbXNfd19yMGdFS213a2s4MEpLT3hJV1dnU1h5ZjRMT01CT1Z1OWdvcjVvT0lmYnhUaFVLc2trNmtnZ0VGMDZIWURuc1h5ek5HSjE5RnJheFVNYzNqb3djTURjdkFUdFdsZTAxRnQzd2prRlRSM0JUS0VSVVBJeE1BdndoMHg0Z3BreHgtZ0U4LTdoVjJveXI2eWgtZWJHbUVDSjBqWGpfQlNaWGc?oc=5",
       "ts": 1786634203.721573
+    },
+    {
+      "clave": "sismo_rescate_cali_agosto2026",
+      "resumen": "Hay señales de vida bajo los escombros en Cali tres días después de la tragedia del terremoto",
+      "url": "https://www.eltiempo.com/colombia/cali/hay-senales-de-vida-bajo-los-escombros-en-cali-tres-dias-despues-de-la-tragedia-la-esperanza-de-encontrar-personas-con-vida-no-se-apaga-3578100",
+      "ts": 1786635446.6106787
+    },
+    {
+      "clave": "sismo_futbol_suspension_agosto2026",
+      "resumen": "Fútbol colombiano seguirá suspendido hasta el 19 de agosto por impacto del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEMxZThERUhyRTNkV0hycElmaXZ0bjNQWjEyOGtHaWhXYVYwQl8tWG0xazVWVVFtVW42OFVNWFRUUUhGQklMMEFNYTZsaTZPcnpfeDhRRkFHSVdSTThzNXNKd2RwOFFqMGpWb3gzQUwxS1dqZUY1Zm4zSEIyUUpOYUc1SGtyTHN4RXhyM2VyZ2o4N2E0UUFkWFJxNE1BaURyaXc1ellmNjh0VW9PTHZrU0h0MEdINHFqa09oMWpDekIxOW5CaUZoeVF1Z2dBRGZSejRvMy130gHjAUFVX3lxTE9MR1ZhV3pHRnY3Unl5dm4tMk0xR2JMRURJODB4enRjbUhOTjNIOG1DUi10QnZNeFZ0RUJVREFiX0xYckVWbWJVZ1V5UEg2NlhSR0FRb21VdE54LVZhWXQ2dk8yY1NaZV9JZm9CTk14blRaeUZwQ0RIMGtqYUNWaXk5VnpId1hjd3Joam5QMTRISzVfTFlzNmZUX3FYM0Y5a0xVa19xcVdCYlpNZEY5VmJVVzRPSGloMEl0UE5vbW84N1VnemVjMGxtMHE2YzdYMTBkMHR1djhfeHNLVFJkZzU5MlE4?oc=5",
+      "ts": 1786635447.0485773
     }
   ]
 }
