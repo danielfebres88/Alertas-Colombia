@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_balance_general_241_muertos_agosto2026",
-      "resumen": "Cifra de fallecidos por terremoto sube a 241 en Colombia con 287 personas desaparecidas",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmNpdENadDItdmNrdW1ac2NoOFpGMzJtNEQ0ZjY5dHJmSkZCVTBsZDgyRVJRYUc1LXNIXzBIczBYUnFjNXhaWi1rVkdoM29sR2hVQWgwYmhBRHdoVVR0RTczNVhNRW03YjI2MUNvWkdTY0F2V3FISFpXWW80UHh0TEZTQnEyV3dqdnNEV2MyeU44NDZvTEVoLThnN21JNktDWHQwWHlHa01rSkoyZEZuc2J1QnM?oc=5",
-      "ts": 1786567392.0006173
-    },
-    {
-      "clave": "incendio_mogotes_santander_agosto2026",
-      "resumen": "Incendio forestal en Mogotes, Santander, genera emergencia grave y solicitud de ayuda",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR040d1gxY2NPRWZWRklCMHFSX3hLRnoyVGpLeUp6Q3ZINEY5ZU1lWm9aWTVFdW5KdnZhdzJEcXNXZWI2Yk1UUWZEVmtyWjFvalh4QVhrQVJOZ0I1MnFiYkxRLW1RRDdFWWRvbS1TLVN1RVpveVRqN2laa3RLVDhVblhSUzJ6aUFPQy0wUUJwSEhJYWNKVGMwUVUtLWxCR1RTdERnZDdHcmRuTkM0XzFyUDRRdGhpT0FHZEpUMVdOVQ?oc=5",
-      "ts": 1786567392.429259
-    },
-    {
       "clave": "sismo_replica_occidente_tarde_12_agosto_2026",
       "resumen": "Nueva réplica de magnitud 3,4 sacudió al occidente de Colombia en la tarde del 12 de agosto tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevas-replicas-en-epicentro-de-terremoto-de-7-4-la-tarde-de-este-12-de-agosto-afirmaron-sentirlo-en-varios-puntos-3577942",
