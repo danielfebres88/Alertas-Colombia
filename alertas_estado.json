@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "dolar_caida_agosto2026",
-      "resumen": "Dólar ha caído $317,51 en lo corrido de agosto y más de $630 desde enero de 2026",
-      "url": "https://www.larepublica.co/finanzas/el-dolar-ha-caido-317-51-en-lo-corrido-de-agosto-y-mas-de-630-desde-enero-de-2026-4457307",
-      "ts": 1786597599.9043908
-    },
-    {
-      "clave": "inflacion_eeuu_34_agosto2026",
-      "resumen": "Inflación en Estados Unidos bajó al 3,4% por caídas en la energía",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFVsM1RMZXBnRG1hdDg0ckRxeG10dGdQUllaMDJnWTRVUlljWTlEcm12QVhXcWJuSzdna2NYaXdhWnJuZ3hTUkNEV1JZNDAzNVJTa0JDZGI2UF9IaWItSm1PTlJsSGtEMjJJWHZYaE5OS0VUU3BuRzd3QkRSdHlXb3JvVWQ0V1pPYWhHel9oMWdVbW82YVpoamZ0dTRrNTdza0lwYkY1Y1PSAa4BQVVfeXFMTU42QnZmN0dmQ2lJV1F3NU5jNXpaZnRwc3FqTnVoenJXaTJrbl85NXhtZWJ4YnZZQ3p3bFB4VEJ6X1A1Y1Vsb2ttaDJWVWNVVU1CMnBMMVhwWHJNVldKOElWQld3cGdKQWJoSGVQY19OZmlYSWw0MUdsbnI5NXRJeXEwS0ZMOXoyUkZ6eTV0V2Z1eHp1VTVqQlY0ampGZWJNZmV1S3BoOVN1SEZzOHVB?oc=5",
-      "ts": 1786597600.3560958
-    },
-    {
       "clave": "sismo_ungrd_ayuda_internacional_13agosto2026",
       "resumen": "Director de la UNGRD confirma que Colombia continúa recibiendo ayuda internacional para búsqueda y rescate tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
@@ -311,6 +299,18 @@
       "resumen": "Drones con explosivos e improvisados: arsenal de disidencias Farc neutralizado en Briceño, Antioquia",
       "url": "https://www.eltiempo.com/colombia/medellin/drones-con-explosivos-explosivos-improvisados-y-minas-antipersona-el-peligroso-arsenal-de-las-disidencias-farc-neutralizado-en-briceno-antioquia-3578157",
       "ts": 1786640374.6696444
+    },
+    {
+      "clave": "conmebol_fcf_donacion_reconstruccion_agosto2026",
+      "resumen": "Conmebol y FCF donarán un millón de dólares para reconstruir casas tras el terremoto",
+      "url": "https://www.minuto30.com/1716056-2/1716056/",
+      "ts": 1786640992.3510618
+    },
+    {
+      "clave": "andi_recaudacion_10mil_millones_agosto2026",
+      "resumen": "Empresarios de Colombia recaudan más de $10.400 millones en donaciones durante congreso ANDI para damnificados",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYURMQTJSYzZNZDV2T1FWUHhqS0JIVm1JVzZRYVBzd0h1czNmamw0SHpjeUJPaW1UZGh0VmgtSTA0U2ZvczhFalE0WnY5anRaNDExTl9sTjhLRFBfM1d4VlpLR0pXTFZhQ2UxM2xTN3pkdEcwLU1TNlZ4M1drQW5NZWZpYTlnRE9FQ19Sa29ZY29XY3RKNjBSMmhuTHdsdWRuWHBLT2xETi1tV3h3dWtqcnV2TXY3bUk1LThwOTZn0gHSAUFVX3lxTFBGT1g2SnZXOUh2VlU0NTNUTXRiTWZsTUFnN24yYzZST0M5RFNiY3ZRQ29lQk82WkpGclRfczYxTnVrdlNQNC14VVF6bUppcUJOM25jNWhtMWFyamRtUERvLW1qZUVvcVdfNFBrakFWUUVoemxmdnEzMmM5SzBrTkN0VmtianMzS05vamhGOFBhTVpYVFpDT05KTW8yN19ZOEw2NzRIaTNHeE00dHVOUnprdVBuYzBpc1ZMMUlLU2lBMWNJZ25QV0FDZ2dXNHRlenR6QQ?oc=5",
+      "ts": 1786640992.8069596
     }
   ]
 }
