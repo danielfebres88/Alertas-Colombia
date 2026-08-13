@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sepulveda_director_dnp_agosto2026",
-      "resumen": "Carlos Eduardo Sepúlveda designado nuevo director del Departamento Nacional de Planeación",
-      "url": "https://www.larepublica.co/economia/carlos-eduardo-sepulveda-es-el-nuevo-director-del-departamento-nacional-de-planeacion-4457509",
-      "ts": 1786584683.2071142
-    },
-    {
-      "clave": "garrido_directora_ant_agosto2026",
-      "resumen": "Lina María Garrido posesionada como directora de la Agencia Nacional de Tránsito anuncia pilares de su gestión",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMzBOTjV3QmVLWWJ5eFlWcGZMalJtSXNDQzI1NFJZOHhHU0M3LTl3ZUxqTm00THFLaFJDakdZTlV5c1l1M2I4YXdDTlFtMjN0MjVsZ0VMOWx3Q0x3YW9YbnMxaTY1X3dnVU1NNnlDdVVuSXZwNHM1ZVBZdDZRVnFncmt0NlhKbXVIVVFHUmtSQWlIQU5UVjA5WFJyR1dBZ1RGdDFmOWhYalV6Z1ZIMkh4S3BuOEQtb3ZEcWNlYnFIRDBPUTZ0RF85Wlk5LUc2bE0zUFRZSDBCMmMxSnpWa3dMY1JR0gH8AUFVX3lxTE1wX0VsZGZ0REFacTB4VDlRWmVoYWNDTXh1WGsyOC03eWZ1N0RETmgwdDZLVEE1c3JybFczLUxhRmFxZUt5Wi1feFZlMFBlbGhQVkZNU2FJazNRR1B6U0NzYWNiRTZadVhfNHBKTFlkalZaTXA5Umt0S1p0aENEVTI2aVNSMmw3djdGZ3FmRFZNMWdqRkFWblpkSkQ4RVNxb09PTG91cDVyRDhHdmtfV2NhSG04NWd1cEV4djh5a0I5cnhINVBZU1lwVjdSSkdmRW5kZlBJSG9TQk1JTnJKWDIwaEpsOVFJN0wyLVFzY3N5bW1vZEQ4bnhuWHRIYw?oc=5",
-      "ts": 1786584683.6546483
-    },
-    {
       "clave": "sismo_fondo_milagro_reconstruccion_agosto2026",
       "resumen": "Presidente De la Espriella confirma emergencia económica y anuncia 'Fondo Milagro' para reconstrucción tras terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYW9kdzlWTlVNTkxzbkExbE1JSXNiZkxkaUp4bjZyX3I5TnRmN2Qxc3BGTkpvWjktYmFjYll3M01NcTRSSGlPaGJ4cXoxRDlQNzlBT08tWnJRUjY1ZjhGRjFFVDdjbDZIMkJLUWlFTTd4elA0NWQ2OFg2M1dwaTFDcHM3V1FvZzZQRC1rQ3NqVFN2MG5ZeWN3SWRvNFZwM1V5c0ZRVUZmbV85dkQyT1pLNTllTkstc2p40gG-AUFVX3lxTE1LMGs0YUFXOV92SWxYWWgxN3dHY295RFZ5QzJjZzFkajRhSGMyT1RNcVVqLUxINFVYU1lNTFFzcWdBYVRFaktLVGdwMXZSb1F3dGt6NUFvblg3MmYxOVUtZFVraS1IWFhJTmgtOHV3NzR3ZV96YWtjYkdnV05RbV9PSnNoOGFVVS0xalBLSnRGYzktbWVJeHM2eG5CXzljNTFnWnU3NzR4WlVlejR1MHYtU2tmQ2xOM3BmTm94M3c?oc=5",
@@ -149,6 +137,42 @@
       "resumen": "Grupo Éxito anuncia ayudas alimentarias a más de 3.000 familias tras terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/empresas/grupo-exito-anuncia-ayudas-a-alimentarias-a-mas-de-3-000-familias-tras-terremoto-4457715",
       "ts": 1786627402.093701
+    },
+    {
+      "clave": "pulgarin_directora_invima_agosto2026",
+      "resumen": "Sindy Pulgarín asume la dirección del Invima para reforzar la regulación sanitaria",
+      "url": "https://www.larepublica.co/economia/sindy-pahola-pulgarin-asume-el-invima-con-el-reto-de-fortalecer-la-regulacion-sanitaria-4457743",
+      "ts": 1786628038.285554
+    },
+    {
+      "clave": "decreto_retiro_pensionados_agosto2026",
+      "resumen": "Gobierno De La Espriella prepara decreto para retiro forzoso de trabajadores ya pensionados en el Estado",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcENQYjVoQ1RmWWJUcUpNeGtmU1FOc25uTHdVMndWRDZBS095V0hyS08tLXVPZ2FCVTc5cE9lSDhxc1R0RXoyQWJ0UUFtbTZwMFQteDVNWUtqVExIenoyckowSElXaVBvS3RGbVNYTF9fR0p0RHIyNXlaYV9CbS0tNy1LbFM3cFd5YVZLMWlXNlJOLXVWQks5dllwalFxaXJnMmZuZjNtZS1HM3o4V1k3VTBCdU5sc2pMazNZbXFSVHpvYTVlTTZzT2FiTTh5R00yelYtUGtZT1UzS09HQXpnZlhmQ2JpY2xlUFNzakxWSHFtS0R0eDQ4dXBlQ1dSWTNjX09USXJfWGpGRTh0MWNkNdIBlgJBVV95cUxOQnB1cDNJTWdkTS1TMVRMZFZhbXU2RGRSSTZMU0pENGk1M0pEdGZQajdGdExhTEtDTjM1YTRsTHMzT3FfQzlNeUo4bGhwNDIwUzBkWXBpSGEtMmVEcWZrOVJXQjR4eXVWSk9tbGxRV0dUbmg5Q2NMV1hLYTNPUlU3cTdIZFRGdXNJTEtIMjN6MFRNUnZBNlJkRDF3SS1pNklwQWlablI3cXdxWUxMWXJZVE9BN1Z0ci1BWGxqNHM0M3hIc1R1WGdrMkRRcDJFOTdvVTBnTlQ4SG82dEIwLTJBRm5KVDJiSm1waERjNFdEb3dMRUJBX09XNU1yaGlRMWdxNHloZG9NU2RnelN0M080eUN2UnFFdw?oc=5",
+      "ts": 1786628038.7379162
+    },
+    {
+      "clave": "sismo_san_jose_palmar_acceso_agosto2026",
+      "resumen": "Grietas y más de 24 derrumbes dificultan acceso a San José del Palmar, Chocó, tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/grietas-y-mas-de-24-derrumbes-dificultan-el-acceso-a-san-jose-del-palmar-choco-tras-el-terremoto-de-magnitud-7-4-en-colombia-3578067",
+      "ts": 1786628039.194831
+    },
+    {
+      "clave": "sismo_replica_13agosto_choco",
+      "resumen": "Volvió a temblar en el Chocó el 13 de agosto; Servicio Geológico Colombiano reportó nuevo sismo",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/volvio-a-temblar-en-el-choco-hoy-jueves-13-de-agosto-reportan-sismo-de-magnitud-2-8-tras-fuerte-terremoto-en-colombia-3578060",
+      "ts": 1786628039.6404307
+    },
+    {
+      "clave": "sismo_alcaldias_antioquia_agosto2026",
+      "resumen": "Terremoto dejó 22 sedes de alcaldías afectadas en Antioquia; La Pintada reporta daños más críticos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDdBWXVHWWZKQXhsM19RcjYzel92ZlF4MlZyemlMRFJxY1VTZWdNaGpreUI1T2NodkpST3hIZDBMVHRIUkJGRUxsQU9UVG1tNzBtcmE4VU5XdC1fRldpZWhUbDhsY2ZEM29hSnVVQzF2R1JxbUhIcjB1cTFfM2J2bnBNSGlMYzl2S2VNMHg4OUM3NERQZ1l4SWhNWVB5RW9GWTdacTZPZ2JrcE1wdGdKRkRqa29qT2k4NkFXR1NkcVQzUHB0djRTMXplcFp3WE3SAdwBQVVfeXFMTjBoYkszc2llcXVXMFUyY1l4M3BVWHltZDVWVDJvMUNpVDhBZ3VsRjdUN2tIak1sNldvQVNfRkJqQ1JpcTJoMlNrZkh2NG1kZ1ZULXBZT2xHUUNJdXZhN2U1dm9xX3RyU3ZZSjY5azY4X0ZtTXRkNzNuR3V1SnI2bFkzbGNJX2pLN0RMNkpxT09haDNCNnFyT0dTWUVIQlBEaVk1OXBicW9QazVlV21VSUt6VXZaWERndzdzWm9XQnhyTzBxbk9BQ3phaWNMWDdvWnpOc0FrRFJKQ29HbQ?oc=5",
+      "ts": 1786628040.1066678
+    },
+    {
+      "clave": "uribe_londono_embajador_londres_agosto2026",
+      "resumen": "Miguel Uribe Londoño designado nuevo embajador de Colombia en Londres",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHdGYkdhbEVwZ1A0aHRiRWlvY1lsNl9aUXh5bXhUa3l0SGxHRmtKRkJRcXMxb2g0RzJNT2o1eC1VaHFVOWFHSE5LOTZkbGIxckpXLUhhX1RsOHBHTllwQkZsYlc1Y1BITENTaFAxUWJtMFN3WUVWeThyaVN0MlVXRml5YmtrWHE3ZGVfTGVQZnViaU1iRHhJTzBCNHhFTE5CazlCR9IBuAFBVV95cUxOaVljVXlGWnVkd2pvWTJ1T1k4N0hUS2ItbzJYTG1YN09sakFyb0F2N1JUZ0ZRMGM0cWEzdjBCTTl6YzZJQmQwUFlaMlFXbmFaQWpialF3SkszcjZZQVczbkplazE4S2k1M1RLTlM1d3JnQ21GVjByQXo2cmY1dXR0cVVoRDkzLXlFSmR3dWxLTGJlV3IwM2JVRTgwY0RoMVNTWm1Id3EwbUt4TE5OaVN5dVJhcENSUGdu?oc=5",
+      "ts": 1786628040.5623758
     }
   ]
 }
