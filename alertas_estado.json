@@ -1,90 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_balance_general_239_muertos_agosto2026",
-      "resumen": "Cifra de muertos por terremoto sube a 239 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazhLZ2VQUk1VaGJvWUNrZ1RERFFDY2RFaVlEUWVjR3FpNEJqTlh3akU5Qlg0bXVTVTdfYWc3dlFoV0I3eFFUT20tOFRtNW1GcU8wbjgzbTc4Vlk0RkZjdEpOeXBjSG96NXl6ZWJlalZ1VVpHWGtlTWFzclZFMkRVeTMxTnNIZlFSQm1hVkRPdDVrMlhzSXp3aFpXdy1TcTdMNDU4TlY1Z3bSAbwBQVVfeXFMUEg3SlE5VHdoZ01OX3d0X0xjODJubElzTEljVUZPX0FuYVRkYkZ2SEEzYTB6YWMwbFd4YjRIWEFQNk9wVXR1Vm5lZ1lzd0t2N0dSM21aMnhsVkc2OHRUZkdSRFhoZ2JXdWpBMkpFY1E3VU1FcDlxOUdpbnJSUlJJRXNVeENYdXQ1RFRaQ1ZmNkJscXExd1pTWUR6VEtLY1pxdFd4dXF6WUxKY1gtSlB5ODEwSzJpNHltVHhsMEY?oc=5",
-      "ts": 1786555061.457488
-    },
-    {
-      "clave": "sismo_el_salvador_ayuda_51_toneladas_agosto2026",
-      "resumen": "Cancillería confirma llegada de 51 toneladas de ayuda humanitaria de El Salvador",
-      "url": "https://www.larepublica.co/economia/cancilleria-confirmo-la-llegada-de-51-toneladas-de-ayuda-humanitaria-de-el-salvador-4456822",
-      "ts": 1786555061.8937168
-    },
-    {
-      "clave": "sismo_restablecimiento_electrico_91_agosto2026",
-      "resumen": "Restablecimiento eléctrico tras terremoto alcanza el 91% en occidente del país y Chocó normalizó servicio",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQVBTNlVrVGc2ck92b3VENHVkQ2FZSDQ2WWJibXVuTlplQjVjYldjamlYT28zOVJSTy15QllPUlpjVE1tUUhZMUxWc1BNM0k2c1p3Wk1EYmE5aUhjM2kxdG5nZGdXYXF6cGNSaDhfNzVKX1B4MFhKMm9pYmFVaXNFMnduX0tYcDIwekgzakJxbEFZQWx1VTEyZW9jMnF2QjR5cjBCalQ5c2NtaUZPbGYtc2hjcmtUUVZhZEpBWnpOYXdHYk9raHY2MjFwTG13elFMVlNrWENackxjOWN6ckJ0ZktZQ2xCd9IB6wFBVV95cUxQVmItS01YRndWTWRKQXdLWDl5LVMwVWI1RHc3R0tPZmFTYkxxZnliclFBbHRwWEJuNXNxamhFX1NaRy14SWp0ZGFaUDktVWdZTnhTNmo4ajVjU29OaW8waFNSeVo1UGN1ZTFLYW5LN3F4YklZeUJMclVDXzMzNGNUMXZxVDJGamtXV2xUeEdyUzBDd0VGaGFvdm9yZFUzOEg2V045a2x3NVFJbjJQQTY2a202ZTNkYmNTUGg2TDNjUHNMbHREVFRYNFhXeFFOS2QtQ1g3QjdueEg4Xy05N25heWY1RWVBazlOSC1z?oc=5",
-      "ts": 1786555062.3325474
-    },
-    {
-      "clave": "sismo_inflacion_riesgo_agosto2026",
-      "resumen": "El Niño y terremoto abren riesgos para la inflación tras dato de julio que sorprendió a la baja en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1doZDRsUEFfSjZPT0Z0b2YteWtDQ014OG93NGEzd3RiVVhRTVhGekZiWjdIM0YwZjh5YjlyTGwwR1RGelhCbGh4WHZxLXRfeXF2QTRhRGx2TG9CNFFjZ2NXdEI2VUdwNUhQVmNUS2haTklGLXZ6T0wxUnpXRm95dUY4R3E3SEZrNTRnSUE4Yng4MG9uT285QzZKcW5hakh4TFVVOGk0RFhwc0xNckZDSXIzT2VadmVlV0stVW5FZUZvY3JLbWh3T2NUbldmSWtEU0tSZlNDbUQ5TU1JcWpXb3JBOGVQWEXSAewBQVVfeXFMUGJ0QzFtSkZlVVJ1MWZvYVFhSktVOE43TVVTNmVYOHE3WTRIdDI3QjF1RE8xMzhRZXAtZFBkNDh3UGdKaEEwb2tuZkJCYkItN2xYcjFWbGIzd2lIMnZJUDY1SnlOOFFQU19PZVBGVFFqbWU2aGNRc3FSZHdqMWczb2xrMDVrVXVaTU9JbEh0Q1JEeEpQV0xuOWpzdXRLWWpfSFNwODlpckJvdU5POWRBLWU5dURBd1lkQlFoZ3pFazUwdlBMMzNuOG9HZzFEQnNvSlh3cnVrb3dzQmlrM3d4OERyNjI4UVpMRzAteFM?oc=5",
-      "ts": 1786555062.7695885
-    },
-    {
-      "clave": "sismo_vias_antioquia_80_municipios_agosto2026",
-      "resumen": "Dos vías afectadas deja el terremoto en Antioquia; inspeccionan tramos en 80 municipios",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1pVeXI2OFAxano5TEkybjRJSnJyQWdOS0g1c0xTSFFVZnUyZ3dFYVFWcnBCYVZfYVhyRm1KWTVMSmhCSEh0bjlSd1FqVVZiVml3WThaclNZRVRPdEhpTFBSSnJUcGJENFRqREF2V201TkNFcVM5OW9VeUVia0xfck4zZEJCeTl2bm0xQUkxSmpnTkxYQzdUZ2RCdjNmUGY0aEZiMHZTVWxuNVVKN2VFM2lUdnZVV0dnMy02bVdVMzM5TFNoejBvakhFREtLbmJV0gHeAUFVX3lxTE5qWEV2a0RSWWtmcERnbTlwanBXOEQ2YXR2cGdZWUlwdTJteUhsN2YyZ2hCWjhxWDctUGRBVF9oX0FqU3RTQlduYkRMSUhnaExTWmRuY2ZXRUhWVnRYcmRXaUZQZFBiZkplVE9wSVR2QjVTWXRyOGNwbVNsYklpMVhjLUg0SjhFeHBVNnJnN0ItN0NjOWMtWjlnRnEtNzVxV0ZNdGtHQ3A5eXFsMGh3OW9wVUJWbWhPcklCdnpRUnJBcGF5QThCbmYtWU9KbGhFTGFxUzRvRkoxNDBCRHJ5QQ?oc=5",
-      "ts": 1786555063.201764
-    },
-    {
-      "clave": "sismo_choco_el_litoral_agosto2026",
-      "resumen": "Alcalde de El Litoral de San Juan, Chocó, solicita ayuda urgente tras graves afectaciones del terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-del-municipio-de-el-litoral-de-san-juan-en-choco-pidio-ayuda-tras-graves-afectaciones-que-dejo-terremoto-en-colombia-no-nos-dejen-solos-3577864",
-      "ts": 1786555681.6950974
-    },
-    {
-      "clave": "sismo_bomberos_medellin_pereira_agosto2026",
-      "resumen": "Bomberos de Medellín llegan a Pereira con seis toneladas de equipos para búsqueda de sobrevivientes tras terremoto",
-      "url": "https://www.minuto30.com/bomberos-medellin-llegan-a-pereira/1715958/",
-      "ts": 1786555682.1319306
-    },
-    {
-      "clave": "sismo_incendios_antioquia_agosto2026",
-      "resumen": "Cuatro incendios forestales activos en Antioquia; uno controlado en 75% tras terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/incendios-forestales-en-antioquia/1715956/",
-      "ts": 1786555682.5673304
-    },
-    {
-      "clave": "incendio_abejorral_antioquia_agosto2026",
-      "resumen": "Incendio en Abejorral, Antioquia, lleva más de 18 horas activo y amenaza viviendas",
-      "url": "https://www.minuto30.com/incendio-en-abejorral/1715951/",
-      "ts": 1786555682.9960701
-    },
-    {
-      "clave": "sismo_beneficios_tributarios_agosto2026",
-      "resumen": "Gobierno activa beneficios tributarios para empresas que realicen donaciones tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcE0yR1ZkOW5pbC04a1RMY3VDejBEa0UtX2JvZ1pxX01EeHJfQ01qbkVtNlBPX3dEZkxQZFJnQldhbm1rUk40UTNYMUpOM3lFWTJyWDNBZWpjWDZ6WVI3d0dNNk9kTkN6MUtEbmxuZEo0NFVJN1pqTXB5ODlKVi1sWVhTWS03VWNsMmp0RkZjVFZKd0JkXzh0NUllTjNTd1ZkS2VRaFZmdUc3aEZhVlBoSkhOLTQtMGktT0JoUnVWNkRTWXVFdDcxMDBJNG5LS0phY3pibnFxS3hodkVZ0gHiAUFVX3lxTFBNdjU1ZHhlaUhhTFBhY3NDNFZnUUZXSC1zUjFFOWdZUlZEUE82cUxpWWFUS2UwRmtTVmE2dFlPeWt4amYyZ2cxQ2RyRVgwSUxTWUdDZTFjY3ljdUQxdENYX2Z0SGotM0tja0dwenZoUjFYTlhUdlFWUTluQ0tLTFYtUE9Dckgxd3p1UzFGUWdMLUpaeEp6SDE3TmdXUmplRnkxb0FLWExsQkxaOFhQTUpQMlVvd0JNWm5XMkZmSFFhNWZLR0FHdmpJVy1ZQkhsd2c0S2JWbklhLXV4dFFkejZPQmc?oc=5",
-      "ts": 1786555683.4570768
-    },
-    {
-      "clave": "sismo_rescatistas_eeuu_agosto2026",
-      "resumen": "Primeros 22 rescatistas de Estados Unidos llegan a Colombia para operaciones de búsqueda tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ1JsSW5zQU1OQV8wNU5VVXFMVms1Q2QxS2FmbVFTSEZvMFdCTVUxVFV6a09Bc0Q2YzV1QWV2Z1pFR0FZOUZ5c2dTOVVLbk5Kc0FqYXU0eUhvV1RhQ25JbENTNU9LLVV6T3liMVpLZVlCNUtIUjI0Q0hTZUxfOHdORU9fWFpYazBKQ1ozRkVYdFFnY3JMQzludjJ1WHBfenFJTkUxeGhSajNBTnlMaHZPZ0JzalVCVUlzeWVXbjdQUVBoalNsODV5cnJwNElTcG4zeUlpOEcyX21uQ2RjRzQ5X1czVzJVM3JJUDNtVWNHeUtKUDE5NTlR0gH8AUFVX3lxTE10SV9SUUJfQzZaZ2tpN3BQdHUwU0N6WlZ5TDF3Zk9zaGtBNHJlTjAxR01lQVdCWTNvUmFLanR4WnlLX0piSHcwcnczd2tGVGFHMDdDcDlXM2pvcFFEOWNiZEhpUUZMaEhrUmNVRzREaldHNWNDZ3pnZkJYekE3WUhfNjAxTXg2QjdOMnczaVdybjVnUm9JWTJRSGZYbmljSlB0cUFkcURrS0ZOblMydjFOVGljcl92c2dQXy1Wa0tlaHYtMFppY3R0M2x3OXVaOUg0Uzk0OVNmNHFZYU9XNmdxWmkxMWFYMlJyUUxEVXd2UE5qQl9BQ3VObGhjag?oc=5",
-      "ts": 1786555683.9055297
-    },
-    {
-      "clave": "emboscada_ejercito_algeciras_agosto2026",
-      "resumen": "Emboscada contra el Ejército Nacional en zona rural de Algeciras deja dos militares muertos",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1pERjNBalF5bU1tYkYwcDRTSk1TMnNCZ0toREJ5QmVINkVBcS00Sndud3ZWdHpfM0FmX19UbDRka0Q2ZEg0Q095a09yd1gwUXoxMHgxenFKS2w5dnpwS2NMTkQ2enRrSHR1a0hoSC13eW4ta0s5aHM1aWQ2SE9vWGs2WGdqZHhwcVE0TXhua2hZY2t6ZEVZRF9KRFNJY01DSkktWExPcWJPNWliVFpVczNTOWx6QnppYTBr0gHIAUFVX3lxTE13UGU1dTFOWmFMeFU2N1YtRURYbWJjSVozU3I1d1p2N0xoa2xOZFpvb2VXMmwxeExxMy14eTZKd0pjanJhcEcyYmlUcWRaOUVzc0xZbHJyT2FVNjBXS203RjlyLXFlLTE0WU1iWDNZbWdpdl83c0tfR3AzUkRaU2NDcDBIbWh6MHZ5ZHdZUUxPcWRMX21yVEN3Vkhla1p3TVdDTmZFaTlCM3o5NXlsYm9kT2RldGxLbmItSFBaQ1Ztdi14a28xcENU?oc=5",
-      "ts": 1786555684.3328583
-    },
-    {
-      "clave": "sismo_medidas_economicas_agosto2026",
-      "resumen": "Medidas económicas del Gobierno De La Espriella tras terremoto: aplazos, beneficios y ofertas de ayuda internacional de US$1.300 millones",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOUg1ZW56RnZjR1RBYlhRVTZ3R1lrMEY5LUs4SGNHUlRUWE52eXJSd1piRlNjNjlHY09ILUowSThsRzhxQmExTVNnUHJVTWZRYlRtUGI5WlNDNUVTWExucXpTamFCMUJBMGdFS04tRUdtQlUwcHNkQTdaanM1RGlsbnFqZWYxWlFwNEtTd2tqZ2piaFRRSkw3RU1nbUpBVktsbDlodUFzcjhFaHFOQzdwSkxrS1FKT3YyWTAycHRqOU1wZzRiYkptZnNiWl9lRHlJd2xzNW5KMlZqNEZYTHVZNXJFQ3QwZi16RXo4WTZabkVPd9IB9wFBVV95cUxPcDk0bzZBMUJyb2xNTkkxazRzYkh0cUtqR3ZNRV9Tb2oxRjBlSkJkTElFc3puZWNIVi1KekZDN3hJUHFaZEpmNzNKMFdDX01kZ3duSU1XYU9sVS0zUWpiMmNmTUtCNnVvSmtINGJUWVBQUWN3LWtSOWRRME1fSmY0RnBwYUhhZE9abHEwbEUycXIyQjV2YVkya05hLTZvQzRUamhVRFdJa0lrb3BPSmZfdlJmR1dBZ0R6ajR1VlFqR2tYX2VZem96LTdWSHp4eVhEXzhKaHNJUVVyUzBRbXhDcnEyamFLVWhhTGVpNDNSVzZ0OTNjd2gw?oc=5",
-      "ts": 1786555684.7571466
-    },
-    {
-      "clave": "restrepo_directora_icbf_agosto2026",
-      "resumen": "María Carolina Restrepo designada nueva directora del ICBF",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEhRN3o4cDRfMzF2ZHVxY1VIMDVobnZaYTFtVmZVWXExNnlLWlFiSm1wYkdIdENQUWxKS1gwaG1UcWJ1Uy1UQ211bG5YbENSRHR3WS1WZVFvSkpCaXJkemw3THZweE1oZm04aUVEczBuQWgwODVtbDFxZUJ2ZmwzcEpCR21YR0pac0FFb0R0S0RkUU5EUlE2VUlmVE5GeVR5dFZIQUpTNETSAa4BQVVfeXFMTTU2NDhjM2szSk8zSFZBWm9mSnptN050NkpWbFEzVnU2LVFkc1dSNmdoZjF1a1RVQ0dnZnNrMXIzSWVnUmlSRzhKYmdyUG5BYmI5SHZOWGd0ekFodXFlUDQwUXhTQnBzbDNOaXNud210dVpQZ2c0YXA1ZXRCZllzUzRhM0xHUmpWdjJwaVFsbGo4M256YnQwREpZanJibTZobktBZVoyMVRaMkt4X0tn?oc=5",
-      "ts": 1786555685.1824832
-    },
-    {
       "clave": "cortes_directora_sic_agosto2026",
       "resumen": "María Rocío Cortés Vargas designada nueva directora de la Superintendencia de Industria y Comercio (SIC)",
       "url": "https://www.larepublica.co/empresas/maria-rocio-cortes-vargas-liderara-la-sic-un-cargo-que-rota-3-6-anos-en-promedio-4456763",
@@ -431,6 +347,24 @@
       "resumen": "Inflación en Estados Unidos bajó al 3,4% por caídas en la energía",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFVsM1RMZXBnRG1hdDg0ckRxeG10dGdQUllaMDJnWTRVUlljWTlEcm12QVhXcWJuSzdna2NYaXdhWnJuZ3hTUkNEV1JZNDAzNVJTa0JDZGI2UF9IaWItSm1PTlJsSGtEMjJJWHZYaE5OS0VUU3BuRzd3QkRSdHlXb3JvVWQ0V1pPYWhHel9oMWdVbW82YVpoamZ0dTRrNTdza0lwYkY1Y1PSAa4BQVVfeXFMTU42QnZmN0dmQ2lJV1F3NU5jNXpaZnRwc3FqTnVoenJXaTJrbl85NXhtZWJ4YnZZQ3p3bFB4VEJ6X1A1Y1Vsb2ttaDJWVWNVVU1CMnBMMVhwWHJNVldKOElWQld3cGdKQWJoSGVQY19OZmlYSWw0MUdsbnI5NXRJeXEwS0ZMOXoyUkZ6eTV0V2Z1eHp1VTVqQlY0ampGZWJNZmV1S3BoOVN1SEZzOHVB?oc=5",
       "ts": 1786597600.3560958
+    },
+    {
+      "clave": "sismo_ungrd_ayuda_internacional_13agosto2026",
+      "resumen": "Director de la UNGRD confirma que Colombia continúa recibiendo ayuda internacional para búsqueda y rescate tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
+      "ts": 1786598995.4810305
+    },
+    {
+      "clave": "sismo_belen_umbria_630_viviendas_agosto2026",
+      "resumen": "Belén de Umbría reporta más de 630 viviendas afectadas por terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlIydm5MOHVGZEpRSTVFanZKRFdWQWQ3bG0zSGl4X0Z3NEYwTkxpeXM3WFNidS1aV0taaGhCTFVsWG9qRW43Z1hxTlhqbFV1N0tmVmNhcFlYMnhQeEg0YUhjUXRHNF84a2N0a3hyem4ydmxBRlRkdjBncFc1YVVHaFJVNXJFWlJEWEdfV2x3ODUtMmY5NFZhT3V3d09zS3NqQjFFVHQ0cmYwU1lpazJkWNIBxAFBVV95cUxNMHIwQUM4STZ3R3ZDU3JwYjNsLWxlS3pMcy1NazZBWWR1emlFNkJ1aHZFWDZyeWE5dVVPU2huVU9YRmpDamVrZGg2TmxpY2lTeFV6bERiSmZXeGlZeEk5YWZWSVdkM0t3OElnSTNDVDZKMnQ1WDRNa2FacTB6dk1CXzdKWFpnckFsUTlGYUQwNmxORVVWZjc0Vl9XbnlIeWZLbjk3WkE0TjdQXy1KZ1pNQktNZlFITE9WeEVuRUxxZzBVc0da?oc=5",
+      "ts": 1786598996.0456455
+    },
+    {
+      "clave": "max_max_abatido_agosto2026",
+      "resumen": "Alias 'Max Max', principal explosivista de disidencias de 'Iván Mordisco', fue abatido",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUw5Y2xIdkRTM1duTXdDWkwyWXlacDBrWDlQZDJFS0NqZDh4RTBPRk1JcWhrZElNNllCMVVHdG1zS0x0SVhZQkQ0NU9NcmN4YzdiV1Npc213blNlQ091N3Y0NmNjYTJnWnQ3anVvczViblp3eDhIZTFSdDFvMGlPVnZ4b1FyRURsV00xN1hhT1VyNThCRU1pU3NQa0Z2aFh4WmM0clRSbms5TWl5YjBFeDJCWURJcXp1?oc=5",
+      "ts": 1786598996.6470122
     }
   ]
 }
