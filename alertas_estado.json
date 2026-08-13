@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "fiscalia_roa_topes_campana_agosto2026",
-      "resumen": "Fiscalía llamó a juicio a Ricardo Roa por violación de topes de campaña Petro",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXV5blQ0bGc0MjFaaG9wN3dGYlNsbXR1LU5nbEZ3bi1weDl0LTlBUUtXVHhXQVB6Yl9Pa0RXTUxlSTl0V2tXTVJtR0UxdlV1WVo3dzdvTUtUb1k0cWRxeU16NnVpYm1kRGZmbWxtSGhWWGlwUHZMMlY2NGJnUUtnOWkyektSQWo2eDVXalJLQjVDakJZYjlaQkhDRzdqUlYyWjFJRGZUNTnSAagBQVVfeXFMT284RHQyMENSVFBBMHZSQTBWSnQ2SUZ5YmI0aGx1MDk4OEM3aTYxSTRDZTRZV2c3cjNCT0doa1FJWkFuT1U5d3FxSE9xbzJvSE5tOEVVVm1Vb0xhdnd2NzVEN3lsQnV6bmdELWtZakxRbWh3UTFhR0FaaV9SS1BGbk5VaG82RmxoeUN1UE9mcjhLUUwxaWpEODFORktHTnFOOUhoWUhNampj?oc=5",
-      "ts": 1786557532.808456
-    },
-    {
-      "clave": "congreso_permiso_petro_año_agosto2026",
-      "resumen": "Polémica en el Congreso por permiso para que Petro salga del país durante un año",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3J5eTBTTnFxUHZtdnFIUk1WbV91V0dNNnJXdkZmMTRKRlRhMGxKLWVmVUZWUDZwajdUODdLODBJTS1xOWo0UTYzNmlFUG94WXZTS21SVXBNM3d2eGtlMTVVRXRqNE5OWHpQa3BZcVVFWFhGNWxTUF9zcGdvR1hOVlVKa2paakZxTENmNUNtUkVXemFXWTdQbi0xRGZEOVVXcWxpVThVUUJqQdIBqgFBVV95cUxQZTVWbURhS29IX05maWJxdWppRlNOakhVMmV6d0RnNGdoWkg4MkMzdm1rRkZIMktYWmRMUWNEZ1NGOXRYckxJWktja19md2ZsX3BNVjdkcnRkblh4VFNFc2dSUW9ENkdWRkZSUDVLdkpfWVpUakhlMHVLUWo4eWVEaTR0Q2ZrQ24tM2xJYkdRN0tiTGMtVHloVk5FUGNIYkFjWWhjUjN2dXJCdw?oc=5",
-      "ts": 1786557533.24545
-    },
-    {
-      "clave": "d1_donacion_mil_toneladas_agosto2026",
-      "resumen": "D1 entregará 1.000 toneladas de productos de primera necesidad para los afectados por el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajJsZk1NSzZoMkVMODduWVZBd0pMOWdKMHhCS2Fkamswa0FIdnBXWUJwdlVHdGlHb1c0SzVzZ0VHOGwzcHlJcTUxZ2I0SDVLdm9YeVhqb0ZmRTZicVAwUjFFODByYk8yV1c5V3FnemxwTFNlV1ZSNm16Y0tvZ2ZCcTFMM1JSQ29HaGdDRnhBMDhiWTJ6QncxZ1Bxek5FTEJtYUZsSXBiZjdLaW1qUndqSEFFdUM3My1WZ1dpNUxYaC1GQXhrVm1NTC1iMEJWaklra2JWN2QwYzczRVVKaU1FR1Z6MNIB6AFBVV95cUxPVUdCSkxwOUk5ZllGajJJR3I4ZS1aMjR6WlNpVmJ2UElxTlM5M1BwZ2FUVFloUkoycUMxSnZmcHpkZWtfQTFhWE14Q2wzUDVoX0twQXNPbkJjTDNHTEtQVDRCbmVfZXBwWXhhRHgyYW9RU3pMal91MXZuVmI5WmJ4Rk5hVWtZV2lUXy02blJ1MzdMckVZRmxsN1BVeHRJYWdwY2RkT2pWb1loR3RBMTZTby1hbTJFT2NVSWJ1TGs2UTE1QnpuTC1yQkh2cmxjNzIwdU1PSUJ4QkFKWkF5WDJLaWJVdUFnRkVG?oc=5",
-      "ts": 1786557533.6845207
-    },
-    {
-      "clave": "canal_panama_tarifas_nino_iran_agosto2026",
-      "resumen": "Record de tarifas del Canal de Panamá por El Niño y el conflicto con Irán impacta comercio colombiano",
-      "url": "https://www.larepublica.co/globoeconomia/record-de-tarifas-del-canal-de-panama-por-el-nino-y-el-conflicto-con-iran-4456854",
-      "ts": 1786557534.14572
-    },
-    {
       "clave": "cucunuba_directora_ins_agosto2026",
       "resumen": "Zulma Cucunubá designada nueva directora del Instituto Nacional de Salud",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGE4dldUWi10d0RsUFhXbl9QVHFkRHBJZGhyUzhTMm10RU9Dd0dhb0FEbmFSY21nRW9kU1J1Q0JrSS1KOVV5OFo5RElSVldTbVRjaTViOEFVc3hyZGZXQkpZT01wWF8wZ1FrTk5zQXJaanFPWnlYSlBZRF9Hd1dPRUVlTHBFQjUyT0lDU0pEQ1MxOE5Hb2hRcWRaeFVjQTM3VjBtNElrcG9PeHdxY2dEZExzX0xkaC110gG-AUFVX3lxTE9PeC1ZMW1vaERDR3l2YTF4TVlFT3k4VFNGa2g3NGs1T1c2SU5EU19pRGFMQ0RtSjZZLTlFX0FIYVAwZ194bjRhd2VEUFUxV01HOVIwbDcyRm9uMmp3Y1ZoRi1STHIzMHVKU1ZYR0N5LW5FUWNuMHVlMTdGNmxiU0RmQWhfTG9YLW9RRTNnTmVwYkxSMk01SEpaT3JtYjFYbUdjbnQxczVhX0NZNU9mdGhmeGNtQlBOdTJXLUFBcnc?oc=5",
