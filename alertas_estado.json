@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_ungrd_ayuda_internacional_13agosto2026",
-      "resumen": "Director de la UNGRD confirma que Colombia continúa recibiendo ayuda internacional para búsqueda y rescate tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
-      "ts": 1786598995.4810305
-    },
-    {
-      "clave": "sismo_belen_umbria_630_viviendas_agosto2026",
-      "resumen": "Belén de Umbría reporta más de 630 viviendas afectadas por terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlIydm5MOHVGZEpRSTVFanZKRFdWQWQ3bG0zSGl4X0Z3NEYwTkxpeXM3WFNidS1aV0taaGhCTFVsWG9qRW43Z1hxTlhqbFV1N0tmVmNhcFlYMnhQeEg0YUhjUXRHNF84a2N0a3hyem4ydmxBRlRkdjBncFc1YVVHaFJVNXJFWlJEWEdfV2x3ODUtMmY5NFZhT3V3d09zS3NqQjFFVHQ0cmYwU1lpazJkWNIBxAFBVV95cUxNMHIwQUM4STZ3R3ZDU3JwYjNsLWxlS3pMcy1NazZBWWR1emlFNkJ1aHZFWDZyeWE5dVVPU2huVU9YRmpDamVrZGg2TmxpY2lTeFV6bERiSmZXeGlZeEk5YWZWSVdkM0t3OElnSTNDVDZKMnQ1WDRNa2FacTB6dk1CXzdKWFpnckFsUTlGYUQwNmxORVVWZjc0Vl9XbnlIeWZLbjk3WkE0TjdQXy1KZ1pNQktNZlFITE9WeEVuRUxxZzBVc0da?oc=5",
-      "ts": 1786598996.0456455
-    },
-    {
-      "clave": "max_max_abatido_agosto2026",
-      "resumen": "Alias 'Max Max', principal explosivista de disidencias de 'Iván Mordisco', fue abatido",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUw5Y2xIdkRTM1duTXdDWkwyWXlacDBrWDlQZDJFS0NqZDh4RTBPRk1JcWhrZElNNllCMVVHdG1zS0x0SVhZQkQ0NU9NcmN4YzdiV1Npc213blNlQ091N3Y0NmNjYTJnWnQ3anVvczViblp3eDhIZTFSdDFvMGlPVnZ4b1FyRURsV00xN1hhT1VyNThCRU1pU3NQa0Z2aFh4WmM0clRSbms5TWl5YjBFeDJCWURJcXp1?oc=5",
-      "ts": 1786598996.6470122
-    },
-    {
-      "clave": "sismo_ayuda_israel_agosto2026",
-      "resumen": "Primer ministro de Israel, Benjamín Netanyahu, ordena envío inmediato de misión de ayuda a Colombia tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
-      "ts": 1786606393.73245
-    },
-    {
       "clave": "ani_presidente_ayerbe_agosto2026",
       "resumen": "Ricardo Ayerbe Pino designado nuevo presidente de la Agencia Nacional de Infraestructura",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNm9JUjZ0ZjhlaEF3eWJsZ1BqcHpUZWMzRW12eUJtWkNUb3M1cEdDaVB2WTlZNnpDaVUwMDNDU0RzcFhwQS12YS04eS1WVU9EYjdoTXZ5Si03NXdSRFhkeXRySXFGcTRYNF9tcEVjZGJQT2F2amVXcWpWM0docEl2WmYyOHk2MVZjbGdRekNDNVhnUHdwSnRkZmhDOVptWjcyZC05UF9zTklVbF8yQ0FPcEwtMzRMLUxBUWZhbjZjQ3VOY19KbjkxZF93Si1aQdIB0wFBVV95cUxOX1BTNDdjV1dYb25PVk9oelp1ejBDTmRVU043endnZVBsVkp2OVVpNGdiN2piVHpKWnRsLU9CV2xFeHlPelpYbWJqMmJOZEVaYTYyR1FWaGhhbUpNSlpETnE0dVJmemtIZHkybWlTQUlxWGtGUm9wNjktSVk4WjRZMGdiR0xZVGVYZ1pnVkRZakJfYWRMUnQ3Vnd2eTBleGxsU1hvZFpBZW56Y0w5SWhIbWhNYkNYT21wQ05oNnVNbFhheXg1RVJ4VUQ4UlhQb19kRDFn?oc=5",
@@ -311,6 +287,18 @@
       "resumen": "Empresarios de Colombia recaudan más de $10.400 millones en donaciones durante congreso ANDI para damnificados",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYURMQTJSYzZNZDV2T1FWUHhqS0JIVm1JVzZRYVBzd0h1czNmamw0SHpjeUJPaW1UZGh0VmgtSTA0U2ZvczhFalE0WnY5anRaNDExTl9sTjhLRFBfM1d4VlpLR0pXTFZhQ2UxM2xTN3pkdEcwLU1TNlZ4M1drQW5NZWZpYTlnRE9FQ19Sa29ZY29XY3RKNjBSMmhuTHdsdWRuWHBLT2xETi1tV3h3dWtqcnV2TXY3bUk1LThwOTZn0gHSAUFVX3lxTFBGT1g2SnZXOUh2VlU0NTNUTXRiTWZsTUFnN24yYzZST0M5RFNiY3ZRQ29lQk82WkpGclRfczYxTnVrdlNQNC14VVF6bUppcUJOM25jNWhtMWFyamRtUERvLW1qZUVvcVdfNFBrakFWUUVoemxmdnEzMmM5SzBrTkN0VmtianMzS05vamhGOFBhTVpYVFpDT05KTW8yN19ZOEw2NzRIaTNHeE00dHVOUnprdVBuYzBpc1ZMMUlLU2lBMWNJZ25QV0FDZ2dXNHRlenR6QQ?oc=5",
       "ts": 1786640992.8069596
+    },
+    {
+      "clave": "ataque_eln_catatumbo_agosto2026",
+      "resumen": "Ataque del ELN deja dos militares heridos en Catatumbo con lanzamiento de 43 explosivos",
+      "url": "https://www.minuto30.com/explosivos-base-militar-en-catatumbo/1716069/",
+      "ts": 1786655814.1737785
+    },
+    {
+      "clave": "fenomeno_nino_riesgo_agosto2026",
+      "resumen": "El Niño se fortalece y aumenta el riesgo de intensidad muy fuerte en Colombia, advierte IDEAM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2tqNTFyMlNKS3I5elJtOEFRSUhlaUNSTTdiT2d1TWI4VnFGdjJwV0g3c0hReGh5dnJwSHd0WDFvSmxRbmo4aEJGd1hTSEJoX1ZPYUZpYVIzeUtacjFJQzMtVlBmdlF5aTNqZFFGRjdfcWxBbWloUk1zaVZWVmZmTHFSNXg1eTVCbGFEcVB5dGc2Sk5Lb2hYZ0dncmU4dE8yWVdyRjg1ZXPSAagBQVVfeXFMT0o1TVdOeVF6QkNHTkNwOVgwS0Z6Qi1KeVgyQy0yenBSLUwwVjJFUjh1QTdtY0NoX2lVN2g1LVdHNmVLTU9lMW1LTnNnbjNfRm1lOHRpUG1xbGlaQVR5VkE5MlZQNWg4NzB6TWtVdi13VHFmbWNKem96MjM0SHdXdDl2X2JrT3I5SC1RYS0xZHJCWnNPOWZ1OVpDNmRnbWk3QnZiOUowVUVq?oc=5",
+      "ts": 1786655814.722648
     }
   ]
 }
