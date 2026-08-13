@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "riesgo_sismico_caribe_agosto2026",
-      "resumen": "Expertos alertan sobre riesgo sísmico en el Caribe: ciudades requieren estudios detallados de suelos y edificaciones",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/expertos-alertan-sobre-riesgo-sismico-en-el-caribe-ciudades-requieren-estudios-detallados-de-suelos-y-edificaciones-3577893",
-      "ts": 1786563074.769754
-    },
-    {
       "clave": "sismo_quimbaya_500_viviendas_agosto2026",
       "resumen": "Municipio de Quimbaya, Quindío, reporta 500 viviendas con colapso y pérdida total tras terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDY5aUh1ekRKU0dMd01tSHQ3WWhSOUVOdjRHeGpRcENNNFl3dHdjZkdBMTNZR2hCUXdWRkJDSDB3bWwyQkFZM3ZNMGJzSDl2bV9QQk5VTGFMejRHcDBqY1NTLWJVWDJhSUY0dEJVNWFoX0RpeFJwNXpPQWFybVl3c244RHJLV21laWc5UmRPbF9GZjV3NVBUb042RkRaUkljRWRBUk1XNEotNTJLOU1obTF0alA2UHVjNWFYRFBVbTFIQU1BTkV6aWpxY9IB3wFBVV95cUxNSlZ2U3pDcU1FbnhQaV9BMzh2V3hQYnBCRl9TMXNKejAxSk5fM2hjNC1xTHBWWGNhVkk3NWRQUHBvRFJRYUpwdVpkaXRTRWJCUE5JcEs2cUd6M0VnS3ZQM0tzNjNLa3A4N2x3bi1ZaVJaWXVQZ0VmMDIxLU1JUHBhV3loWG1DU3g4Z2V1VFhXT2hDSElzT2VvaGN1eGxZcDAxZEdsckVrSVU1QUp6b2trUHNPVjZoYllMNWtlblo2YnN1MzAySTlQWmhHMWd2MVpmRGlWRUJDVW5kUTlsNzV3?oc=5",
@@ -257,6 +251,12 @@
       "resumen": "Alias 'Max Max', principal explosivista de disidencias de 'Iván Mordisco', fue abatido",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUw5Y2xIdkRTM1duTXdDWkwyWXlacDBrWDlQZDJFS0NqZDh4RTBPRk1JcWhrZElNNllCMVVHdG1zS0x0SVhZQkQ0NU9NcmN4YzdiV1Npc213blNlQ091N3Y0NmNjYTJnWnQ3anVvczViblp3eDhIZTFSdDFvMGlPVnZ4b1FyRURsV00xN1hhT1VyNThCRU1pU3NQa0Z2aFh4WmM0clRSbms5TWl5YjBFeDJCWURJcXp1?oc=5",
       "ts": 1786598996.6470122
+    },
+    {
+      "clave": "sismo_ayuda_israel_agosto2026",
+      "resumen": "Primer ministro de Israel, Benjamín Netanyahu, ordena envío inmediato de misión de ayuda a Colombia tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
+      "ts": 1786606393.73245
     }
   ]
 }
