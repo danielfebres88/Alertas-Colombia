@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_perdidas_economicas_valle_cauca_agosto2026",
-      "resumen": "Más de $16.000 millones en pérdidas y 700 unidades productivas afectadas tras el sismo en el Valle del Cauca",
-      "url": "https://www.eltiempo.com/colombia/cali/mas-de-16-000-millones-en-perdidas-y-700-unidades-productivas-afectadas-tras-el-sismo-en-el-valle-del-cauca-3578025",
-      "ts": 1786585911.928785
-    },
-    {
-      "clave": "sismo_identificacion_victimas_agosto2026",
-      "resumen": "Medicina Legal identifica nuevo grupo de víctimas del terremoto de 7,4 en Colombia, incluidos niños",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/medicina-legal-identifica-nuevo-grupo-de-victimas-del-terremoto-de-7-4-en-colombia-listado-completo-de-los-nombres-y-sus-lugares-de-origen-hay-ninos-3578030",
-      "ts": 1786585912.3681972
-    },
-    {
       "clave": "sismo_pmu_choco_restrepo_lara_agosto2026",
       "resumen": "José Manuel Restrepo y Rodrigo Lara liderarán PMU en Chocó para evaluar afectaciones del terremoto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/jose-manuel-restrepo-y-rodrigo-lara-lideraran-pmu-en-choco-para-evaluar-afectaciones-4457525",
@@ -191,6 +179,24 @@
       "resumen": "Dólar abrió al alza tras conocerse inflación de Estados Unidos de julio del 3,4%",
       "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-13-de-agosto-4457695",
       "ts": 1786628660.0693102
+    },
+    {
+      "clave": "sismo_andes_calamidad_publica_agosto2026",
+      "resumen": "Andes se declara en calamidad pública por impacto del terremoto de magnitud 7,4 en el Suroeste antioqueño",
+      "url": "https://www.eltiempo.com/colombia/medellin/andes-se-declara-en-calamidad-publica-el-llamado-a-la-paciencia-tras-el-impacto-del-terremoto-en-el-suroeste-antioqueno-3578105",
+      "ts": 1786629275.637137
+    },
+    {
+      "clave": "sismo_gastronomia_ayuda_agosto2026",
+      "resumen": "Gastronomía colombiana se une para llevar comida a damnificados por el terremoto",
+      "url": "https://www.larepublica.co/ocio/gastronomia-colombiana-se-une-para-llevar-comida-a-damnificados-por-el-terremoto-4457781",
+      "ts": 1786629276.0927124
+    },
+    {
+      "clave": "sismo_reconstruccion_20_billones_agosto2026",
+      "resumen": "Reconstruir Colombia tras el terremoto costará más de $20 billones, advierte AmCham",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMElkOEdhWm1tWHc3Qi1lYmEzaHo5T1pwdVVHaFU5NTlmRUY2b2g3OWxCWXNYcjNnV09xTzlialN3bWtmNkJoVkJGVlI1Nzg1Mk1XcWZBNWRqd21hc290Z0V2aFdIRmMyeGc0OGt2cHhPNkhYU1lUWEktWmgtZTB6NEUyN2RFWHRKSi1kbXRZNFowU1NkVnVFMU5uQmJGMVHSAZ8BQVVfeXFMTlZjaENuQ0ZJZWFyR3RNeVpnTXZPZEFhQTFncUFJdXJ0aXJHbFF2UThSTkl3YUxieWtDNVVFaXU2Y21IdHFzdXBEdkp5NDQyMjhPLWpLUnFtY1lIUENfN0ZINk9vNFZWRW5IR3NZZ0N2dEM4d18xRGNKVER4LWtIQnpuTkdOb0dXXzJyOUYzUEwxdnVCMkdjSldiNzBJVGUw?oc=5",
+      "ts": 1786629276.5389955
     }
   ]
 }
