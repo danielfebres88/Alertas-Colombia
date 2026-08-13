@@ -1,54 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_choco_cierre_rescate_agosto2026",
-      "resumen": "Gobernadora del Chocó da por finalizada la fase de búsqueda y rescate en el departamento tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-dio-por-finalizada-la-fase-de-busqueda-y-rescate-en-el-departamento-tras-terremoto-de-7-4-en-colombia-ya-no-buscamos-a-nadie-3578022",
-      "ts": 1786584065.8768704
-    },
-    {
-      "clave": "sismo_rescate_daniela_largo_agosto2026",
-      "resumen": "Mujer rescatada con vida tras estar bajo los escombros por más de 36 horas en Pereira; su corazón trabaja al 20%",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/daniela-cierre-los-ojos-luego-de-36-horas-bajo-los-escombros-los-rescatistas-salvaron-a-daniela-largo-3578019",
-      "ts": 1786584066.3660853
-    },
-    {
-      "clave": "sismo_balance_menores_icbf_agosto2026",
-      "resumen": "Directora del ICBF entrega balance preliminar de menores fallecidos, desaparecidos y atendidos tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-paso-con-los-menores-tras-el-terremoto-de-magnitud-7-4-icbf-entrega-balance-preliminar-de-menores-fallecidos-desaparecidos-y-atendidos-3578015",
-      "ts": 1786584066.8094554
-    },
-    {
-      "clave": "congreso_permiso_petro_ano_agosto2026",
-      "resumen": "Senado aprueba que expresidente Gustavo Petro salga del país por un año",
-      "url": "https://www.minuto30.com/senado-aprueba-salida-petro/1716015/",
-      "ts": 1786584067.2443285
-    },
-    {
-      "clave": "ecopetrol_denuncia_irregularidades_agosto2026",
-      "resumen": "Gobierno De La Espriella amplía denuncia por posibles irregularidades en Ecopetrol",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTdBdnAwZExtbFRxdFZrX09TQXFzSE8zRVFNOWhrWkNNeUhVdEhhUnVZcDNxMzNITzBvNUJKM3R6ZTFiZ1JvUFBNZ0pFS0p5TTlsU0JBYXRSbGI5MEU4TFFmbUI1Y2tQZndHQmo5b2E1LU5xUy1SOUJlaXRHcFJ0Rmc1WTJrcnFjUWJsbHUwUml0SkhVdEZHVE15QThIRGY4TThTWU41aHdEWW5NX2NOeEVYM0VIODY4Rm8taGs4MnBtS2ktQkVGeF9XM0t2aTlOOFQwd0pJRzc0bWxMSVVJYzBrVmpvTVhGOUtQRjZqNNIB9AFBVV95cUxPa3dsekVnS2FOVVJNeWY5T2FlQzZId2NCNXBmTmRXM1J6dGFRMzRmOGdaVDVHb2JHUFcxWG1BRS1keE9xcDJid0E3bHFFdXhTRnNIU2t4Z0FkT2RKNEpqbG5QazFIOFNNVWhEb216cHRFVTlLczhKV3Q2ck51RTVCZ3UwTmF5cDJtM3NzVGlES0lyaXkwc29Uc2JlTFc1VmpySk5aWWx6cDR3bHZlS0IxUTF5MUUxdGl3eFk2aWF2bWM3WmFIMnYzejB3QktXVFluYmNkYmptSURuNjVadTNfSF9HYzdVTjJIV1NNeFh3X2x1eFFv?oc=5",
-      "ts": 1786584067.676416
-    },
-    {
-      "clave": "sismo_adres_indemnizacion_agosto2026",
-      "resumen": "ADRES indemnizará a las víctimas del terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDBsWHFlUi1IdjJqeUI2bnFnRW15ZGJQZXdJSGtVSkc1OUJPZHVrckdzbU15QkZqeDNQbkFvLUNQc2lqemFaRmxvbllud2FfYkZ3U3Y3Zlk2NEVnVUM3Nk96cTN2LWRZd3Vwdm1RbEp1UlpvemVxVU1RSExvY0pYc2FmcFhvV2dBSjRUdWlKYzF2eXdNWnlhMi1MR3dJcC11NWpXUHJzYkUtMGJwMEZyX2s2SXI2c3kxRzdV?oc=5",
-      "ts": 1786584068.1261523
-    },
-    {
-      "clave": "sismo_prosperity_segunda_transferencia_agosto2026",
-      "resumen": "Prosperidad Social anuncia segunda transferencia para hogares damnificados de Renta Ciudadana",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0hucS1QMENZNmVzellfZloteVFReGpfSmIwTEt2R3dwOXRBWk1HRzNvTHlXRXA5ZTlNNnhhTVByZTdZZVFLUUt4M1VQWE9wc0k5V1Q1MkptY05OOHJYdzdrRXZoZGF4enN6RlZOd3hBWlhxbU9rYjJwM0M5OEJWNzdtOThJNEIza3ZONlVvWWVBN0lIWkZWbURjaU5oQ2YyaHU0ODBjNVRmUXNSQUtfTXhLVVFicUFrWUt1Q0ViN3lWVnRSblpxRXZmVmjSAdoBQVVfeXFMUHZ5S3hmcG5DR25jb3gxbHBabDZNbVdIa0tjNTgzdVU3UlRrNWJJRW8tU0JKYXYtQjFMb0F0RTRsRUdmOTdwd3dqelkySXVheHlzemtHMHdnY2NoZ1JIbnJLeDdOcFF4SEpIMkZUd3ZHU1d3MG9qUVNxZ3NMa1FnSUZNNUhmZlpYak9leE5GZnAtYTg2WXBaRG1PdjQ4N3plSnVEZkxKdUVFR3J0OEVCZGtuWmpnOThLYXc1dlhxR3NaTEo0UjF5VS1lYmxBVDkxR2dUeUdKOVJudFE?oc=5",
-      "ts": 1786584068.561505
-    },
-    {
-      "clave": "petro_rechazo_militar_eeuu_agosto2026",
-      "resumen": "Gustavo Petro rechaza presencia militar estadounidense en Colombia: 'Vengan a matar colombianos'",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb3QwLXl2Tm9SMUFIbHZoVUJKZGhxdzE5b3V5MXZHcm1TVk56bHAtU2NVOVZ6WDRiX29FeUgwU091ajBMcWRUcXlkUU9Ocm9iOUJ0N25lQnJ4RngzZTlvWTN5MGdNQ3dYeDZwa0xXQnRmbXBYaXZQWXlOdFdQQUNjSDJERkZ2bE1UUGxiSGxoeEdTbGlGSlBTNzFXUmsxMXAtZ2I1UEZkRXkxS2dWeFBFdFYzSEtnV1gzOG5SUk9tRE5wWHN3NDlNYUswZk5DQU9CVE1GUDBwMGljSkhMbFZ5ZzNpVUJVNWh3QkJvT25ZTDQ1VmRtSXFEeXpZdEcwTFk4cmZ2S0pB0gGgAkFVX3lxTFB0UndIRXF0ZUtjTUlaZ3FlR1J2RS1CcTQ1cWh5RGRrbHJZRm9xU3JPVTFibzQ4VDR0eGxGZFY5NkZjQnJjdE9QSWhPZm9rWTZwVlNqTU8xS0RDZmdaaTRsbVhmRHVhaXdJNTR6MkZHQ1g5dTQyeU1lWmdmbzdlcnl3T25yRGlZQjRXbXA5eUdreEdIVFIxQmlDV0pDekE2MFBvdVFKalZjc0hfblAzQk40T1BjSHlhdU9UbTdlSU53by05bDZUVW9FN2NZY0F2NlRxTGxtLWlPdVl1N0RBSFNVTDYweUNnZUlOYUlwWHZySzN4NFBBUmdJQUxBR29nSW1QdnRBQ1BkcGY3ZTBpd0ZwcTZ1Qy14QVNVbW1iVUNtYg?oc=5",
-      "ts": 1786584069.028984
-    },
-    {
       "clave": "sepulveda_director_dnp_agosto2026",
       "resumen": "Carlos Eduardo Sepúlveda designado nuevo director del Departamento Nacional de Planeación",
       "url": "https://www.larepublica.co/economia/carlos-eduardo-sepulveda-es-el-nuevo-director-del-departamento-nacional-de-planeacion-4457509",
@@ -179,6 +131,24 @@
       "resumen": "Primer ministro de Israel, Benjamín Netanyahu, ordena envío inmediato de misión de ayuda a Colombia tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
       "ts": 1786606393.73245
+    },
+    {
+      "clave": "ani_presidente_ayerbe_agosto2026",
+      "resumen": "Ricardo Ayerbe Pino designado nuevo presidente de la Agencia Nacional de Infraestructura",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNm9JUjZ0ZjhlaEF3eWJsZ1BqcHpUZWMzRW12eUJtWkNUb3M1cEdDaVB2WTlZNnpDaVUwMDNDU0RzcFhwQS12YS04eS1WVU9EYjdoTXZ5Si03NXdSRFhkeXRySXFGcTRYNF9tcEVjZGJQT2F2amVXcWpWM0docEl2WmYyOHk2MVZjbGdRekNDNVhnUHdwSnRkZmhDOVptWjcyZC05UF9zTklVbF8yQ0FPcEwtMzRMLUxBUWZhbjZjQ3VOY19KbjkxZF93Si1aQdIB0wFBVV95cUxOX1BTNDdjV1dYb25PVk9oelp1ejBDTmRVU043endnZVBsVkp2OVVpNGdiN2piVHpKWnRsLU9CV2xFeHlPelpYbWJqMmJOZEVaYTYyR1FWaGhhbUpNSlpETnE0dVJmemtIZHkybWlTQUlxWGtGUm9wNjktSVk4WjRZMGdiR0xZVGVYZ1pnVkRZakJfYWRMUnQ3Vnd2eTBleGxsU1hvZFpBZW56Y0w5SWhIbWhNYkNYT21wQ05oNnVNbFhheXg1RVJ4VUQ4UlhQb19kRDFn?oc=5",
+      "ts": 1786627401.1670158
+    },
+    {
+      "clave": "sismo_replica_36_agosto2026",
+      "resumen": "Réplica de sismo de magnitud 3,6 reportada en Chocó la mañana del 13 de agosto tras terremoto de 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-choco-reportan-sismo-de-magnitud-3-6-durante-la-manana-de-este-jueves-13-de-agosto-tras-fuerte-terremoto-en-colombia-3578069",
+      "ts": 1786627401.6407313
+    },
+    {
+      "clave": "sismo_grupo_exito_3000_familias_agosto2026",
+      "resumen": "Grupo Éxito anuncia ayudas alimentarias a más de 3.000 familias tras terremoto de magnitud 7,4",
+      "url": "https://www.larepublica.co/empresas/grupo-exito-anuncia-ayudas-a-alimentarias-a-mas-de-3-000-familias-tras-terremoto-4457715",
+      "ts": 1786627402.093701
     }
   ]
 }
