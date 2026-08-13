@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_fondo_milagro_reconstruccion_agosto2026",
-      "resumen": "Presidente De la Espriella confirma emergencia económica y anuncia 'Fondo Milagro' para reconstrucción tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYW9kdzlWTlVNTkxzbkExbE1JSXNiZkxkaUp4bjZyX3I5TnRmN2Qxc3BGTkpvWjktYmFjYll3M01NcTRSSGlPaGJ4cXoxRDlQNzlBT08tWnJRUjY1ZjhGRjFFVDdjbDZIMkJLUWlFTTd4elA0NWQ2OFg2M1dwaTFDcHM3V1FvZzZQRC1rQ3NqVFN2MG5ZeWN3SWRvNFZwM1V5c0ZRVUZmbV85dkQyT1pLNTllTkstc2p40gG-AUFVX3lxTE1LMGs0YUFXOV92SWxYWWgxN3dHY295RFZ5QzJjZzFkajRhSGMyT1RNcVVqLUxINFVYU1lNTFFzcWdBYVRFaktLVGdwMXZSb1F3dGt6NUFvblg3MmYxOVUtZFVraS1IWFhJTmgtOHV3NzR3ZV96YWtjYkdnV05RbV9PSnNoOGFVVS0xalBLSnRGYzktbWVJeHM2eG5CXzljNTFnWnU3NzR4WlVlejR1MHYtU2tmQ2xOM3BmTm94M3c?oc=5",
-      "ts": 1786585297.2347496
-    },
-    {
-      "clave": "sismo_andi_banco_materiales_agosto2026",
-      "resumen": "ANDI creó banco de materiales para reconstruir zonas afectadas por el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0R5LVItQlZUcDduZ2NBVHNDRkY3dGw1MkRabndFWV9rWTVQeDNQOURJbmlJMXhZUXRJd1B3eVFOM0F3aHlPMXZpYUNRV29VM3JVVExFZzJyZWd1MURGUGJWWHE4ejg4NE5lOVZHQ3AxUkxyU2VpcE81dVJkdVlWRFRROEZpT2JSZGZadlhyNF9fOG5pbHlMVDJIV3dMOW9HaEZnbGJGdG1jSUVGMGxTZ3JZb2ZjV0JZSVRtMVUzbkpaMHliOEZnZzN2UdIB3wFBVV95cUxQWDA3SkJqdlAyZndzRENMYmpOdEt5VVRhVEoyNkJoRlkweUg3U3Z0eTdqYzVxVmE2V1Z6b2FCbUptc0ZNU1VCcXdaQUhmNXd4bllzdFUwN2VudVNfOU9QSVBVT0pJYUxBVzUwZXJhNjVnV0lHNWI2NHg0N2FBWFBJTkJDSVV1ekQ1MDJmZ3Ftbi1iZWcxZGdBTE5wdGJCcjY0eDlKRzZ6UzhEczJQNFhDQnZZNmdWUVZIdUszazhZTlozdExRRXg1eXdzdzdfdXFIMU1ialBzR2FSSThEWE9V?oc=5",
-      "ts": 1786585297.6845243
-    },
-    {
-      "clave": "sismo_ibague_ayuda_humanitaria_agosto2026",
-      "resumen": "Ibagué envía primer avión con ayuda humanitaria para damnificados en el Eje Cafetero",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUlmR1pnSHZNcmtDV3JHZVBJMTZkazctQWFjbUZnVGJPbVREMG82Slh6SEVNLXlLQ19iZDJ2X21uZWFCV0t3aUJaYnhlclhhNWlzeWxoZ1RVM0U0OURWQmVMRVp1ZEh5eFduUG5uT2tKR1hDb2ZsTjViTGFnTTNmeVhBRFlFbDVwUGxOSXlJSEozaGU3d3NkSXZpWEhocTlSdzNySmd1RHJtSzdQN1B0RW5PMVZGMmYtVUt0MDlR0gHLAUFVX3lxTE5mR0g0MVJRMHBqX1ZvT2NnSUdRenBQbVVZa2hseGh3U25INGMtbDdjV1l0MU9PdXgwaVVETzQyM1RrVHZqbUh6RHo1em1HNWRrQVVXbEVvY0Fxc1pqemlJcDFnb0dVMFNxb3ZzRzJ3VHRnR0FPVmw2VDdvR0MtSXZacXZ6NUxBNk80RkpVc0x2eVZqTmhmM2cxcFlESXc4XzA5b01JUGNodm5QMVRzTFhSQjlwM1RIM2hLRTJSaWdyeV9qc3dFa0U0OTdV?oc=5",
-      "ts": 1786585298.141321
-    },
-    {
       "clave": "sismo_perdidas_economicas_valle_cauca_agosto2026",
       "resumen": "Más de $16.000 millones en pérdidas y 700 unidades productivas afectadas tras el sismo en el Valle del Cauca",
       "url": "https://www.eltiempo.com/colombia/cali/mas-de-16-000-millones-en-perdidas-y-700-unidades-productivas-afectadas-tras-el-sismo-en-el-valle-del-cauca-3578025",
@@ -173,6 +155,42 @@
       "resumen": "Miguel Uribe Londoño designado nuevo embajador de Colombia en Londres",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHdGYkdhbEVwZ1A0aHRiRWlvY1lsNl9aUXh5bXhUa3l0SGxHRmtKRkJRcXMxb2g0RzJNT2o1eC1VaHFVOWFHSE5LOTZkbGIxckpXLUhhX1RsOHBHTllwQkZsYlc1Y1BITENTaFAxUWJtMFN3WUVWeThyaVN0MlVXRml5YmtrWHE3ZGVfTGVQZnViaU1iRHhJTzBCNHhFTE5CazlCR9IBuAFBVV95cUxOaVljVXlGWnVkd2pvWTJ1T1k4N0hUS2ItbzJYTG1YN09sakFyb0F2N1JUZ0ZRMGM0cWEzdjBCTTl6YzZJQmQwUFlaMlFXbmFaQWpialF3SkszcjZZQVczbkplazE4S2k1M1RLTlM1d3JnQ21GVjByQXo2cmY1dXR0cVVoRDkzLXlFSmR3dWxLTGJlV3IwM2JVRTgwY0RoMVNTWm1Id3EwbUt4TE5OaVN5dVJhcENSUGdu?oc=5",
       "ts": 1786628040.5623758
+    },
+    {
+      "clave": "captura_calarcha_exgestores_agosto2026",
+      "resumen": "Gobierno De La Espriella reactiva órdenes de captura contra alias 'Calarcá' y 30 exgestores de paz",
+      "url": "https://www.minuto30.com/fin-a-la-impunidad-ordenes-de-captura-gestores-de-paz/1716027/",
+      "ts": 1786628657.7523592
+    },
+    {
+      "clave": "guardia_inpec_asesinado_itagui_agosto2026",
+      "resumen": "Sicarios asesinaron a guarda del Inpec en Itagüí; hay capturados",
+      "url": "https://www.minuto30.com/urgente-sicarios-asesinaron-a-guardia-de-la-carcel-de-itagui-que-apenas-iba-para-el-trabajo-hay-capturados/1716017/",
+      "ts": 1786628658.186415
+    },
+    {
+      "clave": "procuraduria_cargos_defensa_civil_agosto2026",
+      "resumen": "Procuraduría formula cargos a exsubdirector de Defensa Civil por sobrecostos del 53% en un contrato",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXYxY1IzNDBmb3lESElpWnVpUUJhVmRBbWx3Z3l6N3Z4NGRCLUl6M242Q1NLYWVoaWtrTV84VDRiMzNqd0Y5enExSU9BeUVjZzllTnMtUHZiYUs5ZEQycUg5M2V6LWpHdWlfNW9yLWVPT0pXU2lZUDRCd0VNZVlyRTQycE01ZzdFbDV3Zkp6YjRGSUVwSmRESWZLWDBqTXhQNDBQNGZOV1pJbEFBSVFGLV9hMGgwdW1MOGttWFZoWl84X2ZaTnZjNno5S0czNlpU0gHeAUFVX3lxTE1fUnRGdmJtd1pNZTFJdVFkT3Y3ZXMtT1cxNnZjQ0l2V0V5aFNoaXBsLXdQMGxBM0plUXBrZzh1d18ySzNVcFhyWXZSbk52enFHMHpVZ213MGU3MXpvdzA1aldTeUcyeXY1bldDUzN0YWdaQXVQVUFmTWUxZVRVRWUzTWFJeUlEY1JoVl9aek9PcTBXXzdUaTIzSnphNXZ4Vnl6cVZBb0x1bmRnU0lfZ1ozekpua0kxckxEaUdvZGxOZHVtMzhZMGU1SFpZSUpaNFFaQWpTcnMxLUxZYkNoQQ?oc=5",
+      "ts": 1786628658.7194574
+    },
+    {
+      "clave": "nuevo_contralor_laverde_agosto2026",
+      "resumen": "Nuevo contralor general Jorge Eliécer Laverde afirma ser un contralor independiente",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREFEdUdqR1B6YjhFb0F0QmJNeGV4aVk0NzQ3OGR2eGN6STgtdTJPWGxuTkQtOTlUUjM1OVM5NG5SU09USDZwWDJHOG96dHVnTXdsWDc1WGxHQWJDVWJEUFd1RVN4Q3VZQ3pPVGRjTlBxd2N4MllIZ0ZWV3RrMkY2NTJXV0FSWkIxTHZKSWNzZW9yUlU?oc=5",
+      "ts": 1786628659.1763449
+    },
+    {
+      "clave": "pobreza_monetaria_choco_guajira_sucre_2025",
+      "resumen": "Chocó, La Guajira y Sucre lideraron la pobreza monetaria en 2025, informó el DANE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT182Z3VFX2JxbFhVbWE3X21LODZhZnc3TE5XZnE0c2FvNVB6OTkzWFdJanVqWld1U1VpWW1haVN4T296QXEzSUxKajlBNFQ2TFYxRk4zWFFZUzdySHduR3BiZnJSRm1FSEtibUtPWm9XdFBtVGN0djVlU05wSC1qTVBDZml2THBzSUQ1SnFmS1JRSXdBM215c1RhS0VWWjg5ZWdqbjNrWUrSAagBQVVfeXFMT3dZc0o5aEpwMk9ybnhhSlBhTUJDcWtYX2VjVm1vRm1xbjcyQndJaXl6WHkwLXR2OFVyVTE0QnVxZzBuWDVqdDVjeDRFLTRXckN3cGs2UWdIS2xoQkFOMkdmOW53NVFVNDEwSmZWM2x5ZzBuMWNLRThuNERLajI4MnZrT2huR2duMDNOVldZWXp4cTlwLUdwSTEtWENXckRjaDRpYXc0d3gz?oc=5",
+      "ts": 1786628659.627485
+    },
+    {
+      "clave": "dolar_inflacion_eeuu_agosto2026",
+      "resumen": "Dólar abrió al alza tras conocerse inflación de Estados Unidos de julio del 3,4%",
+      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-13-de-agosto-4457695",
+      "ts": 1786628660.0693102
     }
   ]
 }
