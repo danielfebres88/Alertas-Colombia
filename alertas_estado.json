@@ -1,156 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_papa_ayuda_agosto2026",
-      "resumen": "Papa Francisco envía 100.000 euros en ayuda humanitaria a Colombia tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-12-de-agosto-ultimas-noticias-presidente-de-la-espriella-celebro-rescate-de-daniela-largo-tras-36-horas-bajo-los-escombros-3577781",
-      "ts": 1786528989.182462
-    },
-    {
-      "clave": "sismo_replica_12_agosto_noche_2026",
-      "resumen": "Nueva réplica de magnitud 3,3 reportada durante la madrugada del 12 de agosto en zona del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-de-magnitud-3-3-durante-la-madrugada-de-este-miercoles-12-de-agosto-tras-fuerte-terremoto-3577788",
-      "ts": 1786530831.6143444
-    },
-    {
-      "clave": "sismo_victimas_violeta_amparo_agosto2026",
-      "resumen": "Niña Violeta Guerrero y su abuela Amparo Jaramillo halladas sin vida en Cali tras el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/familiares-de-nina-violeta-guerrero-y-su-abuela-amparo-jaramillo-confirman-que-fueron-halladas-sin-vida-en-cali-tras-el-terremoto-de-este-lunes-3577787",
-      "ts": 1786530832.052429
-    },
-    {
-      "clave": "sismo_colapso_pereira_agosto2026",
-      "resumen": "Piso 12 de edificio icónico en Pereira colapsó durante terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-terremoto-en-colombia-piso-12-de-iconico-edificio-en-pereira-colapso-y-aplasto-a-personas-impactantes-imagenes-de-danos-y-rescate-3577778",
-      "ts": 1786530832.496509
-    },
-    {
-      "clave": "sismo_bebe_salomon_desaparecida_agosto2026",
-      "resumen": "Bebé Salomón de dos meses rescatado entre escombros en Cali; su madre sigue desaparecida tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/cali/mama-de-salomon-bebe-de-dos-meses-rescatado-entre-los-escombros-en-cali-tras-el-terremoto-en-colombia-sigue-desaparecida-su-familia-clama-por-ayuda-3577783",
-      "ts": 1786530832.9331434
-    },
-    {
-      "clave": "sismo_pueblo_borrado_agosto2026",
-      "resumen": "Pueblo similar a Salento quedó casi borrado tras terremoto de magnitud 7,4: sin energía, internet e inundado de polvo",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQ2hCdm14dUx3ZTFCa2tTRW1XbEtmcnJSV2JvVUlaWWRrV3dqSXFfQjdwWURDNURTVkJZZDU0RU9iLTdkck1ZTjFkYzFwSTdCOTFsYWdvYW94RENybnFkZ19EZjFFTUpSQko5Yk0talJGVXVTRTk0LTlFZUN0cm91bWlRU19rTU1ORUZidUsyN2xCZXdTOVE0cXZSU1hPMDhPVm0zelI3VmF6Uk5EekY2d25aRmhYQkJyZ0lOQnVXalpRRHB1bWtLal8zclRmTXhWOThPV0gwSEkwRFFqV3I4Nmd0a3R1d3hnWjY1eFV1akZjdU1sRGZwNklWbXhtUXBZLWNqSWlhOVpBQUpxbm9EOTNIT0lJaURnS29qRnlxUHFpd9IBpwJBVV95cUxPNGh3ZThHdGw3M0VUS2pMNXUzblRFQS1ZM0xhX0tCUUk0VHhYcWhyRnh5SWNsM1B6MlNtT3hzNTJFX3JudEp0cjE4d3JjdkFxM3c0eVQ4bFV6empHcTgxbGVnMm8tWDk1M0tqa1B1b2FXUDNpU0RzS2FlM3BDSTlmNEcwRzNRUzYybVp6eG0zNzk0aXo4alVjdzExSFJvdkhqeWZFRTNuM25TejV1eWdKblRJY2VqT19WMXBXYVYzcnV6YmdRWnptY0trQkxLdXdJY01Xd1AzY3pSRE00YnB0dHB6d3ZqVktRdmZyRG1WVXdTS3BQZFhjQlZYOERZTWd3WktudFF6eFBxYnpnc2ItdTA2NHRmZTQwaVBVZHdONGNyM19ka2p3?oc=5",
-      "ts": 1786530833.3708715
-    },
-    {
-      "clave": "sismo_replicas_santander_agosto2026",
-      "resumen": "Cuatro sismos reportados en las últimas horas en Santander tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHJ3NmVPMDdxV1kzRTJFTF9tN0IxZVRTSGp4M2NzNzZ2cTFRc3l5cHN0Nm5PTzNYbXljTkV4bVl2QWhkWDgxOUNZY3gyZTBZclpjdElnd25TcUhyT1hYWWJFa3kyLWZid0tITDFZVGtBaHA5UDBxWU9qRVdYZEFGbzVOb2EzZWVFVFZYcGFVVjVfWDNhYkM1WkJGWDE4NXR3aWplMklRVkxUTEkycy1SNnNQbW1qQdIBwwFBVV95cUxOaFU0YTRhLXQ2VzB1TE1ibGxlV3did2RQd1BYb3RQSjZ0a2pVcUY2WVJhREJRWEthWnB1T25PNm5kdWhIVkdtaXZBLTlvekhJdlhidkdDZ2F6UmpoQm9udllyUGhnUkd2d1dmLXl5MUs1RnloQkVFc1ozaEV2cThYc0xNcmY0RHFxcHNRTnhTdVNjV0xJb0EtRldVa3lyUXhlYTNXQjVjMjBBN2NLZTA5WDg5aWNOblNZaEpFUUlJS2RaQ3M?oc=5",
-      "ts": 1786530833.801628
-    },
-    {
-      "clave": "reconstruccion_minvivienda_agosto2026",
-      "resumen": "Exfuncionarios de Bucaramanga llegan a MinVivienda para asumir retos de reconstrucción tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjhCYlgzcDFaWVh6TDBCZXdfbVpybktJM284R1lNMWg2VUJXN1B1ZzVqblpLZnpLcFUxUXdJNGJmVHBZTHg2WkppYlZsUU53aTZOVU00dFVDcElUQk1uNW51aDhFSjdUc2pFT3o2WGpGN2xaMFgtc1U3VDhaRHBBTW54UU8yZ3V2Z1VHT3BlTEZZWXJicEV0TWRBS3NHRWU4dm9hcnVDNkMybHRZSEpfX0pkdFBwbmtPYldTRmlqbFI3aGNTUmpVTjhUUlFEdTBWTHFB0gHgAUFVX3lxTE9DUEVlTjN0bzg3bXUzWnVYNTBmVkxsa2puMlpDOENrOGxnTlNWQXdpdzZuckViREtHWHdHQ0dXSEVaN0RISWpZbEZfWnQzZlRLQ0cxTTZ3XzA0YTZnUU15d2U1X1FDa3ZfODh2TWp2SVdtMDRfR2g3WUVLSHZWWDM4VEVuYzNra2J5SFA3cHlQaU01Zk4zZXQ1dHpqXzBseXpoSjVfSFRVQzlIQ0dYNnZqbmlfd2pOeFZ2X2NBNUp2LTRqaWZncUJrRGpSU1lFM1ZNb0hvSlJJb1VGU0kxNjlY?oc=5",
-      "ts": 1786531447.3516417
-    },
-    {
-      "clave": "catatumbo_alerta_afectaciones_agosto2026",
-      "resumen": "Alerta en el Catatumbo por afectaciones a la población civil",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2J4cmpHTGFXdkplakFqVEZKRTdJMGRJdV9YSDZUeko1RTJMTThPNWZieTB1Mkl0ZVNJN2NscnI4QUNfZk1uMGRLY0ZYT0lWbjVkaFdLLUN6UHpRcmhwN0wxTjZpUEZsS09HdG1hRUxheWlIWE9OS0Q4cHljbkpUamsyQ0JSd2NSYlZNdlh2ejNJUTQ4YnFiaUk5VdIBrwFBVV95cUxQNFRRMlpRR2lZWEwxT211cEV6d2JxdjBpZlRfbzdDSmNEdVNXZEVjQ2Z0UFBfZnRJZFViQmtUWWZaT0NQQ1BNd0NiY1pTNDNyR3M1S0lwRXYwMjJnX0ZFYXR6SzExb1g5aG5qRmFheTU2TTJjeUlCR2I3c0tDdTFGcTJ6ZnRhSTNJUlVwRDhaRWIwMC1pZFBQa05vbFlQNkRTLV9qUVVqcjJ2VkRUVHBz?oc=5",
-      "ts": 1786532060.8968565
-    },
-    {
-      "clave": "tension_eeuu_iran_petroleo_agosto2026",
-      "resumen": "Tensión entre EE.UU. e Irán sacude al petróleo y pone al brent al borde de los US$90",
-      "url": "https://www.larepublica.co/globoeconomia/tension-con-iran-sacude-al-petroleo-y-pone-al-brent-al-borde-de-los-us-90-4456511",
-      "ts": 1786534515.0844238
-    },
-    {
-      "clave": "sismo_antioquia_90_municipios_agosto2026",
-      "resumen": "Crecen las afectaciones por el terremoto en Antioquia: van 90 municipios que reportan daños",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ01jNGpGS3lIT215TFM0NkF6Rlo5VDg3QWVsQUtuTWVkM3dtc0FzaHU1Z1pqSUlyNmhReXZvOEMzS3REa3J2SV9hZzZQUWRJUnZzVEw1T3hQYjVIZGJtY1VlbHNzQWlmbEh5YmtyUUlDS2lDOUZOUHJ6ZlJkZjFZWWRuY1NTSzlmQ2xOSkNCOGRxUWhvX21CV2pxV01mcW5PUVNld2dERExxbXFCck9zV09kNHRoWFZjZVpIbmxvMXZNRmN2QXFWSWgwQWdmZHpfOTcyaTln0gHjAUFVX3lxTE1zU2liZFBETmZHVzVTVWtfMU44cHNmaVpMcndiRnlRZ1R4SDk4Um5CdXExLVZ3OXNQOENfaFlEbWllMm1NVGd2SGtlLXRDeHhyX1RsM192QnBybE90cno1TjVRRlR3LTZLMDhzckhlZjdmbnZRVHI0djB5VENHQjBBR05FQmFQYmpDSnlyRDFodkNFSTNneXlOT2ZPaFNvVkg0dlJxTnRvd0hBQkgtNWdvZVZ2Wi16UFRKeDkxeUN0T0FqdnZFWURkb1VLLXhQWGozdWstbl9PazJuUkh2WU93WUdj?oc=5",
-      "ts": 1786534515.5512462
-    },
-    {
-      "clave": "penent_director_aerocivil_agosto2026",
-      "resumen": "Coronel (r) Arnaud Penent designado nuevo director de la Aerocivil",
-      "url": "https://www.larepublica.co/economia/el-coronel-r-arnaud-penent-fue-nombrado-como-nuevo-director-de-la-aerocivil-4456510",
-      "ts": 1786535130.0682833
-    },
-    {
-      "clave": "tamayo_director_ungrd_agosto2026",
-      "resumen": "David Santiago Tamayo designado director en propiedad de la Ungrd",
-      "url": "https://www.larepublica.co/economia/david-santiago-tamayo-es-designado-como-nuevo-director-en-propiedad-de-la-ungrd-4456514",
-      "ts": 1786535130.5226722
-    },
-    {
-      "clave": "aie_recorte_crudo_2026_agosto2026",
-      "resumen": "AIE recorta drásticamente previsiones de suministro de crudo para 2026",
-      "url": "https://www.larepublica.co/globoeconomia/la-aie-recorta-drasticamente-sus-previsiones-de-suministro-de-crudo-para-2026-4456520",
-      "ts": 1786535130.961367
-    },
-    {
-      "clave": "sismo_duelo_nacional_agosto2026",
-      "resumen": "Presidente Abelardo de la Espriella decreta tres días de duelo nacional por víctimas del terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-decreta-tres-dias-de-duelo-nacional-por-las-victimas-del-terremoto-4456516",
-      "ts": 1786535745.8109555
-    },
-    {
-      "clave": "sismo_replica_12_agosto_madrugada_2026",
-      "resumen": "Nueva réplica de magnitud reportada en la madrugada del 12 de agosto en zona del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-de-magnitud-3-3-durante-la-madrugada-de-este-miercoles-12-de-agosto-tras-fuerte-terremoto-3577788",
-      "ts": 1786536362.5485291
-    },
-    {
-      "clave": "sismo_papa_leon_xiv_ayuda_agosto2026",
-      "resumen": "Papa León XIV anuncia primera ayuda económica para damnificados por terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/papa-leon-xiv-anuncia-primera-ayuda-economica-para-damnificados-por-terremoto-en-colombia-4456502",
-      "ts": 1786536362.9971855
-    },
-    {
-      "clave": "dolar_caida_12_agosto_2026",
-      "resumen": "Precio del dólar en Colombia cae $4,4 en la jornada del 12 de agosto",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMDdSX3RwbmlNUTYtNDVJSElEaHRETmtIN2pKQ0RmRFBlLUp2SjMzNXg1Q0hBb1pualhRajdnZko2UDBtaDhSS1hQWHhWR29UREplRzRuRXZ4SE1yT0FyZFVZeWZjZU52S2RBWmVlRTY2d0I0ZnV1ZG83aDZTY18wb2Z1eUxKUFZfQzRIU2tMWENsaWVmS1RyMi1OSlVlV2x3VVBfWXZFMUdlUExoNFBXLVlnanN5UHJkY05OWGxYSDZ3Y3J5Nm40QURodjlhcmI5Vmk3SmVHNTIxSERfN2ItSEtJaUhydU1nbHA5OG5mb0gtNWvSAfgBQVVfeXFMTVlJM2I0Wmo0bzdxQXpabTUzdVo4dE5iMnJoanBJUVJ2emlRZmxzTXZoNUZManp0RzdWd3E4akV6b2d1MkFxRTZhb052RHQ2UjVSVTliREh1YlROaTljOUpxSld3Vmo3MnZlLVpTWmVGaG9vaHF1cUI0QWpXUjNueUdYdXNGQnpCU3lfY0VMRmJ4SzZWZ09wZVRvbnh0ajBHZEJoUWo5M2trVkM0cDM2cXJoME00Q21oTHY3bHh5VlI5dEpHNHNtSWI1OEN5cFkzMUdWQWZJMm9kUTNGQWN2SzlUU2o3Z25tU0pXM3FLVkhFNDFGeGxWRUc?oc=5",
-      "ts": 1786536363.4304154
-    },
-    {
-      "clave": "laverde_contralor_votacion_agosto2026",
-      "resumen": "Jorge Laverde llega con apoyo multipartidista a votación para elección de contralor en el Congreso",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVHBmeEdoenNTcDg2Z2R3RTZsWHhjWkZPWEM3S2FWa3RlRFY3OEFLemJVQVB0anFBTTRIUmlPemcweEJFcEVBRFgyaVJOTHFFSjJmVmt0TjQ2bVkxaElJNjJrdWhqVW1ZNGtES1lGbHhKVEdOYURXaVZoZC1jV1M2YTVvdXB2N2xORW1YbWNOcEF2NkNvNEdleHJqcHB6amFBTV9KM2VXNEZoOENuNVBzRXZIMlktdkt2Vzl1bWdtZTR4NlRvSFJYUEo3aHZNTFN5QjJMdlVKdm5MZ0JpNmZVeWh1YmZ0U0R5SG1hWG1SQ21OLUNJ0gH6AUFVX3lxTE9xSWFST3djY3hkaWY5cmx5U2Y0dkRDbDd2LVQtVW9acDl2emhLYUJPM21jbnRVX2lMR2Z6dDAwamhDa2QzMUl3TUdlbkJjdEI4cjhtc3NJcFpoRFpZbUtvbUVKTjc0bnpOUklOenRPelhoalN5RlBhdDRwQjZXRXUzUE5yVVlOVVNnckpXOThEZ3hKZk1Cbkl5SlllYlhzQWtIdlVBM3AyZnBndDRFRHE5MGpNODZxQl94WnVIRUMxODQ3ckswSW5BVm1OZWVCRlBVTUg5Y21VQ2t3Unl5VktwZmxfM0xMU1FLTy1LQzNyVlNVaExTUHFjcVE?oc=5",
-      "ts": 1786536363.878235
-    },
-    {
-      "clave": "sismo_rescate_angie_dayana_agosto2026",
-      "resumen": "Angie Dayana Fontalvo, desaparecida tras el terremoto de magnitud 7,4, fue encontrada con vida en Pereira",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-familia-de-angie-dayana-fontalvo-confirma-que-aparecio-con-vida-en-pereira-tras-no-saber-nada-de-ella-despues-del-terremoto-3577802",
-      "ts": 1786538208.0987587
-    },
-    {
-      "clave": "opep_demanda_petroleo_2026_agosto2026",
-      "resumen": "Opep rebaja previsiones de crecimiento de la demanda mundial de petróleo para 2026",
-      "url": "https://www.larepublica.co/globoeconomia/la-opep-rebaja-sus-previsiones-de-crecimiento-de-la-demanda-mundial-de-petroleo-para-2026-4456573",
-      "ts": 1786538208.5357873
-    },
-    {
-      "clave": "vergara_viceministro_transporte_agosto2026",
-      "resumen": "Miguel Vergara es designado nuevo viceministro de Transporte",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUw1bTgzUVBOXzdVVURqeWRLZE56aVh5R2pUSWJHdHl3Mm9JcVZ5UUZQSGItQ0d5VlJJN1BQdzRaazgxT1BIUVBtVHZoQnVvMXZ3cTBKRVBEc2g3dEFHdF9UdVNJTXB3TzZXWUxqM3hRaTZudE1uUWtMZFRpMWVqV3ZhWHVTVWhxTkhmUXRLQTZtVXNx0gGoAUFVX3lxTE84QnJrQlNfdjhrMWMySm1uWkF3QjZmUkUwcnEwZk04eHJoOHZjeEp6dVphOF9UV0pyT1FZTXJmcWdzQVlyTk9QUTJsU2k2c0Z5QUI1d3NYYU5oV1M1VU51ckh6akFRQlBRSnlHNVVEaUVQMFRzTUlEZV9pMTdPVXVNekhwazdVb1lvc3NoOTVycWVIRnZ5TjFtUkRmZ2ZEV2RSanNOTENsZA?oc=5",
-      "ts": 1786538208.9881167
-    },
-    {
-      "clave": "colombia_israel_golan_agosto2026",
-      "resumen": "Colombia reconoce soberanía de Israel sobre los Altos del Golán",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzIwZHprWjBqUV9UakRYTkxFVGttM2V3Q2VjdFMwTkktdmZYeFJ5eUR2YVdWcS10eGhua0VuS3ZFbjh1c25LdV9XZlRnWGpncVAtNVFaR1lPWDdFMTRydV96X0tzNzlNc1hXdDZFem5UT3ZVdEdmeVdDWk4xZ29HS2RRWm8tVzlLNTZtS0lsTjFOTkdIOUJ6UTFxMUw1SGU1cmV6UW5pTWtJUlhhNEtUS0xrTjU5dkd6N3JmanQ4WFpJNXczYlIzQ1hsVGZjQdIB4gFBVV95cUxPRkczeWNDeXE1VUJZanNDN1FPNEo0MEc2M3RjRmlTNDdMMXZtVS1tT1c5TnVTU3kzSFNqQXJnc19qbkFuelpCZVhlaTJNV0JXVFh4Z09KanlyMGt0Rkd4aktqckhxaW9zTjNqMWtJNXFtR3ppQVdiZ0ExWWJGS01nQUZDT0RKd1pRSk9ZX3JJbWRadi1PQzRQdWJlckZPSExHcGpkX2swVmIwbzhOMjZQNi1lV3R2Ukg2U09uZkdJQTliS3BycTF6TDBOeVRGX3ljNGhVbVVEdF9vc040UjBTM1dR?oc=5",
-      "ts": 1786538209.4242973
-    },
-    {
-      "clave": "sismo_desaparecidos_cali_107_edificios_agosto2026",
-      "resumen": "238 desaparecidos en Cali tras terremoto de magnitud 7,4; van 107 edificios colapsados",
-      "url": "https://www.eltiempo.com/colombia/cali/ayuda-para-hallar-a-mis-tios-y-a-su-hijo-familia-de-venezolanos-entre-238-desaparecidos-en-cali-tras-el-terremoto-van-107-edificios-colapsados-3577803",
-      "ts": 1786538824.6006436
-    },
-    {
-      "clave": "magdalena_intrusion_salina_agosto2026",
-      "resumen": "Intrusión salina amenaza el río Magdalena y pone en riesgo el suministro de agua en Barranquilla y Puerto Colombia",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/autoridades-ambientales-alertan-sobre-posible-intrusion-salina-en-el-rio-magdalena-esto-es-lo-que-esta-en-riesgo-para-barranquilla-y-puerto-colombia-3577819",
-      "ts": 1786540056.3813002
-    },
-    {
       "clave": "sismo_balance_general_239_muertos_agosto2026",
       "resumen": "Cifra de muertos por terremoto sube a 239 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazhLZ2VQUk1VaGJvWUNrZ1RERFFDY2RFaVlEUWVjR3FpNEJqTlh3akU5Qlg0bXVTVTdfYWc3dlFoV0I3eFFUT20tOFRtNW1GcU8wbjgzbTc4Vlk0RkZjdEpOeXBjSG96NXl6ZWJlalZ1VVpHWGtlTWFzclZFMkRVeTMxTnNIZlFSQm1hVkRPdDVrMlhzSXp3aFpXdy1TcTdMNDU4TlY1Z3bSAbwBQVVfeXFMUEg3SlE5VHdoZ01OX3d0X0xjODJubElzTEljVUZPX0FuYVRkYkZ2SEEzYTB6YWMwbFd4YjRIWEFQNk9wVXR1Vm5lZ1lzd0t2N0dSM21aMnhsVkc2OHRUZkdSRFhoZ2JXdWpBMkpFY1E3VU1FcDlxOUdpbnJSUlJJRXNVeENYdXQ1RFRaQ1ZmNkJscXExd1pTWUR6VEtLY1pxdFd4dXF6WUxKY1gtSlB5ODEwSzJpNHltVHhsMEY?oc=5",
@@ -425,6 +275,54 @@
       "resumen": "Colombia asegura con Spec 58 millones de pies cúbicos de gas para blindar su energía durante El Niño",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMmc2WEpaSXJfbWV1SVdFZngteTlZSDctSU9mTzlaLXZHQ0RObGZKWnA1MHBfUEdfY241UDdKenctTng5U2FPay0tWHZQenBJeWltZDlFWmlBSURHTllaT1RHRFkya2ZiSWNYS0lYNDZOdndhT3pqdV8xUDJEc3RMWHhzUUFBakRDZVItWmFvbEtYWWR0MjI2SklyeWZTT2d1YXpSbVZCcmV5RTVtaU03cVdPRFpYQkM5eWh3T2dNSnFZOVl3ZndNSHpmUHFDWE4tNFJoYmptN1hRZGFubXBWb1JZRjhEd9IB6wFBVV95cUxPSklJcE1fd1V3MmFwa2FOYkp4dHBKSy1kcXlCWFI1RTF0ZG95V0xwN0VLRnFjYldoZkFQWTQ1dENpOVF0cEtmVTUyUnZsN29JYmNCT3FTSDdaU09ENS1IcURMNkVXUXJlYlFqRzdUR3JIODRZWUVrdGpyRUlEeUV3SVd5UzJjY2VxRG1qeko0ZjNQVnlUaGpicmR1bHhFSHNHaHhWbnhXaDVfeE5mRzF6MkEwQ3FLb2JaOWpEM2pRQ3h6Q2sxODJrdGJYVEhlWUVWNjFUS2Q2djNmdTdINUtJaDRjMWlpQWxuS3pJ?oc=5",
       "ts": 1786568624.1936135
+    },
+    {
+      "clave": "sismo_choco_cierre_rescate_agosto2026",
+      "resumen": "Gobernadora del Chocó da por finalizada la fase de búsqueda y rescate en el departamento tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-dio-por-finalizada-la-fase-de-busqueda-y-rescate-en-el-departamento-tras-terremoto-de-7-4-en-colombia-ya-no-buscamos-a-nadie-3578022",
+      "ts": 1786584065.8768704
+    },
+    {
+      "clave": "sismo_rescate_daniela_largo_agosto2026",
+      "resumen": "Mujer rescatada con vida tras estar bajo los escombros por más de 36 horas en Pereira; su corazón trabaja al 20%",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/daniela-cierre-los-ojos-luego-de-36-horas-bajo-los-escombros-los-rescatistas-salvaron-a-daniela-largo-3578019",
+      "ts": 1786584066.3660853
+    },
+    {
+      "clave": "sismo_balance_menores_icbf_agosto2026",
+      "resumen": "Directora del ICBF entrega balance preliminar de menores fallecidos, desaparecidos y atendidos tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-paso-con-los-menores-tras-el-terremoto-de-magnitud-7-4-icbf-entrega-balance-preliminar-de-menores-fallecidos-desaparecidos-y-atendidos-3578015",
+      "ts": 1786584066.8094554
+    },
+    {
+      "clave": "congreso_permiso_petro_ano_agosto2026",
+      "resumen": "Senado aprueba que expresidente Gustavo Petro salga del país por un año",
+      "url": "https://www.minuto30.com/senado-aprueba-salida-petro/1716015/",
+      "ts": 1786584067.2443285
+    },
+    {
+      "clave": "ecopetrol_denuncia_irregularidades_agosto2026",
+      "resumen": "Gobierno De La Espriella amplía denuncia por posibles irregularidades en Ecopetrol",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTdBdnAwZExtbFRxdFZrX09TQXFzSE8zRVFNOWhrWkNNeUhVdEhhUnVZcDNxMzNITzBvNUJKM3R6ZTFiZ1JvUFBNZ0pFS0p5TTlsU0JBYXRSbGI5MEU4TFFmbUI1Y2tQZndHQmo5b2E1LU5xUy1SOUJlaXRHcFJ0Rmc1WTJrcnFjUWJsbHUwUml0SkhVdEZHVE15QThIRGY4TThTWU41aHdEWW5NX2NOeEVYM0VIODY4Rm8taGs4MnBtS2ktQkVGeF9XM0t2aTlOOFQwd0pJRzc0bWxMSVVJYzBrVmpvTVhGOUtQRjZqNNIB9AFBVV95cUxPa3dsekVnS2FOVVJNeWY5T2FlQzZId2NCNXBmTmRXM1J6dGFRMzRmOGdaVDVHb2JHUFcxWG1BRS1keE9xcDJid0E3bHFFdXhTRnNIU2t4Z0FkT2RKNEpqbG5QazFIOFNNVWhEb216cHRFVTlLczhKV3Q2ck51RTVCZ3UwTmF5cDJtM3NzVGlES0lyaXkwc29Uc2JlTFc1VmpySk5aWWx6cDR3bHZlS0IxUTF5MUUxdGl3eFk2aWF2bWM3WmFIMnYzejB3QktXVFluYmNkYmptSURuNjVadTNfSF9HYzdVTjJIV1NNeFh3X2x1eFFv?oc=5",
+      "ts": 1786584067.676416
+    },
+    {
+      "clave": "sismo_adres_indemnizacion_agosto2026",
+      "resumen": "ADRES indemnizará a las víctimas del terremoto en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDBsWHFlUi1IdjJqeUI2bnFnRW15ZGJQZXdJSGtVSkc1OUJPZHVrckdzbU15QkZqeDNQbkFvLUNQc2lqemFaRmxvbllud2FfYkZ3U3Y3Zlk2NEVnVUM3Nk96cTN2LWRZd3Vwdm1RbEp1UlpvemVxVU1RSExvY0pYc2FmcFhvV2dBSjRUdWlKYzF2eXdNWnlhMi1MR3dJcC11NWpXUHJzYkUtMGJwMEZyX2s2SXI2c3kxRzdV?oc=5",
+      "ts": 1786584068.1261523
+    },
+    {
+      "clave": "sismo_prosperity_segunda_transferencia_agosto2026",
+      "resumen": "Prosperidad Social anuncia segunda transferencia para hogares damnificados de Renta Ciudadana",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0hucS1QMENZNmVzellfZloteVFReGpfSmIwTEt2R3dwOXRBWk1HRzNvTHlXRXA5ZTlNNnhhTVByZTdZZVFLUUt4M1VQWE9wc0k5V1Q1MkptY05OOHJYdzdrRXZoZGF4enN6RlZOd3hBWlhxbU9rYjJwM0M5OEJWNzdtOThJNEIza3ZONlVvWWVBN0lIWkZWbURjaU5oQ2YyaHU0ODBjNVRmUXNSQUtfTXhLVVFicUFrWUt1Q0ViN3lWVnRSblpxRXZmVmjSAdoBQVVfeXFMUHZ5S3hmcG5DR25jb3gxbHBabDZNbVdIa0tjNTgzdVU3UlRrNWJJRW8tU0JKYXYtQjFMb0F0RTRsRUdmOTdwd3dqelkySXVheHlzemtHMHdnY2NoZ1JIbnJLeDdOcFF4SEpIMkZUd3ZHU1d3MG9qUVNxZ3NMa1FnSUZNNUhmZlpYak9leE5GZnAtYTg2WXBaRG1PdjQ4N3plSnVEZkxKdUVFR3J0OEVCZGtuWmpnOThLYXc1dlhxR3NaTEo0UjF5VS1lYmxBVDkxR2dUeUdKOVJudFE?oc=5",
+      "ts": 1786584068.561505
+    },
+    {
+      "clave": "petro_rechazo_militar_eeuu_agosto2026",
+      "resumen": "Gustavo Petro rechaza presencia militar estadounidense en Colombia: 'Vengan a matar colombianos'",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb3QwLXl2Tm9SMUFIbHZoVUJKZGhxdzE5b3V5MXZHcm1TVk56bHAtU2NVOVZ6WDRiX29FeUgwU091ajBMcWRUcXlkUU9Ocm9iOUJ0N25lQnJ4RngzZTlvWTN5MGdNQ3dYeDZwa0xXQnRmbXBYaXZQWXlOdFdQQUNjSDJERkZ2bE1UUGxiSGxoeEdTbGlGSlBTNzFXUmsxMXAtZ2I1UEZkRXkxS2dWeFBFdFYzSEtnV1gzOG5SUk9tRE5wWHN3NDlNYUswZk5DQU9CVE1GUDBwMGljSkhMbFZ5ZzNpVUJVNWh3QkJvT25ZTDQ1VmRtSXFEeXpZdEcwTFk4cmZ2S0pB0gGgAkFVX3lxTFB0UndIRXF0ZUtjTUlaZ3FlR1J2RS1CcTQ1cWh5RGRrbHJZRm9xU3JPVTFibzQ4VDR0eGxGZFY5NkZjQnJjdE9QSWhPZm9rWTZwVlNqTU8xS0RDZmdaaTRsbVhmRHVhaXdJNTR6MkZHQ1g5dTQyeU1lWmdmbzdlcnl3T25yRGlZQjRXbXA5eUdreEdIVFIxQmlDV0pDekE2MFBvdVFKalZjc0hfblAzQk40T1BjSHlhdU9UbTdlSU53by05bDZUVW9FN2NZY0F2NlRxTGxtLWlPdVl1N0RBSFNVTDYweUNnZUlOYUlwWHZySzN4NFBBUmdJQUxBR29nSW1QdnRBQ1BkcGY3ZTBpd0ZwcTZ1Qy14QVNVbW1iVUNtYg?oc=5",
+      "ts": 1786584069.028984
     }
   ]
 }
