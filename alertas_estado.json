@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_indigenas_choco_incomunicadas_agosto2026",
-      "resumen": "Comunidades indígenas del Chocó siguen incomunicadas tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-del-pueblo-alerta-por-comunidades-indigenas-del-choco-que-siguen-incomunicadas-tras-terremoto-de-magnitud-7-4-en-colombia-3578048",
-      "ts": 1786593885.552269
-    },
-    {
-      "clave": "sismo_identificacion_victimas_205_agosto2026",
-      "resumen": "Medicina Legal identifica 205 víctimas del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFhlbXIzNGNNT1hmUkY1UXF1NWVPTk4wMlJCd1dyem9UNDctS1hVX3pHa1ZTRDNId1ZkeEVpLWpHNVBESU1IS29US2paNk9RVlp6djdnbG5mNUVHcFlhaE12aWdlTDJtX1JidkFnWVpoZkVMa1EwSTVwNThXSGNkTWZjNnZuT1dkdXZZdHN3Vk1GSFllSF85cGwtd3hmQ3E4cmktVDlaVVNlODZ0VXBYbnl1Mm1rZVdza1NXQlJmZmpONlNZUEViR08wU0JEZXl4alFVdUlxdVpHZmdIZmFWNTRXQW4?oc=5",
-      "ts": 1786593886.0067043
-    },
-    {
-      "clave": "sismo_fin_busqueda_choco_mininterior_agosto2026",
-      "resumen": "Mininterior anuncia fin de fase de búsqueda y rescate en Chocó tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFZJVWFSZFBhb2hUcFFPSFpUbzlhbWd2d1FibEZlZko4cWdRNFQ0WXpGTmRJYnRIRFBod0VVSnBBNG5ZVmdIdXlKcGZQaC0zSExMQUQ3TV9EamVGZi1RejQ4d1lzaVFqbHBCaVJaOEpSMGFvQ2hmbXNLRnAwSU5hWmFYQVF1d9IBhgFBVV95cUxOdEVBLWQ1aFlxTXkzT3N3dlNHeENHSWprNnN4VWM5LThfUEpUYXBjQTJZU0cxeHpZYW5sQ3BFT01wYUZ2VDdDV0RZc2pNX1RpdjJ6dFZnTkxhY3hhRENHUl8yZmFiclV3WF9yZ2lsRThfLTlWUEFuTFdzNXA5Q09KVFUtWmZfZw?oc=5",
-      "ts": 1786593886.4529984
-    },
-    {
-      "clave": "sismo_replica_magnitud_4_agosto2026",
-      "resumen": "Réplicas del terremoto en Colombia continúan; una superó magnitud 4,0",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1N1SklHaU9BX0NLMmpPeU5scERVbEU5TkNFZ3IweUxnelFYTm02V29DYktzYndQSFdFMHhhUldzQlhPV1RvNHhTSDBPU2lBZTBYVjNydE8yVHBWbkJERnRMYnhXZjhUbnNlMFRJUjB6T1YzaDF6T0lnU3NFOWp3WGRtNHg4ZXVUVDltWUhFdE5DNmkyZmpGLWhBR1fSAaIBQVVfeXFMT3E2d19pQk5aNm9CbTVtclJ6WUdfbGpJZDhBZTlKc25MRkNqQlI5R0J0YmJBY2FfdTI0ellDZUdfZDR4cks5UjBzTzdyR2xSMVFjOWhKU05PTHBsV001QUJmakF6R1BENVdwb21pdjJrTG13b0t2TERsNkFCVmlMSkhJOERlcGdFbUVzUXFfV0tnX1RxVzJSMC13bmZ5dGhTbktn?oc=5",
-      "ts": 1786593886.909406
-    },
-    {
       "clave": "dolar_caida_agosto2026",
       "resumen": "Dólar ha caído $317,51 en lo corrido de agosto y más de $630 desde enero de 2026",
       "url": "https://www.larepublica.co/finanzas/el-dolar-ha-caido-317-51-en-lo-corrido-de-agosto-y-mas-de-630-desde-enero-de-2026-4457307",
@@ -269,6 +245,12 @@
       "resumen": "Fútbol colombiano seguirá suspendido hasta el 19 de agosto por impacto del terremoto",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEMxZThERUhyRTNkV0hycElmaXZ0bjNQWjEyOGtHaWhXYVYwQl8tWG0xazVWVVFtVW42OFVNWFRUUUhGQklMMEFNYTZsaTZPcnpfeDhRRkFHSVdSTThzNXNKd2RwOFFqMGpWb3gzQUwxS1dqZUY1Zm4zSEIyUUpOYUc1SGtyTHN4RXhyM2VyZ2o4N2E0UUFkWFJxNE1BaURyaXc1ellmNjh0VW9PTHZrU0h0MEdINHFqa09oMWpDekIxOW5CaUZoeVF1Z2dBRGZSejRvMy130gHjAUFVX3lxTE9MR1ZhV3pHRnY3Unl5dm4tMk0xR2JMRURJODB4enRjbUhOTjNIOG1DUi10QnZNeFZ0RUJVREFiX0xYckVWbWJVZ1V5UEg2NlhSR0FRb21VdE54LVZhWXQ2dk8yY1NaZV9JZm9CTk14blRaeUZwQ0RIMGtqYUNWaXk5VnpId1hjd3Joam5QMTRISzVfTFlzNmZUX3FYM0Y5a0xVa19xcVdCYlpNZEY5VmJVVzRPSGloMEl0UE5vbW84N1VnemVjMGxtMHE2YzdYMTBkMHR1djhfeHNLVFJkZzU5MlE4?oc=5",
       "ts": 1786635447.0485773
+    },
+    {
+      "clave": "sismo_alivios_bancarios_agosto2026",
+      "resumen": "Bancos anuncian alivios financieros para personas afectadas por el terremoto con períodos de gracia hasta por un año",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSHVCRXc5TG9wemJsNmpVb1dBbldBdDNva2V4cklwUTVPMHB2dXVSTVpjeEIyYUFGQnNfSXh4Mm1rdjB1U1J3RmF4azJRbEZTYlR4eDJNRjM0Z1RlWG81X0ZzM3RvTFVLdS1falZka0M1NVVxVzdUZWZpc1Bpb2h6YzQ0UUdraHV0SWFDTEJBd1ZCdFltcWh5cC1vUDdqRUZSNjRaMnBhRUpRTkl1U1BIS2ZCdC1RT3B5b2ZQVVRtY0I0dUdjNEx6R0pMT2UxUEoxcTVBeWxyd1JENU9CQlMteWlBMkNjZ1ljQ1FxN3BjZFNDMHozeVNpbGo3RzhoZw?oc=5",
+      "ts": 1786637293.411652
     }
   ]
 }
