@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "buenaventura_crisis_sanitaria_agosto2026",
-      "resumen": "Crisis sanitaria grave en Buenaventura tras impacto del terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/un-balance-devastador-asi-es-la-carrera-contra-el-tiempo-para-evitar-una-grave-crisis-sanitaria-en-buenaventura-3578299",
-      "ts": 1786672275.192462
-    },
-    {
       "clave": "superintendente_sociedades_pretelt_agosto2026",
       "resumen": "Julia Eva Pretelt designada nueva superintendente de Sociedades",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXB1VldNcUJjVUVEZU1rUkhpdWFwblh3bk9EWDdlTUpaaXBBcVo5UEpvcl8tLXpQZUxvZjVkYzRyWHR2VjFEeHkxb1BSajdzclduRnU5ZklOSVJvTGdqZXBFTER1ZWhwQmdQM3NNNDBVQmY5T2w5YTBCcFA4S2lZVGVzaU5oRFZ2UUt1Sk9JS3lwb1YtSENzcWZEWUdjN24ySGlSVTdwSDJSbjJoUUZyWVdqZXrSAboBQVVfeXFMTXB6WVdpbWtHd2FWS2VkSjhGMlVPWmhsZ3ljVzZGREw4MHRMbjJWY1hsdGIyZTNWQk1reTlwZG1HMTN6WEl1TEZnWG5oTEdDYnlrSXM4UXNhU2wtZkVqcmcySDdFNHdsT01HdnluRGxKVjN1emp6eGd5bDUxU3BXS1hKb25raTdLU1JLem5BSF91VnA1NnNVRE1adER2Z2xnWkF0M1cwYlpSeWg1RDBudEFvbHQwOTQ4b0Rn?oc=5",
@@ -197,6 +191,30 @@
       "resumen": "Falta de conectividad en regiones afectadas por el terremoto dificulta respuesta a la emergencia",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMDQzSF9hclNLZ2xNMi1YVUN2TUZHbWJ5cm00Nm5kN3dKR3luc3EtakRlLXloRnpRdmxwMU96Q3Y5QzZ3UHBNVXpNQWZ5UGU5VmlLQnJPc2RYUmRKdUNzX1hUd0tGLU1uNnRINFhEU0prWHNXR0JlOXlZTzNQZkI5czFGV2h1TTZLekNiNGFlbnFDVTNPdzdyTWVZQzBRS0FDaHFZZ3JZNnQ0TC11VDktYU1YQjBTQjA0WnhNOTFQbnhNNHg1Z1BHSUFwM0tXck9hc0syNTRGS1RUOWlkNjBoQ1lVSTlBRm14cE1YT1RKVklDR3owb0lWdzMyVGZqSVJIWmhWOGQ0WE92OGpl?oc=5",
       "ts": 1786715451.227697
+    },
+    {
+      "clave": "reconstruccion_tiempo_estimado_agosto2026",
+      "resumen": "Camacol estima que reconstruir zonas devastadas por el terremoto de 7,4 podría tardar hasta cuatro años",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWV9WYkZxNDA4ZDRicHZ2Sm1pQnNkZDNxTTFURFg2ZkV5RjVhbHFsalRFeEkyLTNfakdIQUczZlpjNU5CTVltbklEMU1mbmY3MmRsRHdrNmxXaHpBWDNaQ0xPbHI3OTBUQk1JNWdNLXZMRmhqOXFwX3hVVnNvNFE5SVJNei1uQU9oRUJMMk55VFdFYVNQc3NlT3hiUmVNeDFFeTVvcEJvREJOZkFsVFdEYU0tUTRQZ0hFbWpYaU1RTXHSAcABQVVfeXFMTWZhQ2pRNHJNQklVUVdwZHBvQkVpdjE1ZngyblEyUW9XVlBsa3NYZ21PYXo5SG8yOW5EeVVVN3dwWDIzQU5jdDdpZUppX09JODNMc2ZpNHRFWHhwWl9lX3RVS3dFSjJfWnpjVkFtbU83c2VTLXcyZTc0bUI4NjZ1VE5kc1BYQ0FZY0VsdXIyaElJa3RtakFMb1FlSGlfTUdRWXgtSHBNWjQ5NzJNZ05OZ09kaVdqQVVYMGpLalZ5RjFr?oc=5",
+      "ts": 1786716067.8127153
+    },
+    {
+      "clave": "ungrd_critica_recursos_agosto2026",
+      "resumen": "UNGRD está 'sin plata, endeudada y sin personal' según David Tamayo",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQazlvUGJPWG5GcXRiU2dPa2tOWFZ1SXRHa2ZrTHphSTM0R1V4WHQ1X1hrNUhNeHp1dGpudUNiRjBZejFnX0hsTlM3dDdBcFJSVXh5d2lRdzB5SjliME5ST05xWGVGLTNMTnhlRWtRcnJxTHRvandielVvXzJOSHNqUWUyaWNjbWxTd3l4VUFvaXhIUFltTG1OMEVZQ0VjeUYyT0NvU2V0TFFNcXFYWDlpNlpOZEw3QUpDSjdFSkRRYW5DejhORzZsUXJZTTd3SzFOSVFhWGIyaUxkckh5UEgwVEFtcHE5UXdVNHExN3k1MjI0RVdNSnBaRkZyeERNcDRB0gGGAkFVX3lxTFBRdHdaNF8wbUhlMG82THVJVGd3aG42U2l3ekpQekx4dEdzVFBKcFFxdXZKcG0yNW5BbUdqaUZIYmRZdjc2Yy10T01xM3piREpGVC1tTmR0WEh1UjNXa3o0cUx4RGtFTF9ZWXJUUEdabnN3dkZhaFZBa3pDVVpLRF9TQk1sUlBkcTc1WlRDWmhaZTNsejdPTkZkbTNKV2N1d1RFenhUQUdGNkJsVGExekE0MVRLa1haRk9SRC1SLUU1aFRMZVcwNTItMmxobXdPRGw3QVlkSGxRaExpeWhWVzRmYWxsRVRscUp0TU1QNWF5ZW1BMkUwWHNuUnZFTHZ1WlhvWUlZS1E?oc=5",
+      "ts": 1786716068.275955
+    },
+    {
+      "clave": "embajadores_insubsistentes_agosto2026",
+      "resumen": "Cinco embajadores fueron declarados insubsistentes sin haber presentado renuncia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUdLVWhmVXZtRHNydE40d21UM2hIS3d2VVREZ2ZhZm9ibUtYUWRWMjd2MXliOTdWM2h6M1VDQUZpQ2pmZkZpVU9QWnprYkE5aVFKTlpQdmF2Ry1wS0dNN2VjYVJRSkxaY2tkMW55MDh4MkY1em9PaW8tV0M3aHZQdnBtNFRMSEYyLXlXeDgtdjRpSnhsTngzMlAybXoxMHVWWTE2UVJ6OEhwYVZNUVZJWnlVVERxdU5n0gHGAUFVX3lxTFAwbWV5bE92cW1fNm85RVlPTU5rMHkzLVdTVWtwQ0Q5OHpXUlVPVm5JcDlsUU9NbFh3elJzeWtOeldFMWk3MUhBek9QZjlGWXRNTWZMS1plZEZqbDlSNlJ2bHhOakU2SGlXOHJpQ2lnOTRIeng3Znc0X0hXbndNNDdHc29ySWRMMzZoTDJ3M3B3VFNYb0pERWVTUGtPYlYyRnJUMjhsZ3d2QUU0UDQwOXpHeXAwRDdLZWFDd0ROZDdPUjUxRGp4UQ?oc=5",
+      "ts": 1786716068.7882314
+    },
+    {
+      "clave": "gas_sirius2_santa_marta_agosto2026",
+      "resumen": "Confirman hallazgo de gas en el pozo Sirius-2 frente al Parque Tayrona en Santa Marta",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLTZQM1h4b0I2SV9BX2pVYnlfUl90YmNBSkJyMGt5S3hTdHBkYldlN2dwS0dkbXJRaTZMa19Yb2U5aXRQQ1RIVFNibUZqa0w1M0staUotTUlDaVNjZkhyb3NQTXBiZUktQzNPLWtkclNmaWNpdUZrWmFuQm53YURPWGtwemQxZGhnckRFZVkzeHdOeWlkNUVRMUZPcW55OVZiTmI3djVBYzA2OEVOWks1WWV1cXh0VV91MjNueUY2a2oxV1pYUjkyYWpxZ9IB2AFBVV95cUxPWk9tTjY2VXdKeFdlZ2RCblJBRjZOanAwQm8waVV5VXRUOVdQY2IwaHJzMmhvdy1QdVRTdkxoUU0xcmdDNEF2MTA0Q09kVHFYRXVFcEhIWnNtd3JTeGlHYWZTT0g4enNNd1VfM21DMmdpTEh6dnA4dHRKN0g1S1NpX1hwMzU2TmM3VW9ZOE44d0ViLThHUzBlblN4RlU3bUVra3F4Z0x4dm5fSE1GV0IyYjJUTFNkWXR0VmFoeUZpNHBILVhmODlQYkRxWUpSUldpNGVtaUs4MGQ?oc=5",
+      "ts": 1786716069.2273393
     }
   ]
 }
