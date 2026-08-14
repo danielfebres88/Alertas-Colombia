@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "anla_director_pineros_agosto2026",
-      "resumen": "Sergio Piñeros Botero designado nuevo director de la Anla",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMTZGSFlnNnl6MHVGbS01M2xLNmJIdVVsZF8xdGs2WWdsTHFNdFlDc2ZzT1dGenJlcV9tOVpQcDNyQkt2YnRRVG9KQXdtbmFrLWI5TGZEblB2UlcwZm1yT0xwd0hWaVZVWkJYNFZ2QU9SLUhndjJZVXcyeWhscHZwalpodDJkRkNRUHNQRWM4N0tDTDQ4VkFvdVBhbnVYT2cyangxUk14WE5jT09OemdmaHVWUmZGM1FC0gG-AUFVX3lxTE5lOW1TTzZWdWhaWVduMWoydkdKU1dKR014UUthcTNxdERjX09TeWw1V0V6bVVtdkxDRjlka05iaENSdmVPMFUtZmVscVhUUU42WWZEZzBJZkt3dHNiR0Nvd01kaXVlNGlqakdkcTlfWTNHUjlOQUcxaGlPeFhYZTBNTGNJTzRJY095MkdPVURWTzJjb3NkOGdaTVozZ1VNSW4zWm1jSWY3S01GX3laUDlYR20yUXNja3pTYjl6Tnc?oc=5",
-      "ts": 1786679081.2440436
-    },
-    {
-      "clave": "mio_reembolso_terremoto_agosto2026",
-      "resumen": "MÍO de Cali reembolsará 100% de pasajes a usuarios afectados por el terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTBvdHFxUkd2Y2s0cEJmQkVjSXBwTmdjWGJiMlAwVkdiQ194VFEzYnhsdXloSE5PU1lSaHhZS2R6dkREQWx6cmNVTUJwYmhUZEdObGxER2EwYnFWNmVab042akJzRjNUV3NjWVJndHZMaXMwSkpodXU4YWl6d1pMZGtLcEtMeExMWmYzNGxpTnJfbWRuYS1wVHRwQzh0TUV6Zng1bkM2bjVoN1MxZXZkWWpkdHFfaDN0R2J2akdUWTNlRWdKLUVicFJ6M2lwaW9ScGJQMnJPUQ?oc=5",
-      "ts": 1786679081.697966
-    },
-    {
       "clave": "sismo_magnitud_4_agosto2026",
       "resumen": "Temblor de magnitud 4,0 se registró en Colombia en la noche del 13 de agosto de 2026",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjZKUWRyLUgwSGNlODdUNHpTS1ZKZXBrTTk1Tnd2MU05TkltZWdJSnVlS0NDRkxnYy11RzFzTUZMN01yTzZWSXV4RXRyTk15RWR5ZGlYb2VlWEtOdTJiYUd1R2p1bEtVeHZUamx1RUhjR2RSTVJaWndQbDZ1WTlaNHltdHhrdDlpY3Jsd1ZRQUlyXzRuQkJHQzlHZEg1RWVvQnQ1TDIwZEhqaXduWC1XM2lMYjc1c0lEYUtkbXFkT3JWSDZQMW83aWRmT3QzMHNyUTJNbURaczhNTGfSAegBQVVfeXFMTU52aWxZRElZdUgwMlRJMk1NQ01IYTBPTGVVRmZmZlJ0Y3NHQ09oamdpQkVrM1BmWWM4TlJQRDVjcGRFMnpCbS15aUZKajZtV1dxYVBZMGRqeV9uZ19GZzBFSVQxcTZrc09TWWEtb2tUMjJJWXZwM05xWnZ3MFRLZHpaVkx2S3NRVm12VDhMc2IyYjgzTURObnpmdm5mWWtULURUUHVKSWd6cGUyVnZpOW53RW1QQTlMOXR6X2I2d19CWkpac3QxdVl6NjZMb2lpWjdXVnZNT1hvUGRBSEpxR2t0bVcxVW9UTA?oc=5",
@@ -269,6 +257,12 @@
       "resumen": "Claro reporta recuperación de conectividad en zonas afectadas por el terremoto de magnitud 7,4",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnFxQVFEeFlydjRMV1N3Qk9HN1VwQzZNOW80bFIzWE1UcDRxdjIwNUtnV2xsdU5qdDZEZjlXUWJUdHc0VDU1cWo4VUJvQ1ZnaUNkUXRQczdSMk1zM0llVFRmNE5fZWhTZlBja0tjN2VTT2hSaDczWWdIc2pTWk12M0RGT1Q3eThLVHBFTFVWbmN6UnRNdlJfa2dfdzRBYXJ5V1JUazljYXFudU5FTW1FWEVWQnE4UjE3YTdj0gHIAUFVX3lxTE9qSFllNlVYa3FtVG82YmdwejBvM3hfNnZtcmxCczZCTlFZeVp1aWRBbjBwdUNXOS1weWZNWHdjSjNlcG5NMzJEYUZfeTltekJYeDYxWEZwbU9LcHRTb2VDSEVGWlg2U0lLNWpFaGNJaFI0Ukg0bm5iemY3eGotd1dXdFFkX3lmMjllYmVkb0tKa1RvOU1Rcnh1NjRoa0l5X0JWNzJxdXN3M3M2c2VtZTAwYUIyV1h1blRRODM0SklmRXBUZ0JRbllJ?oc=5",
       "ts": 1786721641.890537
+    },
+    {
+      "clave": "acnur_desplazados_terremoto_agosto2026",
+      "resumen": "ACNUR alerta por desplazados tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.kienyke.com/colombia/acnur-alerta-por-desplazados-tras-terremoto",
+      "ts": 1786722878.0094297
     }
   ]
 }
