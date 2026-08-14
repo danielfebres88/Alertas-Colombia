@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "salud_valle_cauca_emergencia_agosto2026",
-      "resumen": "Valle del Cauca enfrenta emergencia de salud tras terremoto con deudas acumuladas",
-      "url": "https://www.eltiempo.com/colombia/cali/entre-escombros-y-deudas-las-dos-emergencias-que-mantienen-en-jaque-a-la-salud-en-el-valle-del-cauca-3578104",
-      "ts": 1786629895.4085994
-    },
-    {
-      "clave": "petroleo_caida_agosto2026",
-      "resumen": "Petróleo cae por señales de menor demanda mundial",
-      "url": "https://www.larepublica.co/globoeconomia/petroleo-cae-tras-seis-jornadas-de-avances-por-senales-de-menor-demanda-mundial-4457697",
-      "ts": 1786629895.8521874
-    },
-    {
-      "clave": "uribe_colaboracion_eeuu_narcoterrorismo_agosto2026",
-      "resumen": "Álvaro Uribe celebra colaboración de Colombia con Estados Unidos contra narcoterrorismo",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWDhkYjhCWl9mRjF4RFRoQjljaXdDWWxZWmJUYzF2VFJ2YnNwNTJ0SHhVSkJYQ1BKRi1XeS1rbXNFb05CQUk1Q1RTSnp0NzFvMmNvQzZxQWJ2SUJTd19FYy1DSVBYWGpmLUxxQmlnSFVIMWh3STRMX0ZxNzhpRkZtMVFyVXNrV21WM0IzX2ZyZlBXYXM4VW81VHNXWDdUWl9KUjRialR4UUVyTnBHelVwVzUyWnE5OWhMWUVtTzJlZEVsQmNjZUlrTGVScUdDWVpWenFTeXBzaXhSWmZEMFJfVTNYMXNrZldpVDBaNWhDdnIteTh3OVZZY3lwZWNybFlBa3l3UmNLZk5yUV9uYV9yU3VBUXJqYU11RXc2YXBtdDNzRFRVcXNOUENJQzlsX2_SAcoCQVVfeXFMT2RDN2dDa2JEdkpEWGxISjdlcm92Wi1vby1GUlNaaldjcjJhSmpJNkJ0OWtycTY2eVkzTmIwamJoWGNidmRsbHdmNHZyWTlxblJKNU5wWmJJaDJpRl9qUEFmTFp5bXhjbmdyTmNUZlFkUy1fWWhQeEJBM24zZC1scFJtUDB3OVhLNWtLSldmLUFESkxrVlZPUVllRk5zcHZYR1pYVURnTldYUGQtUWlBaDRzLTB5U3g5ZjBPUjJydUJBemFUOVpiUHZwUDNXQXdxRG5YSElFVEhLbkpfd3RWelhFNnR5azFkZ2UxeXA0S1FxdjY3MGNBUDRtbG91ZE81emxYZU1IR3E1Zk94VV8xQW01SU5uZGVGWHczRDQ5NXdQa2xibDI5NDJyc1pJbk1JajVrdFAtV1FUV2hSZklFOURldU9OSWRoZ0p3?oc=5",
-      "ts": 1786629896.2937007
-    },
-    {
-      "clave": "abelardo_nombramientos_maratón_agosto2026",
-      "resumen": "Abelardo De La Espriella realiza maratón de nombramientos en Dian, DNP y ministerios",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2Q1VVdhX1FJWVBoa0dpWEhyaDFKbE8tcUV5LWRadTh1WnNjN2lnV2tvall0NTBDRGlDZ2pMOVQ0THUtU1poVzk2am1zOHp0V3JzUE9OUEFjbGFWdXM5YVY4RDE0SEZIRmJTd0NXb0VDeldQd0UtUzF1ZzlXZzhvUlNVVTIxRlN6UW12ckJkcngycXNMc3F1Z1BsMURZVzdoNlM2czZB?oc=5",
-      "ts": 1786629896.7346272
-    },
-    {
       "clave": "incendios_santander_agosto2026",
       "resumen": "Santander mantiene alerta por incendios forestales con dos emergencias activas",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkc4U3c5eXdYbnFhVGJpc3RkNlpwV0M4Y29hOWtwWWZUMUFnZVY5TFFiTW0yYTZWcEdCNC0wNTRyb1FXYnltb2xaSEt5aFBocG1PbzZYOTBXZTNFVEVDeUU1b25kdHRvdWdESjlweHJ0dDFzTk9wYkV1WkZKbkdMTXd1RXVDemp2MTNYTmFKNHZpazZ6dklwNzBHdEJlZDJUdUZxaNIBqgFBVV95cUxNRUhuSGdMWDZneEVoOUlWcDJMNWVzV3FCbEdXMmNuNW11dnVITTQzZFpYc2lhb3BJZVFackpyOWlTOFkxVlcwMXVlRFExdWVHTEdTV0c2QWxORU9Za2VURG15aVRQQmJiR1VKR3E3Ql84cXFjSHRnZlZ0MEVMVFlRQ1ZnZTlOR1dhRTNkaEx0cmV2YlM5cWZYUElfQ0E3RnU3S25MMGR0YnRwZw?oc=5",
@@ -401,6 +377,12 @@
       "resumen": "Julia Eva Pretelt designada nueva superintendente de Sociedades",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXB1VldNcUJjVUVEZU1rUkhpdWFwblh3bk9EWDdlTUpaaXBBcVo5UEpvcl8tLXpQZUxvZjVkYzRyWHR2VjFEeHkxb1BSajdzclduRnU5ZklOSVJvTGdqZXBFTER1ZWhwQmdQM3NNNDBVQmY5T2w5YTBCcFA4S2lZVGVzaU5oRFZ2UUt1Sk9JS3lwb1YtSENzcWZEWUdjN24ySGlSVTdwSDJSbjJoUUZyWVdqZXrSAboBQVVfeXFMTXB6WVdpbWtHd2FWS2VkSjhGMlVPWmhsZ3ljVzZGREw4MHRMbjJWY1hsdGIyZTNWQk1reTlwZG1HMTN6WEl1TEZnWG5oTEdDYnlrSXM4UXNhU2wtZkVqcmcySDdFNHdsT01HdnluRGxKVjN1emp6eGd5bDUxU3BXS1hKb25raTdLU1JLem5BSF91VnA1NnNVRE1adER2Z2xnWkF0M1cwYlpSeWg1RDBudEFvbHQwOTQ4b0Rn?oc=5",
       "ts": 1786672891.0292945
+    },
+    {
+      "clave": "ecopetrol_apagon_nino_fracking_agosto2026",
+      "resumen": "Ecopetrol alerta sobre riesgo de apagón por El Niño y pide avanzar en el uso de fracking",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHV3c3Y3SnN2WlRFcjdVME9WUXV6Szc4b1cwSXNWTi01SThPdlVnUWRQQXRSdVRsbFJCNUc2RFNUaURVU19EQ1lOUHFRYjU0VnJ2WlB3OENTcGF2VFV2ckU4MWVOc3NKZW5TQTJKM3hFOFl3dURHRkp1ZFJPWXdUdVkxa0tETWhGYUl4UFFiVHM2c3RtTzFxV3V1UjVCOGgxYUJMZW5QS2JIUGh4SmNmTXpRY1M3ZWlfVHdJbHB3aUXSAdQBQVVfeXFMTlNJRmFuX0liY0RSdGpmcHFoX1B3dHp1X0M2YXBXV0pjanJCeTZvaTQxdVBrVmdHWFpJYlRmcnQ2dDM5Vk1FYWUtZFFpYnY3ck1FLWxlb1lnUzZJaUp4MVZCbDA4OFpuT0NpNGRvdXAwY0dYdkRVbTN4YVNjWUJZLUJJaDdXSkEyVk1wQkJuMmNydnN5bGlucG9aZnhPRE9oSS1OT0NMYk9TaVFQcDdJaS1BNkg1QlhHUC1xQjFZcGVfekwwU0tVaEdCMWZ6eEZUbl9TMXo?oc=5",
+      "ts": 1786673506.613075
     }
   ]
 }
