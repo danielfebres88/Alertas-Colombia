@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ungrd_orden_rescatistas_extranjeros_agosto2026",
-      "resumen": "Director de la UNGRD de Petro dio orden de no dejar entrar a rescatistas extranjeros tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGRoOWk2cUZULXBVUUJUNHcxVmxuZVh6NGxZWkk0WWNOYmhzTGtUakdubzlpaFRkSHRmOHhTY0xmTEhHNi1wSUdYYUZVOERQVkpZWENnRnotRzcyaEVWMF90aGN6Mk5rNmstSl9Fc3NjSlpPdGtpQWdDb2xTZWh5SWtxVTBXLVBhc0Fsb2pYblctU1JXSUxNWlQ4dmM1eUtXZzF1Y0N1a2h2SnNSSllPaXNaOWREcDF3SXdtdGlnRDJZSDBRcGQ3aGVQc2xBQlBlS3ZnbE9vNWNQWUdXOElJWVAzQlhwenN2VUd1WGdha0Z6NFBGa1ptbjFxdEo5WjlP0gGGAkFVX3lxTE1ZYzFnNktJcFlIUndCME1uMUZ1Y2JnMHB0SnJsZVhCWDNGQUVHTk1FdFJ5dm5oNFlNVnlJM1dCRjFCZ0J0Q0V5MUZQMHBMMzNRcmQ5UnE3RXYwQjhBVjhmWWs1YWZoZXc3aGprTGVmMi1zT3BXY09jTlI3RzA1V1doYUpYay1LczZra0J6Zm5YM2pnd0d1NzJKdUVVYUxBYl9qVlFGYUZiUnRKdUdxeG5ZWGZuUkI3RENSbnU0MHB3SXlzYTdlNzVrSE1hcVAwRWE2TWJRdGd2c1pxYmluUlhyNWNrSEVlU2pScEVRSE5JTUQ4c0p1TzF2NURYOHFwRm9qS0E2M1E?oc=5",
-      "ts": 1786674122.764134
-    },
-    {
-      "clave": "movistar_caida_servicios_agosto2026",
-      "resumen": "Reportan caída en servicios de Movistar en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0pkUmRYeFBWNmdtOC1JejNwWGpjTVFtSkc5TDhnZ3J1c2VMRDhfQ3hZSWxSNkMyRklna3kteUJGZTlyNUM4QXNpaHB1YTlwb2tVSlVpZlNvckRsWWVnSXZwNU1WbHNhOFNPRGx5aW44Q2k2aHEtcFRQYzZ1OFkzUUVoUWp2SWNUTVBaSW85QklTZHZ3azA40gGkAUFVX3lxTFB1ZXBzSWM3cFgxeWdjTjAzaFVtMHY4MnNCSG1QZGNMVG15Nk9zWm9sdkMtVVBkSDdaMkZNbzZnS2xEM013OFNWc0dSdkpUd054d2VOMHNQYmZWSzZiSEZJd2RXd2FlcFlnSXF2dFJiM3RmS0l2bmxIdEtIYTgtMmtIVWVZN0NlMnNKTWYtU0h5Q3RzOUZtTjRnaC1zMG1JSXpCY05T?oc=5",
-      "ts": 1786674123.232568
-    },
-    {
       "clave": "minas_directivos_upme_anm_agosto2026",
       "resumen": "Ministra de Minas y Energía designa nuevos directores de la Upme y la ANM",
       "url": "https://www.larepublica.co/economia/ministra-de-minas-y-energia-designo-a-los-nuevos-directores-de-la-upme-y-la-anm-4458254",
@@ -251,6 +239,12 @@
       "resumen": "Grave accidente en vía al Llano: bus intermunicipal chocó contra tractomula",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZnJsNEZZQ0luRnhfMnNNT2xjdmpFdFhNamhWcGNZaXdoUTRBTTh2R3BxanJwdFV4dkRsYmp3T2NlaTNxLVRjX1JkdXJFZHpjVkF6Y1RVdTAwYXNsVnNOdFVXQmEtSS1JS1hSSjZDSC12WmlPVTJHMVpZZVI5dTJ6U0JhUGlGaVJVdVRJel9aSGNHS2w2Uzh6RTRLOTlWQU9VMlhqVnBRSWt1M3ZERkhucHRGTzR0RlIxVzRDbzR5Q2JpNUJEbjJ5VmdfY1dRczBidFVoU3ZB0gHwAUFVX3lxTE9zUjBqNnhiQXJONzJseDdJalk2UUpaVGhjWDRfbFlKQlZYYk83Q2tMSGhVaWZIV3FPaFMtLS1zLVJ3VmNGRmFmN2tzM2Q5RGI5cndrSk54TVA2cW96RGtlZ2Y0SHRzUW85U3VOSHFQVHBtQ1ZnVXlCdTliN1Q4cXBUZDFWdGUxOTd4dTdQNkxRM1lKR0FwdkdBQ3k4R05YUkhHTFA0UVVlT0V3SXQ3UDBqc25GWVlJdGotTl9pc2tYeFZuaFdKdVRtQjBWSHFuUVpxTWwzT3Njcmd6RDFOOF9xXzJjUWl4NXBLbzhoM2k4OA?oc=5",
       "ts": 1786717303.6914124
+    },
+    {
+      "clave": "incendio_san_cristobal_agosto2026",
+      "resumen": "Incendio forestal en San Cristóbal lleva 65 horas ardiendo con riesgo en zonas afectadas por terremoto",
+      "url": "https://www.minuto30.com/incendio-forestal-boqueron-san-cristobal/1716090/",
+      "ts": 1786717918.7189867
     }
   ]
 }
