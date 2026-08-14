@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "asocajas_recursos_90mil_millones_agosto2026",
-      "resumen": "Asocajas propone destinar $90.000 millones de recursos para atender emergencia sísmica del terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/asocajas-propone-destinar-90-000-millones-de-recursos-para-atender-emergencia-sismica-4458543",
-      "ts": 1786670424.268594
-    },
-    {
-      "clave": "minvivienda_reconstruccion_cajas_agosto2026",
-      "resumen": "MinVivienda confirma inicio de fase de reconstrucción con cajas de compensación tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGsyMDlXRUhOaFlEZ01WOW1URTd1Z2J1SGp5NUktc2NEMTVFcDZLUXJxd0pKbWxLODRhMDhDbEpfOGl0X2lVSzJqWU1nTGI2eEhFc2ZNU0JrdHl3R0F2cF9rLV9YN213dUJHc25FTklsWnlkWW05MU5oMTBORVptVDcxS1pLUjdOTGtnOWRQZlZOYU1sRmRDNUQ2MDZzRzhpQi1mN0FuXzVMS3kydHRMVFBXRGltcXlNSFIyY3BOTGlCU1hSeTdCWtIB3AFBVV95cUxNTUMtQkRQRXZ3dXRjeVFubk0weWNoTXhBOEpzaEdhdkVYUjljbTlvbHM5Vk1ScWdkZEMzb0c5blY2VlZGaWhMY1A1X3dhV0NzNFUwMW9RR0poVl9maHh3V3NzRHFTVzR5TmF1ZWpjeGhudU5hS0czWDBtdUhUZW1vUVk5SndoZGtUNWVfY0UwQjlJY29qUlFISVFPZVViSlFBNVE3c2FCb1lhWEZ5NlpZdF9ETi1sd3hLZFVzNVVFa2ZWTEpvWFphRFFJYUNMRjgxbHJQWWN4YWo1WG9O?oc=5",
-      "ts": 1786670424.7364223
-    },
-    {
-      "clave": "ungrd_avances_terremoto_agosto2026",
-      "resumen": "UNGRD detalló cómo avanzan labores en medio del desastre por el terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU0QtMjI3ZmZSODVYNFJ3MjNkOXVJcGU1MnJrdE90bkhJWFA3eHF3MGpLb1JpOUpTTXNEYkRzMzRCdGg3NU5SdTRvSUZaOGg5bzlEUDJudWdrOGF3R3ZNVU9PTUNoT2V0aEN1ZTJlTk54enl1TjhaZ3pYS21jbUNoNjRVdW5YVjlzRVlrUUh5ci3SAZABQVVfeXFMT19KdUhQRVM0cEc5cWtGRm1EYXVyelhraG5OTzB5dTBNazh1YWsxTUVwYktSQW45djRwNWQyYl9kN1Ayc0lGU1V3Q1dod1lCRUR0dFZMVTBnY21VZS13SFNJeEF6QlRJV3lRTmh5SGpMNGp5Y3dsdGZNZHZKQ2x1THIxa3VaUDVySmNRZVh4VjFq?oc=5",
-      "ts": 1786670425.2089467
-    },
-    {
-      "clave": "ecopetrol_roa_salida_junta_agosto2026",
-      "resumen": "Tras la salida de Roa, presidente de la junta de Ecopetrol pide que el país sepa la verdad sobre su gestión",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekhQNkJWblgyY01wdWUzRnc3NEtJWHZQSVlHTWt2X1pESGVQUTFYaXlMUy1UN1ZOUG1JekJ1RkJQMjBWaEhSVDV5cDNKYnp0TTVHZVNCT3hpWE1qT1VVVFQyUm5SOFBRWmlMRXctUjhhMGVkOC1GSGJvOXN1ZGpBVTZqOVFJWHRFSFJfZWZZWXJrNmJFRGE40gGXAUFVX3lxTE5YbUVFWXktTFFCMVBMb010aXhIdzlVSVByX0IzblFnejRFTlBWRnZlNDNUdUxkX1hZMW9VWmNzTXlVcWRXQXVSS2NZWUt2RFRLMTVNR3llRVpERzNqYWlWVzVmUnNCWnA5aktETlpEdnF0Qmo1RjRFcU9FdEhpWUZ6S29Yb2JCRlNJTmNCSXNkbkkxYTJPTlE?oc=5",
-      "ts": 1786670425.6689117
-    },
-    {
       "clave": "dane_director_valencia_agosto2026",
       "resumen": "Ricardo Valencia designado nuevo director del Dane",
       "url": "https://www.larepublica.co/economia/designan-al-exsubdirector-y-economista-ricardo-valencia-como-nuevo-director-del-dane-4458551",
@@ -167,6 +143,42 @@
       "resumen": "Ataque con drones en El Carmen, Norte de Santander, deja un suboficial muerto y 4 soldados heridos",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0M3NUlNaHpMTXN1dzVMVjZ0N3JOTXB2ZVhGemJEZE53alVzcFNEWkJtNjl5QmNkUXpIdkxqNGVVeFNVT29hbDQ1amFkcE16dDdOb25wUW5hZWdPWWlfbXNSU1cwaHJoZURYemJQX3h2U2tnWlEzVUdrNWlmUC1xTE9HN1hfbm1aaW9pTXJZVzVyYlhTbkcteHJkNC1aZjk2YTN1SzhvVk9BZlNiZ2xHRHFfQjRUZVYwR1VmQU1RX0N6V0RKV3l2cTJteG9YaHBveG1FS1lhNllyQdIB5wFBVV95cUxOLUVKRUY4NWlGUFVUWHV5Q1pIS2Z1VlgyV2hYeDUxeW9hTlplb1otZlRRRkFBc2t2OW5sTzVxcFZBZFZlVzRTMmFQSjY1QUxsVnZvMXd4UWNNRGhEalNjTUpkR2dhcTBRZmxpM1cxamFxRWx3TDRVNWhlQjk4UU5yRVRyWGhhZy1HUnV4YVRPMlhUYXRRdGV1UmN6bERvT1R6dGcwTUhaa0VHTUItaHFOMEJGdlJ2dnZPLW8xQm13OW4yV0NVQnVjRnRUeHZ0UXVVanMxejduQmk4cmJ6Q2p5MFVxaE1OR3c?oc=5",
       "ts": 1786713598.1575804
+    },
+    {
+      "clave": "sismo_magnitud_7_4_agosto2026",
+      "resumen": "Terremoto de magnitud 7,4 en Colombia deja 285 muertos y más de 102.000 personas afectadas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEJEbGMtNEJUYUNxWEZTRWtVUEUxTm10ekNhZHNxcTd4QUNJVVdkYUh2RnF0a2tIRFBaRU03dHpxWWw4VjB0ZUxBOGlkLXZPcnhtX1BhVDVpRU5UbVo5al9wWlppYmtDeGw0YmJfQ0xMMXZ4WDg0aWVUOUdOajZycWhmWTFlUzlWZ0NrVDZJVjhNeHJjLUszNmFJdWRLY0pobWtHZFdHS3NLQdIBtwFBVV95cUxPbDJNQXpqLVRGQjRxMHhtZERVckVTUTVNMVRjRWZBUDczNVItdy1hemotU3I1RmVJbzIyYWFGekN5eWFvVm84N0JLWHpHUW1UOFgzTkFlWTdiRzBDbFVfTWZqRlEtVEFGU2J1OUtQUUVySjJEVjIwX0NPSUdsSVQwQUt4OVhZOTJWcXVFeUVKUDdWTVJjZ2FOSmUwVThxalViaUR3SDlrRjY2RWxKdkpuRXk5ZHVOcVk?oc=5",
+      "ts": 1786714216.5253482
+    },
+    {
+      "clave": "sismos_choco_agosto2026",
+      "resumen": "Sismos de magnitud mayor a 3 reportados en Chocó el 14 de agosto de 2026",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-en-choco-servicio-geologico-colombiano-reporto-varios-sismos-de-magnitud-mayor-a-3-este-viernes-14-de-agosto-conozca-magnitud-y-profundidad-3578341",
+      "ts": 1786714216.966593
+    },
+    {
+      "clave": "dolar_variacion_agosto2026",
+      "resumen": "Dólar abrió más de $4 a la baja mientras espera resultados de ventas minoristas de Estados Unidos",
+      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-14-de-agosto-4458752",
+      "ts": 1786714217.437095
+    },
+    {
+      "clave": "pacto_centro_democratico_contralor_agosto2026",
+      "resumen": "Reunión entre Pacto Histórico y Centro Democrático para elección de contralor",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1dueVEyYlVCZ09DQnpiSkNOQTN6bjl2ckNXdXVOZUpzM3VLSjlYcnI2UW5sTmhiVWVFOXMyTmJzdTZSTWdVR09mSlFiMktmRkxWM1dlM3ZiaDREbjZrQWF0MlFDcy03dVlXSGJWOVpZMkY1NzJHc1lGcHRzSWRnZm5EVndSLTNaY0lxUHFyeW1YUkljWlphbnJ6TXRtYXJpOV9XU1B2cEtzdlY1dmRpbWVWNEFoSWV5YTdpd2FmWF8tRnJ4ZVhmV2xaVdIB3wFBVV95cUxNTVpMaG5ZRUhpa0VrY3F5VU9KTE9SWHd3VmQ4QmJKbXdReTJpTTFvWWltMFFLZnQtckR2TzVxN1IxOEFMeC1ndkwzSzBLWXBZQTA3Z19JT0hGcXhxU0VmNFFzNlBWTjVQcXFObG9MV3preTd2dmVubXJ3T3pJUVY0UVQ1VUtBVGROSHdyUUJZYTdqS0RmejFsMThQVVRvZmVHT0tDbjVSMEc3WE1FVHRMd3dqYXRmc3dUSm85ZmlYWFJjU0lJTy1mRjBBVzJ0VzlHcHV3WFdlQ253bHB5Ukhn?oc=5",
+      "ts": 1786714217.886581
+    },
+    {
+      "clave": "renta_ciudadana_segunda_transferencia_agosto2026",
+      "resumen": "Prosperidad Social inicia segunda transferencia de Renta Ciudadana",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGwzQklZZVlOYTk4SDdqSjhWQ1hXSEhhSHQxRzl2MERtQ1NmUmxaUk9nY0J5OUxtTmhhMkE1RjU5UUZ5ZjN1MXhBS3I1UllEejViMVBVVlFHSUVzWmtHQm9rU1NMS21MLVlSbUtvLTFmUlYzdFZYTXRVUGRwa1dadEJMUzRJekM5bzlMb0EtZXVDWHUtamM2WXZvWjRfMnNTaUxGeFowMGEwbzk0U193LWtEN1g2TFJZdHp6NzFJVzcyVW1MaEVteW1hLWxzYS1ZaG5lYjhIbnI3NEVPZnZhX0REd1k?oc=5",
+      "ts": 1786714218.3299944
+    },
+    {
+      "clave": "el_campin_centro_acopio_terremoto_agosto2026",
+      "resumen": "Estadio El Campín será el centro de acopio más grande de Colombia para ayudas tras el terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeklLVHh3MEtlQTMxY2V5RjQ5QzFIc1YwSWRBRVNLdjVsaEI5dDJjMjFkRklaeThzdEJ5eWsxTWhweTlDdy1fZVA3cVJ6S2ZjNF9qc2I0UDRxclgyb2VIcjQxUDFvLWFjeUNsR0JqWElVQmFoQnNvMzRTcEJvcTVRaHdSYWFhMUlaVXFTbkNfQmN1U1IyYllrNXFub3RHbGVhakJuSGg4eXFQYm1VOEFack5QT0ZoMmttZF9wLXNELUxWX2JuYzFibU9xV0VwNDJ1eXFFNkpoSnVSSGZWNy1r?oc=5",
+      "ts": 1786714218.7735806
     }
   ]
 }
