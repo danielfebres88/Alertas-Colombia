@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_balance_muertos_273_agosto2026",
-      "resumen": "Aumenta a 273 el número de muertos por el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUFmT3VfUzItNzVZVnRPMkpVTEoxb1RPcExsd2w1eFJJQ01YNzJGdDNSM2VId1ZEXzZ6X1VVZVNxZE10LXFJOXAwZGpQVGwzdmYya1ZwMlZDbVJPUEVNU2xXdkUtUk5sVmJCSGZBWXFMNk02SVN1M2tKZHFESkpjSC1BSnRtM0VGNkxmMW5VZ3JiaUdjd1FmWnA4QXpfeEIzWVHSAa8BQVVfeXFMT1c0Q19ud1Z2YkM4M1puV05xSUNqb1dSSERXRDFDLVEwOUQxbjZUWHlpZ29xSWpFVlBlUEZST2wxZk1OWl91Q0xPOUFLYmtzOWJJRW9GOHFVZEwzcURncjRpU2JnTlcwQ05TeWEyLUc5X2owSTI3U3R4elZ0eE9YbHdZVGxJNHBUZDMzUjl5R25xWE9DbXdNSEpMS0ktQllEeTd5WFRmNWxCZzRrQzZsdw?oc=5",
-      "ts": 1786640374.2284007
-    },
-    {
-      "clave": "briceño_arsenal_disidencias_drones_agosto2026",
-      "resumen": "Drones con explosivos e improvisados: arsenal de disidencias Farc neutralizado en Briceño, Antioquia",
-      "url": "https://www.eltiempo.com/colombia/medellin/drones-con-explosivos-explosivos-improvisados-y-minas-antipersona-el-peligroso-arsenal-de-las-disidencias-farc-neutralizado-en-briceno-antioquia-3578157",
-      "ts": 1786640374.6696444
-    },
-    {
       "clave": "conmebol_fcf_donacion_reconstruccion_agosto2026",
       "resumen": "Conmebol y FCF donarán un millón de dólares para reconstruir casas tras el terremoto",
       "url": "https://www.minuto30.com/1716056-2/1716056/",
@@ -311,6 +299,24 @@
       "resumen": "Temblor de magnitud 4,0 se registró en Colombia en la noche del 13 de agosto de 2026",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjZKUWRyLUgwSGNlODdUNHpTS1ZKZXBrTTk1Tnd2MU05TkltZWdJSnVlS0NDRkxnYy11RzFzTUZMN01yTzZWSXV4RXRyTk15RWR5ZGlYb2VlWEtOdTJiYUd1R2p1bEtVeHZUamx1RUhjR2RSTVJaWndQbDZ1WTlaNHltdHhrdDlpY3Jsd1ZRQUlyXzRuQkJHQzlHZEg1RWVvQnQ1TDIwZEhqaXduWC1XM2lMYjc1c0lEYUtkbXFkT3JWSDZQMW83aWRmT3QzMHNyUTJNbURaczhNTGfSAegBQVVfeXFMTU52aWxZRElZdUgwMlRJMk1NQ01IYTBPTGVVRmZmZlJ0Y3NHQ09oamdpQkVrM1BmWWM4TlJQRDVjcGRFMnpCbS15aUZKajZtV1dxYVBZMGRqeV9uZ19GZzBFSVQxcTZrc09TWWEtb2tUMjJJWXZwM05xWnZ3MFRLZHpaVkx2S3NRVm12VDhMc2IyYjgzTURObnpmdm5mWWtULURUUHVKSWd6cGUyVnZpOW53RW1QQTlMOXR6X2I2d19CWkpac3QxdVl6NjZMb2lpWjdXVnZNT1hvUGRBSEpxR2t0bVcxVW9UTA?oc=5",
       "ts": 1786680310.2681346
+    },
+    {
+      "clave": "jose_andres_donacion_terremoto_agosto2026",
+      "resumen": "José Andrés destina US$1 millón para atender emergencia del terremoto de magnitud 7,4 en Colombia",
+      "url": "https://www.larepublica.co/caja-fuerte/jose-andres-destina-us-1-millon-para-colombia-4458541",
+      "ts": 1786683996.9824162
+    },
+    {
+      "clave": "gobierno_plan_reconstruccion_terremoto_agosto2026",
+      "resumen": "Gobierno presenta plan de reconstrucción tras terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLURDYkhlZDVwZkJ5c242cGowd2pJUlJwamRlbzFXb1dBejVtT2oyRXAyLTRGN1gwaEFEd0VwYUwteE1DaXBJRVJNYm1ZRnNhNnR6T0YxVGZzSUVZMWZRMmZzS0lPTUdXTXlYRkh3TFlQOGlRMERzd1N1QzlaNXI5bHY4NXB2YmVibWY0ZFF1ZE4taU12WjRIamw3dHA0WmNFQ0QzNHVYT3V3SHMxU0x3TnNlSU12YzdvMjJjbTlRWUwydjZRUjkzVGJfRzI4dWZJYzM5SUMxNW9obW1KM19EOU5LazQ5QkxaYTZBUmlob0gwUXQ3NGRwZ2NNcmtGZ9IBkgJBVV95cUxQc25rWFNHa3JRNkMtaE9wWjEwQldpUVdZbkE4NjdrM1dtQjNhUlVjYzNNbUNWSjZET202Z2lkenE5MVN4aGJabUM1SGY3NjAzQWtSUWtCclg0UXd2QjZDZlVrT0VhaFVER3hvRzlXQ0plOTlvdDRWcFZmbGdLSklnRFVnNE1JSHBFZE9heVVaVlBSUXZZRWhXbEtoR3pJQXppeFpxVUNfS0k1ZjdUa3BfUU1nWExSS0M4U3VQNE5qaWoxRXlqMFpsSTJkZ0dfVmpZUGp6ZUxRWHJkMnpoaC1VUnZKNl9rTThNWjNPUkkyTUhlcWk4ZlJqMG1ZdDlvUmtCRlp3NjVqMXVxeml1TlVxdHR3?oc=5",
+      "ts": 1786683997.4401255
+    },
+    {
+      "clave": "cafe_exportaciones_caribe_terremoto_agosto2026",
+      "resumen": "Exportaciones de café de Colombia se desvían hacia el Caribe por impacto del terremoto de magnitud 7,4",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/por-el-sismo-las-exportaciones-de-cafe-estan-saliendo-por-la-costa-caribe-4458414",
+      "ts": 1786683997.9111998
     }
   ]
 }
