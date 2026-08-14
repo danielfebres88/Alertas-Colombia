@@ -1,42 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "captura_calarcha_exgestores_agosto2026",
-      "resumen": "Gobierno De La Espriella reactiva órdenes de captura contra alias 'Calarcá' y 30 exgestores de paz",
-      "url": "https://www.minuto30.com/fin-a-la-impunidad-ordenes-de-captura-gestores-de-paz/1716027/",
-      "ts": 1786628657.7523592
-    },
-    {
-      "clave": "guardia_inpec_asesinado_itagui_agosto2026",
-      "resumen": "Sicarios asesinaron a guarda del Inpec en Itagüí; hay capturados",
-      "url": "https://www.minuto30.com/urgente-sicarios-asesinaron-a-guardia-de-la-carcel-de-itagui-que-apenas-iba-para-el-trabajo-hay-capturados/1716017/",
-      "ts": 1786628658.186415
-    },
-    {
-      "clave": "procuraduria_cargos_defensa_civil_agosto2026",
-      "resumen": "Procuraduría formula cargos a exsubdirector de Defensa Civil por sobrecostos del 53% en un contrato",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXYxY1IzNDBmb3lESElpWnVpUUJhVmRBbWx3Z3l6N3Z4NGRCLUl6M242Q1NLYWVoaWtrTV84VDRiMzNqd0Y5enExSU9BeUVjZzllTnMtUHZiYUs5ZEQycUg5M2V6LWpHdWlfNW9yLWVPT0pXU2lZUDRCd0VNZVlyRTQycE01ZzdFbDV3Zkp6YjRGSUVwSmRESWZLWDBqTXhQNDBQNGZOV1pJbEFBSVFGLV9hMGgwdW1MOGttWFZoWl84X2ZaTnZjNno5S0czNlpU0gHeAUFVX3lxTE1fUnRGdmJtd1pNZTFJdVFkT3Y3ZXMtT1cxNnZjQ0l2V0V5aFNoaXBsLXdQMGxBM0plUXBrZzh1d18ySzNVcFhyWXZSbk52enFHMHpVZ213MGU3MXpvdzA1aldTeUcyeXY1bldDUzN0YWdaQXVQVUFmTWUxZVRVRWUzTWFJeUlEY1JoVl9aek9PcTBXXzdUaTIzSnphNXZ4Vnl6cVZBb0x1bmRnU0lfZ1ozekpua0kxckxEaUdvZGxOZHVtMzhZMGU1SFpZSUpaNFFaQWpTcnMxLUxZYkNoQQ?oc=5",
-      "ts": 1786628658.7194574
-    },
-    {
-      "clave": "nuevo_contralor_laverde_agosto2026",
-      "resumen": "Nuevo contralor general Jorge Eliécer Laverde afirma ser un contralor independiente",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREFEdUdqR1B6YjhFb0F0QmJNeGV4aVk0NzQ3OGR2eGN6STgtdTJPWGxuTkQtOTlUUjM1OVM5NG5SU09USDZwWDJHOG96dHVnTXdsWDc1WGxHQWJDVWJEUFd1RVN4Q3VZQ3pPVGRjTlBxd2N4MllIZ0ZWV3RrMkY2NTJXV0FSWkIxTHZKSWNzZW9yUlU?oc=5",
-      "ts": 1786628659.1763449
-    },
-    {
-      "clave": "pobreza_monetaria_choco_guajira_sucre_2025",
-      "resumen": "Chocó, La Guajira y Sucre lideraron la pobreza monetaria en 2025, informó el DANE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT182Z3VFX2JxbFhVbWE3X21LODZhZnc3TE5XZnE0c2FvNVB6OTkzWFdJanVqWld1U1VpWW1haVN4T296QXEzSUxKajlBNFQ2TFYxRk4zWFFZUzdySHduR3BiZnJSRm1FSEtibUtPWm9XdFBtVGN0djVlU05wSC1qTVBDZml2THBzSUQ1SnFmS1JRSXdBM215c1RhS0VWWjg5ZWdqbjNrWUrSAagBQVVfeXFMT3dZc0o5aEpwMk9ybnhhSlBhTUJDcWtYX2VjVm1vRm1xbjcyQndJaXl6WHkwLXR2OFVyVTE0QnVxZzBuWDVqdDVjeDRFLTRXckN3cGs2UWdIS2xoQkFOMkdmOW53NVFVNDEwSmZWM2x5ZzBuMWNLRThuNERLajI4MnZrT2huR2duMDNOVldZWXp4cTlwLUdwSTEtWENXckRjaDRpYXc0d3gz?oc=5",
-      "ts": 1786628659.627485
-    },
-    {
-      "clave": "dolar_inflacion_eeuu_agosto2026",
-      "resumen": "Dólar abrió al alza tras conocerse inflación de Estados Unidos de julio del 3,4%",
-      "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-13-de-agosto-4457695",
-      "ts": 1786628660.0693102
-    },
-    {
       "clave": "sismo_andes_calamidad_publica_agosto2026",
       "resumen": "Andes se declara en calamidad pública por impacto del terremoto de magnitud 7,4 en el Suroeste antioqueño",
       "url": "https://www.eltiempo.com/colombia/medellin/andes-se-declara-en-calamidad-publica-el-llamado-a-la-paciencia-tras-el-impacto-del-terremoto-en-el-suroeste-antioqueno-3578105",
@@ -443,6 +407,12 @@
       "resumen": "Ricardo Valencia designado nuevo director del Dane",
       "url": "https://www.larepublica.co/economia/designan-al-exsubdirector-y-economista-ricardo-valencia-como-nuevo-director-del-dane-4458551",
       "ts": 1786671040.1760476
+    },
+    {
+      "clave": "buenaventura_crisis_sanitaria_agosto2026",
+      "resumen": "Crisis sanitaria grave en Buenaventura tras impacto del terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/un-balance-devastador-asi-es-la-carrera-contra-el-tiempo-para-evitar-una-grave-crisis-sanitaria-en-buenaventura-3578299",
+      "ts": 1786672275.192462
     }
   ]
 }
