@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "jose_andres_donacion_terremoto_agosto2026",
-      "resumen": "José Andrés destina US$1 millón para atender emergencia del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.larepublica.co/caja-fuerte/jose-andres-destina-us-1-millon-para-colombia-4458541",
-      "ts": 1786683996.9824162
-    },
-    {
-      "clave": "gobierno_plan_reconstruccion_terremoto_agosto2026",
-      "resumen": "Gobierno presenta plan de reconstrucción tras terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLURDYkhlZDVwZkJ5c242cGowd2pJUlJwamRlbzFXb1dBejVtT2oyRXAyLTRGN1gwaEFEd0VwYUwteE1DaXBJRVJNYm1ZRnNhNnR6T0YxVGZzSUVZMWZRMmZzS0lPTUdXTXlYRkh3TFlQOGlRMERzd1N1QzlaNXI5bHY4NXB2YmVibWY0ZFF1ZE4taU12WjRIamw3dHA0WmNFQ0QzNHVYT3V3SHMxU0x3TnNlSU12YzdvMjJjbTlRWUwydjZRUjkzVGJfRzI4dWZJYzM5SUMxNW9obW1KM19EOU5LazQ5QkxaYTZBUmlob0gwUXQ3NGRwZ2NNcmtGZ9IBkgJBVV95cUxQc25rWFNHa3JRNkMtaE9wWjEwQldpUVdZbkE4NjdrM1dtQjNhUlVjYzNNbUNWSjZET202Z2lkenE5MVN4aGJabUM1SGY3NjAzQWtSUWtCclg0UXd2QjZDZlVrT0VhaFVER3hvRzlXQ0plOTlvdDRWcFZmbGdLSklnRFVnNE1JSHBFZE9heVVaVlBSUXZZRWhXbEtoR3pJQXppeFpxVUNfS0k1ZjdUa3BfUU1nWExSS0M4U3VQNE5qaWoxRXlqMFpsSTJkZ0dfVmpZUGp6ZUxRWHJkMnpoaC1VUnZKNl9rTThNWjNPUkkyTUhlcWk4ZlJqMG1ZdDlvUmtCRlp3NjVqMXVxeml1TlVxdHR3?oc=5",
-      "ts": 1786683997.4401255
-    },
-    {
-      "clave": "cafe_exportaciones_caribe_terremoto_agosto2026",
-      "resumen": "Exportaciones de café de Colombia se desvían hacia el Caribe por impacto del terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/por-el-sismo-las-exportaciones-de-cafe-estan-saliendo-por-la-costa-caribe-4458414",
-      "ts": 1786683997.9111998
-    },
-    {
       "clave": "ocde_ninis_colombia_agosto2026",
       "resumen": "Colombia es el segundo país con mayor proporción de jóvenes 'ninis' según la Ocde",
       "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-segundo-pais-con-mayor-proporcion-de-jovenes-ninis-segun-la-ocde-4458295",
