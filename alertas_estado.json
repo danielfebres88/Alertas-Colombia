@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ani_presidente_ayerbe_agosto2026",
-      "resumen": "Ricardo Ayerbe Pino designado nuevo presidente de la Agencia Nacional de Infraestructura",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNm9JUjZ0ZjhlaEF3eWJsZ1BqcHpUZWMzRW12eUJtWkNUb3M1cEdDaVB2WTlZNnpDaVUwMDNDU0RzcFhwQS12YS04eS1WVU9EYjdoTXZ5Si03NXdSRFhkeXRySXFGcTRYNF9tcEVjZGJQT2F2amVXcWpWM0docEl2WmYyOHk2MVZjbGdRekNDNVhnUHdwSnRkZmhDOVptWjcyZC05UF9zTklVbF8yQ0FPcEwtMzRMLUxBUWZhbjZjQ3VOY19KbjkxZF93Si1aQdIB0wFBVV95cUxOX1BTNDdjV1dYb25PVk9oelp1ejBDTmRVU043endnZVBsVkp2OVVpNGdiN2piVHpKWnRsLU9CV2xFeHlPelpYbWJqMmJOZEVaYTYyR1FWaGhhbUpNSlpETnE0dVJmemtIZHkybWlTQUlxWGtGUm9wNjktSVk4WjRZMGdiR0xZVGVYZ1pnVkRZakJfYWRMUnQ3Vnd2eTBleGxsU1hvZFpBZW56Y0w5SWhIbWhNYkNYT21wQ05oNnVNbFhheXg1RVJ4VUQ4UlhQb19kRDFn?oc=5",
-      "ts": 1786627401.1670158
-    },
-    {
-      "clave": "sismo_replica_36_agosto2026",
-      "resumen": "Réplica de sismo de magnitud 3,6 reportada en Chocó la mañana del 13 de agosto tras terremoto de 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-choco-reportan-sismo-de-magnitud-3-6-durante-la-manana-de-este-jueves-13-de-agosto-tras-fuerte-terremoto-en-colombia-3578069",
-      "ts": 1786627401.6407313
-    },
-    {
-      "clave": "sismo_grupo_exito_3000_familias_agosto2026",
-      "resumen": "Grupo Éxito anuncia ayudas alimentarias a más de 3.000 familias tras terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/empresas/grupo-exito-anuncia-ayudas-a-alimentarias-a-mas-de-3-000-familias-tras-terremoto-4457715",
-      "ts": 1786627402.093701
-    },
-    {
       "clave": "pulgarin_directora_invima_agosto2026",
       "resumen": "Sindy Pulgarín asume la dirección del Invima para reforzar la regulación sanitaria",
       "url": "https://www.larepublica.co/economia/sindy-pahola-pulgarin-asume-el-invima-con-el-reto-de-fortalecer-la-regulacion-sanitaria-4457743",
@@ -491,6 +473,12 @@
       "resumen": "Tras la salida de Roa, presidente de la junta de Ecopetrol pide que el país sepa la verdad sobre su gestión",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekhQNkJWblgyY01wdWUzRnc3NEtJWHZQSVlHTWt2X1pESGVQUTFYaXlMUy1UN1ZOUG1JekJ1RkJQMjBWaEhSVDV5cDNKYnp0TTVHZVNCT3hpWE1qT1VVVFQyUm5SOFBRWmlMRXctUjhhMGVkOC1GSGJvOXN1ZGpBVTZqOVFJWHRFSFJfZWZZWXJrNmJFRGE40gGXAUFVX3lxTE5YbUVFWXktTFFCMVBMb010aXhIdzlVSVByX0IzblFnejRFTlBWRnZlNDNUdUxkX1hZMW9VWmNzTXlVcWRXQXVSS2NZWUt2RFRLMTVNR3llRVpERzNqYWlWVzVmUnNCWnA5aktETlpEdnF0Qmo1RjRFcU9FdEhpWUZ6S29Yb2JCRlNJTmNCSXNkbkkxYTJPTlE?oc=5",
       "ts": 1786670425.6689117
+    },
+    {
+      "clave": "dane_director_valencia_agosto2026",
+      "resumen": "Ricardo Valencia designado nuevo director del Dane",
+      "url": "https://www.larepublica.co/economia/designan-al-exsubdirector-y-economista-ricardo-valencia-como-nuevo-director-del-dane-4458551",
+      "ts": 1786671040.1760476
     }
   ]
 }
