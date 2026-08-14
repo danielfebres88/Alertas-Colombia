@@ -443,6 +443,18 @@
       "resumen": "Bancolombia anuncia alivios, periodos de gracia y créditos a personas afectadas por el terremoto",
       "url": "https://www.larepublica.co/especiales/congreso-empresarial-colombiano-2026/bancolombia-anuncio-alivios-periodos-de-gracia-y-creditos-a-afectados-por-el-terremoto-4458407",
       "ts": 1786666933.306919
+    },
+    {
+      "clave": "sismo_muerte_brochero_agosto2026",
+      "resumen": "Libardo Brochero, rescatado tras casi 30 horas atrapado por el terremoto de magnitud 7,4, murió días después",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/murio-libardo-brochero-hombre-que-habia-sido-rescatado-en-buenaventura-tras-casi-30-horas-atrapado-por-el-terremoto-de-magnitud-7-4-en-colombia-3578292",
+      "ts": 1786667551.1496944
+    },
+    {
+      "clave": "antioquia_plan_aeroportuario_petro_agosto2026",
+      "resumen": "Gobierno Petro marginó a Antioquia del plan aeroportuario hasta 2035, generando controversia política regional",
+      "url": "https://www.eltiempo.com/colombia/medellin/el-documento-de-la-discordia-por-que-el-gobierno-petro-margino-a-antioquia-del-plan-aeroportuario-hasta-3578278",
+      "ts": 1786667551.7036564
     }
   ]
 }
