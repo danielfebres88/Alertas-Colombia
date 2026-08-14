@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "corte_constitucional_eps_discapacidad_agosto2026",
-      "resumen": "Corte Constitucional ordena a EPS entregar sillas de ruedas y apoyos técnicos a niños con discapacidad cuando la familia no pueda costearlos",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOF94WXVZdENCZVB6UUtrS2FWSjBPazhnR05Kbm1BdzR1c2ZXbnp5NEZSSU8wVGtuVEZaSEJsdlZDV2ZwQjl1VkszNFdGX2JxMHAxVFN4V1BxbmpvOWxLZVUwQUpUc0w0V3ZZTWdyc2YwVGl1LTlzaDhIVzI0Q2RjLTVqVUd6aFJyUTJvV21sLUJqaEozM05qMTlBUzVHRlVKM1E3Wmh2c0JZYXVqTG1hdVdmeHBsRmxGYU5iMHZvMnNvRVNzRnN0WDRlZ0REM3Zia1AxSkxPcDdoOXk1eFZBLWVEMjF6QlZSVXd2NW9Qc2pycWpHNmNZd05lc2xPVHhudHpXajBZLUFmYkpqaW1xMjR2d9IBrgJBVV95cUxQckg1MC1Dd3dHdXZ6NmstcmtKWjczck04eTlhU0xlcld3eXpqcWxISGRRVW9tbFNUbjNqUlI4aGZjVkpTNWltYUNzM0RYLVlBc0VlWmVUNmRIUjVKT29lTkJCNUx1YUZRY2ptZ1hNX2V6clhMLXRMOTNWLVh2VzZTUVBLVmEwX204THJSSkhHcXg3emRhZy02UUIySGhMaTZ0a2pKMVRZd2xyRHBMSXlxbFA1d1kxTTYtOGp0RXpGWWFtb3JSUVdSZ1lncTlvLTJHMWNaVDgwLWwzUlZ4WEtkRnA4Yk1kdzhoelJDT3hsdElmNllNcmwwSWkyM3YzWWJ1ODhoV0k4alRTOEd6WnNtU251c3NtdGdxX3BZcjZVVmVNajYtZHdRRlNCRjR2QQ?oc=5",
-      "ts": 1786677847.221102
-    },
-    {
       "clave": "inpec_brazalete_maria_baja_agosto2026",
       "resumen": "Joven sorprendido con brazalete del Inpec en vía a María La Baja",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1Z5V1NHUVg2aWtqSU8taWx6UnE1NS1uMGo3bnBIVWpJLU9xcnJNY3JPRFZCWHhhSWN3MlNNUVVrREFMOXBHdGNyZENBTmZVR1luUGV2V3dMUHFiOThwQ1dqX19ZckNqaEowaW9SQUlDbmc0b1ljME5CRHhseDFadC1fNk9QR1lpMXQyM3BJaTU3SV9URVNWNEc2OGJkMkY0OGtwa19aalUwSGtnWEpJYmRJRkNpX3fSAcsBQVVfeXFMUDNXc3lxVldPZDZuZkozR1g3NDhEeVZBUDJfY01RZlozUXNpdFcycllGcTNMMGw2NWxONDN5OWZqbXpGZFhETEdiVUFBZkpKbGRrc2hSdFg2UEVKTmpvcEljVTJWeXh3aHY5OTRZUWQ4eVRHOW03NURIMXl1Zy1rNi1xUGF6a0RrTE5zTk9qMnI0T0M3d3RLSGh3b3JRekJQUzNpam45NU1oLV9PMHlxaDNSVi1lZFJhMUtPSktOXzYzWnM3WVc4dmV0WU0?oc=5",
@@ -269,6 +263,18 @@
       "resumen": "Alerta meteorológica: Tolima registra 38 incendios y otros departamentos están bajo alerta por riesgo forestal",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRTZnUGxEQ052S0lsTnlEakY0QzByWFdfdTE2V2ZKZjlTanVvTVRLdGpzb18wQW4wYzd1LTFlN19TM0xrM3VRd2JhUllyZi01TThrLXNhdkFpS2lzSFY5WkRjeUlReF92VXU2YkcycXJndGhNYWVpd1FlbG9wOTlZS0Z2ZmlMQTFySkNaNlByaTBzTEN1c2M3eU8yTmV2dHhHbTktV0RlaXNPSnZYSzNiNTFGaVhuZWYxLUJfQWxSSHVUQ3UwWWxmeGtfWmFhdFI1MXdMczJYTEZyNVlaZV9XYi1uYW56ekdEZ3JMX0N2WDNqeWRhLXlqNmZHelhHYjNzeGNLZg?oc=5",
       "ts": 1786721025.8098578
+    },
+    {
+      "clave": "godoy_superintendente_salud_agosto2026",
+      "resumen": "María Godoy designada nueva superintendente de Salud; Roberto Solano nuevo interventor de Nueva EPS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzRnZUE5ZDB4VGNqNERENDhFT0E3Zmh5UXJyWkFfZDZMYXhPcERvMDExNWwtU0NrN0NLR3VKVFJhZ3M2NUFPMHp1aWhGTXQyVjJnWHN0NGdvU1MwNElxbVZ2bTFFVFZodjBnWWlpSTFPM0xXSU1ub0RVTmoyNlNmNHBLSzhSZnVJQ2c5cW41N2JYTV9LaXdJRWp5WktHbXlYZzNRRnd6ZWJ4d3drLUxaZFVFZDhfRmtsMThJdjIya0N4anhCZmgw0gHbAUFVX3lxTE9vT0RlZE1qenl3YXpOdWRhQTg3N0c5MWtnajMzcWY2NTZrbjUyams1dFFLQ0NfTmtTU0taN3FQWGpUMFM1aVlHekVWdjluSE15TzBLYXZyN1lnWHBSOFFRUnprU1pESjVCbWZNcDVXd3M4bmdQa2JIbHI5OVM5OHdSYll6V3JzSm9FUnFLQ0Q0cG1Ja2pzVzkzcVNRcHI4dmhYalNQX3diMkpib3JTNldKU2xyNl94eXRhZ1pfQlhBVlZlQ2g1TC1KcDFRRTQ3aEp2Uk1WUGo5YVBybw?oc=5",
+      "ts": 1786721641.446782
+    },
+    {
+      "clave": "claro_conectividad_terremoto_agosto2026",
+      "resumen": "Claro reporta recuperación de conectividad en zonas afectadas por el terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnFxQVFEeFlydjRMV1N3Qk9HN1VwQzZNOW80bFIzWE1UcDRxdjIwNUtnV2xsdU5qdDZEZjlXUWJUdHc0VDU1cWo4VUJvQ1ZnaUNkUXRQczdSMk1zM0llVFRmNE5fZWhTZlBja0tjN2VTT2hSaDczWWdIc2pTWk12M0RGT1Q3eThLVHBFTFVWbmN6UnRNdlJfa2dfdzRBYXJ5V1JUazljYXFudU5FTW1FWEVWQnE4UjE3YTdj0gHIAUFVX3lxTE9qSFllNlVYa3FtVG82YmdwejBvM3hfNnZtcmxCczZCTlFZeVp1aWRBbjBwdUNXOS1weWZNWHdjSjNlcG5NMzJEYUZfeTltekJYeDYxWEZwbU9LcHRTb2VDSEVGWlg2U0lLNWpFaGNJaFI0Ukg0bm5iemY3eGotd1dXdFFkX3lmMjllYmVkb0tKa1RvOU1Rcnh1NjRoa0l5X0JWNzJxdXN3M3M2c2VtZTAwYUIyV1h1blRRODM0SklmRXBUZ0JRbllJ?oc=5",
+      "ts": 1786721641.890537
     }
   ]
 }
