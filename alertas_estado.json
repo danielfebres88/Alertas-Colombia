@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incendios_tolima_36_activos_agosto2026",
-      "resumen": "Emergencia por incendios en Tolima: 36 activos en 20 municipios y más de 2.000 hectáreas afectadas",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-por-incendios-en-tolima-hay-39-activos-en-18-municipios-y-mas-de-2-000-hectareas-afectadas-en-san-luis-se-nos-estan-quemando-las-casas-3578099",
-      "ts": 1786631740.7767782
-    },
-    {
       "clave": "sismo_valle_cauca_duelo_agosto2026",
       "resumen": "Valle del Cauca decreta tres días de duelo tras terremoto de magnitud 7,4 del 10 de agosto",
       "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-se-viste-de-luto-decretan-tres-dias-de-duelo-tras-el-devastador-terremoto-del-10-de-agosto-3578120",
