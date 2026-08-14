@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_judicatura_medidas_agosto2026",
-      "resumen": "Consejo Superior de la Judicatura emitió nuevas medidas para trámites judiciales en zonas golpeadas por terremoto",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3hCR0hVY19HbjU4dWRVekp0Y2h2UUVWS0tNLU5mVFVnSGlsN3ZhQ1NuakJOSW9mSjA5QjY1bVVGT2tLOHg0UXBQOW91RHJBVktOS3dQQmZxcVJhcG1HX3dTYUlDSmg2ZGdxcU1CVk1OTWxRRGRoV05wd19yaUxHSWN5RFpPdk1yT3FjckpQdF9JLTRub2taSkhfamZyaURUd25NVGl0UUowRTY5T0JJTUV3Mk9ESU55RkJhcllwYkk5Q21MXzhwSll4RG9MbHFUenlCMlVsWXpFOHJZUlVIdjFhVUwyX0VMUWdYNWVOM2ZTemNEUFFQbTFfWGZjS2VCNnpZYVRmeFBpS2JWOFZ3RFRwdTJPZ9IBsAJBVV95cUxQMS1UT2Q1Y3Rpb0Rial9uMnU0V0pSOWtLSXQ2aExiSVNBY0J3dUVzSjhMQkxMNFlpakszQVRZWHhJZUp1MW5tVUhxa3QwVTB2TVdsTGNWbDhGczNmZnJQQ3BJV3ZMS0RzXzF0SDlkc0tiaGpUbkx0d29jMHJacTBpTktIWjdvdUJpQ2plMi1fc3A5WVE2anQ0LTFXTkphellKemRKb2lkaC0yODkySGxrWDQ0bDlCbUVvd3pYNVhIcVhTa1JSWkNnSlpFOUZaM3hiQ0FlcXppZi04T3pXdm9uY0dld19LdDBOU2c2NDVrVzUxLXhUNlZHQW1ZWXJseVVfeHpnSFE2Y19wLXVIX2Q2b0J3WDZrSlBHN18taEZzZ3NyeTJhRzZYQzl5S3dROERL?oc=5",
-      "ts": 1786676586.1244586
-    },
-    {
-      "clave": "bogota_vulnerabilidad_sismica_agosto2026",
-      "resumen": "75% de edificaciones en Bogotá son vulnerables ante sismos; nueve localidades enfrentarían riesgo por suelos blandos",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM1NwVklwWXBYMW42WHVxcTIzVDVpc1RHMjhIcmJKMEdBamM3SFNMNFV5Mm0xLVJTQlFZWTdVMEFhMy1qcGNaVlFLTG5TcjdTWmdzWXd6ZU5qdVVMdkdnYzhnRlBQa0lfX1RvZ2x5RW43V0Y2OWpJMUdLT0tFVy11dkdvQ3lqSVVIeHAyOXhKSWdRZ3BENlRheTRKQlBwemJDeWZSODFwRUhFazZiN0R2eDl6cHFIajlNempKV3MteTBvLXVZY0tELS1NVWE0Rlpoa0FfU0tCLU1yUWIxVGNDdDc1VlJGcWtEWUlqczZrY0Q5OUg2V0JZTWhxNlFuM1ZENEg5MUdhWkdfZXQ0dlRHSGJnNHZHMG50UndjTdIBtwJBVV95cUxQUk0tZ2V6dzU1QTFVMjZTV19lX2JON2lYdk5Ga0FHYjRHTDF2aFJ1ekI1R2RSc1hLdkFrVDkyMzdqU1QyVUJyV2NOUHJaaXNSdDFGVHFIWEFjcUpNbzA2M3J6dXlyU2FiSEJ5elRlb1dKTF9ydzZiTDcxNWhNWmVDWUdybGQxcWVOaVhRNjJTMUhwa1dZMjR2bDE2UUZpZW1YVzJuM0dyRWtwUkdtQzFaNW03QUtzR3psdzhKVmpfSFE5TGlHX0tHVm81TURUN21YNGk0ZU9JdXg2OVNZbXFUUmttS1VXbm9SQzZYR0F5VlA4VEE3alNxR1R6NmEwcnFiRzNTVWJEb3hFZTZld3QtSGRHZzN1Q3p0ZmNkZlVhbjlxT05PZXV3QnVrdE55OUNaM2VVOGFPQQ?oc=5",
-      "ts": 1786676586.584251
-    },
-    {
       "clave": "corte_constitucional_eps_discapacidad_agosto2026",
       "resumen": "Corte Constitucional ordena a EPS entregar sillas de ruedas y apoyos técnicos a niños con discapacidad cuando la familia no pueda costearlos",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOF94WXVZdENCZVB6UUtrS2FWSjBPazhnR05Kbm1BdzR1c2ZXbnp5NEZSSU8wVGtuVEZaSEJsdlZDV2ZwQjl1VkszNFdGX2JxMHAxVFN4V1BxbmpvOWxLZVUwQUpUc0w0V3ZZTWdyc2YwVGl1LTlzaDhIVzI0Q2RjLTVqVUd6aFJyUTJvV21sLUJqaEozM05qMTlBUzVHRlVKM1E3Wmh2c0JZYXVqTG1hdVdmeHBsRmxGYU5iMHZvMnNvRVNzRnN0WDRlZ0REM3Zia1AxSkxPcDdoOXk1eFZBLWVEMjF6QlZSVXd2NW9Qc2pycWpHNmNZd05lc2xPVHhudHpXajBZLUFmYkpqaW1xMjR2d9IBrgJBVV95cUxQckg1MC1Dd3dHdXZ6NmstcmtKWjczck04eTlhU0xlcld3eXpqcWxISGRRVW9tbFNUbjNqUlI4aGZjVkpTNWltYUNzM0RYLVlBc0VlWmVUNmRIUjVKT29lTkJCNUx1YUZRY2ptZ1hNX2V6clhMLXRMOTNWLVh2VzZTUVBLVmEwX204THJSSkhHcXg3emRhZy02UUIySGhMaTZ0a2pKMVRZd2xyRHBMSXlxbFA1d1kxTTYtOGp0RXpGWWFtb3JSUVdSZ1lncTlvLTJHMWNaVDgwLWwzUlZ4WEtkRnA4Yk1kdzhoelJDT3hsdElmNllNcmwwSWkyM3YzWWJ1ODhoV0k4alRTOEd6WnNtU251c3NtdGdxX3BZcjZVVmVNajYtZHdRRlNCRjR2QQ?oc=5",
@@ -257,6 +245,12 @@
       "resumen": "Tolima bajo doble emergencia: terremoto e incendios dejan más de 11.000 hectáreas devastadas",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2VtYmdtWDgxTXdlbm5QOTJfOHdrMURiSVZHb3ppbk9mc2FzbmlfQzZla0pFaElmZkNCQW94WVB4ck1ZNVBCSlRyTTFvXzViYV94Mk0tamxlTzJoNFFvRldPZzJrMUNUZ0U4Nk53SzBCTk44NDRTNTVsVDZNVnJuX01NUXhoU2lLa1B3eHRXeXZQWG9TSkRrVFdXa2JyUnR5RkFOcE1hLTNFeVZEdk5nMXc5endjWlVDQkFGaFYwek1qakHSAdcBQVVfeXFMUEhZLUdDU09SSkZSZUFVbl9rWEl6SVdFdWNOYzdudlUxTEZuYV8zcW4wdGlaeXc4SGREWlU5Y2pZXzNmbXE0RzJ0RlpCOWlrNVFCTFNyMEF1SHR6Qk1CTzdOcFBlMjNlV09BSzV5NkphcVVXc3RFYmIzMXlSbnhsWXpfTmx1aG1QNERvZ0tiZUNlaUtXeXBSUklOc3JDUE1fRnpublpDYXViU1lla25POWdPU2MxeTFjTnVkS3ZJenBGbXpPMmlaX3ExSDhpR1QxQllPd1Buem8?oc=5",
       "ts": 1786719178.4326053
+    },
+    {
+      "clave": "vendaval_atlantico_agosto2026",
+      "resumen": "Vendaval en Atlántico deja sin techo a más de 100 viviendas",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGxnYUlFZ1FpRHdvVENBVWt4U3ZSaWJPbzJMMkkxenUzcHR3Ul9PX2k2ZDNjQ1NVRVdDRGpjbXh6aTRpcHJ6cUFrbGpUalB5cW1WNk9FcGVHUVJ0MS12dkhOemdaRndtU18tMDRsYnl2ZXpodkVMeFVRLWVHbDJLZUxiLXdTQmdyS2Q1MGg0eWtaZDA3amNxR1Z2RXZQQ3FBU0t2S0pqUFNEc1M0ZGdtNDdOMzdvWDJuM2fSAccBQVVfeXFMT01iTnE0MTZYMG1nQlk3Wk1aNmQtMG5fSVNwYTFGUXhXaGNlMFZFVlVpMFBWbDFUdHhrWDVuWmhiOFpWdTNmclNWaWU1ZmY5RXNkSUYyZU1qSTdBSm10WUVzMU5xckJCeUtsMEZwNDRlbExnbmMzOE8zMmRxbnZsRWpscDlGdDJOLWtMNEFIcDhEME5Ka2tXUFEtUDJTeHlNYXViMnZmcWRzc2U0elE5dnZseFBkc1M5TFZ6WjFzQkZ3anlxeFBtbw?oc=5",
+      "ts": 1786719794.788068
     }
   ]
 }
