@@ -1,36 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_capitales_alerta_roja_agosto2026",
-      "resumen": "Zonas más afectadas tras el sismo tienen cinco capitales con alerta roja por impacto del terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/barrios-y-zonas-mas-afectadas-tras-el-sismo-hay-cinco-capitales-con-alerta-roja-4457811",
-      "ts": 1786639756.3866196
-    },
-    {
-      "clave": "sismo_rescate_nino_32horas_cali_agosto2026",
-      "resumen": "Tras 32 horas entre los escombros, rescataron con vida a niño en Cali después del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHQ0NW8xekdUMzBJVnRwYU1qTklKVXBXV1JBQWhjQzVSNi1jVE9YT25YRm0tYlQtWUJZVDFTby1aVjJxa1NYVmlHVDNSZ0VuQkJpTlRidWRKYmdPX29YRV9wa0xodUtoYWlDX0JIMVp5SGxvNHQ1dUd0OW5hLV9KLUUySTNmOGpNNF9Fem9zaGoycGpzTmVNeGpfbUlJd3ZjRDIwdTZENFZsQi0zZFphZWducTJuTE5JRzFZ0gHPAUFVX3lxTE9NQkltUWtZbG5NRjlENFRzMS1vdE5jQmF6Y3NpZEFqTmt5OC1XLTdwY0ZYV1ZacWtNeGZlSUhDQWY0VTNYMm9KTXFackJ6ZWgyU1ctbm5ORS1kYVRBSzVDY2VnbzlMRFJNdFlybkFfbkdlcHBsSjZnVW9rQWFkRUFiNVcxaXNwazlPVGxFczFxUUJhMUh3aUJ6dzJMWXV5NzZNRHBZdGxhblFBZ2x4dG1Ea2MydTdGWE92a28tMG1zNHRDUlltSGNVYkVVYUczRQ?oc=5",
-      "ts": 1786639756.829746
-    },
-    {
-      "clave": "minas_directivos_posesion_agosto2026",
-      "resumen": "Ministerio de Minas posesionó a cuatro nuevos directivos para fortalecer el sector minero-energético",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0ZEVFk0ZGhremxRalpEZG44TWJjam5tY1RBVEZvdGE2QmJPNnZTcm5FR2t4TUhmdTBXLXg4VHJRVTM2SUM2N1NCNU4tN1puUkt6M0tFeWFrelF2djZ4WTBOLU1UWS1zNzdXcmp6aDRvdWcyMlcxZGRPZnRJR1E0ZXFHSXQ3Vnl1UzZnVUI0VkszcUZVZGZUY1FydVlhcHRzT0VWb3lNMnZaNGFGQ0R6cDh1SEpQVnR1TDlCYlRSNi1ZWWdFY2xaZXdmR05EMGxl0gHkAUFVX3lxTE9ySWlsQW5NS0VPQzVkVDZCZkVKNk5CWEJUODVaUG9iR2I0SFU2Y3pqNjU1Q051MmozNkxIaHBwZGxnbUd4MVFSME5GMEFMdXg0VEUtc1ZLdk1CSnFpcXN4ZVdhbmNQV2xmeW02aEZWdVN1VGptb0U5RHVPOWxNV2swT3lNTGNVcHNPcFhabzU2UF9nUzlJODZoMnlJa1VUUnB4VUJlQVBkb3pweUdCeXo1NjRuS0xNU01zb01teUY4eF9kWTRSTDU3Nno1OFdjaU1NcnQxZWN3bnlOek5lSVQ2eEU4aw?oc=5",
-      "ts": 1786639757.2766292
-    },
-    {
-      "clave": "incendios_nariño_agosto2026",
-      "resumen": "Incendios forestales reportados en Nariño",
-      "url": "https://www.kienyke.com/colombia/incendios-forestales-en-narino-municipios-piden-ayuda",
-      "ts": 1786639757.7188075
-    },
-    {
-      "clave": "incendio_abejorral_antioquia_agosto2026",
-      "resumen": "Incendio forestal en Abejorral, Antioquia, reforzado con helicóptero",
-      "url": "https://www.minuto30.com/incendio-forestal-abejorral-helicoptero/1716050/",
-      "ts": 1786639758.172404
-    },
-    {
       "clave": "sismo_balance_muertos_273_agosto2026",
       "resumen": "Aumenta a 273 el número de muertos por el terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUFmT3VfUzItNzVZVnRPMkpVTEoxb1RPcExsd2w1eFJJQ01YNzJGdDNSM2VId1ZEXzZ6X1VVZVNxZE10LXFJOXAwZGpQVGwzdmYya1ZwMlZDbVJPUEVNU2xXdkUtUk5sVmJCSGZBWXFMNk02SVN1M2tKZHFESkpjSC1BSnRtM0VGNkxmMW5VZ3JiaUdjd1FmWnA4QXpfeEIzWVHSAa8BQVVfeXFMT1c0Q19ud1Z2YkM4M1puV05xSUNqb1dSSERXRDFDLVEwOUQxbjZUWHlpZ29xSWpFVlBlUEZST2wxZk1OWl91Q0xPOUFLYmtzOWJJRW9GOHFVZEwzcURncjRpU2JnTlcwQ05TeWEyLUc5X2owSTI3U3R4elZ0eE9YbHdZVGxJNHBUZDMzUjl5R25xWE9DbXdNSEpMS0ktQllEeTd5WFRmNWxCZzRrQzZsdw?oc=5",
