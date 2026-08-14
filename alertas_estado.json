@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "minas_directivos_upme_anm_agosto2026",
-      "resumen": "Ministra de Minas y Energía designa nuevos directores de la Upme y la ANM",
-      "url": "https://www.larepublica.co/economia/ministra-de-minas-y-energia-designo-a-los-nuevos-directores-de-la-upme-y-la-anm-4458254",
-      "ts": 1786674737.844169
-    },
-    {
       "clave": "sismo_judicatura_medidas_agosto2026",
       "resumen": "Consejo Superior de la Judicatura emitió nuevas medidas para trámites judiciales en zonas golpeadas por terremoto",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3hCR0hVY19HbjU4dWRVekp0Y2h2UUVWS0tNLU5mVFVnSGlsN3ZhQ1NuakJOSW9mSjA5QjY1bVVGT2tLOHg0UXBQOW91RHJBVktOS3dQQmZxcVJhcG1HX3dTYUlDSmg2ZGdxcU1CVk1OTWxRRGRoV05wd19yaUxHSWN5RFpPdk1yT3FjckpQdF9JLTRub2taSkhfamZyaURUd25NVGl0UUowRTY5T0JJTUV3Mk9ESU55RkJhcllwYkk5Q21MXzhwSll4RG9MbHFUenlCMlVsWXpFOHJZUlVIdjFhVUwyX0VMUWdYNWVOM2ZTemNEUFFQbTFfWGZjS2VCNnpZYVRmeFBpS2JWOFZ3RFRwdTJPZ9IBsAJBVV95cUxQMS1UT2Q1Y3Rpb0Rial9uMnU0V0pSOWtLSXQ2aExiSVNBY0J3dUVzSjhMQkxMNFlpakszQVRZWHhJZUp1MW5tVUhxa3QwVTB2TVdsTGNWbDhGczNmZnJQQ3BJV3ZMS0RzXzF0SDlkc0tiaGpUbkx0d29jMHJacTBpTktIWjdvdUJpQ2plMi1fc3A5WVE2anQ0LTFXTkphellKemRKb2lkaC0yODkySGxrWDQ0bDlCbUVvd3pYNVhIcVhTa1JSWkNnSlpFOUZaM3hiQ0FlcXppZi04T3pXdm9uY0dld19LdDBOU2c2NDVrVzUxLXhUNlZHQW1ZWXJseVVfeHpnSFE2Y19wLXVIX2Q2b0J3WDZrSlBHN18taEZzZ3NyeTJhRzZYQzl5S3dROERL?oc=5",
@@ -245,6 +239,18 @@
       "resumen": "Incendio forestal en San Cristóbal lleva 65 horas ardiendo con riesgo en zonas afectadas por terremoto",
       "url": "https://www.minuto30.com/incendio-forestal-boqueron-san-cristobal/1716090/",
       "ts": 1786717918.7189867
+    },
+    {
+      "clave": "reconstruccion_buenaventura_reto_agosto2026",
+      "resumen": "Gobierno enfrenta reto gigantesco para reconstruir Buenaventura tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/cali/la-dimension-de-esto-es-gigantesca-el-reto-del-gobierno-nacional-para-reconstruir-a-buenaventura-tras-el-sismo-3578385",
+      "ts": 1786718533.7825534
+    },
+    {
+      "clave": "vendaval_sabanalarga_agosto2026",
+      "resumen": "Vendaval en Sabanalarga, Atlántico, deja más de 30 casas destechadas",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendaval-golpea-con-fuerza-a-aguada-de-pablo-sabanalarga-mas-de-30-casas-destechadas-y-arboles-por-el-suelo-3578376",
+      "ts": 1786718534.2210906
     }
   ]
 }
