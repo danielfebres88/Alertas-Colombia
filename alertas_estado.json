@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "dane_director_valencia_agosto2026",
-      "resumen": "Ricardo Valencia designado nuevo director del Dane",
-      "url": "https://www.larepublica.co/economia/designan-al-exsubdirector-y-economista-ricardo-valencia-como-nuevo-director-del-dane-4458551",
-      "ts": 1786671040.1760476
-    },
-    {
       "clave": "buenaventura_crisis_sanitaria_agosto2026",
       "resumen": "Crisis sanitaria grave en Buenaventura tras impacto del terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/cali/un-balance-devastador-asi-es-la-carrera-contra-el-tiempo-para-evitar-una-grave-crisis-sanitaria-en-buenaventura-3578299",
@@ -179,6 +173,12 @@
       "resumen": "Estadio El Campín será el centro de acopio más grande de Colombia para ayudas tras el terremoto",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeklLVHh3MEtlQTMxY2V5RjQ5QzFIc1YwSWRBRVNLdjVsaEI5dDJjMjFkRklaeThzdEJ5eWsxTWhweTlDdy1fZVA3cVJ6S2ZjNF9qc2I0UDRxclgyb2VIcjQxUDFvLWFjeUNsR0JqWElVQmFoQnNvMzRTcEJvcTVRaHdSYWFhMUlaVXFTbkNfQmN1U1IyYllrNXFub3RHbGVhakJuSGg4eXFQYm1VOEFack5QT0ZoMmttZF9wLXNELUxWX2JuYzFibU9xV0VwNDJ1eXFFNkpoSnVSSGZWNy1r?oc=5",
       "ts": 1786714218.7735806
+    },
+    {
+      "clave": "defensororia_alertas_terremoto_agosto2026",
+      "resumen": "Fallas en coordinación y ausencia de censos: alertas de la Defensoría tras el terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS29ueUhfRHI1M2piWnpOc1V1WDhZQkhiNTI5bzFXYnVKM0pyUmQwYmNoOElmbzVTRkkwXzlQdGF6QTRheGJEVnB6M0F5T19WYi1falhvMDlmZmUxV3VqYnBJWFBpUFZveWNQb1BkOTlrQ1JnUU9pQVl5cC0zVktNSjhYZ1JodE92bURrS3BYR094Tlh1ckpEQUU0TTg4RXo3ZzEtWklGR0JXOEkyc0daVGdCeUJORFpyUnfSAboBQVVfeXFMTTRtaTViYWUxczNIS2JPUk4tSTM5Zmluc25fR3ZldzBXTGt2RldPeHVpanBBeWh5b0VwMHpXbWpGZlptaFczQVNDaHhFR3ZOTFI1SjJyc3BEU01IeEkzeDRRLUl4cWdTZThuVlI3STN5RGFDWVZjNDJvMEVPdjVPd3RicTNrYUlJR1pHWDUtOE9EWC04eUNZSmhZMnRrNGNDN2REM19neDNiNmRVMUJER3o2QzEyQ0pndmN3?oc=5",
+      "ts": 1786714833.3330283
     }
   ]
 }
