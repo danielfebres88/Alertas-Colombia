@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "conmebol_fcf_donacion_reconstruccion_agosto2026",
-      "resumen": "Conmebol y FCF donarán un millón de dólares para reconstruir casas tras el terremoto",
-      "url": "https://www.minuto30.com/1716056-2/1716056/",
-      "ts": 1786640992.3510618
-    },
-    {
-      "clave": "andi_recaudacion_10mil_millones_agosto2026",
-      "resumen": "Empresarios de Colombia recaudan más de $10.400 millones en donaciones durante congreso ANDI para damnificados",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYURMQTJSYzZNZDV2T1FWUHhqS0JIVm1JVzZRYVBzd0h1czNmamw0SHpjeUJPaW1UZGh0VmgtSTA0U2ZvczhFalE0WnY5anRaNDExTl9sTjhLRFBfM1d4VlpLR0pXTFZhQ2UxM2xTN3pkdEcwLU1TNlZ4M1drQW5NZWZpYTlnRE9FQ19Sa29ZY29XY3RKNjBSMmhuTHdsdWRuWHBLT2xETi1tV3h3dWtqcnV2TXY3bUk1LThwOTZn0gHSAUFVX3lxTFBGT1g2SnZXOUh2VlU0NTNUTXRiTWZsTUFnN24yYzZST0M5RFNiY3ZRQ29lQk82WkpGclRfczYxTnVrdlNQNC14VVF6bUppcUJOM25jNWhtMWFyamRtUERvLW1qZUVvcVdfNFBrakFWUUVoemxmdnEzMmM5SzBrTkN0VmtianMzS05vamhGOFBhTVpYVFpDT05KTW8yN19ZOEw2NzRIaTNHeE00dHVOUnprdVBuYzBpc1ZMMUlLU2lBMWNJZ25QV0FDZ2dXNHRlenR6QQ?oc=5",
-      "ts": 1786640992.8069596
-    },
-    {
       "clave": "ataque_eln_catatumbo_agosto2026",
       "resumen": "Ataque del ELN deja dos militares heridos en Catatumbo con lanzamiento de 43 explosivos",
       "url": "https://www.minuto30.com/explosivos-base-militar-en-catatumbo/1716069/",
@@ -317,6 +305,12 @@
       "resumen": "Exportaciones de café de Colombia se desvían hacia el Caribe por impacto del terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/por-el-sismo-las-exportaciones-de-cafe-estan-saliendo-por-la-costa-caribe-4458414",
       "ts": 1786683997.9111998
+    },
+    {
+      "clave": "ocde_ninis_colombia_agosto2026",
+      "resumen": "Colombia es el segundo país con mayor proporción de jóvenes 'ninis' según la Ocde",
+      "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-segundo-pais-con-mayor-proporcion-de-jovenes-ninis-segun-la-ocde-4458295",
+      "ts": 1786685240.384017
     }
   ]
 }
