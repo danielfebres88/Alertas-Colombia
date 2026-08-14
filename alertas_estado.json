@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_valle_cauca_duelo_agosto2026",
-      "resumen": "Valle del Cauca decreta tres días de duelo tras terremoto de magnitud 7,4 del 10 de agosto",
-      "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-se-viste-de-luto-decretan-tres-dias-de-duelo-tras-el-devastador-terremoto-del-10-de-agosto-3578120",
-      "ts": 1786632970.6907485
-    },
-    {
-      "clave": "didi_beneficios_demanda_agosto2026",
-      "resumen": "Didi obtiene beneficios por fuerte demanda de viajes en el mercado interno colombiano",
-      "url": "https://www.larepublica.co/globoeconomia/didi-obtiene-beneficios-debido-a-la-fuerte-demanda-de-viajes-en-el-mercado-interno-4457813",
-      "ts": 1786632971.1444073
-    },
-    {
-      "clave": "sismo_aeropuerto_pereira_reactivacion_agosto2026",
-      "resumen": "Aeropuerto de Pereira reactivaría operaciones en unos 10 días con algunas restricciones tras terremoto",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTzRSUnJlYkJmdlBRUlNwZlJwZDBlZWlLVjZGOGhtb3dmbjhXalFoT1EtTmx1MlBIS25VazdhMnlkak92dGNVNWtJd1FQR2JNRWhObm92Sk43OEhDSVhIdmFvc1JReHdlNVVmVlc4Zk5Rd3VndjZlMDdVUFlSQ04xQWtlbUh0LXYyVUdjZkJvRnkxZHN1Z3c4UlFOaVJDTDk5VWJsTk5hNmhoSnYzdXRBRTFRekJBd1Zoa3BRWTB0T3o1QdIBzwFBVV95cUxNR013cEhQaUJEZzJKam5kVGRqYzN5T2JteDZnSXlPRWFDY2RnS1NJWlUyRFV2X0VaTEdlNVMzbU8xTFBhZnVYcm55TjBQbFZyS1dOUi1wT0VidGRCUTNpTjVuRXRxXzZVbGUzb203SUhsX1FDSkl0eld3VnpzTXhuc0tTdEY5SXJtYmhtNndGVTNTTjBIMGg0LWQ3cThraWFvSDVSVDFTM1M4V0Z1U1JVUW5pd3l6bXJpekhDZmxTR3lHT2FGdzN5eGx0ekV5eWc?oc=5",
-      "ts": 1786632971.592087
-    },
-    {
       "clave": "sismo_replica_42_san_jose_palmar_agosto2026",
       "resumen": "Nuevas réplicas del terremoto continúan en Chocó; sismo de magnitud 4,2 reportado en San José del Palmar el 13 de agosto",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUxOcnhydXZqdmREOU1aenRlMWkyRzRJTjVUdWVDYXZKOWl2a21TZU5XZlR6ZG5xYXdmbWk5cUdWSnhzLTF5Zm8tNU1JUGpCM0tSSUpaNEFNY0RsWGNwNVg4aktTWTBmVWJGa05rcUh5bWVnMmJ3Q0tublZxSWZ3OHh6MU5RTG9kYlZ6Y3NXSE4yc0VrS25XM0xMaHNNOUp4b2l0bDRmVWVLS1FOUmFB0gG8AUFVX3lxTFBDWWdqS2Z0NWY5Rld3OVJ1c21JTk5OSEFDMlI0VGloOUVoZEJSOTl6TUZoNUg5cWM1dGlMaXZITE5XMWh0MUdsc3g0NEp6NGpSWVNnanlnVnQ4MndrNV96NHp5NFI1M05vdlZIYzJIMXVBNDRUUHRkWTVFMUpqRG5uaG5fa0thZUd3WGcyLS1NdGJuMG1FV3dRYUR6TVB4dHkxQlVFSE1LWDNSMzdvY1NhUTIzSlJxUktJXzF2?oc=5",
@@ -383,6 +365,18 @@
       "resumen": "Ministra de Minas y Energía designa nuevos directores de la Upme y la ANM",
       "url": "https://www.larepublica.co/economia/ministra-de-minas-y-energia-designo-a-los-nuevos-directores-de-la-upme-y-la-anm-4458254",
       "ts": 1786674737.844169
+    },
+    {
+      "clave": "sismo_judicatura_medidas_agosto2026",
+      "resumen": "Consejo Superior de la Judicatura emitió nuevas medidas para trámites judiciales en zonas golpeadas por terremoto",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU3hCR0hVY19HbjU4dWRVekp0Y2h2UUVWS0tNLU5mVFVnSGlsN3ZhQ1NuakJOSW9mSjA5QjY1bVVGT2tLOHg0UXBQOW91RHJBVktOS3dQQmZxcVJhcG1HX3dTYUlDSmg2ZGdxcU1CVk1OTWxRRGRoV05wd19yaUxHSWN5RFpPdk1yT3FjckpQdF9JLTRub2taSkhfamZyaURUd25NVGl0UUowRTY5T0JJTUV3Mk9ESU55RkJhcllwYkk5Q21MXzhwSll4RG9MbHFUenlCMlVsWXpFOHJZUlVIdjFhVUwyX0VMUWdYNWVOM2ZTemNEUFFQbTFfWGZjS2VCNnpZYVRmeFBpS2JWOFZ3RFRwdTJPZ9IBsAJBVV95cUxQMS1UT2Q1Y3Rpb0Rial9uMnU0V0pSOWtLSXQ2aExiSVNBY0J3dUVzSjhMQkxMNFlpakszQVRZWHhJZUp1MW5tVUhxa3QwVTB2TVdsTGNWbDhGczNmZnJQQ3BJV3ZMS0RzXzF0SDlkc0tiaGpUbkx0d29jMHJacTBpTktIWjdvdUJpQ2plMi1fc3A5WVE2anQ0LTFXTkphellKemRKb2lkaC0yODkySGxrWDQ0bDlCbUVvd3pYNVhIcVhTa1JSWkNnSlpFOUZaM3hiQ0FlcXppZi04T3pXdm9uY0dld19LdDBOU2c2NDVrVzUxLXhUNlZHQW1ZWXJseVVfeHpnSFE2Y19wLXVIX2Q2b0J3WDZrSlBHN18taEZzZ3NyeTJhRzZYQzl5S3dROERL?oc=5",
+      "ts": 1786676586.1244586
+    },
+    {
+      "clave": "bogota_vulnerabilidad_sismica_agosto2026",
+      "resumen": "75% de edificaciones en Bogotá son vulnerables ante sismos; nueve localidades enfrentarían riesgo por suelos blandos",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM1NwVklwWXBYMW42WHVxcTIzVDVpc1RHMjhIcmJKMEdBamM3SFNMNFV5Mm0xLVJTQlFZWTdVMEFhMy1qcGNaVlFLTG5TcjdTWmdzWXd6ZU5qdVVMdkdnYzhnRlBQa0lfX1RvZ2x5RW43V0Y2OWpJMUdLT0tFVy11dkdvQ3lqSVVIeHAyOXhKSWdRZ3BENlRheTRKQlBwemJDeWZSODFwRUhFazZiN0R2eDl6cHFIajlNempKV3MteTBvLXVZY0tELS1NVWE0Rlpoa0FfU0tCLU1yUWIxVGNDdDc1VlJGcWtEWUlqczZrY0Q5OUg2V0JZTWhxNlFuM1ZENEg5MUdhWkdfZXQ0dlRHSGJnNHZHMG50UndjTdIBtwJBVV95cUxQUk0tZ2V6dzU1QTFVMjZTV19lX2JON2lYdk5Ga0FHYjRHTDF2aFJ1ekI1R2RSc1hLdkFrVDkyMzdqU1QyVUJyV2NOUHJaaXNSdDFGVHFIWEFjcUpNbzA2M3J6dXlyU2FiSEJ5elRlb1dKTF9ydzZiTDcxNWhNWmVDWUdybGQxcWVOaVhRNjJTMUhwa1dZMjR2bDE2UUZpZW1YVzJuM0dyRWtwUkdtQzFaNW03QUtzR3psdzhKVmpfSFE5TGlHX0tHVm81TURUN21YNGk0ZU9JdXg2OVNZbXFUUmttS1VXbm9SQzZYR0F5VlA4VEE3alNxR1R6NmEwcnFiRzNTVWJEb3hFZTZld3QtSGRHZzN1Q3p0ZmNkZlVhbjlxT05PZXV3QnVrdE55OUNaM2VVOGFPQQ?oc=5",
+      "ts": 1786676586.584251
     }
   ]
 }
