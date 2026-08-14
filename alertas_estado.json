@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "incendios_santander_agosto2026",
-      "resumen": "Santander mantiene alerta por incendios forestales con dos emergencias activas",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkc4U3c5eXdYbnFhVGJpc3RkNlpwV0M4Y29hOWtwWWZUMUFnZVY5TFFiTW0yYTZWcEdCNC0wNTRyb1FXYnltb2xaSEt5aFBocG1PbzZYOTBXZTNFVEVDeUU1b25kdHRvdWdESjlweHJ0dDFzTk9wYkV1WkZKbkdMTXd1RXVDemp2MTNYTmFKNHZpazZ6dklwNzBHdEJlZDJUdUZxaNIBqgFBVV95cUxNRUhuSGdMWDZneEVoOUlWcDJMNWVzV3FCbEdXMmNuNW11dnVITTQzZFpYc2lhb3BJZVFackpyOWlTOFkxVlcwMXVlRFExdWVHTEdTV0c2QWxORU9Za2VURG15aVRQQmJiR1VKR3E3Ql84cXFjSHRnZlZ0MEVMVFlRQ1ZnZTlOR1dhRTNkaEx0cmV2YlM5cWZYUElfQ0E3RnU3S25MMGR0YnRwZw?oc=5",
-      "ts": 1786631125.3353662
-    },
-    {
-      "clave": "ani_cambio_director_agosto2026",
-      "resumen": "MinTransporte declara insubsistente a Óscar Torres como director de la ANI y nombra su reemplazo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTRsa3M4enJjMGIySGpYczZ5LVdhWFQySE41cE5hT05yZnJfUWVKdlhpWEU0RnQ5djFiNnNxRXRLVjUtWm5kZGpDdFhBZDZ3QkJfc1BBWEF6eW81T0hHZWhDWkJwMmJZZzJXbHJZMDRIaGtqQjZvNW1SVEpoOTdqMjNXMUxJWndaOERUbFV0UHRlekJhOWtJa2Q5cmpuRjQ5VC1MTER5UWlGbUk3VktyLVpaUHJjSGZkanNwY3Z3OE5sSnlZaG1CetIB3AFBVV95cUxPSG9aakdldEVTWVlWVDJiUUhURVQ0VF9rcjdsblZuanpkRUVKcDJET3JBbjNkZUFoVkFfdkxkT25jZmpiYkl4dHFKcGluemhCbHB0MUQ1MFBKdDRLVFdrX0pjTW04ZURNbHFrWEhqYUFjczJGYTRqT3ExVmFZMW1GRkJVOS1uZk02T0I0R3Z2NzZ2TUROSTB3MlNkQTFscWhMaWhRdzBnTWlHSjhDUnQ1ZVlSSTUzYmIxaTRNUmtsS2k4TjI0V2J2YVlCeTB6V28ySlNic3lXZldxMmt1?oc=5",
-      "ts": 1786631125.765292
-    },
-    {
       "clave": "incendios_tolima_36_activos_agosto2026",
       "resumen": "Emergencia por incendios en Tolima: 36 activos en 20 municipios y más de 2.000 hectáreas afectadas",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-por-incendios-en-tolima-hay-39-activos-en-18-municipios-y-mas-de-2-000-hectareas-afectadas-en-san-luis-se-nos-estan-quemando-las-casas-3578099",
@@ -395,6 +383,12 @@
       "resumen": "Reportan caída en servicios de Movistar en Colombia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0pkUmRYeFBWNmdtOC1JejNwWGpjTVFtSkc5TDhnZ3J1c2VMRDhfQ3hZSWxSNkMyRklna3kteUJGZTlyNUM4QXNpaHB1YTlwb2tVSlVpZlNvckRsWWVnSXZwNU1WbHNhOFNPRGx5aW44Q2k2aHEtcFRQYzZ1OFkzUUVoUWp2SWNUTVBaSW85QklTZHZ3azA40gGkAUFVX3lxTFB1ZXBzSWM3cFgxeWdjTjAzaFVtMHY4MnNCSG1QZGNMVG15Nk9zWm9sdkMtVVBkSDdaMkZNbzZnS2xEM013OFNWc0dSdkpUd054d2VOMHNQYmZWSzZiSEZJd2RXd2FlcFlnSXF2dFJiM3RmS0l2bmxIdEtIYTgtMmtIVWVZN0NlMnNKTWYtU0h5Q3RzOUZtTjRnaC1zMG1JSXpCY05T?oc=5",
       "ts": 1786674123.232568
+    },
+    {
+      "clave": "minas_directivos_upme_anm_agosto2026",
+      "resumen": "Ministra de Minas y Energía designa nuevos directores de la Upme y la ANM",
+      "url": "https://www.larepublica.co/economia/ministra-de-minas-y-energia-designo-a-los-nuevos-directores-de-la-upme-y-la-anm-4458254",
+      "ts": 1786674737.844169
     }
   ]
 }
