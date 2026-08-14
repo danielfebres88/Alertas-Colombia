@@ -1,24 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ocde_ninis_colombia_agosto2026",
-      "resumen": "Colombia es el segundo país con mayor proporción de jóvenes 'ninis' según la Ocde",
-      "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-segundo-pais-con-mayor-proporcion-de-jovenes-ninis-segun-la-ocde-4458295",
-      "ts": 1786685240.384017
-    },
-    {
-      "clave": "andi_recaudacion_cartagena_agosto2026",
-      "resumen": "Recolectados más de $31.000 millones en donaciones para la emergencia del terremoto en la sede ANDI de Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnVnbW4wOEpON1RVQmctUzZOQlBMak05Qm9Lc3FlU2RfNDAwa0p4UVpDY3RyenFKZTRSNE9ESTR6VFc4OUxsb1BoSlY1YnpxekQySzBVYlRDZVliNjVXOE1XejlveThXNW1oNkNyaHI0Zng3X2NTN3liYWVhZ1FPb2FFUTMtaExSb2ZuQ2U4ZURacEZxRnl6eUtVVG1XWlZWRm9waGZSMHk4R1V5aWpvUG1jdFRlUUJFR3kxUktOMXHSAdQBQVVfeXFMTjQzUTY3TzNtZ1NFWkZKSHRfUFFMZWFIZkhmUUNLWWdiZ1l4U3dEQ0VaOURMS2VPdlFiRDlhd25CWF9DMjFXRGZEdHg2T1V3LXVNSWhIc3kzLXRkd3RtYi1aUFRHYUR0a2dCTEZPRlRoRkhCLVNWTU1NdjNMczRmMEJmMHUwMHhBaW1feWl4TDNSd0l4bVNTek83ZzBTVV9DYWVOb1UyMkp4ZF8wcEg1dTdickxDY2VxeGV1YXVoLXRxRWNjNmZDRFlZaHJFMkpSN2VGU0s?oc=5",
-      "ts": 1786696915.853045
-    },
-    {
-      "clave": "cambio_radical_gobierno_agosto2026",
-      "resumen": "Fuad Char anuncia que Cambio Radical será partido de gobierno",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXhXN0FfUDdweVQ1UU9UUXBOTXRocHZNcmJHY2p5V2NqMjBzTVNtdVhpR1d2NUhwd09OQkF5ZGtZMVFRR1RhMVZtbmJlU1d6bU9Id2VNaHNKS210R2dyYUwzZjhUcVhLWkQ0X3RJeW53UzBJSWVPUEdlakFjbGN3UmZEdVc3cUXSAZsBQVVfeXFMT0ZWNm5HZVZUN0RZeVZuY09CQnNDSklyZHA5dGlLcWc4Q09COXhyd3F4ZzFoendqUEFCZVN3WjhWVFZmUzQwR19QSGdsVkRNbkFYVTFhVzBQd214TW56d0xZQzZfRXQ5T0w1YUZzOHpYQ1VZSDVoT3FKbVhzcXFBZGdJRWx1ajg5TzFYdGxSbzYxV3ZETWNPd0lrMEE?oc=5",
-      "ts": 1786698769.5889
-    },
-    {
       "clave": "daes_donacion_6mil_millones_agosto2026",
       "resumen": "Christian Daes anuncia donación de $6.000 millones para damnificados del terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/barranquilla/terremoto-en-colombia-el-empresario-christian-daes-anuncia-donacion-de-6-000-millones-para-los-damnificados-3578361",
@@ -281,6 +263,36 @@
       "resumen": "Colombia y la Unión Europea revisan estándares de seguridad para fortalecer la aviación nacional",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVy1ESWRaZ29Ua0tkVmdYN3Bma21ZWEt6NjNBRE9ENUZTN2FLa2FvLVpqcHFFN2hrRE03a2RrUTFIRlVoN0NEUUNUSGtSeDJzRzk3UTJVRXV1Z0h4THlvenMwN2xqQWhiVDA1VWxpNUFFbGt4YXZTWFdzWk15dkFia0xwc0hQNlVOZWNnMXFWVWJZYlpaTlprYUhnTVJlVWfSAZ8BQVVfeXFMTUgyMTJuNWdNaWFla0pfWW93MzdwOGNfVTROUkY1dGEtTksyQVhjcW9xMWFPTlRXeldqUnk4X1BMaE41Wm9FWjA0dEkzTXhIQkxJcHVJamhKWUJpM2NLVS1BS1JkQmRtOGtiOTczN0ZuaVR5VXYza2NmcnlOWlhWcFJFYkNVc3dhYTVkMkJiZ0pIYXI5SVJwRXlIalY2d1dz?oc=5",
       "ts": 1786724732.6080105
+    },
+    {
+      "clave": "explosion_mina_cucunuba_agosto2026",
+      "resumen": "Explosión de gas metano en mina de Cucunubá deja seis mineros atrapados; Gobernador de Cundinamarca entrega detalles",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-explosion-de-gas-metano-en-una-mina-de-cucunuba-seis-mineros-quedaron-atrapados-y-el-gobernador-de-cundinamarca-entrego-detalles-3578480",
+      "ts": 1786742144.4791887
+    },
+    {
+      "clave": "registraduria_cedulas_terremoto_agosto2026",
+      "resumen": "Registraduría desplegará unidades móviles en ciudades impactadas por terremoto para entregar cédulas a víctimas",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-unidades-moviles-en-las-calles-de-ciudades-impactadas-por-el-terremoto-la-registraduria-entregara-cedulas-a-victimas-senalo-hernan-penagos-3578462",
+      "ts": 1786742145.0687895
+    },
+    {
+      "clave": "vives_pinedo_coljuegos_agosto2026",
+      "resumen": "Jaime Vives Pinedo es designado nuevo presidente de Coljuegos",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVG1YOGVLRHkxN0w1ZlIwOTFPSVNUSWZZZV9LQWZrVERTUGJCUlQ4OTdmMjZMaEpnbWs0QS1HcGRSQ3ZVZGkwbDZ1d2tBbUwzTzNaeFRFekc0XzlfRFRFeGx4SlMwQlFuT2FpWDVYRWl4aVo4eC15bEx0THJTWU1FX0psLTYwSHEzSHdLVGVKN3ZMMUXSAacBQVVfeXFMTXNfNU8tSExBZWdEbmE2VkJHRGwtdEtPX1dadjkzOUVDMU42Q0dLb0tfVnFWYUQwSTY1VmJ2OXh2TXRadkd5eGdfZHRfWmI5M21tOWFvcjlQaV9wdXJzMFZaTjBRWXRFVW10NUhjY1VfZEwtUG1YNEJuVUYtb2tkZ3d3eWh3ZUhjRG0wRWhZUnhpa0VpZ3U1d3ZuYl9rREV4dnNBTlRNMTA?oc=5",
+      "ts": 1786742145.6241198
+    },
+    {
+      "clave": "supergiros_giros_gratis_terremoto_agosto2026",
+      "resumen": "SuperGIROS habilitará giros gratis tras el terremoto en Colombia para víctimas del sismo de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNGUwOVhXN0wxX2RMLTQzMUJOak5GRDM5NGhHR1VvX0dWcWVVdXc3TUFYeXdyRk9xcFhfZW1PR3piR1llNEpkMEVxVnJ4cVVEdXVkczFMZFYxQzNDNzA0UUh0NUg0VFVyR2R4U2FNcFZZZG82SGUzMkVkNFZ5eHRfbVlFT3JHYzk3VnN5eTU2Vmk2RkYwU1Z0Y21pRlo3RU9FR2hUdG1NX0VaaV9leWRQbHFvaFoxRE81WElZVVE5ZVQ3T1dvbnB6d2t1bGcyYmJQNDZsZkJqcU54eHdGWi1fTjlvRQ?oc=5",
+      "ts": 1786742146.2290173
+    },
+    {
+      "clave": "plan_marshall_choco_agosto2026",
+      "resumen": "Abelardo de la Espriella presenta 'Plan Marshall' para reconstruir el Chocó tras terremoto de magnitud 7,4",
+      "url": "https://www.kienyke.com/actualidad/abelardo-de-la-espriella-propone-plan-marshall-para-reconstruir-el-choco",
+      "ts": 1786742146.803295
     }
   ]
 }
