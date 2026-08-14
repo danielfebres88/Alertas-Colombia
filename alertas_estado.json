@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "sismo_rescate_cali_agosto2026",
-      "resumen": "Hay señales de vida bajo los escombros en Cali tres días después de la tragedia del terremoto",
-      "url": "https://www.eltiempo.com/colombia/cali/hay-senales-de-vida-bajo-los-escombros-en-cali-tres-dias-despues-de-la-tragedia-la-esperanza-de-encontrar-personas-con-vida-no-se-apaga-3578100",
-      "ts": 1786635446.6106787
-    },
-    {
-      "clave": "sismo_futbol_suspension_agosto2026",
-      "resumen": "Fútbol colombiano seguirá suspendido hasta el 19 de agosto por impacto del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEMxZThERUhyRTNkV0hycElmaXZ0bjNQWjEyOGtHaWhXYVYwQl8tWG0xazVWVVFtVW42OFVNWFRUUUhGQklMMEFNYTZsaTZPcnpfeDhRRkFHSVdSTThzNXNKd2RwOFFqMGpWb3gzQUwxS1dqZUY1Zm4zSEIyUUpOYUc1SGtyTHN4RXhyM2VyZ2o4N2E0UUFkWFJxNE1BaURyaXc1ellmNjh0VW9PTHZrU0h0MEdINHFqa09oMWpDekIxOW5CaUZoeVF1Z2dBRGZSejRvMy130gHjAUFVX3lxTE9MR1ZhV3pHRnY3Unl5dm4tMk0xR2JMRURJODB4enRjbUhOTjNIOG1DUi10QnZNeFZ0RUJVREFiX0xYckVWbWJVZ1V5UEg2NlhSR0FRb21VdE54LVZhWXQ2dk8yY1NaZV9JZm9CTk14blRaeUZwQ0RIMGtqYUNWaXk5VnpId1hjd3Joam5QMTRISzVfTFlzNmZUX3FYM0Y5a0xVa19xcVdCYlpNZEY5VmJVVzRPSGloMEl0UE5vbW84N1VnemVjMGxtMHE2YzdYMTBkMHR1djhfeHNLVFJkZzU5MlE4?oc=5",
-      "ts": 1786635447.0485773
-    },
-    {
       "clave": "sismo_alivios_bancarios_agosto2026",
       "resumen": "Bancos anuncian alivios financieros para personas afectadas por el terremoto con períodos de gracia hasta por un año",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSHVCRXc5TG9wemJsNmpVb1dBbldBdDNva2V4cklwUTVPMHB2dXVSTVpjeEIyYUFGQnNfSXh4Mm1rdjB1U1J3RmF4azJRbEZTYlR4eDJNRjM0Z1RlWG81X0ZzM3RvTFVLdS1falZka0M1NVVxVzdUZWZpc1Bpb2h6YzQ0UUdraHV0SWFDTEJBd1ZCdFltcWh5cC1vUDdqRUZSNjRaMnBhRUpRTkl1U1BIS2ZCdC1RT3B5b2ZQVVRtY0I0dUdjNEx6R0pMT2UxUEoxcTVBeWxyd1JENU9CQlMteWlBMkNjZ1ljQ1FxN3BjZFNDMHozeVNpbGo3RzhoZw?oc=5",
@@ -359,6 +347,18 @@
       "resumen": "Joven sorprendido con brazalete del Inpec en vía a María La Baja",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1Z5V1NHUVg2aWtqSU8taWx6UnE1NS1uMGo3bnBIVWpJLU9xcnJNY3JPRFZCWHhhSWN3MlNNUVVrREFMOXBHdGNyZENBTmZVR1luUGV2V3dMUHFiOThwQ1dqX19ZckNqaEowaW9SQUlDbmc0b1ljME5CRHhseDFadC1fNk9QR1lpMXQyM3BJaTU3SV9URVNWNEc2OGJkMkY0OGtwa19aalUwSGtnWEpJYmRJRkNpX3fSAcsBQVVfeXFMUDNXc3lxVldPZDZuZkozR1g3NDhEeVZBUDJfY01RZlozUXNpdFcycllGcTNMMGw2NWxONDN5OWZqbXpGZFhETEdiVUFBZkpKbGRrc2hSdFg2UEVKTmpvcEljVTJWeXh3aHY5OTRZUWQ4eVRHOW03NURIMXl1Zy1rNi1xUGF6a0RrTE5zTk9qMnI0T0M3d3RLSGh3b3JRekJQUzNpam45NU1oLV9PMHlxaDNSVi1lZFJhMUtPSktOXzYzWnM3WVc4dmV0WU0?oc=5",
       "ts": 1786678466.1384287
+    },
+    {
+      "clave": "anla_director_pineros_agosto2026",
+      "resumen": "Sergio Piñeros Botero designado nuevo director de la Anla",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMTZGSFlnNnl6MHVGbS01M2xLNmJIdVVsZF8xdGs2WWdsTHFNdFlDc2ZzT1dGenJlcV9tOVpQcDNyQkt2YnRRVG9KQXdtbmFrLWI5TGZEblB2UlcwZm1yT0xwd0hWaVZVWkJYNFZ2QU9SLUhndjJZVXcyeWhscHZwalpodDJkRkNRUHNQRWM4N0tDTDQ4VkFvdVBhbnVYT2cyangxUk14WE5jT09OemdmaHVWUmZGM1FC0gG-AUFVX3lxTE5lOW1TTzZWdWhaWVduMWoydkdKU1dKR014UUthcTNxdERjX09TeWw1V0V6bVVtdkxDRjlka05iaENSdmVPMFUtZmVscVhUUU42WWZEZzBJZkt3dHNiR0Nvd01kaXVlNGlqakdkcTlfWTNHUjlOQUcxaGlPeFhYZTBNTGNJTzRJY095MkdPVURWTzJjb3NkOGdaTVozZ1VNSW4zWm1jSWY3S01GX3laUDlYR20yUXNja3pTYjl6Tnc?oc=5",
+      "ts": 1786679081.2440436
+    },
+    {
+      "clave": "mio_reembolso_terremoto_agosto2026",
+      "resumen": "MÍO de Cali reembolsará 100% de pasajes a usuarios afectados por el terremoto de magnitud 7,4",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTBvdHFxUkd2Y2s0cEJmQkVjSXBwTmdjWGJiMlAwVkdiQ194VFEzYnhsdXloSE5PU1lSaHhZS2R6dkREQWx6cmNVTUJwYmhUZEdObGxER2EwYnFWNmVab042akJzRjNUV3NjWVJndHZMaXMwSkpodXU4YWl6d1pMZGtLcEtMeExMWmYzNGxpTnJfbWRuYS1wVHRwQzh0TUV6Zng1bkM2bjVoN1MxZXZkWWpkdHFfaDN0R2J2akdUWTNlRWdKLUVicFJ6M2lwaW9ScGJQMnJPUQ?oc=5",
+      "ts": 1786679081.697966
     }
   ]
 }
