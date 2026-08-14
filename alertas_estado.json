@@ -1,186 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ataque_eln_catatumbo_agosto2026",
-      "resumen": "Ataque del ELN deja dos militares heridos en Catatumbo con lanzamiento de 43 explosivos",
-      "url": "https://www.minuto30.com/explosivos-base-militar-en-catatumbo/1716069/",
-      "ts": 1786655814.1737785
-    },
-    {
-      "clave": "fenomeno_nino_riesgo_agosto2026",
-      "resumen": "El Niño se fortalece y aumenta el riesgo de intensidad muy fuerte en Colombia, advierte IDEAM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2tqNTFyMlNKS3I5elJtOEFRSUhlaUNSTTdiT2d1TWI4VnFGdjJwV0g3c0hReGh5dnJwSHd0WDFvSmxRbmo4aEJGd1hTSEJoX1ZPYUZpYVIzeUtacjFJQzMtVlBmdlF5aTNqZFFGRjdfcWxBbWloUk1zaVZWVmZmTHFSNXg1eTVCbGFEcVB5dGc2Sk5Lb2hYZ0dncmU4dE8yWVdyRjg1ZXPSAagBQVVfeXFMT0o1TVdOeVF6QkNHTkNwOVgwS0Z6Qi1KeVgyQy0yenBSLUwwVjJFUjh1QTdtY0NoX2lVN2g1LVdHNmVLTU9lMW1LTnNnbjNfRm1lOHRpUG1xbGlaQVR5VkE5MlZQNWg4NzB6TWtVdi13VHFmbWNKem96MjM0SHdXdDl2X2JrT3I5SC1RYS0xZHJCWnNPOWZ1OVpDNmRnbWk3QnZiOUowVUVq?oc=5",
-      "ts": 1786655814.722648
-    },
-    {
-      "clave": "sismo_medidas_choco_agosto2026",
-      "resumen": "Gobierno anuncia nuevas medidas para atender la emergencia en Chocó tras terremoto de magnitud 7,4",
-      "url": "https://www.minuto30.com/medidas-damnificados-en-choco/1716071/",
-      "ts": 1786656432.4558213
-    },
-    {
-      "clave": "sismo_arriendo_cali_agosto2026",
-      "resumen": "Hospedajes en Cali aumentan arrendos hasta $1 millón por emergencia del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUVEbmFjZlFZZzJUNV9qQkpuODhobXUxSXZmTjVOdWNaNWFOSmlwOGJjT3pfbGkzSGFycUtYeE5DbWdfRGhmTUVKd1h4WFNBb1UxSzgxblZyeHg5cDZPLXBjRGtpN0ZPR3E5Q2Jza3p5SllPcGFsaEN0SGNibG9vU3ZUTko4NmF1a1RLdGtGS2VfZ0haX1VDcVRuVVF4MkYzUzBIVHF0bWVrZ3FTQkl2ZndJN000TW5XY1BHelVaVHZWaVFiTFZydWFWMXNrWFFQeTZJMjQ5b9IB5AFBVV95cUxQZDFZLXRnUGFlVTlWYU5PNkhfWmZOcVA2MDV6STVFUnhWak5sVENDUFB2aXdEOGp5MDBkOFlBR0FqSXRqTVo3cW80azVUVGw2Mk9LbkFQQmprY0EtdDVYbVlEWTkwTl9TZ2dCVkdtWmNaODRteldKME1jaXNNRHlQZ29GRHhtWWhMdkVhU1ZhNVljeXBhcEZRSXFVWGZZNkg5VFFaOWRpdV9hcEkwZXRuNEVnTWh2ZW5tcDByQUxGQlpQWGU0MmhwMlpDdFVWcGItaXBoV0g0ZEp1VE4yZFQzam9LMFU?oc=5",
-      "ts": 1786656433.005581
-    },
-    {
-      "clave": "sismo_donacion_china_agosto2026",
-      "resumen": "China anuncia millonaria donación para atender damnificados del terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZWY3UWl6dFdhRXFQMXJHeV9OQkhOYUN2RDRjcWtham1Ob0dwNDV3SDNfN29XLUxHRzNqS0RJTS1FLUh2SmhrS3gwMEVSRGMyaG1wY0JKTTVCTTZVVjAyVHlSYjViZU5rNzlrN3c0TTNqMl9tOHdBc0xrcW5xN1NqMkhiR0NibWVyNFJIWUxMbDhBbHJJUkM2OFg1UUh2Rjl5d0x3OVpuZExrR0k4dVVsZEZ3NGxVMENjWHRaT01Ja2hNclJ4aHpVZ3JENGdXZ1k2SVRzTE1LZ0tSb19oZlVmTzdoem84R0NLTG8td0VQRjVEcWxVTHVZ0gGSAkFVX3lxTFByY1h6bFl2bzdPbDBjOXZVa3B2V2lsVloxZVRkRjlIMHN2YW5ES3BYVEdFeVQta2ZKMm10RVh2cldpSDhBbDg0Qm1fUTU2OTQ0RV9pU1kyYjFNejZiQ1ljUzc2Y0tfX2FDZTUzREp3VFo2YTkwemVtelVSMHhmZk01MWt3cTREaWxhOVVvaHRiVVlWdnhlaU1CTEp6a2oxV2piMUFQUFJVNElJcndKa1N0bS1OY2Zud1FPa3BRS0hyQzRFRVcwT2NTNGs0ai1MMWRPYm9TNXJJMGppS05vV09DR2l0NkJERnRyRVY4TWdQWDR2RVNtNndCY2RULXJNN3BKSEZ2SUFpeTNHbVBUc0hjWWc?oc=5",
-      "ts": 1786658281.6963258
-    },
-    {
-      "clave": "proyecto_ley_transporte_carga_agosto2026",
-      "resumen": "Proyecto de ley busca clasificar el transporte de carga como actividad de alto riesgo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFcwMzBjWHk2VHY1S1I5WUZNbHI4a0RYeFhFWWVGcDFBZWpaNGZiRnZsRkNyUHBWY091bzVJRXVpdVdnbFBwNlJpTUdJbzJkZVh6YlFpeTZIVW11eXNKQWxVbzE5U0pua2htaV8xM3pkZWRkc2tfZ1cxVXEwcUpkQWdTcjNIWkQ0M1o5ODV2QVpzV2hGNUZjeC1KcVY4em9zZHRvSFFmcWZOX0p3MFBtck5lTjFUb24yaDA1VVItYVQxQmxxZlRZRVc2azlIcTVwbGVyWdIB2gFBVV95cUxNeFpwNGNwcDhJQXBYNTQtdDcxSkROcVhqUEtacGhnZlczOTNDV3dkUDJfR0RKY2J5U0dqMWotdjJ2MHB4R2duNHNTeU5hMTZ5VWVwVjFUaFpCT1RkLXBiV2NTUWxjRVZYb0JXMF96UWlnb08zRHdYTy1ma3YwR21vakhTMVYwTEQ2aW1wOWRSVW5RbmVTY0dmWGJWdno1MGRaeXhmSVZ3QjJGMTFvWl9ROWdEREhLRk1oZm1fdzBULVVwMVkzS2ptX3dDUWVuTUZZVTRvdnA0X0FYZw?oc=5",
-      "ts": 1786658282.2484937
-    },
-    {
-      "clave": "postobon_ayuda_terremoto_agosto2026",
-      "resumen": "Postobón entregará más de 86.000 litros de agua y bebidas a personas afectadas por terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/entrega-de-ayudas-de-postobon-por-el-temblor-en-colombia-4458234",
-      "ts": 1786658282.7987168
-    },
-    {
-      "clave": "banco_materiales_construccion_agosto2026",
-      "resumen": "Empresarios buscan crear Banco de Materiales para la Construcción tras el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzFQcGtfd2U3MmtfMVFXbk5pOF9fU2E1eW1nRHRQa2VxT1JTUjVpLXA2WWc4VGtEbzJvMHpiTW01Wnl4UExCYkVENkFsMkRIbnB0OVdtcVgySV9BYlFMNk5IYm5DQ1Fqa00wUllDUHZCMTRzWEowdjlMNGtQUllxbmhmSlI2R1FxUEJFM0YwUnNYdGFENi10U0N3dS0ycEVoTWRJVGU4U1dWWkVNWWFqRnp0ZXlKY3g4OHhPTDZJONIB0wFBVV95cUxQTERnWk5WWC1kZFl5aXdycHk0YVpEemJmN0FIenZSeTZCalFOTWRTWkZpQjQzbjR0WDdJdTFxUjVuRjRXa3JDcnB2MkdHdV9UTmtkZVpqNzRmMGpaYm5ydXFvZWZTU3NhRXAtSTZRUTFPTWJ6Z1Z2OVI1Zkx3TjhKUi11YWxZMlF3czM3RDRhMU9jOTRNQkZIZUt3YldFYnJ5endEWldqUE44T25SR3FQa1JELTB0NXJBQlB6QU5FRFF1cno3UERNZVFSUnlOa1MwcDdr?oc=5",
-      "ts": 1786658283.3324025
-    },
-    {
-      "clave": "sismo_balance_muertos_228_agosto2026",
-      "resumen": "Medicina Legal identifica 228 cadáveres del terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWcxbXhydFBVVmlBRWJ5VEIxRFdod1d4TUtTeE44eDJTOVl2bUZOR1VlclRsYVhYRGdWZmVVRnhfU0kxQ3VFaV92ZkVzUlZpMFQ4WWQtUFl1S29qbUQ0dnlSY2VZRjVyalVpa0V6b2tlUlhxOUUyaXpzRzFDa01EejZyV1Z6WDdfLWNPQ19XNE43TU5vdDU2YnNWaFRSQWvSAbMBQVVfeXFMTVowTlJ0V1k3WWEtQmxLS0hLMVB1VmREd3drcVdLTGxiXzZteGN6UjVpNGdsOVlJeXB0dUhGbTlVSEZhcHZ1V2pNR1ZuYlFXZndvY3JRVlUySi1yTjlsajhRM0QyaGJ0ZzBmSEJ5dUdJVC00QjdISVJlSENlbE52MV9QSmptNkhpR2RoajhNRXd2NHowRjBpMFZudVlOb1lKQlV3b3R2TlR2S1RBUThzeVU3Nmc?oc=5",
-      "ts": 1786658901.3550935
-    },
-    {
-      "clave": "sismo_donacion_argos_nickyjam_agosto2026",
-      "resumen": "Grupo Argos y Nicky Jam donarán $13.000 millones para reconstruir casas afectadas por el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVHB0N2FYOXZ5eHBqN1dtSnJlMkRNdzFVMm5qLVlBUmxWQ051eVVWTFJvOERDRnVrN2dVVXNwYUw1eFJpNHZVLTFnenFiTW1ER1haUFllejE5X3U4cDA2bnU1aldzZXB6Vi1QSmNWRkZGb2ZFdUNmT25LTVlkU3FIcDRLYms2MmZLRkg4eXVHWnNFd1ZfdUc1eW5XUk94R3BLTXYxY0FrXzF0Z2JjWjhtX0VfT1k3dlBRdGxicTNPZVBjU3h6TUpheDZjd1NMTFBVYmlCeVhERGNqV21z0gHqAUFVX3lxTE9MM08zUGppSDVLLTdsM1JEOVRnTGRSOWFUbHBadzZ0MWRvV0xuaXo4TmFlajNlVnk0M1ZuZmlacVFJN0tVaGIzV1B5UWU1ZWJvd2dqUEdDTUZOaG9NYVJScjUwQ1VaMk42alAxV1JKUWJSUi10NHctZk5xbGhMVnZXVjBpdGNubVdyd2wxUHRnSmk5N1JZSUx6djl0RXpndnZlNDNkbW9FOHZ6QjZwWXVLU3RJOEJVZFE5azJPUnl3SXE1NnFMWlZSVmZHRkZsM2U0RUpUOHIwRTBHRTZ4eGVhT05JMzRpZXpBQQ?oc=5",
-      "ts": 1786659518.11443
-    },
-    {
-      "clave": "andi_recaudacion_15mil_millones_agosto2026",
-      "resumen": "Empresarios de Colombia recaudan más de $15.000 millones en donaciones desde congreso ANDI para damnificados del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEJrOVZFTDRzSndtWmNsVkRoSHhPT2pwNUEzX01NRS1RMDA4QWlNSEVsVDhoV04tVndZbDBIY2FBczhFNjhseV9OUE01ZlFVV1ZfeG5vZm1ZV19vZG9DR1VvWF94Nk80M0ZVU2k1RWQ2ZkEzclRyVDJzd0MxbzhZU1c3RzNoRWVIM21oY3VNa0FLR3Z1aG5KVGszZGZXMGhwRG1UcWVWcUkxZlNaek9EZDR2dUFhWGpqSWJPOFZqNNIB0wFBVV95cUxNdzZNRnhfMmtacTQ1T2hPYTQ1VHRHZEczTXFQQ0dfLTRCc2NORGRzRWFXN2JraDlCcUJjYS1SQUZaRzgwOVhja3EwSFhRaGJzalZOT08yTkxyUzQ4WnNfTEZjSmFmUnJTZXB1Z2VzRVpKb2dKMXMxMWotUVI3LTRmRV9rOG8yYWk0S0ZtM1lzOXAxYW5kUmhicjVqUkZsa2p6UTlyS1JTbTJsWlJfQzhMeHhyYjZRdWtnNllJb01mV25WS0s0UDZNMTF1SHZOVG5nQ3FR?oc=5",
-      "ts": 1786659518.6617122
-    },
-    {
-      "clave": "sismo_indra_conectividad_satelital_agosto2026",
-      "resumen": "Indra Group desplegará más de 70 puntos de conectividad satelital en zonas afectadas por el terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/conectividad-satelital-de-indra-group-en-el-terremoto-4458268",
-      "ts": 1786660135.3385463
-    },
-    {
-      "clave": "sismo_avianca_ayuda_agosto2026",
-      "resumen": "Avianca brinda ayuda para pasajeros afectados por el terremoto en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFVhLTJFXzFWWkNxOTdkY2V5MFhCMjR0aTJVaFhuS3d6YURONlhqWmVCNjlqTzVjZVRoYWpweU5KeEg0d1pRbXlKckg4U000RWNsU25JMHNiLVpFTTY5Nm4zejg3ZXQxQzRHRU1ndkpYRVo4dlNUWUtyWENTRDhRdjJVSmxaS1NSMU1nRWotNFVld04tNVFqS1BWcERIVTV4MnRBSWY3VHdNLXpYV1c5WQ?oc=5",
-      "ts": 1786660135.8959286
-    },
-    {
-      "clave": "sismo_barranquilla_ayuda_agosto2026",
-      "resumen": "Barranquilla reúne 180 toneladas de ayudas para damnificados del terremoto; primeros seis camiones ya fueron enviados",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-reune-180-toneladas-de-ayudas-para-damnificados-por-el-terremoto-que-estremecio-colombia-primeros-seis-camiones-ya-fueron-enviados-3578260",
-      "ts": 1786660755.4431257
-    },
-    {
-      "clave": "uribe_alcaldia_medellin_agosto2026",
-      "resumen": "Andree Uribe retorna a la Alcaldía de Medellín como funcionaria en medio de polémicas",
-      "url": "https://www.eltiempo.com/colombia/medellin/andree-uribe-exfuncionaria-de-daniel-quintero-vuelve-a-la-alcaldia-de-medellin-en-medio-de-polemicas-esto-dijo-el-alcalde-federico-gutierrez-3578250",
-      "ts": 1786660756.1394255
-    },
-    {
-      "clave": "nubank_beneficio_1000_millones_agosto2026",
-      "resumen": "Nubank reporta beneficio trimestral superior a US$1.000 millones por primera vez",
-      "url": "https://www.larepublica.co/globoeconomia/el-beneficio-trimestral-para-nubank-ha-superado-los-us-1-000-millones-por-primera-vez-4458229",
-      "ts": 1786660756.664173
-    },
-    {
-      "clave": "centro_democratico_posicion_petro_agosto2026",
-      "resumen": "Centro Democrático responde que no cambia su posición frente al presidente Petro",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXVka05iN0E4RXh5Zk4xNFBEV1dqdjhFNXVNdXVUMDg5LVFDNDdNcGlCYWdmNW5hUllRWEFNN3JXcE50OWdMSzJUaFktdWZTLWZvaFJNbHdERElWN1ozY3huRGNZTDh3U1VyWVJGUDZ6WkZHdF9nTVVQSVRNZzUyaTdDTGtyZF8xQ1g2OG14QmVKbTFYNk5hak41XzI4SEctdGJYNk0zOGNMV3JlM0c2cEcwZHB1dDB0cnRkZmoyWWtGaEFmdl840gHUAUFVX3lxTE96VXoxVElWM2EwSnMtdUpfRWYtWU9vRnh6b0xEbllhcGJfRTdjM3MyYkdLSVY3aHZpY0UxQUhWaXF2N25QYnRBNk1pQTRVUWlvSHlFNDNSSVBXRlZTdkozYnZFMHRRZ3ZDRDl3ZkQtYjlqUkhqeXk3Vkk1X21wZDdORHJVMjh1VXh3N0t2Z285YWdJNWZETndHZlQtcUJYSUtLdERXTUtVa2R5cS1MME1HbnI3alp5SW8ybUs3OU50LXhWRmpKMmtPenB3VGx5Mjd6aEJM?oc=5",
-      "ts": 1786660757.1921756
-    },
-    {
-      "clave": "sismo_energia_14_millones_usuarios_agosto2026",
-      "resumen": "Más de 1,4 millones de usuarios recuperaron el servicio de energía tras el sismo de magnitud 7,4",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/mas-de-1-4-millones-de-usuarios-recuperaron-el-servicio-de-energia-tras-el-sismo-4458255",
-      "ts": 1786661378.3213413
-    },
-    {
-      "clave": "petro_notaria_colpensiones_agosto2026",
-      "resumen": "Petro designó a aliada de Jaime Dussán en Colpensiones como notaria",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjlqUXlKMUFBT0J3U0NPdUNqSFNkRmlaSE1RQ1FIdXFNRExmMXF3Wk1Idmh5RVFNQnVGczUyS0pCdDJyYnhfMjFkN1MyblJQN0gxUG5sMFUtWl8wVFlqaWJPNk5iQmU1a3FxbFZXM1pqZWNsSXNJUlp0RFZESVNLakFMVmtpeUpMMGFjNjNwTGE5cnEtbVdmNi13MjN2SUQ1X2c?oc=5",
-      "ts": 1786661378.85142
-    },
-    {
-      "clave": "caf_70fb791748c9",
-      "resumen": "Doctorado Honoris Causa para Sergio Díaz-Granados: Universidad Simón Bolívar reconoce su trayectoria pública y liderazgo regional",
-      "url": "https://www.eltiempo.com/colombia/barranquilla/doctorado-honoris-causa-para-sergio-diaz-granados-universidad-simon-bolivar-reconoce-su-trayectoria-publica-y-liderazgo-regional-3578271",
-      "ts": 1786662607.2542396
-    },
-    {
-      "clave": "tic_nuevos_directivos_agosto2026",
-      "resumen": "Ministerio TIC designa tres nuevos directivos para cargos de viceministros y secretaria general",
-      "url": "https://www.larepublica.co/economia/ministerio-tic-designa-tres-nuevos-directivos-para-cargos-de-viceministros-y-secretaria-general-4458340",
-      "ts": 1786663229.2662272
-    },
-    {
-      "clave": "incendios_urgencia_agosto2026",
-      "resumen": "UNGRD confirma más de 30 incendios activos en Colombia; gobernadora del Tolima estudia declarar calamidad pública",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/ungrd-confirma-que-hay-mas-de-30-incendios-activos-en-colombia-gobernadora-del-tolima-anuncia-que-estudia-posibilidad-de-declarar-calamidad-publica-3578270",
-      "ts": 1786663846.4098418
-    },
-    {
-      "clave": "isagen_utilidades_q2_2026",
-      "resumen": "Isagen tuvo ingresos por $1,5 billones en segundo trimestre de 2026, crecimiento de 34%",
-      "url": "https://www.larepublica.co/empresas/isagen-tuvo-ingresos-por-1-5-billones-para-el-segundo-trimestre-crecieron-34-4458362",
-      "ts": 1786665082.1868968
-    },
-    {
-      "clave": "grupo_sura_utilidades_junio2026",
-      "resumen": "Grupo Sura logró utilidad neta controladora de $1,7 billones a junio de 2026, crecimiento de 37,7%",
-      "url": "https://www.larepublica.co/finanzas/grupo-sura-logro-una-utilidad-neta-controladora-de-1-7-billones-a-junio-crecio-37-7-4458324",
-      "ts": 1786665082.7367125
-    },
-    {
-      "clave": "superfinanciera_quejas_expres_sismo_agosto2026",
-      "resumen": "Superfinanciera activa 'Quejas exprés' para reclamos financieros relacionados con el sismo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRW9wZ2ZFdUp3QkNKT3JHWUpBZXlaNG94NDdZUk5xX3R5bTVPOW5yazlobGpWbnc3b2J3TVNWdlFENjRWWmx6ZzJvVnZnQmJWSDVFSWR1bkctQUJzbDBlRVJUMDFCYVllOFd1cnB4VTlzZElydW9JcldwbTdELXFKb2UzUVdTNF9BU09rbElXOHlrQjlEQVF6QWktU3hFM3JSQnk2NUFZREpiOF9CeTVnWUlGWU56Z050SVo0R0hycThRX0RGWU1JUzlwUVZ2b21HelI1Wlp0N2pTSkVXYkxaVXFGQUk3Z9IB6wFBVV95cUxPa2twVjlJeWxmWDJkbHJmNUVqRWJ5SE5vcWhrRGpqZ2NTeUFJQXo1Y2JNX2EzOHhUaFgyaXEwU2VxLWJueGp6aTVRaHowRVhtMHZ5R3RfV2VNNGR2Z29TSXhORzJPSEttYjF3VC1pT3A2aDVoZ05NS2RiOHdsQ2VGRnI1aU5id1d4NmdhNVRaNFFIY1p6a3JYOGN4R09nWGtLa3NCeVVTMjZUbE40RU15UlZFZExZRTFNaTZvbEJSc3Z3cnNIcy00VXNUaFo0N2RCcWVZMzNWMGZfV1ZWNGRoQVFDQzBHeGpFQjVJ?oc=5",
-      "ts": 1786665083.2779243
-    },
-    {
-      "clave": "bancolombia_alivios_terremoto_agosto2026",
-      "resumen": "Bancolombia anuncia alivios, periodos de gracia y créditos a personas afectadas por el terremoto",
-      "url": "https://www.larepublica.co/especiales/congreso-empresarial-colombiano-2026/bancolombia-anuncio-alivios-periodos-de-gracia-y-creditos-a-afectados-por-el-terremoto-4458407",
-      "ts": 1786666933.306919
-    },
-    {
-      "clave": "sismo_muerte_brochero_agosto2026",
-      "resumen": "Libardo Brochero, rescatado tras casi 30 horas atrapado por el terremoto de magnitud 7,4, murió días después",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/murio-libardo-brochero-hombre-que-habia-sido-rescatado-en-buenaventura-tras-casi-30-horas-atrapado-por-el-terremoto-de-magnitud-7-4-en-colombia-3578292",
-      "ts": 1786667551.1496944
-    },
-    {
-      "clave": "antioquia_plan_aeroportuario_petro_agosto2026",
-      "resumen": "Gobierno Petro marginó a Antioquia del plan aeroportuario hasta 2035, generando controversia política regional",
-      "url": "https://www.eltiempo.com/colombia/medellin/el-documento-de-la-discordia-por-que-el-gobierno-petro-margino-a-antioquia-del-plan-aeroportuario-hasta-3578278",
-      "ts": 1786667551.7036564
-    },
-    {
-      "clave": "davidbank_activos_junio2026",
-      "resumen": "DaviBank cerró el primer semestre de junio 2026 con activos por $41,3 billones",
-      "url": "https://www.larepublica.co/empresas/davibank-cerro-el-primer-semestre-de-junio-2026-con-activos-por-al-menos-41-3-billones-4458523",
-      "ts": 1786668785.5687556
-    },
-    {
-      "clave": "rescate_secuestrado_mapiripan_agosto2026",
-      "resumen": "Ejército rescata a hombre secuestrado por disidencias en Mapiripán tras 11 meses",
-      "url": "https://www.minuto30.com/ejercito-rescata-secuestrado-mapiripan/1716081/",
-      "ts": 1786668786.0969527
-    },
-    {
       "clave": "asocajas_recursos_90mil_millones_agosto2026",
       "resumen": "Asocajas propone destinar $90.000 millones de recursos para atender emergencia sísmica del terremoto de magnitud 7,4",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/asocajas-propone-destinar-90-000-millones-de-recursos-para-atender-emergencia-sismica-4458543",
@@ -323,6 +143,30 @@
       "resumen": "Fuad Char anuncia que Cambio Radical será partido de gobierno",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXhXN0FfUDdweVQ1UU9UUXBOTXRocHZNcmJHY2p5V2NqMjBzTVNtdVhpR1d2NUhwd09OQkF5ZGtZMVFRR1RhMVZtbmJlU1d6bU9Id2VNaHNKS210R2dyYUwzZjhUcVhLWkQ0X3RJeW53UzBJSWVPUEdlakFjbGN3UmZEdVc3cUXSAZsBQVVfeXFMT0ZWNm5HZVZUN0RZeVZuY09CQnNDSklyZHA5dGlLcWc4Q09COXhyd3F4ZzFoendqUEFCZVN3WjhWVFZmUzQwR19QSGdsVkRNbkFYVTFhVzBQd214TW56d0xZQzZfRXQ5T0w1YUZzOHpYQ1VZSDVoT3FKbVhzcXFBZGdJRWx1ajg5TzFYdGxSbzYxV3ZETWNPd0lrMEE?oc=5",
       "ts": 1786698769.5889
+    },
+    {
+      "clave": "daes_donacion_6mil_millones_agosto2026",
+      "resumen": "Christian Daes anuncia donación de $6.000 millones para damnificados del terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/barranquilla/terremoto-en-colombia-el-empresario-christian-daes-anuncia-donacion-de-6-000-millones-para-los-damnificados-3578361",
+      "ts": 1786713596.8268783
+    },
+    {
+      "clave": "sismo_viviendas_destruidas_11mil_agosto2026",
+      "resumen": "Ministro de Vivienda confirma que terremoto de magnitud 7,4 deja 11.000 casas destruidas y más de 44.900 averiadas",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/minvivienda-confirmo-que-hay-11-000-casas-destruidas-y-mas-de-44-900-averiadas-4458776",
+      "ts": 1786713597.2739546
+    },
+    {
+      "clave": "sismo_donacion_india_agosto2026",
+      "resumen": "India envía 20 toneladas de ayuda humanitaria a Colombia tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
+      "ts": 1786713597.6986206
+    },
+    {
+      "clave": "ataque_drones_norte_santander_agosto2026",
+      "resumen": "Ataque con drones en El Carmen, Norte de Santander, deja un suboficial muerto y 4 soldados heridos",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0M3NUlNaHpMTXN1dzVMVjZ0N3JOTXB2ZVhGemJEZE53alVzcFNEWkJtNjl5QmNkUXpIdkxqNGVVeFNVT29hbDQ1amFkcE16dDdOb25wUW5hZWdPWWlfbXNSU1cwaHJoZURYemJQX3h2U2tnWlEzVUdrNWlmUC1xTE9HN1hfbm1aaW9pTXJZVzVyYlhTbkcteHJkNC1aZjk2YTN1SzhvVk9BZlNiZ2xHRHFfQjRUZVYwR1VmQU1RX0N6V0RKV3l2cTJteG9YaHBveG1FS1lhNllyQdIB5wFBVV95cUxOLUVKRUY4NWlGUFVUWHV5Q1pIS2Z1VlgyV2hYeDUxeW9hTlplb1otZlRRRkFBc2t2OW5sTzVxcFZBZFZlVzRTMmFQSjY1QUxsVnZvMXd4UWNNRGhEalNjTUpkR2dhcTBRZmxpM1cxamFxRWx3TDRVNWhlQjk4UU5yRVRyWGhhZy1HUnV4YVRPMlhUYXRRdGV1UmN6bERvT1R6dGcwTUhaa0VHTUItaHFOMEJGdlJ2dnZPLW8xQm13OW4yV0NVQnVjRnRUeHZ0UXVVanMxejduQmk4cmJ6Q2p5MFVxaE1OR3c?oc=5",
+      "ts": 1786713598.1575804
     }
   ]
 }
