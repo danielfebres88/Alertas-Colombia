@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "anla_director_pineros_agosto2026",
-      "resumen": "Sergio Arturo Piñeros designado nuevo director de la ANLA",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGFiYUdic1hvcklaS0dWY1dWV2x0c3AzWFJhNHFQRlRqZDUxbGFZSUtoWC1iZzJiRWFvVUd2SDZaZ2Z2RXFITUlFUGtrWnhuODVubWRwejRYQmdZZi1DQTBzTkpKTHJQb3hSTGpOSWNXa2JDME5DUlhEVlJOMG9hUkNrWHVzZGZfbXdxQ0lYcVoyeGdU0gGoAUFVX3lxTE02ZEJqSkFBZ2ZoUGNwUFRKLWg3LUswUlU0b29vYjNsWGpGWmhqZFI5MkVRVWdhd3NHQXZHMEs4QVhUNU1feHJCV1NnN1FmSkJBcG9qX3dTeFBOaVk5endqMEpZZFgzVlhRZFV5aDZPeW40Z2s0ME81b1p3TzJiSktHZmFNVnhfdU13TnhIMU5XMjJTOVNTY3FBeTJqZGNNeHlBSkRLb2xRXw?oc=5",
-      "ts": 1786634203.284403
-    },
-    {
-      "clave": "cancilleria_director_gamez_agosto2026",
-      "resumen": "Álvaro Alejandro Gámez sería director administrativo y financiero de la Cancillería",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNV9lTTZWUVpkY2xQbGdnTl85YUtXaktZTlZHMUFibkh4SmthVnROcU5zUG9HSnZPUnZZQ3FUWFl3TC13OTdGOFVkV0szSEpSSHdNbUJYTlowa0lnT0t4czhXMWRoWmo3WWtrMXpuVUFjeUM5VjVlWDRTRDU5ZldtR05QLV9OMkN3cXZSS0ROSUVaanhYOWtGRzRlMncyMkN1dUVCWm5NblFxRThMRlJYMkZDMks0R2NueFHSAc4BQVVfeXFMT0xHRkdwUzRhSmRmQi1BWWlrZzZoVE1kZmZNN1V4b3VXdzItbXNfd19yMGdFS213a2s4MEpLT3hJV1dnU1h5ZjRMT01CT1Z1OWdvcjVvT0lmYnhUaFVLc2trNmtnZ0VGMDZIWURuc1h5ek5HSjE5RnJheFVNYzNqb3djTURjdkFUdFdsZTAxRnQzd2prRlRSM0JUS0VSVVBJeE1BdndoMHg0Z3BreHgtZ0U4LTdoVjJveXI2eWgtZWJHbUVDSjBqWGpfQlNaWGc?oc=5",
-      "ts": 1786634203.721573
-    },
-    {
       "clave": "sismo_rescate_cali_agosto2026",
       "resumen": "Hay señales de vida bajo los escombros en Cali tres días después de la tragedia del terremoto",
       "url": "https://www.eltiempo.com/colombia/cali/hay-senales-de-vida-bajo-los-escombros-en-cali-tres-dias-despues-de-la-tragedia-la-esperanza-de-encontrar-personas-con-vida-no-se-apaga-3578100",
@@ -359,6 +347,12 @@
       "resumen": "75% de edificaciones en Bogotá son vulnerables ante sismos; nueve localidades enfrentarían riesgo por suelos blandos",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM1NwVklwWXBYMW42WHVxcTIzVDVpc1RHMjhIcmJKMEdBamM3SFNMNFV5Mm0xLVJTQlFZWTdVMEFhMy1qcGNaVlFLTG5TcjdTWmdzWXd6ZU5qdVVMdkdnYzhnRlBQa0lfX1RvZ2x5RW43V0Y2OWpJMUdLT0tFVy11dkdvQ3lqSVVIeHAyOXhKSWdRZ3BENlRheTRKQlBwemJDeWZSODFwRUhFazZiN0R2eDl6cHFIajlNempKV3MteTBvLXVZY0tELS1NVWE0Rlpoa0FfU0tCLU1yUWIxVGNDdDc1VlJGcWtEWUlqczZrY0Q5OUg2V0JZTWhxNlFuM1ZENEg5MUdhWkdfZXQ0dlRHSGJnNHZHMG50UndjTdIBtwJBVV95cUxQUk0tZ2V6dzU1QTFVMjZTV19lX2JON2lYdk5Ga0FHYjRHTDF2aFJ1ekI1R2RSc1hLdkFrVDkyMzdqU1QyVUJyV2NOUHJaaXNSdDFGVHFIWEFjcUpNbzA2M3J6dXlyU2FiSEJ5elRlb1dKTF9ydzZiTDcxNWhNWmVDWUdybGQxcWVOaVhRNjJTMUhwa1dZMjR2bDE2UUZpZW1YVzJuM0dyRWtwUkdtQzFaNW03QUtzR3psdzhKVmpfSFE5TGlHX0tHVm81TURUN21YNGk0ZU9JdXg2OVNZbXFUUmttS1VXbm9SQzZYR0F5VlA4VEE3alNxR1R6NmEwcnFiRzNTVWJEb3hFZTZld3QtSGRHZzN1Q3p0ZmNkZlVhbjlxT05PZXV3QnVrdE55OUNaM2VVOGFPQQ?oc=5",
       "ts": 1786676586.584251
+    },
+    {
+      "clave": "corte_constitucional_eps_discapacidad_agosto2026",
+      "resumen": "Corte Constitucional ordena a EPS entregar sillas de ruedas y apoyos técnicos a niños con discapacidad cuando la familia no pueda costearlos",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOF94WXVZdENCZVB6UUtrS2FWSjBPazhnR05Kbm1BdzR1c2ZXbnp5NEZSSU8wVGtuVEZaSEJsdlZDV2ZwQjl1VkszNFdGX2JxMHAxVFN4V1BxbmpvOWxLZVUwQUpUc0w0V3ZZTWdyc2YwVGl1LTlzaDhIVzI0Q2RjLTVqVUd6aFJyUTJvV21sLUJqaEozM05qMTlBUzVHRlVKM1E3Wmh2c0JZYXVqTG1hdVdmeHBsRmxGYU5iMHZvMnNvRVNzRnN0WDRlZ0REM3Zia1AxSkxPcDdoOXk1eFZBLWVEMjF6QlZSVXd2NW9Qc2pycWpHNmNZd05lc2xPVHhudHpXajBZLUFmYkpqaW1xMjR2d9IBrgJBVV95cUxQckg1MC1Dd3dHdXZ6NmstcmtKWjczck04eTlhU0xlcld3eXpqcWxISGRRVW9tbFNUbjNqUlI4aGZjVkpTNWltYUNzM0RYLVlBc0VlWmVUNmRIUjVKT29lTkJCNUx1YUZRY2ptZ1hNX2V6clhMLXRMOTNWLVh2VzZTUVBLVmEwX204THJSSkhHcXg3emRhZy02UUIySGhMaTZ0a2pKMVRZd2xyRHBMSXlxbFA1d1kxTTYtOGp0RXpGWWFtb3JSUVdSZ1lncTlvLTJHMWNaVDgwLWwzUlZ4WEtkRnA4Yk1kdzhoelJDT3hsdElmNllNcmwwSWkyM3YzWWJ1ODhoV0k4alRTOEd6WnNtU251c3NtdGdxX3BZcjZVVmVNajYtZHdRRlNCRjR2QQ?oc=5",
+      "ts": 1786677847.221102
     }
   ]
 }
