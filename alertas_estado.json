@@ -263,6 +263,12 @@
       "resumen": "ACNUR alerta por desplazados tras terremoto de magnitud 7,4 en Colombia",
       "url": "https://www.kienyke.com/colombia/acnur-alerta-por-desplazados-tras-terremoto",
       "ts": 1786722878.0094297
+    },
+    {
+      "clave": "banco_mundial_desembolso_terremoto_agosto2026",
+      "resumen": "Banco Mundial anuncia desembolso de US$200 millones a Colombia para respuesta al sismo de magnitud 7,4",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/banco-mundial-anuncia-desembolso-de-us-200-millones-a-colombia-para-respuesta-al-terremoto-4459052",
+      "ts": 1786723496.1945646
     }
   ]
 }
