@@ -149,6 +149,12 @@
       "resumen": "Terremoto de magnitud 7,7 sacude la costa de Indonesia el 14 de agosto de 2026",
       "url": "https://www.larepublica.co/globoeconomia/fuerte-terremoto-con-magnitud-de-7-7-sacudio-la-costa-de-indonesia-y-tuvo-replicas-seguidas-4459733",
       "ts": 1786755710.0890362
+    },
+    {
+      "clave": "ayuda_eeuu_terremoto_agosto2026",
+      "resumen": "Estados Unidos anuncia US$11 millones en ayuda para Colombia tras terremoto de magnitud 7,4",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
+      "ts": 1786772348.243019
     }
   ]
 }
