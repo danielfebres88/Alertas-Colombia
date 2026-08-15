@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "terremoto_indonesia_7_7_agosto2026",
-      "resumen": "Terremoto de magnitud 7,7 sacude la costa de Indonesia el 14 de agosto de 2026",
-      "url": "https://www.larepublica.co/globoeconomia/fuerte-terremoto-con-magnitud-de-7-7-sacudio-la-costa-de-indonesia-y-tuvo-replicas-seguidas-4459733",
-      "ts": 1786755710.0890362
-    },
-    {
       "clave": "ayuda_eeuu_terremoto_agosto2026",
       "resumen": "Estados Unidos anuncia US$11 millones en ayuda para Colombia tras terremoto de magnitud 7,4",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
@@ -47,6 +41,18 @@
       "resumen": "Asointermedias reporta más de 14.000 damnificados por el terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2hkcUF4LWVKUVZYOU5XV3FmVUF5YVgteWVKblZmNXdUYkU2Tjdfb3RJRU9tM3hBNWhoODNySG9yNXBmbkVva1M5UWpYMVJXclRPOU5oaDZDeVdQbkFqS2xndlNfbmpGa3J5YXJCRmxCSXVEdkVlV20yblpGdTMtTVFCbTMwNEY5bHZDRFJONDdLS0JTckdKNkZZaXJGNGtEbk5xUm0zQjVHbG1ZaVBkSVFtT2RzM1B30gHGAUFVX3lxTE9jcm5ZeWJ5bG9DTjBPNXhHUW1IYXlZck5TTWhnUUxuVzRnSlZXZHNyZTJ2dXJpR29jTjlYNjdMMFk2SHNJdlBCTF90bm1RSzZwbW9CaUo4S2ZTUWk5cVpqYmZieGc2SlFKSENxSnkyOEx2LWU1YkNuOTNsX01kcFhwRWFiakc4aC11S1ZHNDBWV25nNzhPMTZKWEdrd2xhR3RjV0JFNFFRcUhlczZ0V2JJZWExOUdWSDl6bTg0UWU3WTRDMUZCZw?oc=5",
       "ts": 1786798773.9809763
+    },
+    {
+      "clave": "terremoto_colombia_agosto2026_balance",
+      "resumen": "Terremoto en Colombia deja 288 muertos y 202 desaparecidos según balance del 15 de agosto de 2026",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQjhaUjh4dldwX2xDY2hIUHJ0Mng5djdvN0pfSTYwS3dadUxLX3pIUkhjbXIyWEVMLTRocGdTR2d4bmFEbVlQckRvMURnVGZONVJwV2doRVRsTF9EeTFCX0lONDNXcGxrLVR2V19xUHc1X1FfVS1LZ2k0X3g4QWItb2Q1SzFmcjRIM0Y5MWFDYU43dFE1UUhvNkprTmx4WXJ3Vk9aUVFiZDlWQUVCdm5MT3c2TUhNQzNTMWlIOWNEZm5JUDRtUTEyZ25fQjc0VEV4ZXk3VXBBc2pGLW56WlhfcGFBSdIB8AFBVV95cUxOTE9EU1pCQkkyWHFzOWF4dmFtaVl3UVc5Y21jUDRzSGdwYkdYWFdYRGIxb2QtZUNKeHJsUnhrT29wWDdTY0JIWThkYzE4RVozZEg1cHJxNHZ3a010ckxvNkUtN1BkMjNMQ195ZEFHZG9OQTVLVUo2aDdGc0tjQkZJX2Rrbjhhc3VGN091TldMbmcyYmhlZ09nS3pleEdScVREMS1acVN5cDVVVG9DenJRTzE4YmMyWTE3SVlpZjBPMkxtZ1pwbXdSXzlORG5BWTZxQXdvUFlQVFBvMm1QblhROEFCZDZwcWd2MHJhREdpZ3I?oc=5",
+      "ts": 1786799387.5916371
+    },
+    {
+      "clave": "terremoto_colombia_agosto2026_replica",
+      "resumen": "Servicios Geológicos Colombianos responde si continuarán los temblores tras el terremoto del 14 de agosto",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3hfa0czUWltLWdFYjA2SEVuS0FZV2h4YXdrNmg5dlJBa2k1cTZ6SmIxbktuUHVNdWJaOU5JVlRWSmRFM0NNeXJIcUxNWFBoNDBKTU9EVnVyQ2tJVEM0MUMwaEdxUVE5Tk9tS1VVNWFoeWl3dXM1TTUydGxrNzFfYUoxUnB2ZDFBdXcyRm41SUZwYWVFV0lDRmRVVHNOamk4NTNnMkdB?oc=5",
+      "ts": 1786799388.029171
     }
   ]
 }
