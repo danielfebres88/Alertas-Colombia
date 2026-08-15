@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ayuda_eeuu_terremoto_agosto2026",
-      "resumen": "Estados Unidos anuncia US$11 millones en ayuda para Colombia tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
-      "ts": 1786772348.243019
-    },
-    {
       "clave": "concierto_solidario_karol_g_maluma_agosto2026",
       "resumen": "Karol G y Maluma liderarán concierto solidario en Colombia tras terremoto de magnitud 7,4 del 14 de agosto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
@@ -215,6 +209,12 @@
       "resumen": "Bancoomeva restablece operaciones para brindar servicios a damnificados del sismo del 14 de agosto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/bancoomeva-restablece-sus-operaciones-para-brindar-servicios-a-damnificados-del-sismo-4459968",
       "ts": 1786815022.7037897
+    },
+    {
+      "clave": "espriella_netanyahu_agosto2026",
+      "resumen": "Presidente Abelardo de la Espriella sostiene conversación con Benjamin Netanyahu sobre apoyo humanitario de Israel a Colombia tras terremoto",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
+      "ts": 1786815639.3673508
     }
   ]
 }
