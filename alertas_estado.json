@@ -1,150 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "explosion_mina_cucunuba_agosto2026",
-      "resumen": "Explosión de gas metano en mina de Cucunubá deja seis mineros atrapados; Gobernador de Cundinamarca entrega detalles",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-explosion-de-gas-metano-en-una-mina-de-cucunuba-seis-mineros-quedaron-atrapados-y-el-gobernador-de-cundinamarca-entrego-detalles-3578480",
-      "ts": 1786742144.4791887
-    },
-    {
-      "clave": "registraduria_cedulas_terremoto_agosto2026",
-      "resumen": "Registraduría desplegará unidades móviles en ciudades impactadas por terremoto para entregar cédulas a víctimas",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-unidades-moviles-en-las-calles-de-ciudades-impactadas-por-el-terremoto-la-registraduria-entregara-cedulas-a-victimas-senalo-hernan-penagos-3578462",
-      "ts": 1786742145.0687895
-    },
-    {
-      "clave": "vives_pinedo_coljuegos_agosto2026",
-      "resumen": "Jaime Vives Pinedo es designado nuevo presidente de Coljuegos",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVG1YOGVLRHkxN0w1ZlIwOTFPSVNUSWZZZV9LQWZrVERTUGJCUlQ4OTdmMjZMaEpnbWs0QS1HcGRSQ3ZVZGkwbDZ1d2tBbUwzTzNaeFRFekc0XzlfRFRFeGx4SlMwQlFuT2FpWDVYRWl4aVo4eC15bEx0THJTWU1FX0psLTYwSHEzSHdLVGVKN3ZMMUXSAacBQVVfeXFMTXNfNU8tSExBZWdEbmE2VkJHRGwtdEtPX1dadjkzOUVDMU42Q0dLb0tfVnFWYUQwSTY1VmJ2OXh2TXRadkd5eGdfZHRfWmI5M21tOWFvcjlQaV9wdXJzMFZaTjBRWXRFVW10NUhjY1VfZEwtUG1YNEJuVUYtb2tkZ3d3eWh3ZUhjRG0wRWhZUnhpa0VpZ3U1d3ZuYl9rREV4dnNBTlRNMTA?oc=5",
-      "ts": 1786742145.6241198
-    },
-    {
-      "clave": "supergiros_giros_gratis_terremoto_agosto2026",
-      "resumen": "SuperGIROS habilitará giros gratis tras el terremoto en Colombia para víctimas del sismo de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNGUwOVhXN0wxX2RMLTQzMUJOak5GRDM5NGhHR1VvX0dWcWVVdXc3TUFYeXdyRk9xcFhfZW1PR3piR1llNEpkMEVxVnJ4cVVEdXVkczFMZFYxQzNDNzA0UUh0NUg0VFVyR2R4U2FNcFZZZG82SGUzMkVkNFZ5eHRfbVlFT3JHYzk3VnN5eTU2Vmk2RkYwU1Z0Y21pRlo3RU9FR2hUdG1NX0VaaV9leWRQbHFvaFoxRE81WElZVVE5ZVQ3T1dvbnB6d2t1bGcyYmJQNDZsZkJqcU54eHdGWi1fTjlvRQ?oc=5",
-      "ts": 1786742146.2290173
-    },
-    {
-      "clave": "plan_marshall_choco_agosto2026",
-      "resumen": "Abelardo de la Espriella presenta 'Plan Marshall' para reconstruir el Chocó tras terremoto de magnitud 7,4",
-      "url": "https://www.kienyke.com/actualidad/abelardo-de-la-espriella-propone-plan-marshall-para-reconstruir-el-choco",
-      "ts": 1786742146.803295
-    },
-    {
-      "clave": "juan_felipe_giraldo_muerto_terremoto_agosto2026",
-      "resumen": "Hallan sin vida a Juan Felipe Giraldo tras terremoto en Pereira; se casaba este fin de semana y deja un hijo de dos años",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/hallan-sin-vida-a-juan-felipe-giraldo-tras-terremoto-en-pereira-se-casaba-este-fin-de-semana-y-deja-un-hijo-de-dos-anos-3578492",
-      "ts": 1786742765.1047957
-    },
-    {
-      "clave": "pareja_mexicanos_desaparecida_terremoto_agosto2026",
-      "resumen": "Pareja de mexicanos desapareció tras el terremoto de magnitud 7,4 en Pereira; familia y Embajada alertan por su búsqueda",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/pareja-de-mexicanos-que-viajo-a-pereira-desaparecio-tras-el-terremoto-de-7-4-de-magnitud-en-colombia-familia-y-embajada-alertan-por-su-busqueda-3578484",
-      "ts": 1786742765.6839368
-    },
-    {
-      "clave": "cali_clases_reanudan_agosto2026",
-      "resumen": "Colegios oficiales de Cali retomarán clases el 24 de agosto tras terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/cali/colegios-oficiales-de-cali-retomaran-clases-el-24-de-agosto-tras-terremoto-de-magnitud-7-4-conozca-el-cronograma-y-plan-de-reapertura-3578395",
-      "ts": 1786742766.243902
-    },
-    {
-      "clave": "combate_calmn_golfo_elbagre_agosto2026",
-      "resumen": "Combates entre el Ejército y el Calmn del Golfo dejan un presunto cabecilla abatido en El Bagre",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbXNOdFQ5RXNPUFFfRnB0SFJTRllUNUFta1UtalV1WXFnUEVZM2Z6T1o2QzFhc09rclhyUmFnbncyWW1nR3QwZTl1N0VmX01LaVE1MENSWmxTa001dlAzak96SkNtZ0daWDNGcEx4bnV4MGhvOWlSbFZVWHhNUFdDLXpNY3ZKNnh1TDV2bXZISFQ3ME51SmRKUUVMYjBtZE9GWTJyYnVJVHkwRi1DZHNSNnJvWllaQ3JYTnplZWdoYkpsRXN1ZlNNWnJpT2lUb2_SAeMBQVVfeXFMT2x2Y1JSNW5fVlY2cnNuRlJCbnYzWXBrcXhvTzJVSEEzSzVwdndSMlNpWTRtTnd6aEZoeUtGZUdyZHduVnZ4U3lfTWhkWGxHcE5wbnh0MXNGdm81VFRac0ZWLWRJRFNhVWNua2pjVkFCS1JDcFBJZUZuOW0wT3JrNmJpNmhtXzhtcklBU080eXpCTURLd0sxZUVqNy15ZmpyNGlCUlJXZGhxMmJLQTVNTjlvMVNYOUtVdEo5dHRlX0ZnT1JjYTNpTjZwNDRNZjJIWjAydHNYZnIyNFhULWZ3cW1NVjg?oc=5",
-      "ts": 1786744612.3963323
-    },
-    {
-      "clave": "desaparecidos_listado_medicina_legal_agosto2026",
-      "resumen": "Medicina Legal entregó primer listado oficial de desaparecidos por terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/medicina-legal-entrego-primer-listado-de-desaparecidos-por-terremoto-en-colombia-estos-son-los-nombres-completos-y-ultimo-lugar-donde-los-vieron-3578519",
-      "ts": 1786745231.2593498
-    },
-    {
-      "clave": "conectividad_vial_union_valle_agosto2026",
-      "resumen": "Conectividad vial de La Unión, Valle del Cauca, está en riesgo tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSDBFbGRVS0x3SE1QcEZ6MnQzdnlBVzNRTFNITDNYbjQ3Uk4wRm9LaUttdmk4eG93enVhYm9PbzJhTUdaalUtLWlMd1hhWHdBSE1qMF9GZ3lvaGZLMUVVMHpOMHA2eS1KeTR4VHEwVGUzTWo2alA2UXptRE5VclN5akxjNnJVQUN4SGhEN0lUWGk3R19LNGtpR01UclRLZDBqVmtTTFkxOTJ0SWZsRExmaHR4ekRCMldPQ3ZhenhBS0RMQdIB1gFBVV95cUxQcjJfRmVqbDdVcmFuSzB0LTB3NUZlZHc1Q3NFODluS1F5d3NYZFRxTXhvX29NcWRYMWhVYlJ1TVU5czhRLWxjdjVMQ3M1cFlhel9IeEpJTm5wVWNhZ1R5ODJlWFRYWGRCQTlRNTJDS1Y2dmVHWTJzS0h1aXZycjlVQnhfUG90U0Zld0RxajUwNnRReGI2NEtZd2E3RkdxYWhaRkdlV0kwXzhUTzlBNU1GZjg1Tm9DTDd4NWZGX1hXNTV4MlFUWWJFbF9BZmpacG5LbmVEaml3?oc=5",
-      "ts": 1786745231.8313282
-    },
-    {
-      "clave": "captura_chuzo_disidente_agosto2026",
-      "resumen": "Capturaron en el Nordeste de Antioquia a alias 'Chuzo', señalado disidente de 'Calarcá'",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRlFTUUEyWGpjWC00QWVMMmJGcmdpbU9ZdUhaZm5EQ0E1RjQ1QXA3Z21VRWtxTWFxSm9vQkU3WUwxMU0xMFF0WWpxM1phVWl6c1ZBOW5uZGpTVTNrS3Uxb1B2RFlqTmR0OUJZY1RpMXpmZkJqa2hSVGhsRmIxdFcyalZsM1prZG0wZG0wNDVQZS1GN2NheFZ3U2VJTEJVQVVZdHozV0l6U0xZTE5Za2REeVJ3UEMtT19LTmN2TWR6TURwT3JkUFJZemJMNNIB2AFBVV95cUxPMGFtZ1YxeFN4ZFN0V3JvT2VKNUFuaFpxb2tpdndHOVp0TFNHM3lFX28xNGZEanNIOGNFZGRzTmVTTzVKU0l1ZTA3Q09uZHVzakpuNTdZNmtUZkh5akhXTF95dkV4em9qcVMtVlBBZzNQbTVWdnFfSEprZFF2TlF3N2hzdGtkZmNOcHRBUFFHZmFkRUhKcGYybllwa3BUOVVLbzZ6dGNCaHk0UnhwMTJJazVNNWNROTBXXzBDMDBlOGpTbWdNYTg3TzBWQ0FWRVRDOFd6b1FUckY?oc=5",
-      "ts": 1786745232.4029593
-    },
-    {
-      "clave": "sobrevivientes_edificio_vanessa_cali_agosto2026",
-      "resumen": "Confirman al menos tres personas con vida bajo escombros del edificio Vanessa en Cali tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeW5fUWVwdTJWenZwWUpYQlpxR2V1MU16M0Y5N0JEVlVDZ1J4Ylg5Z1pXQWpJMnlPanNPcWhHZkRTSWt0WC02elhxY2ZPbktVZG4wYU9GLUZwVlBzX2pQRzNGVnBXa2Jxd2NTekdkUzU3a1lENnE2MG1DUU5IZ2NIVTBQc01NMjg3RVd2ZXdtQ2RmclZKb2I0bHRnaFhTWkI5TzVGdNIBpAFBVV95cUxQeW5fUWVwdTJWenZwWUpYQlpxR2V1MU16M0Y5N0JEVlVDZ1J4Ylg5Z1pXQWpJMnlPanNPcWhHZkRTSWt0WC02elhxY2ZPbktVZG4wYU9GLUZwVlBzX2pQRzNGVnBXa2Jxd2NTekdkUzU3a1lENnE2MG1DUU5IZ2NIVTBQc01NMjg3RVd2ZXdtQ2RmclZKb2I0bHRnaFhTWkI5TzVGdA?oc=5",
-      "ts": 1786745232.9806764
-    },
-    {
-      "clave": "andi_recaudo_terremoto_agosto2026",
-      "resumen": "ANDI y Fundación Santo Domingo cierran recaudo de más de $201 mil millones para víctimas del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWpyYTY5RU9WNEhlR0lyOW9sWmhvS2gxMVZsWS1FZ1MtbzliSkx0ZnJDbjhrOGU0X0lHYmc3TFAzNUFyWFVrOGxrLThuNkk3NWdtbkwzWkRPSU51R0JoM0RnaVM1dm90Qjl1M052QkJ3NU5PT3o1QldtaU9DQS1aYi1ldWV5NXIzWWg5NnhWOUx6R3poVlZXekZNeEgyZFVGWF83RHhlRXVOM3ZjTU5TekNjemZscW1Ia1puTDFzWFFtQ0FIMDAw0gHbAUFVX3lxTE5lSmdzSzJJa1pIdDNxWjhuckNvdmY0eVlSWmJzYXZuakE3dmdfQ1pSY2NCN1NQUzFFRE1YbmhIVGJtZ3czajhPd1BWMTRWcVJkVkJNVDI5d3dYYmFyRWc0X3VyZjlmOURHbWlxaFlwaXBUSndveGtoZmFfaGVhQWFVUHZibGo0VVR2OUw0UzJXQXRvbDdKMDRwN3RIZzc3TWYxX2NLVUZyeXFxZmhSWXlQenBmMUNnMkk5OXRFUnRPcm1OcEhhOFlWWW1kdUxSQjJNb09wckl4ajVxQQ?oc=5",
-      "ts": 1786746465.9919515
-    },
-    {
-      "clave": "camara_comercio_cali_censo_agosto2026",
-      "resumen": "Cámara de Comercio de Cali inicia censo empresarial para reportar daños y afectaciones tras terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORUhUVHpEMEdpa3JablVTTTdCZGs4cTFVaTJFX1lVbndyODNtdkVnejdWRXpjOXRrekk5bnhtMzNKTzNNU1A2eXRKS3hTUzJKNm9vWGxtNjd6RHJOSDkzVkFhLVliZVFtRVBtMXdkV2N1cjRDMy12QVRTWVlSblVaRmlsNDJMQV9ySl9WSWtNOXhxMjhHUXpaSEZxRGZ5MnBGSUVKekgzbXJmbXUyVFNJNzlxMmdjUko0Q2hvRU5YNGtPOENLSnFJUEFlS0owckE3RWNWVHV6VlIteDdwcE1mLWNpX3M4aVZiMmg5SzQ4ZXZTbDZFaVJNNUM1aVk3LVh4VUZiX0VSeDBHX2VGSzFsbkRQOA?oc=5",
-      "ts": 1786746466.5772712
-    },
-    {
-      "clave": "terremoto_indonesia_agosto2026",
-      "resumen": "Fuerte terremoto de magnitud 7,7 en Indonesia el 14 de agosto de 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmk1dWd6NU5RWjByYmRuRGVXLUM3T2RmTUJ6MDBWT3RXMXBSeVpLZzItclFBaGFvY0I1cHh1R0lvQ09fbmdidXdzWTFYeTU3TUhuNDNMTlhud3hqcGtNU2ZZUzk4V2VOQ3BaSlZ5aU1zaHprd2Q2ZHVJVkpQc2EzelF5V1FRMHhUSjBJbXBMalE1WWszR3JBelFaVHRJbkFjZDBEZHBmbXTSAbYBQVVfeXFMT2l2RnR2SkM2LUUwUFRmU1ZjNGJiVDB1eExCS0F0UklaUXNyVVFHYnBPdU9jN2pNZlJmNVRaMm9GNVBDcmZ0aVRrT3BHQVd2eWhMSXM4eDFVdWc3RS11Sm1ycHRQb21QcWdYOHJld0VNRHM0ZWlSMHBlQTdGVDZIYU5RXzJUWmRLcVYyNVNIQmdKR2Vuc25zeWxzVDRqd212QjZQZlpxOTVxYzBtcjh3LURXWlZmX0E?oc=5",
-      "ts": 1786746467.1452112
-    },
-    {
-      "clave": "gobierno_conferencia_episcopal_agosto2026",
-      "resumen": "Gobierno y Conferencia Episcopal abordan desafíos sociales y atención a sectores vulnerables",
-      "url": "https://www.larepublica.co/globoeconomia/gobierno-y-conferencia-episcopal-abordan-desafios-sociales-y-atencion-a-sectores-vulnerables-4459370",
-      "ts": 1786747699.8176363
-    },
-    {
-      "clave": "grupo_argos_resultados_semestre_2026",
-      "resumen": "Grupo Argos registró ingresos operacionales por $5,5 billones durante el primer semestre de 2026",
-      "url": "https://www.larepublica.co/empresas/resultados-empresariales-grupo-argos-primer-semestre-2026-4459359",
-      "ts": 1786747700.4226096
-    },
-    {
-      "clave": "buitrago_director_dnp_agosto2026",
-      "resumen": "Abelardo de la Espriella designa a Julián Buitrago como nuevo director de la DNP",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW56QnptQmtnV1VlN1B5YjIzQzE5cG56VzE0bDRDYkRkdEw2SG5zb20tWFpIQjA0bXBDdFg2R1pFdS1GYVIzX2dIMzVoVC1pejgxOWxQUFg2WTdtZC1QTmJBOFZWOW9semdxUnNISDdXX0F3YmNZemlaZUFqNm00RFVQYmpLSUQ0ajNoY1VoQlZPWjFOcHNyMUhnekM?oc=5",
-      "ts": 1786749547.8952453
-    },
-    {
-      "clave": "roa_desarchivo_proceso_agosto2026",
-      "resumen": "Juez ordena definir desarchivo de proceso contra Ricardo Roa por presunto direccionamiento irregular de contratos",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXNwVksxUUlic2RDWXFzSENpc2lSTHFCcmRtYVJOY1BNcTBuUTJQdlZVOGVhR0VvTklNZ2dKSVF6OGQtc2x5T0F0dkJUeXpGOHFyZzZyY0RER1VjM0FvZzA1VC1kTFNCNVdUbHhtd2NvS2cwQVZGQmcxOVBQM0VGVWJvdGE0OS1qSUJROXBhNkNrZ1haUDhaNm91RW9tcmlGcFFwUjVFWGNEN1FLVnBiQUx0eDBfSWVRcjVKbV8wUFDSAcABQVVfeXFMUFpnbHJQbVhfeXlOX1hMOHZqQTVJNmpsX0JNdnVkVmNMZjhRbl91dzVoNlI5V0E4bENfWnVYUlhZQVB3eVBobjctV2JIUkhicm5BcFc5RFFfTmpQaWlCeVRvWmpXeldEVDVIaENjQXhPVkJOSlBNRF8tX0pLcEZIUTBxVGhZdlBKZ1pjck5scF9kbW1GNG5oMkJiSzliM25DVU85RnZzaUk0RDNKZGt3NWZsSEJrdUdZRVdTbGtfZlZY?oc=5",
-      "ts": 1786751394.0140793
-    },
-    {
-      "clave": "energia_restablecimiento_terremoto_agosto2026",
-      "resumen": "Restablecido más del 95% del servicio de energía tras el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://www.kienyke.com/colombia/mas-del-95-del-servicio-de-energia-fue-restablecido-tras-el-terremoto",
-      "ts": 1786752632.1236548
-    },
-    {
-      "clave": "donacion_arroz_300_toneladas_agosto2026",
-      "resumen": "Organización donó 300 toneladas de arroz para damnificados por el terremoto de magnitud 7,4",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckZldGNSZmFpMzc0Wk1NWnY4TTBvbFhiUnFFbG9zaDdLVjdJczl2b3NZVzVNdXUxWkdFQ1dtbG12TDBzUTZkZF9Jem0wT2tGLWRISERXRHpLdi1scUFxaFFRaVFubmNYX29WNXVtQ1BVQkdFbFN4Y0tmTU83VzRrM1hWWjJiSW94Z19IQjZzdDVWRkFhNkpsZGFNWEYzYW5xeURNRE5VOEY4TUI3Wm5rQTJR0gG_AUFVX3lxTFBDbU91RXBmM196dmtNd3BScF9OQUdzVHprZmVuTEs5d1lxN0VrMzJ4NWNlS2R0Ti1jVFNPbVNOb0RUaV9RWWthTmE4TWVoYUxVUERXYzJjQklnaVhIcVhSbUZlXzFsdkF0LW9TUWlsUm8yWGhfbktnLVVETGc5S2ZULThCd1lPWHFKMmx1ZXRBU05yZ21nZzY3SzhkQjFSX2h0WnY3M2VlZWVGWGpYcFJxOExZUHVTbTY5eTVVLVdj?oc=5",
-      "ts": 1786753247.8691883
-    },
-    {
-      "clave": "robo_datos_francia_contribuyentes_agosto2026",
-      "resumen": "Francia sufre robo de datos de más de 678.000 contribuyentes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1VzcFpjbFFsZnhEYV9COV84ZmlEMFVEV3hHcDRhcF9aaU1DU2d4Y1JCbmVLOWdjQTFTV0pHaFRIY3VoNEN1VWZ0bXpmeXBpQW5tM2NhQVZJaGZRR2pGZkxjbm1ocktuUFhhRmdpbTRVMzBmRmt5Tkc3M0JheEd6eFM2TFY3RFA5YjJqSndISdIBowFBVV95cUxPbzNQYXhVZXMxY2VMYWt1RTExNS16X3RkZFR0MHB0YW1xWndvcGJvYVZ4NXRwTzhZdDhENVdYMENCR2owc18yaXRuWjRVZ1hpc3FuZmRIMUQxMjVlb1dkVXZXeHZsVVZackxYcjBrTGlqS1FRZ1RreTR0QUxuQWgxaDZNaGdjaEd5czhpSUVtMXVCNDJJVWRoZEdOb25GaWdEZTBR?oc=5",
-      "ts": 1786753248.450017
-    },
-    {
-      "clave": "cooperacion_empresas_terremoto_agosto2026",
-      "resumen": "Alma Air, Ambulancias Aéreas y Terpel se unen a cooperación tras el terremoto de magnitud 7,4",
-      "url": "https://www.larepublica.co/empresas/alma-air-ambulancias-aereas-y-terpel-se-unen-a-cooperacion-tras-el-terremoto-4459611",
-      "ts": 1786753865.1267414
-    },
-    {
       "clave": "terremoto_indonesia_7_7_agosto2026",
       "resumen": "Terremoto de magnitud 7,7 sacude la costa de Indonesia el 14 de agosto de 2026",
       "url": "https://www.larepublica.co/globoeconomia/fuerte-terremoto-con-magnitud-de-7-7-sacudio-la-costa-de-indonesia-y-tuvo-replicas-seguidas-4459733",
@@ -185,6 +41,12 @@
       "resumen": "Colombia y Estados Unidos formalizan la alianza 'Escudo de las Américas' contra el narcotráfico",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakJrNFJJVXRHa0xBTXI0QWRQQjJIalV6OUVuVVZ3TjJmVU05SENQeVNlbXBLNE81Y1BCcXVaclFSRUJWU1JPaTZ6YTFoQlVnZmYwT01nSFBqWEdBQzkyRURMUWhyZ3N6eGl2M05vM0hqQ1dZekNURUl2aDU1dlIxUzhzNzRqMWVDbFlzY3FyZWx5NVR1YWhxWkJoZFRMOUtCQ3FhZFdSczlfRXdobm1jRU9teDRSNDBHT05NVmZQZS1nbFliZUROX3Z6V1A0OWxqaVQ3c0VBNktnbTJ1bzVxV0R30gHnAUFVX3lxTE1mUUtVRWRyMXpnSFUyY2JRLXROMnNoWUVZbnk1eUJBc1dXTmJrSlpuRVR5UzVaQ2ZFdGtKaFV5SHd4a0tPUmNaY1VQNU44dnlPT0VmcDM4ZnVpU20yQWlTTXJlVFBsMDdHS25PNHppZWpNZE1tdXZPQVdWUnV5SVlUelJsUnNaYjF0eWZxX2JaejExX0kyUjdtSTRmdzdWVDNVS3p0WmhXSzBlODd6VFV1NmViMUZfYTlFT3QwVDZYQ1VjYVRrRFA5bXpjcW5aUnlBTUtmNGpnNmVXaC1lYVg5c1FoSzFnNA?oc=5",
       "ts": 1786782766.57561
+    },
+    {
+      "clave": "damnificados_terremoto_agosto2026",
+      "resumen": "Asointermedias reporta más de 14.000 damnificados por el terremoto de magnitud 7,4 en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2hkcUF4LWVKUVZYOU5XV3FmVUF5YVgteWVKblZmNXdUYkU2Tjdfb3RJRU9tM3hBNWhoODNySG9yNXBmbkVva1M5UWpYMVJXclRPOU5oaDZDeVdQbkFqS2xndlNfbmpGa3J5YXJCRmxCSXVEdkVlV20yblpGdTMtTVFCbTMwNEY5bHZDRFJONDdLS0JTckdKNkZZaXJGNGtEbk5xUm0zQjVHbG1ZaVBkSVFtT2RzM1B30gHGAUFVX3lxTE9jcm5ZeWJ5bG9DTjBPNXhHUW1IYXlZck5TTWhnUUxuVzRnSlZXZHNyZTJ2dXJpR29jTjlYNjdMMFk2SHNJdlBCTF90bm1RSzZwbW9CaUo4S2ZTUWk5cVpqYmZieGc2SlFKSENxSnkyOEx2LWU1YkNuOTNsX01kcFhwRWFiakc4aC11S1ZHNDBWV25nNzhPMTZKWEdrd2xhR3RjV0JFNFFRcUhlczZ0V2JJZWExOUdWSDl6bTg0UWU3WTRDMUZCZw?oc=5",
+      "ts": 1786798773.9809763
     }
   ]
 }
