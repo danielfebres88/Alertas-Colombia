@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "alianza_escudo_americas_agosto2026",
-      "resumen": "Colombia y Estados Unidos formalizan la alianza 'Escudo de las Américas' contra el narcotráfico",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakJrNFJJVXRHa0xBTXI0QWRQQjJIalV6OUVuVVZ3TjJmVU05SENQeVNlbXBLNE81Y1BCcXVaclFSRUJWU1JPaTZ6YTFoQlVnZmYwT01nSFBqWEdBQzkyRURMUWhyZ3N6eGl2M05vM0hqQ1dZekNURUl2aDU1dlIxUzhzNzRqMWVDbFlzY3FyZWx5NVR1YWhxWkJoZFRMOUtCQ3FhZFdSczlfRXdobm1jRU9teDRSNDBHT05NVmZQZS1nbFliZUROX3Z6V1A0OWxqaVQ3c0VBNktnbTJ1bzVxV0R30gHnAUFVX3lxTE1mUUtVRWRyMXpnSFUyY2JRLXROMnNoWUVZbnk1eUJBc1dXTmJrSlpuRVR5UzVaQ2ZFdGtKaFV5SHd4a0tPUmNaY1VQNU44dnlPT0VmcDM4ZnVpU20yQWlTTXJlVFBsMDdHS25PNHppZWpNZE1tdXZPQVdWUnV5SVlUelJsUnNaYjF0eWZxX2JaejExX0kyUjdtSTRmdzdWVDNVS3p0WmhXSzBlODd6VFV1NmViMUZfYTlFT3QwVDZYQ1VjYVRrRFA5bXpjcW5aUnlBTUtmNGpnNmVXaC1lYVg5c1FoSzFnNA?oc=5",
-      "ts": 1786782766.57561
-    },
-    {
       "clave": "damnificados_terremoto_agosto2026",
       "resumen": "Asointermedias reporta más de 14.000 damnificados por el terremoto de magnitud 7,4 en Colombia",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2hkcUF4LWVKUVZYOU5XV3FmVUF5YVgteWVKblZmNXdUYkU2Tjdfb3RJRU9tM3hBNWhoODNySG9yNXBmbkVva1M5UWpYMVJXclRPOU5oaDZDeVdQbkFqS2xndlNfbmpGa3J5YXJCRmxCSXVEdkVlV20yblpGdTMtTVFCbTMwNEY5bHZDRFJONDdLS0JTckdKNkZZaXJGNGtEbk5xUm0zQjVHbG1ZaVBkSVFtT2RzM1B30gHGAUFVX3lxTE9jcm5ZeWJ5bG9DTjBPNXhHUW1IYXlZck5TTWhnUUxuVzRnSlZXZHNyZTJ2dXJpR29jTjlYNjdMMFk2SHNJdlBCTF90bm1RSzZwbW9CaUo4S2ZTUWk5cVpqYmZieGc2SlFKSENxSnkyOEx2LWU1YkNuOTNsX01kcFhwRWFiakc4aC11S1ZHNDBWV25nNzhPMTZKWEdrd2xhR3RjV0JFNFFRcUhlczZ0V2JJZWExOUdWSDl6bTg0UWU3WTRDMUZCZw?oc=5",
@@ -293,6 +287,24 @@
       "resumen": "Estados Unidos anuncia ayuda adicional de US$11 millones para Colombia tras terremoto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/la-administracion-trump-anuncia-ayuda-adicional-de-us-11-millones-tras-el-terremoto-de-colombia-4460023",
       "ts": 1786825522.9921994
+    },
+    {
+      "clave": "terremoto_colombia_agosto2026_replicas_continuas",
+      "resumen": "Se registran nuevos sismos en Santander y Chocó el 15 de agosto tras el terremoto del 14 de agosto",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-15-de-agosto-se-registraron-nuevos-sismos-en-santander-y-choco-3578652",
+      "ts": 1786826139.2862175
+    },
+    {
+      "clave": "ayuda_banco_alimentos_bogota_agosto2026",
+      "resumen": "Banco de Alimentos de Bogotá moviliza 124 toneladas adicionales de ayuda para afectados por el sismo",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/banco-de-alimentos-de-bogota-moviliza-124-toneladas-de-ayuda-adicionales-para-afectados-por-el-sismo-4460034",
+      "ts": 1786826139.846118
+    },
+    {
+      "clave": "conectividad_zonas_terremoto_agosto2026",
+      "resumen": "Servicio de celulares y conectividad en zonas afectadas por el terremoto supera el 85%, anuncia Gobierno",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVhHZmk5aTJVOEtSekQzeWlzZjNfOVBPVm9RWE9Eck9leTZnRWJ2cFVvaTM1RW5wenVTSWVOVnR4dGxsYWJaSl9fX1BsSTNXNFVscElwNnBsNVhrZVJBNEVPeDhsUm5CVkZEYlh6VjRlaXlNeHg2WFhWQVBUc19aTE9GQmNFVEgwRTBQVW9NVjRRLVdvcUpWcS1ZZklFRk1aUk1jc3dZQkdSYmExUVZCR3hJQUNFSmhkczJGM01iRXlvdVpGbGpDUzln0gHKAUFVX3lxTFBBOHpyRkhPazRGQjFLc0lMMlE3dGFyYVF2cjlQdjFzT0lzZmJSTG5lR0o1NXlrSWhWaDRHMTZjZlpZRUlkVHJfNV9PVHlKYzQzNlhxTC04Q0tmSWI3RGNfUW9YNW81WFQtR0Q1cENMalNWamZwVHR6WkJlb254UHdoeDdqeDM5TEN6SUNiMmtjU3hwZklDMmdINEk1eGlCMFdNWUdQOWlPWFRHRXp0S3RKQnpUQm5kSlJ4ZWgxcUJ5cERTUE5iMzZhX0E?oc=5",
+      "ts": 1786826140.406143
     }
   ]
 }
