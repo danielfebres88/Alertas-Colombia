@@ -119,6 +119,30 @@
       "resumen": "Papa León XIV nombra a monseñor Angelo Accattino como nuevo Nuncio Apostólico en Colombia",
       "url": "https://www.larepublica.co/globoeconomia/el-papa-leon-xiv-nombra-a-angelo-accattino-como-nuevo-nuncio-apostolico-en-colombia-4459880",
       "ts": 1786804315.5998487
+    },
+    {
+      "clave": "terremoto_colombia_agosto2026_balance_actualizado",
+      "resumen": "UNGRD actualiza balance del terremoto del 14 de agosto: 294 fallecidos, 320 desaparecidos y 3.935 heridos",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/balance-oficial-de-la-ungrd-este-15-de-agosto-tras-terremoto-de-7-4-en-colombia-294-fallecidos-3-935-heridos-320-desaparecidos-y-353-rescatados-3578602",
+      "ts": 1786810648.8241265
+    },
+    {
+      "clave": "incendios_cundinamarca_agosto2026",
+      "resumen": "Gobernador de Cundinamarca alerta por incendios forestales en La Vega y Caparrapí tras terremoto",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernador-de-cundinamarca-alerta-por-incendios-forestales-la-vega-y-caparrapi-concentran-las-operaciones-de-emergencia-3578606",
+      "ts": 1786810649.323508
+    },
+    {
+      "clave": "plan_reconstruccion_valle_cauca_agosto2026",
+      "resumen": "Gobierno anuncia plan de reconstrucción para el Valle del Cauca tras el terremoto",
+      "url": "https://www.minuto30.com/reconstruccion-valle-del-cauca-terremoto/1716172/",
+      "ts": 1786810649.8174844
+    },
+    {
+      "clave": "ayuda_paraguay_agosto2026",
+      "resumen": "Paraguay coordina despacho de insumos médicos y alimentos para Colombia",
+      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/presidente-de-paraguay-coordina-despacho-de-insumos-medicos-y-alimentos-para-colombia-4459932",
+      "ts": 1786810650.3175962
     }
   ]
 }
