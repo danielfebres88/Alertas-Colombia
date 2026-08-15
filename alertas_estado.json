@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "concierto_solidario_karol_g_maluma_agosto2026",
-      "resumen": "Karol G y Maluma liderarán concierto solidario en Colombia tras terremoto de magnitud 7,4 del 14 de agosto",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
-      "ts": 1786772961.4626806
-    },
-    {
       "clave": "caf_690acdb2174c",
       "resumen": "CAF y Carlos Vives impulsan una solución para transformar una comunidad de la Ciénaga Grande: ¿en qué consiste? - semana.com",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNTdrX3RQRF84Q0JlZHJlQzNtVFhTYnk0blpSWGo1N1YxZ2RELVBrOEZISThHc254M0I4MUU0eGtpMTN5Rm80SEpoZFVHSWk5bGpfYjQyNEgzaE9nd2RyY0M2Qk1NVGRjVXAwaWdxVldGci1WUEFQODUxVmo5QnlraUl0ekpfa3FCZFB0LWFJWmJaSDdBNHY4bFlfTkxoS2w4dm5hRGk4WGhabjNXdGlhSjJ6b25yNlQ0LTc3N0lzUHVVVzVwUnNtcXA2UzVuaUpfcV9LdnY2bm5XYjFBTXlTTGo2QktKeEVjb0xLVTlMWWV1NjN4NmRTYmRRS1NHdXBBTVHSAYcCQVVfeXFMUEJFYVB4ZkJVcUluNTVpUENqTldxRkVGQ3U0cEhrUFJ3Y3A4Zm9pdWpCYUR1OTlsRF9LejZoTDZlLVRSTHppYXFHbTBkeFNuQ3pTeVRDenVMUWUxSlFwQmljODd3cFRSWWU4TXdBdENUTXJ1cE5HcXhmTkFIRmE5ODRNUVhzYk5YMkEwSG1RQWx6Nmttb2YyR0s3MHRPTzFJdWEtTk9rdG1WNzBmczF0b01EQ3YyXzU4U21IbFJhZkNTTU9OUWxpQVBnUldXdmNHajh3ekZsNF9FdnNSMzE4QjFRRVVPNTVsUDlwUG5GMHpsS0o5ZUZDcE5xcXNzUldqWkhBNl9MYTQ?oc=5",
@@ -215,6 +209,18 @@
       "resumen": "Presidente Abelardo de la Espriella sostiene conversación con Benjamin Netanyahu sobre apoyo humanitario de Israel a Colombia tras terremoto",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
       "ts": 1786815639.3673508
+    },
+    {
+      "clave": "extradiciones_espriella_agosto2026",
+      "resumen": "Presidente Abelardo de la Espriella autoriza las primeras cinco extradiciones de su gobierno",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSlNFdDBDemFobGY0V1BnTEEtSXpfZ2hkR0x4aVNaYWJ4VWV6LVNUeko4UTVlanVTcEc3U09jQURSYVVjSUxPTGdxLXdHRmRVa2EzMFB3WlFieDhGckd1c1p4SWxjaXo3NDRxTTZ1SExrNWlWS0dfbVJWelBVQjJnMHlka3BRSFI1TmEyWWduSjZZMGNTNzNDd2FhRHpoOVpFbUhlZWUxWDQySWtTQ21ZRmNnZXl3QkJfd2IzdWNHazFsS2dIeGdaRGg5S0FWdGkzLUpaZ1JHUU9ldXVud05IS25Kd2FQd3VlM3l1SjV30gGIAkFVX3lxTE5mTkFSRjF5MHBiMV9sUHozM0h0WHVNelFUN0N2NmdkNkxWN3hhQ1J2QkZhUkpsTnVJbmFrNEx3bTJZNkVPekNIdll3c2E0TGxLWWk2a00xQVp2V3VwRV9ZekNzcTNPa3N2QVRaNVJHd2NHRVpSZm5SYldoUklSa3VEeVVxcXFGdk0wZXFqbWtfN2Y5Tk9ZM0h6bDlVSWZ6U2xXd1FFUWdnLXNuNFJpOW1BUThsNXlIRDlUcF9BYXg4aEh0VlhRSVhyTlRQX1BtS3N2dVhGa3ZBRFFvbzczcHJFVWY0ZDdLVFpXeGhzd1U3clMyY09HWUhiaGczVWRlXzl6Ql9IT3VrVg?oc=5",
+      "ts": 1786816257.0176578
+    },
+    {
+      "clave": "asesinato_exalcalde_rionegro_agosto2026",
+      "resumen": "Asesinan a Wilson González Reyes, exalcalde de Rionegro, Santander, baleado en su finca",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ01LcEVwV0xoN2V3UzBGT1RsaWtqeGR6ZkxvaFhlZ09jWUdlUEM5WWFVU2QxOVllZXBVTEtONnAzdi1oSmpyTldqUWQ2Vk1UbjkxTlBwWjNXZktnV2huNHdCcE4welR6cGloSjUxejZ0NGZ5Wjc0X1Q5WTVRZDR3Zk43dUZjVzJQcFV3Nmw2bnYyUk43OEZaQzZfVDh3RS1VUlpFcTdMVk9Lb0Q4R1o5dGg0dUp1UEFhdnFIRkxieDhGblRvLVB3d0p5MWI1SDRW0gHWAUFVX3lxTFBVbzRVVzlGcG5ETjZmSnE3RmI4cWs5enFodFI1RmxvS3VYVS1wWkF4cjBFZEVmTVdCcV9iSm5BMU9tM0hKYU5UZG8yTUc0UUh1M01ab2ZOQjc0MTZxaDFKbE1iVjlVUHUyYmhFVG1FSjQyT3lOSE9JVVduSDA0amw5bTB1VjQ0VUdxaEE0cE5SYldQQVJUTUp0Mm44ZEZlZElaWU41Q0ZFWHh3NTFOWVpsSTg0SExQTVJOWFVjaHFIcEdiT3FWTDgxVGhfTV82NXBReEZfRWc?oc=5",
+      "ts": 1786816257.5128508
     }
   ]
 }
