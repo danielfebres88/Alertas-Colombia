@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "alerta_incendios_minambiente_agosto2026",
-      "resumen": "MinAmbiente emite alerta por incendios forestales tras terremoto e insta a evitar quemas agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjZPT1Jma3BVbktuU2xSQUpsSHVNR19VYVZCSWRGVUJRRm40U19tMGl5SzEyeEVBTWFxZDkzRjR4bGFxNDc3QTZza3dDZnB4UEJHS3VzS3hVOExwSE90ck9jY2RKQjZpRzlURkxOS1RjWE84RE0zSTFDbmhFdWdRSDJzOW1qMXhSaE9hXzZ4SDVkVEFWSGsxeDRLbjRMM2Y0eDhpZWZDUlNWSFRtbGdNV1lYMlFaS3ZjR21TMmR3emRnRllWSVZVeFdPUG1XRmRPeWfSAdIBQVVfeXFMTlNDTnRlcnJHUWNYU0p6SU50SUpadFF4clRZQ2JjdTVKTmI5eExhcUQ4SlZNbUhPcVBNLXBicDBsdFZCa0tIa0pCOTB5SkdNVDlDNDRTNE5YODUxZ0RxX1ZyazlLQ0pQMUI5YXNoUm5Ld3ktUGlPREVtTDYxMDVhM2Y3aWJqaGRSdEdYU0p5Wk1JOWNZU1lpaVdyYXZBWWZRUW4wR3R4dW45eTdRQmZwaldaSnhydkpnTmpJMnBfS0VZZS1xNjlTejhydjdnY3dLNjlR?oc=5",
-      "ts": 1786832317.4355848
-    },
-    {
       "clave": "espriella_trump_aranceles_agosto2026",
       "resumen": "Presidente De la Espriella sostiene conversaciones con Trump sobre suspensión de aranceles tras terremoto",
       "url": "https://www.larepublica.co/economia/de-la-espriella-y-trump-conversaron-del-terremoto-y-eliminacion-de-aranceles-4460057",
