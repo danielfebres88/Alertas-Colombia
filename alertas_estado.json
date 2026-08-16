@@ -1,30 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ayuda_arroz_roa_florhuila_agosto2026",
-      "resumen": "Roa Florhuila entregará 3 millones de porciones de arroz a los damnificados del terremoto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/roa-florhuila-y-fundacion-amigos-como-arroz-entregaran-3-millones-de-porciones-a-comunidades-afectadas-4459887",
-      "ts": 1786804314.0863147
-    },
-    {
-      "clave": "ayuda_lacteo_quibdo_agosto2026",
-      "resumen": "Sector lácteo envía 30.000 litros de leche a Quibdó tras terremoto del 14 de agosto",
-      "url": "https://www.larepublica.co/especiales/catastrofe-nacional/sector-lacteo-responde-a-la-emergencia-y-envia-30-000-litros-de-leche-a-quibdo-4459893",
-      "ts": 1786804314.545496
-    },
-    {
-      "clave": "ayuda_cesar_buenaventura_agosto2026",
-      "resumen": "Desde el Cesar despachan 30 toneladas de ayudas a Buenaventura afectada por el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFlNdnIzVFI2aDBNb2NPZGlGdHh6c283eEdvcnRRdWlhMmFsY21OZVZ2akFNMi1qS0VmYzRyRmxSQ0tRV3d5Q3ktN1NwSklIRU5aeG1FcUFIZ21lZlFzVkpobDkzR2NwVV9Dc1l6SWlzU1F5Rnk4bUhESWJ5LTJkQ2gxMjU5d0Rfa2RDd2FUelBpWWd1NEJYWDMzd094Z1BaUHNvVHlGc1hPTUs30gG6AUFVX3lxTE11Slh4U3hPb3YwU2gtYlVkRGQ2QXk5dnhsZlJLNjBycnZVeTRfamRyVjZTMDJZMUF3Q0RVemhRUTBjTUlrX2xfamFROTRvQWxIOENMbkpUdzI4aEE3MDVGUnNyMjN1UFBzRXBUSzVxV0ttalJDV25MVlhBRU8zUlV1UkFaUlVBSWQ3Rm5ReFhFR0oyY2x2dTdFeXdVd0d5ZDVqZnNEY1R6R3F1SFlKTFpfbUdVeW9pVlZqdw?oc=5",
-      "ts": 1786804315.1219935
-    },
-    {
-      "clave": "nuncio_accattino_agosto2026",
-      "resumen": "Papa León XIV nombra a monseñor Angelo Accattino como nuevo Nuncio Apostólico en Colombia",
-      "url": "https://www.larepublica.co/globoeconomia/el-papa-leon-xiv-nombra-a-angelo-accattino-como-nuevo-nuncio-apostolico-en-colombia-4459880",
-      "ts": 1786804315.5998487
-    },
-    {
       "clave": "terremoto_colombia_agosto2026_balance_actualizado",
       "resumen": "UNGRD actualiza balance del terremoto del 14 de agosto: 294 fallecidos, 320 desaparecidos y 3.935 heridos",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/balance-oficial-de-la-ungrd-este-15-de-agosto-tras-terremoto-de-7-4-en-colombia-294-fallecidos-3-935-heridos-320-desaparecidos-y-353-rescatados-3578602",
