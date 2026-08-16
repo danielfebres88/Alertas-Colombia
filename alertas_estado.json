@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "terremoto_colombia_agosto2026_balance",
-      "resumen": "Terremoto en Colombia deja 288 muertos y 202 desaparecidos según balance del 15 de agosto de 2026",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQjhaUjh4dldwX2xDY2hIUHJ0Mng5djdvN0pfSTYwS3dadUxLX3pIUkhjbXIyWEVMLTRocGdTR2d4bmFEbVlQckRvMURnVGZONVJwV2doRVRsTF9EeTFCX0lONDNXcGxrLVR2V19xUHc1X1FfVS1LZ2k0X3g4QWItb2Q1SzFmcjRIM0Y5MWFDYU43dFE1UUhvNkprTmx4WXJ3Vk9aUVFiZDlWQUVCdm5MT3c2TUhNQzNTMWlIOWNEZm5JUDRtUTEyZ25fQjc0VEV4ZXk3VXBBc2pGLW56WlhfcGFBSdIB8AFBVV95cUxOTE9EU1pCQkkyWHFzOWF4dmFtaVl3UVc5Y21jUDRzSGdwYkdYWFdYRGIxb2QtZUNKeHJsUnhrT29wWDdTY0JIWThkYzE4RVozZEg1cHJxNHZ3a010ckxvNkUtN1BkMjNMQ195ZEFHZG9OQTVLVUo2aDdGc0tjQkZJX2Rrbjhhc3VGN091TldMbmcyYmhlZ09nS3pleEdScVREMS1acVN5cDVVVG9DenJRTzE4YmMyWTE3SVlpZjBPMkxtZ1pwbXdSXzlORG5BWTZxQXdvUFlQVFBvMm1QblhROEFCZDZwcWd2MHJhREdpZ3I?oc=5",
-      "ts": 1786799387.5916371
-    },
-    {
-      "clave": "terremoto_colombia_agosto2026_replica",
-      "resumen": "Servicios Geológicos Colombianos responde si continuarán los temblores tras el terremoto del 14 de agosto",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3hfa0czUWltLWdFYjA2SEVuS0FZV2h4YXdrNmg5dlJBa2k1cTZ6SmIxbktuUHVNdWJaOU5JVlRWSmRFM0NNeXJIcUxNWFBoNDBKTU9EVnVyQ2tJVEM0MUMwaEdxUVE5Tk9tS1VVNWFoeWl3dXM1TTUydGxrNzFfYUoxUnB2ZDFBdXcyRm41SUZwYWVFV0lDRmRVVHNOamk4NTNnMkdB?oc=5",
-      "ts": 1786799388.029171
-    },
-    {
       "clave": "indemnizacion_terremoto_agosto2026",
       "resumen": "Víctimas del terremoto de magnitud 7,4 en Colombia pueden acceder a indemnización",
       "url": "https://www.kienyke.com/colombia/indemnizacion-por-terremoto-en-colombia-cuanto-pagan",
@@ -431,6 +419,12 @@
       "resumen": "Hostigan con drones a tropas del Ejército en el Catatumbo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTVfb3NTVWtoTGlVUlZLMFRxSWhzczRodnhFUjVpSDRockJXZ0gtdFkyYU9ZZ3lsanZKaWJtci0xUHlDSmxLS1puWU9rc1RvNDc1TTZRemhvaGcxXzlPNjktUnI0YndwMmw1dWVQOGo0VWlfMngwdzh5cWc0RF81RnZlM1ctWGZlUGlwN2dUM2FfZWRnaDVJ0gGrAUFVX3lxTE1CYnEwV1hLQV9aTnpNTS1XWDBIOW56UVRKRkw3aVBocjZwZEFwb0hsOHh5bzJEa2J0Ump5SEhjVllhbHRGeDAxZWo4SVQ5YnI3ZTR1UmExelRwZjBaVEJwdVEyWkthSG5kSGlLZE9OYnpycTlNczFnbXdjY28tX0U2ZTZnV2RQcF9Vemt6XzJBMWdfWXV6U3k1WDhCRDV5UXkwaGhlYkc1U2k5MA?oc=5",
       "ts": 1786842295.281219
+    },
+    {
+      "clave": "ungrd_grupos_rescate_sin_certificacion_agosto2026",
+      "resumen": "UNGRD advierte sobre grupos de rescate sin certificación operando en zonas del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaURWdWljRFRMYzZoSFc4a0w2RXFsaVhGZ0FfWWI4bV8xSjl0b25WcW5kRlVQZms3QXNNNFgtdXNWLWdnX0J3LW9ucTZpNGRFOWMydkRyd0wwRzdYZ1FzOFVhNUVYcmJEcjNGU1dxVzdrOGdady05aFh0R0JzNmlmNWJhdDNfdkFxSXlCOXNuXzdWT29rZ01kYk5HbEZpajBwV1VxVDRR0gGrAUFVX3lxTE4xMWRoUldRNERRVi1IanR4ZDdvdXRKdXJZN3pKV1M4a2syTmhjSFJIWGdpeWctUzMwUzBsX1NKT1l1X29rRjQ5UzdzYVBFTmJpTkoxWVc3YzVFeGpXRXI1OFlWVVI3LUZuRzBPbWxqa3pHTnhja2s0bWI1RWt1aHQwdHlxSkF1cFBlR0J0YTdqdEUyTXgzQlBWMDNDbWNWczlKTEcxSUJMQ201TQ?oc=5",
+      "ts": 1786842912.0780373
     }
   ]
 }
