@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "terremoto_colombia_agosto2026_antioquia_dagran",
-      "resumen": "Dagran evalúa daños en 26 municipios de Antioquia priorizados tras el terremoto de magnitud 7,4",
-      "url": "https://www.eltiempo.com/colombia/medellin/sismo-en-antioquia-el-dagran-evalua-danos-en-26-municipios-priorizados-tras-el-terremoto-de-magnitud-7-4-que-azoto-al-pacifico-colombiano-3578666",
-      "ts": 1786835458.032199
-    },
-    {
-      "clave": "incendios_nacionales_agosto2026",
-      "resumen": "Colombia registra más de 30 incendios activos simultáneamente tras el terremoto del 14 de agosto",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFRBUGtzeDM3QW9BcGRyVVJtUkQzckJnV1dVamctZUl1QVF2SU51dHFhUURzWmkxUnZ4TElGY214dUtpaTA4WlIzSTI4QURSbm1mVjRoM25ZWllJVFpWTmFZXy0xUkJIOXBIZ3FPQVhyRFhyMjQ5ZDNSVF9VQjJqcTlUY3VtOEZyUjc2XzdxUl9CMGZ6aXBmSWxGaDJwd0pqcU9BZHA3TTU?oc=5",
-      "ts": 1786835458.593666
-    },
-    {
       "clave": "deporte_acompanamiento_terremoto_agosto2026",
       "resumen": "Ministerio del Deporte anuncia acompañamiento para atletas afectados por terremoto del 14 de agosto",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOendKMG1JYl9ma1V4eGVNYUZnMTNOaHNWQXNjYkNEdkdvR1BfeWcxQzlPVEhhZ3M1SFByckprbXFyNTlQR3RBTXd2VlJMUUQxaGlzNDNQS1d3WTRtZm5MSnBpV2FtMjFXQ3ZjbExTTFBWeW5TNi1mN2JDWGtyN0pJRjk0QzAtNGN6cnk1U2htcmEzVXhzeE9rY2JvN1lhVlU3VjBHdnVFTjlwcWRjVDdqZHMwMnNSS29nNDRLaWdrNFlOVlBQWl9PLVN0WVJQZ9IB0wFBVV95cUxPUzFwcVRMTlpuR1BjS21MTkRQbGFwWnFxSVpfMlVzS2d0UTdMTGNxTWdnLV9ualJHMGtMaEQ2NFBPZUEwemFQOUhnUDVoeHVkSU5iQ3Y1YncyZFZoS1BmdUtELVNHRm5VUmZFQzV2UW9CLUI0bGFicmhwRFhWNHlvRENRcUF1QnJqbU9iQWpJbC0zVWNMMlFScE1PZHhXOGZQTXk1ck50SlRvWHBmSHFHWmVjd0xRa3lZbjFyUk9GZnU3THVyb3Z5cERHNVhUbV8tUXJj?oc=5",
