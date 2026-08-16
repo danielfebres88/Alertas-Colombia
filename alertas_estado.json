@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "subsidios_combustibles_agosto2026",
-      "resumen": "Gobierno retira estímulo a la gasolina premium y lo recorta a la Magna; sube subsidio al diésel",
-      "url": "https://www.larepublica.co/globoeconomia/gobierno-retira-estimulo-a-la-gasolina-premium-y-lo-recorta-a-la-magna-sube-subsidio-al-diesel-4460090",
-      "ts": 1786837920.2200756
-    },
-    {
       "clave": "canal_panama_calado_el_nino_agosto2026",
       "resumen": "Canal de Panamá reduce calado ante amenaza de El Niño, afectando comercio colombiano",
       "url": "https://www.larepublica.co/globoeconomia/canal-de-panama-vuelve-a-reducir-el-calado-ante-la-amenaza-de-el-nino-4460092",
@@ -83,6 +77,12 @@
       "resumen": "OIM alerta por riesgo de trata de personas tras terremoto de magnitud 7,4 en Colombia y entrega recomendaciones para prevenir este delito",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/oim-alerta-por-riesgo-de-trata-de-personas-tras-terremoto-de-7-4-en-colombia-y-entrega-recomendaciones-para-prevenir-este-delito-3578722",
       "ts": 1786878559.244538
+    },
+    {
+      "clave": "incendios_boyaca_agosto2026",
+      "resumen": "14 incendios afectan cerca de 100 hectáreas en Boyacá",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1VYWWxwbFZCc1NNVHNER3gxZjFIcXpOZV9YNVc2RG82NHFGOXM3OEJqZVI2WmE2TmFzd1ctSHpBT3VUeDRSbGx6Vkk0a1V3YlhOQ0xCZXJiTUhIX2l5Y3BZRnNaRW40RXJFY0tlaDNVNWUxQ0hCSmFuTnF1SUFaQUU1OFV3MXRRZ0hYZjJPMmZCZUZ0NHl5MFJ1SG7SAbABQVVfeXFMTjQxWV8xamFIbll4VmQyRmFpU0hoVmpBVzMzMm5URHhoUDR1M0JWMWlya0tXMGNSQ3Rsd0lNbE1KdkVZRDNOV250Um1TbXRCd096NnF6emRXdDc0Qm9kSE1KcERSekIwNVdvSjZhWGVZOWk5RVBXcV95SVhzak5DakFYQy1ZNXNyWklTSVR4THBvWlRHS2Fsdk9HUUpCNWs0TUNsMHZZMVg2Y1p6ZXNaZ3M?oc=5",
+      "ts": 1786881631.3565915
     }
   ]
 }
