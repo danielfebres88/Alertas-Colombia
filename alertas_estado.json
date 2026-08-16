@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "damnificados_terremoto_agosto2026",
-      "resumen": "Asointermedias reporta más de 14.000 damnificados por el terremoto de magnitud 7,4 en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2hkcUF4LWVKUVZYOU5XV3FmVUF5YVgteWVKblZmNXdUYkU2Tjdfb3RJRU9tM3hBNWhoODNySG9yNXBmbkVva1M5UWpYMVJXclRPOU5oaDZDeVdQbkFqS2xndlNfbmpGa3J5YXJCRmxCSXVEdkVlV20yblpGdTMtTVFCbTMwNEY5bHZDRFJONDdLS0JTckdKNkZZaXJGNGtEbk5xUm0zQjVHbG1ZaVBkSVFtT2RzM1B30gHGAUFVX3lxTE9jcm5ZeWJ5bG9DTjBPNXhHUW1IYXlZck5TTWhnUUxuVzRnSlZXZHNyZTJ2dXJpR29jTjlYNjdMMFk2SHNJdlBCTF90bm1RSzZwbW9CaUo4S2ZTUWk5cVpqYmZieGc2SlFKSENxSnkyOEx2LWU1YkNuOTNsX01kcFhwRWFiakc4aC11S1ZHNDBWV25nNzhPMTZKWEdrd2xhR3RjV0JFNFFRcUhlczZ0V2JJZWExOUdWSDl6bTg0UWU3WTRDMUZCZw?oc=5",
-      "ts": 1786798773.9809763
-    },
-    {
       "clave": "terremoto_colombia_agosto2026_balance",
       "resumen": "Terremoto en Colombia deja 288 muertos y 202 desaparecidos según balance del 15 de agosto de 2026",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQjhaUjh4dldwX2xDY2hIUHJ0Mng5djdvN0pfSTYwS3dadUxLX3pIUkhjbXIyWEVMLTRocGdTR2d4bmFEbVlQckRvMURnVGZONVJwV2doRVRsTF9EeTFCX0lONDNXcGxrLVR2V19xUHc1X1FfVS1LZ2k0X3g4QWItb2Q1SzFmcjRIM0Y5MWFDYU43dFE1UUhvNkprTmx4WXJ3Vk9aUVFiZDlWQUVCdm5MT3c2TUhNQzNTMWlIOWNEZm5JUDRtUTEyZ25fQjc0VEV4ZXk3VXBBc2pGLW56WlhfcGFBSdIB8AFBVV95cUxOTE9EU1pCQkkyWHFzOWF4dmFtaVl3UVc5Y21jUDRzSGdwYkdYWFdYRGIxb2QtZUNKeHJsUnhrT29wWDdTY0JIWThkYzE4RVozZEg1cHJxNHZ3a010ckxvNkUtN1BkMjNMQ195ZEFHZG9OQTVLVUo2aDdGc0tjQkZJX2Rrbjhhc3VGN091TldMbmcyYmhlZ09nS3pleEdScVREMS1acVN5cDVVVG9DenJRTzE4YmMyWTE3SVlpZjBPMkxtZ1pwbXdSXzlORG5BWTZxQXdvUFlQVFBvMm1QblhROEFCZDZwcWd2MHJhREdpZ3I?oc=5",
@@ -431,6 +425,12 @@
       "resumen": "EPM anuncia cortes de agua en Medellín y Bello este 16 de agosto de 2026 por mantenimiento",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHlYR3hxMjIyTmhTUWJtUlpudXZmU1FQbG5tSzNNLXBobkRZZ3ExY0Z5RlREYmRuc0lTQnJISE1KeU9MeTYyRXVicmFndk5LVHhjWlEtTFVXZkhFLTVTVllTVVJvaGN4M3ZiMWp6RndNUk02MmlyZlVUU2tUYzFvb3F5SG5PY0tkRHJUc3k5NXdZZmgwWXJHZFBmS09DMVJNNUlhX2s1ZmNyWXNlZXFpNGFTa3ctVkxOR2JvazY3d0xMLVZaQ2twaDJzSDZKbTByOXBDZGJaOA?oc=5",
       "ts": 1786841679.8806648
+    },
+    {
+      "clave": "drones_ejercito_catatumbo_agosto2026",
+      "resumen": "Hostigan con drones a tropas del Ejército en el Catatumbo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTVfb3NTVWtoTGlVUlZLMFRxSWhzczRodnhFUjVpSDRockJXZ0gtdFkyYU9ZZ3lsanZKaWJtci0xUHlDSmxLS1puWU9rc1RvNDc1TTZRemhvaGcxXzlPNjktUnI0YndwMmw1dWVQOGo0VWlfMngwdzh5cWc0RF81RnZlM1ctWGZlUGlwN2dUM2FfZWRnaDVJ0gGrAUFVX3lxTE1CYnEwV1hLQV9aTnpNTS1XWDBIOW56UVRKRkw3aVBocjZwZEFwb0hsOHh5bzJEa2J0Ump5SEhjVllhbHRGeDAxZWo4SVQ5YnI3ZTR1UmExelRwZjBaVEJwdVEyWkthSG5kSGlLZE9OYnpycTlNczFnbXdjY28tX0U2ZTZnV2RQcF9Vemt6XzJBMWdfWXV6U3k1WDhCRDV5UXkwaGhlYkc1U2k5MA?oc=5",
+      "ts": 1786842295.281219
     }
   ]
 }
