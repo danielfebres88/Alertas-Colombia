@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "drones_ejercito_catatumbo_agosto2026",
-      "resumen": "Hostigan con drones a tropas del Ejército en el Catatumbo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTVfb3NTVWtoTGlVUlZLMFRxSWhzczRodnhFUjVpSDRockJXZ0gtdFkyYU9ZZ3lsanZKaWJtci0xUHlDSmxLS1puWU9rc1RvNDc1TTZRemhvaGcxXzlPNjktUnI0YndwMmw1dWVQOGo0VWlfMngwdzh5cWc0RF81RnZlM1ctWGZlUGlwN2dUM2FfZWRnaDVJ0gGrAUFVX3lxTE1CYnEwV1hLQV9aTnpNTS1XWDBIOW56UVRKRkw3aVBocjZwZEFwb0hsOHh5bzJEa2J0Ump5SEhjVllhbHRGeDAxZWo4SVQ5YnI3ZTR1UmExelRwZjBaVEJwdVEyWkthSG5kSGlLZE9OYnpycTlNczFnbXdjY28tX0U2ZTZnV2RQcF9Vemt6XzJBMWdfWXV6U3k1WDhCRDV5UXkwaGhlYkc1U2k5MA?oc=5",
-      "ts": 1786842295.281219
-    },
-    {
       "clave": "ungrd_grupos_rescate_sin_certificacion_agosto2026",
       "resumen": "UNGRD advierte sobre grupos de rescate sin certificación operando en zonas del terremoto",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaURWdWljRFRMYzZoSFc4a0w2RXFsaVhGZ0FfWWI4bV8xSjl0b25WcW5kRlVQZms3QXNNNFgtdXNWLWdnX0J3LW9ucTZpNGRFOWMydkRyd0wwRzdYZ1FzOFVhNUVYcmJEcjNGU1dxVzdrOGdady05aFh0R0JzNmlmNWJhdDNfdkFxSXlCOXNuXzdWT29rZ01kYk5HbEZpajBwV1VxVDRR0gGrAUFVX3lxTE4xMWRoUldRNERRVi1IanR4ZDdvdXRKdXJZN3pKV1M4a2syTmhjSFJIWGdpeWctUzMwUzBsX1NKT1l1X29rRjQ5UzdzYVBFTmJpTkoxWVc3YzVFeGpXRXI1OFlWVVI3LUZuRzBPbWxqa3pHTnhja2s0bWI1RWt1aHQwdHlxSkF1cFBlR0J0YTdqdEUyTXgzQlBWMDNDbWNWczlKTEcxSUJMQ201TQ?oc=5",
@@ -89,6 +83,12 @@
       "resumen": "Gobierno prepara ayudas para comerciantes y microempresarios de Pereira tras terremoto del 14 de agosto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/tras-terremoto-gobierno-prepara-ayudas-para-comerciantes-y-microempresarios-de-pereira-4460141",
       "ts": 1786885338.489981
+    },
+    {
+      "clave": "cali_damnificados_terremoto_agosto2026",
+      "resumen": "Cali reporta 80 mil damnificados y 15% del territorio afectado por terremoto del 14 de agosto",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2c1TG1FYmJlbjFKNUlpNDhSZThfd0ZfbXkzUEZNb3E5NlpLU0pPaFlOc2ZadEVPYnR5cUJrWUxmXzYyX092UFByeWJNdEh6X1NnUTFlYXJHNkRoVDg2ZTdseEEzZVU1ZFhuR2pDaGgyYVFielB6Z19BeTUtNzJ3YjFnXzlwdm9aZnUzcE4yY2JYcDlITHQ4dG1wXzNMcG9PdXhHU2c5SkM3Q2ZndzF30gHDAUFVX3lxTE4xNFZJYWk0RFZsWG92Qjd6NnVGR1ZDZUFTcE9ucGFyWFlyUVJvM09hc2FhMnhtcmNkdUd5WEtrcFFUcU44OHhLOHpxSVB1X3JhajBjQ2UzcGNZSXFwSGFBYTR5dkpxd3V5V2tXSlhOd28xbEpmbklISG1ZQWhveUhMTmFkYnA1NUwtT2Mxdnh0eS1fLWJreEVLaS1QNHRsTzlhZXg0d2hPcHUxSG9WaGhyQ215SFhwYnltZ3l4NUdmX19YOA?oc=5",
+      "ts": 1786885953.3149996
     }
   ]
 }
