@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "ayuda_empresa_sanitaria_choco_agosto2026",
-      "resumen": "Empresa santandereana entrega equipos e insumos médicos a hospital del Chocó",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkczSXoxcmZLNlVmNS1PREhFaGIyd19vZzhQNEhVYlZ3S0VxMW9STloyMHo3YU45ZTQ5X3N6d0dlcmpYdm1SUW5Md1MwRzQwUXA1blU2NjJyVTU4R2ozc0YxY2JIelB5cnU4eFJwaGNYOFByV1hDMTZLR0h5UnYtUUR0eUtxczdjQmQ5TzM3TXY4U0U5ckQ5SzZqYWgxVF9DbzViREJ4MjBEcnNPVEtQdmRiYjcwQU5wamZkZV9HOE1RWmJrSGfSAdMBQVVfeXFMT0dqZ3JuOVRUZVk0d056Vm5BWjZRTEJvcml4c0hFNTZPb2NOQnJuR1VwZ19tSEd2enZ3ZXVsakpTMlZzVDlfS2FydnU1SjE0R3gtR3FRZERUeGpSVzNHZUVmVGdRQnJpOFRMaTFzZUEtMVhVWVh4SjZEMmhBa0lkdElaTHpHeURkV3ZfZzE1Rld2Sy10ZUtVRW5IMk9PMjA4Wm5meDVkWGtRQmVBN3NQclZ1c3JQcm4xeW9qM05CNHl0aUlZa2JuVzVjSVZZd2gycF8waw?oc=5",
-      "ts": 1786801857.2705336
-    },
-    {
-      "clave": "gobernadora_magdalena_donacion_agosto2026",
-      "resumen": "Gobernadora del Magdalena donará su salario a víctimas del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVl9Tck05TFlsUWRLcmVQTy1fLVVPVERMeHdBS1Bqd0s4am1jcmJRaWZQQUtLOFB4Wk4xemdEakJmWVZvaGI4b1dkNjJQSGJiaW9ESy05ZmU0ZmRFSDZtcHJhNmYzX0Y2UHFOUXV4Z195eHlndGtxeklOZ2tGLUQwTThJbzlUQWFIZHdDMWU4VVZDWWZOR1MwWUhzTElsdTh5Tmt2YURkU3pLWFB3SC1XR245MVI1ZVFHRVhGaUE2VVNObjRkZEZxUE4za0pjMzUx?oc=5",
-      "ts": 1786801857.7057817
-    },
-    {
       "clave": "captura_14_cabecillas_sucre_agosto2026",
       "resumen": "Capturan en Sucre a 14 presuntos cabecillas de grupos criminales",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFBmYUNkT1dma0I5dFNGLUFCZlQ3LVdwdHNCMVRqNlhWM2RnLWZMREhNNzJza3JBLUNobXp2YVRrTV9aQjRMUnFSSU5HN09wNlg4Qk83eWJIWXpuODNFR0tibWIzODVxRmxrelZzVGlNY1N6QXRqTzM4NXhNUTBIdE5FZ3ZLLXJuTkF3TlEtcVF4TXRTQlNETTlqMGdCNU5JOUV5dDh0eUYwa0hQSHo0QU9B0gGyAUFVX3lxTE5vdlYzY2lfLVl5NjBJMjJSeXpuVEt1QXhEWFE1SDlLV2g0bUZoNjlCU3RrWEdCbnRlYng1Q1NZQ3NoNGdYVlpNWkgyMTZ6S3VBZFl0X2VFRC1OMndxZlpEQzJQWjRiU0MtUmhxSXhON203bnVBZ0F5Mk1BOWd0bVluZVY0dmdVMnZsb3RsZGlrWGlILWh6ZDNFTDlfSF9BdjRicjY2X1IyWVU2eU1ZOEQ0NXc?oc=5",
@@ -425,6 +413,18 @@
       "resumen": "Vicepresidente José Manuel Restrepo anuncia implementación de subsidio de arriendo para afectados por el terremoto",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM2NOamJQa2M2SFEyNXcwLWRKOHNaMGliUFV6dHJNZzM3VlVXeWRHMEU5R0pzYm5lLXFlcnVDMUx4THhNN1FXTmJlMk9Ka2pSWlNueXRBVzBSOS11dzR3cjNKODhqMXBLWEc2ZjBpekUzdk5CY3Vya3lwOTZFd3RNcGNlYkh4TlFQaVE2YzRDZHI4NFdxMi14MTE5eUlHRHdib2JwSzltbkxUeEFZVS02MWtiSkNvdmltVHlzbWJ3bjhsWm81RjJNUFVYWjNnYno2Z09HX2ZMYU1mQVpXdWhqN2VoZFdxRWxjaEp3WGhEV2FnUXgwUUt5bmVPQmFoRUEtX0ZreFQ3Z9IBjAJBVV95cUxOUmVsVW80Y3gxbGhkQUVZU1J3RC1zck14Z1Vmc0tQWnNxN1NVT2xFTE0zampJQ09LRUhBd1FTYVg2NmV4S203MUlFSzRxMXcxUGlVODlYSnAyMDRnNERreGpZN2J5Q3VTYWpINTBzZEZEVUstaVRCX2stbXkxVkFwUjFSbW1TUG5IMWVIaExYWE11Q05BbU96M1lmeUNIeEJRYUpvMlBjemtnM3piQmszSGN6SGd1NTlPWFVLRW8zYUtaUkc1MmZ6c0N4WkVEOFV3YUxXQVNweExrRmZjSkVWRWxEZjhnNS1JLU9nYjlaN2szUExLWmkwV3c1U1VWQ3RacEhyeS1jNW5Zcnlo?oc=5",
       "ts": 1786844140.8993742
+    },
+    {
+      "clave": "ataque_drones_eln_abrego_agosto2026",
+      "resumen": "Un militar muerto y seis heridos en ataque con drones del ELN en Ábrego, Norte de Santander",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU3FoZUlydnVxdFo0NWFEeERuZlFWOXdQNzlOSXY2SVEzdHJzYmNKSzRNQkJUemFuUGdPR0U1UG81NGt0VU9LR2tXT251Q1lHUzNQWmdjRWhxTXdvZ09TVEQ2S3pIVjdmM2FVYjZ4aTNSdUl0QnNqNFNHOC1KZjBmTWt1SzBSc2lRdEd0a1JzeHRtb3J2WF8yWl8zblhQeFR3dmJmR2RqX245OG81TnJmRzdTdHJqVDZaSE4tTE5nc1JhZUpFeGlUWDgxdmg1U2NT0gHeAUFVX3lxTE9vblBveWVVRmxGNzFzWUlMdXNWdXY1MG4zN3FTblFVZDVPYm1oU0dvWGhNc2xuRjNISWFRMUFGT0k1UUtXeGppWDlmSnF1WkFJMTJtSVphYk53RTQtcTFuN2RZelNVWTVYVEVDVTdMLWxLaFBBaXpzcjhtVDJZU29qMHNvWDFFNGVzeF9zZUhmNjVVYWxzNEtHVzA2YjB2Z3JqUERoM0ZINWd0eTg4MzUwNGFWbWk3Z1JQVl9TQ2xxYnJCV1ZOaVRmdC11dXRMQll6N254ZkJ5MjZsaW85QQ?oc=5",
+      "ts": 1786845370.493039
+    },
+    {
+      "clave": "terremoto_colombia_agosto2026_balance_ungrd_actualizado",
+      "resumen": "UNGRD actualiza cifras del terremoto del 14 de agosto con nuevos balances de fallecidos y desaparecidos",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHFwbWpJM0RzbDlERDNDb3c0YUNwZnVaM0NvQWpjdUJxblYyLXJiNXdKa0N1cUYzSGs1UzNBcV9saVBHSzN0MmdZUmZRMXA4aFZlcFhJOEhwM3hfZ0doM19EcVoyNThKcXFSYTBvdE1RalFhd0czXzhxQVVfNVJhYWkzbGMzbGdzN1RDWS1GSmRqb25QMG9SYVlVNUZlMVBwUHVzWTZFT3k3elpvOEhHVTBwWVFQenI0eG9ubWNVd3V1N1phZVRmSDRCZkhtd9IB2wFBVV95cUxOcUpTeVpfcWU2bG0wcGJyZUZ4WmdYcXdXM2hxNDlTZ0dlWEY1bmtSVEFfNXgxNGMwbDBrZEI0OHZyMEhIWnFzdDFnb2hCLUZxZ2gtUm02ZThtZlltWmJyb3hxM1F6WW9TcmQtd29CbUZMS1I4VTdJVkhxWnE0NlQzZUdVR0J2WW5vNU9ucTF6VDlOMHgwNzRyLWJ2WjF6TVNXUnRSNE0xeldyU3JaRHZCR2Nkd2Q1X3ZhMDRPMm5qZWdmdHY1WnpmbFZNQUtYMkRrR2tWNnVuUDNoZTg?oc=5",
+      "ts": 1786845370.9805763
     }
   ]
 }
