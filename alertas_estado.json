@@ -1,12 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "cambio_dnp_agosto2026",
-      "resumen": "Cambio en la dirección del DNP: Abelardo de la Espriella asume como nuevo director",
-      "url": "https://www.larepublica.co/economia/del-tecnico-al-tuitero-el-rapido-cambiazo-de-de-la-espriella-en-la-direccion-del-dnp-4459916",
-      "ts": 1786811265.9160898
-    },
-    {
       "clave": "suspension_cierres_viales_cundinamarca_agosto2026",
       "resumen": "Cundinamarca suspende por 20 días permisos para cierres viales tras el reciente terremoto",
       "url": "https://www.larepublica.co/economia/cundinamarca-suspende-por-20-dias-permisos-para-cierres-viales-tras-el-reciente-terremoto-4459939",
