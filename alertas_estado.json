@@ -1,18 +1,6 @@
 {
   "eventos": [
     {
-      "clave": "fin_paz_total_amazonia_agosto2026",
-      "resumen": "La Silla Vacía reporta fin de 'paz total' y otras noticias amazónicas",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnV3ODU4TEFiWG1Ib0tmRl9yNlp1Zk1VTmZrS2pRYVZuN1lOUzltOGl0T05IbjF6eWFqYzF1MlVEZzJfUDhkc2hOcXRxOUlQN0FlaFdKWnRpSVpibjQ2eC1EUWJMTXp1bjFtNVNtSmd0U2IySzRfRjhWcWNUMDUxZks1cTRhaXBKeWc?oc=5",
-      "ts": 1786803699.244905
-    },
-    {
-      "clave": "lluvias_terremoto_agosto2026",
-      "resumen": "Alertas de tormentas fuertes en zonas afectadas por el terremoto del 14 de agosto",
-      "url": "https://www.minuto30.com/lluvias-zonas-afectadas-terremoto/1716162/",
-      "ts": 1786803699.682824
-    },
-    {
       "clave": "ayuda_arroz_roa_florhuila_agosto2026",
       "resumen": "Roa Florhuila entregará 3 millones de porciones de arroz a los damnificados del terremoto",
       "url": "https://www.larepublica.co/especiales/catastrofe-nacional/roa-florhuila-y-fundacion-amigos-como-arroz-entregaran-3-millones-de-porciones-a-comunidades-afectadas-4459887",
